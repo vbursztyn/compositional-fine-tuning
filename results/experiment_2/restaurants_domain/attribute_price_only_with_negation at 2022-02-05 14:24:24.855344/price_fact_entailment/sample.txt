@@ -1,0 +1,200 @@
+{'statement': 'Between Falafel Hut Village and The Duke of Devon, the more expensive restaurant is The Duke of Devon.', 'answer': 'The Duke of Devon', 'candidate': 'Falafel Hut Village'}
+{'statement': 'Between Sushi World and Branca, the more expensive restaurant is Branca.', 'answer': 'Branca', 'candidate': 'Sushi World'}
+{'statement': 'Between Thai 4 You Restaurant and Evoo Ristorante, the more expensive restaurant is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Thai 4 You Restaurant'}
+{'statement': "Between Druxy's Famous Deli and Mövenpick Café, the more expensive restaurant is Mövenpick Café.", 'answer': 'Mövenpick Café', 'candidate': "Druxy's Famous Deli"}
+{'statement': "Between Sheriff Broaster Chicken and Nutella Cafe by Pusateri's, the more expensive restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': 'Between Falafel Hut Village and Tian An Cuisine, the more expensive restaurant is Tian An Cuisine.', 'answer': 'Tian An Cuisine', 'candidate': 'Falafel Hut Village'}
+{'statement': "Between Dangerous Dan's Diner and Lahore Grill & Fast Food, the more expensive restaurant is Dangerous Dan's Diner.", 'answer': "Dangerous Dan's Diner", 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': 'Between Thai 4 You Restaurant and The Empire, the more expensive restaurant is Thai 4 You Restaurant.', 'answer': 'Thai 4 You Restaurant', 'candidate': 'The Empire'}
+{'statement': "Between Piper's Pub And Grill and The Coffee Pocket, the more expensive restaurant is Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'The Coffee Pocket'}
+{'statement': 'Between Ciao Europa wine bar and Buk Chang Dong Soon Tofu, the more expensive restaurant is Ciao Europa wine bar.', 'answer': 'Ciao Europa wine bar', 'candidate': 'Buk Chang Dong Soon Tofu'}
+{'statement': 'Between LCBO and Eastern legend, the more expensive restaurant is LCBO.', 'answer': 'LCBO', 'candidate': 'Eastern legend'}
+{'statement': "Between Top Sushi and Dinah's Cupboard, the more expensive restaurant is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Top Sushi'}
+{'statement': 'Between Grappa Ristorante and Madras Pantry, the more expensive restaurant is Grappa Ristorante.', 'answer': 'Grappa Ristorante', 'candidate': 'Madras Pantry'}
+{'statement': 'Between Eggspectation and Edible Arrangements, the more expensive restaurant is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Eggspectation'}
+{'statement': "Between Aroma Espresso Bar and Smoke's Weinerie, the more expensive restaurant is Aroma Espresso Bar.", 'answer': 'Aroma Espresso Bar', 'candidate': "Smoke's Weinerie"}
+{'statement': 'Between Evoo Ristorante and Freshii, the more expensive restaurant is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Freshii'}
+{'statement': 'Between Lebanese Bakery and Thompson Rooftop, the more expensive restaurant is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'Lebanese Bakery'}
+{'statement': 'Between Lebanese Bakery and Branca, the more expensive restaurant is Branca.', 'answer': 'Branca', 'candidate': 'Lebanese Bakery'}
+{'statement': 'Between Adega Restaurante and Supermodel Pizza, the more expensive restaurant is Adega Restaurante.', 'answer': 'Adega Restaurante', 'candidate': 'Supermodel Pizza'}
+{'statement': "Between Juice & Java Cafe and Helena's Magic Kitchen, the more expensive restaurant is Juice & Java Cafe.", 'answer': 'Juice & Java Cafe', 'candidate': "Helena's Magic Kitchen"}
+{'statement': 'Between Mysteriously Yours Dinner Theatre and Marcello’s pizzeria, the more expensive restaurant is Mysteriously Yours Dinner Theatre.', 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': 'Marcello’s pizzeria'}
+{'statement': "Between Anatolia Restaurant and Milo's Pita, the more expensive restaurant is Anatolia Restaurant.", 'answer': 'Anatolia Restaurant', 'candidate': "Milo's Pita"}
+{'statement': 'Between Oxygen Restaurant & Lounge and Tik Talk Cafe, the more expensive restaurant is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Tik Talk Cafe'}
+{'statement': "Between Nutella Cafe by Pusateri's and Shawarma Twist, the more expensive restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Shawarma Twist'}
+{'statement': 'Between Galata Cafe and FreshCo, the more expensive restaurant is Galata Cafe.', 'answer': 'Galata Cafe', 'candidate': 'FreshCo'}
+{'statement': "Between Aris Place and Beryl's Pepper Pot, the more expensive restaurant is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'Aris Place'}
+{'statement': 'Between New Bilan Restaurant and Kairali - Taste of Kerala, the more expensive restaurant is Kairali - Taste of Kerala.', 'answer': 'Kairali - Taste of Kerala', 'candidate': 'New Bilan Restaurant'}
+{'statement': 'Between Pisco 1641 and Delicious Paradise Kitchen, the more expensive restaurant is Pisco 1641.', 'answer': 'Pisco 1641', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': "Between Delicious Paradise Kitchen and Assembly Chef's Hall, the more expensive restaurant is Assembly Chef's Hall.", 'answer': "Assembly Chef's Hall", 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': 'Between Breakfast Room and Falafel House, the more expensive restaurant is Breakfast Room.', 'answer': 'Breakfast Room', 'candidate': 'Falafel House'}
+{'statement': 'Between Sweet Jesus and Sushi Shop, the more expensive restaurant is Sushi Shop.', 'answer': 'Sushi Shop', 'candidate': 'Sweet Jesus'}
+{'statement': "Between Sushi Shop and Helena's Magic Kitchen, the more expensive restaurant is Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': "Helena's Magic Kitchen"}
+{'statement': "Between Roncy's Bean and Queen Slice, the more expensive restaurant is Roncy's Bean.", 'answer': "Roncy's Bean", 'candidate': 'Queen Slice'}
+{'statement': 'Between Mirage Grill & Lounge and LCBO, the more expensive restaurant is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'LCBO'}
+{'statement': 'Between Pasta Pantry and Madras Pantry, the more expensive restaurant is Pasta Pantry.', 'answer': 'Pasta Pantry', 'candidate': 'Madras Pantry'}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and Fit For Life, the more expensive restaurant is Sichuan Landscape Chinese Restaurant.', 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'Fit For Life'}
+{'statement': 'Between Kibo Sushi House and Mysteriously Yours Dinner Theatre, the more expensive restaurant is Mysteriously Yours Dinner Theatre.', 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between Bagel Nash and LCBO, the more expensive restaurant is LCBO.', 'answer': 'LCBO', 'candidate': 'Bagel Nash'}
+{'statement': "Between Thompson Rooftop and Joe Badali's Ristorante Italiano & Bar, the more expensive restaurant is Thompson Rooftop.", 'answer': 'Thompson Rooftop', 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': 'Between Daily Press Juicery and Fitness Avenue, the more expensive restaurant is Daily Press Juicery.', 'answer': 'Daily Press Juicery', 'candidate': 'Fitness Avenue'}
+{'statement': 'Between Sweet Jesus and Le Papillon Park, the more expensive restaurant is Le Papillon Park.', 'answer': 'Le Papillon Park', 'candidate': 'Sweet Jesus'}
+{'statement': 'Between Just Soups Take Out & Catering and The Duke of Devon, the more expensive restaurant is The Duke of Devon.', 'answer': 'The Duke of Devon', 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': 'Between Top Sushi and Eggspectation, the more expensive restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Top Sushi'}
+{'statement': 'Between Edible Arrangements and Capitol Trattoria Pizzeria, the more expensive restaurant is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': 'Between Supermodel Pizza and Capitol Trattoria Pizzeria, the more expensive restaurant is Capitol Trattoria Pizzeria.', 'answer': 'Capitol Trattoria Pizzeria', 'candidate': 'Supermodel Pizza'}
+{'statement': 'Between Adega Restaurante and Pasta Pantry, the more expensive restaurant is Adega Restaurante.', 'answer': 'Adega Restaurante', 'candidate': 'Pasta Pantry'}
+{'statement': 'Between Ici Bistro and Pizza Pizza, the more expensive restaurant is Ici Bistro.', 'answer': 'Ici Bistro', 'candidate': 'Pizza Pizza'}
+{'statement': 'Between Modo Mio Italian Bistro and Sweet Jesus, the more expensive restaurant is Modo Mio Italian Bistro.', 'answer': 'Modo Mio Italian Bistro', 'candidate': 'Sweet Jesus'}
+{'statement': 'Between Marcello’s pizzeria and Sushi World, the more expensive restaurant is Marcello’s pizzeria.', 'answer': 'Marcello’s pizzeria', 'candidate': 'Sushi World'}
+{'statement': 'Between Juice & Java Cafe and New Bilan Restaurant, the more expensive restaurant is Juice & Java Cafe.', 'answer': 'Juice & Java Cafe', 'candidate': 'New Bilan Restaurant'}
+{'statement': "Between Nutella Cafe by Pusateri's and Pizzeria Via Mercanti, the more expensive restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': 'Between Bake Island and Le Papillon Park, the more expensive restaurant is Le Papillon Park.', 'answer': 'Le Papillon Park', 'candidate': 'Bake Island'}
+{'statement': 'Between Mt Everest Restaurant and Shawarma Twist, the more expensive restaurant is Mt Everest Restaurant.', 'answer': 'Mt Everest Restaurant', 'candidate': 'Shawarma Twist'}
+{'statement': 'Between Mi Mi Restaurant and Cantine Bar & Grill, the more expensive restaurant is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Mi Mi Restaurant'}
+{'statement': 'Between Bake Island and JJ Bean, the more expensive restaurant is JJ Bean.', 'answer': 'JJ Bean', 'candidate': 'Bake Island'}
+{'statement': 'Between Sheriff Broaster Chicken and Oxygen Restaurant & Lounge, the more expensive restaurant is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': 'Between Grappa Ristorante and Kairali - Taste of Kerala, the more expensive restaurant is Grappa Ristorante.', 'answer': 'Grappa Ristorante', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': 'Between The Duke of Devon and Falafel House, the more expensive restaurant is The Duke of Devon.', 'answer': 'The Duke of Devon', 'candidate': 'Falafel House'}
+{'statement': "Between Harry's Char Broil & Dining Lounge and Bonne Journee, the more expensive restaurant is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Bonne Journee'}
+{'statement': "Between Mamma's Pizza and Cantine Bar & Grill, the more expensive restaurant is Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': "Mamma's Pizza"}
+{'statement': 'Between Buk Chang Dong Soon Tofu and Juice & Java Cafe, the more expensive restaurant is Juice & Java Cafe.', 'answer': 'Juice & Java Cafe', 'candidate': 'Buk Chang Dong Soon Tofu'}
+{'statement': "Between Watson's and Hapa Toronto, the more expensive restaurant is Hapa Toronto.", 'answer': 'Hapa Toronto', 'candidate': "Watson's"}
+{'statement': 'Between Supermodel Pizza and Freshii, the more expensive restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'Supermodel Pizza'}
+{'statement': "Between McDonald's and Green Grotto, the more expensive restaurant is Green Grotto.", 'answer': 'Green Grotto', 'candidate': "McDonald's"}
+{'statement': "Between Druxy's Famous Deli and Sichuan Landscape Chinese Restaurant, the more expensive restaurant is Sichuan Landscape Chinese Restaurant.", 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': "Druxy's Famous Deli"}
+{'statement': "Between Nutella Cafe by Pusateri's and Modo Mio Italian Bistro, the more expensive restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Modo Mio Italian Bistro'}
+{'statement': 'Between Chick Fiesta and Taste of Greek Cuisine, the more expensive restaurant is Taste of Greek Cuisine.', 'answer': 'Taste of Greek Cuisine', 'candidate': 'Chick Fiesta'}
+{'statement': "Between Druxy's Famous Deli and St. Louis Bar & Grill, the more expensive restaurant is St. Louis Bar & Grill.", 'answer': 'St. Louis Bar & Grill', 'candidate': "Druxy's Famous Deli"}
+{'statement': "Between Helena's Magic Kitchen and Paradise Farms Prime Beef Bistro, the more expensive restaurant is Paradise Farms Prime Beef Bistro.", 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': "Helena's Magic Kitchen"}
+{'statement': 'Between Pho 88 and Freshii, the more expensive restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'Pho 88'}
+{'statement': 'Between Thai 4 You Restaurant and Sushi World, the more expensive restaurant is Thai 4 You Restaurant.', 'answer': 'Thai 4 You Restaurant', 'candidate': 'Sushi World'}
+{'statement': 'Between Top Sushi and Paradise Farms Prime Beef Bistro, the more expensive restaurant is Paradise Farms Prime Beef Bistro.', 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': 'Top Sushi'}
+{'statement': 'Between Itamae Ayce Sushi and Falafel Hut Village, the more expensive restaurant is Itamae Ayce Sushi.', 'answer': 'Itamae Ayce Sushi', 'candidate': 'Falafel Hut Village'}
+{'statement': 'Between Taste of Greek Cuisine and Cafe Jules, the more expensive restaurant is Taste of Greek Cuisine.', 'answer': 'Taste of Greek Cuisine', 'candidate': 'Cafe Jules'}
+{'statement': 'Between Cake Opera and Breakfast Room, the more expensive restaurant is Cake Opera.', 'answer': 'Cake Opera', 'candidate': 'Breakfast Room'}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and Oxygen Restaurant & Lounge, the more expensive restaurant is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': 'Between Cake Opera and Kim PO Vietnamese, the more expensive restaurant is Cake Opera.', 'answer': 'Cake Opera', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Edible Arrangements and Daily Press Juicery, the more expensive restaurant is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Daily Press Juicery'}
+{'statement': "Between Adega Restaurante and Dangerous Dan's Diner, the more expensive restaurant is Adega Restaurante.", 'answer': 'Adega Restaurante', 'candidate': "Dangerous Dan's Diner"}
+{'statement': "Between Milo's Pita and To-ne Sushi, the more expensive restaurant is To-ne Sushi.", 'answer': 'To-ne Sushi', 'candidate': "Milo's Pita"}
+{'statement': 'Between Green Grotto and St. Clair Shawarma and Falafel, the more expensive restaurant is Green Grotto.', 'answer': 'Green Grotto', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': 'Between FreshCo and New Bilan Restaurant, the more expensive restaurant is FreshCo.', 'answer': 'FreshCo', 'candidate': 'New Bilan Restaurant'}
+{'statement': "Between Milo's Pita and Harvey's, the more expensive restaurant is Harvey's.", 'answer': "Harvey's", 'candidate': "Milo's Pita"}
+{'statement': 'Between Tim Hortons and Eggspectation, the more expensive restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Tim Hortons'}
+{'statement': 'Between Hapa Toronto and Eastern legend, the more expensive restaurant is Hapa Toronto.', 'answer': 'Hapa Toronto', 'candidate': 'Eastern legend'}
+{'statement': "Between Roncy's Bean and Big Al's Diner, the more expensive restaurant is Roncy's Bean.", 'answer': "Roncy's Bean", 'candidate': "Big Al's Diner"}
+{'statement': 'Between Galata Cafe and St. Clair Shawarma and Falafel, the more expensive restaurant is Galata Cafe.', 'answer': 'Galata Cafe', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': 'Between Milestones Restaurants and Bagel Nash, the more expensive restaurant is Milestones Restaurants.', 'answer': 'Milestones Restaurants', 'candidate': 'Bagel Nash'}
+{'statement': 'Between Basha Middle Eastern Grill and Green Room, the more expensive restaurant is Basha Middle Eastern Grill.', 'answer': 'Basha Middle Eastern Grill', 'candidate': 'Green Room'}
+{'statement': 'Between Sweet Jesus and Capitol Trattoria Pizzeria, the more expensive restaurant is Capitol Trattoria Pizzeria.', 'answer': 'Capitol Trattoria Pizzeria', 'candidate': 'Sweet Jesus'}
+{'statement': "Between Harry's Char Broil & Dining Lounge and McDonald's, the more expensive restaurant is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': "McDonald's"}
+{'statement': 'Between Hina Sushi and Oxygen Restaurant & Lounge, the more expensive restaurant is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Hina Sushi'}
+{'statement': "Between Evoo Ristorante and Assembly Chef's Hall, the more expensive restaurant is Evoo Ristorante.", 'answer': 'Evoo Ristorante', 'candidate': "Assembly Chef's Hall"}
+{'statement': 'Between Oxygen Restaurant & Lounge and Pizzeria Via Mercanti, the more expensive restaurant is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': 'Between 9 Restaurant and Falafel House, the more expensive restaurant is 9 Restaurant.', 'answer': '9 Restaurant', 'candidate': 'Falafel House'}
+{'statement': "Between McDonald's and JJ Bean, the more expensive restaurant is JJ Bean.", 'answer': 'JJ Bean', 'candidate': "McDonald's"}
+{'statement': "Between Domino's Pizza and Sizzlers, the more expensive restaurant is Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': 'Sizzlers'}
+{'statement': "Between Harvey's and Madras Pantry, the more expensive restaurant is Harvey's.", 'answer': "Harvey's", 'candidate': 'Madras Pantry'}
+{'statement': 'Between Grappa Ristorante and Falafel Hut Village, the more expensive restaurant is Grappa Ristorante.', 'answer': 'Grappa Ristorante', 'candidate': 'Falafel Hut Village'}
+{'statement': 'Between Sizzlers and Hapa Toronto, the more expensive restaurant is Hapa Toronto.', 'answer': 'Hapa Toronto', 'candidate': 'Sizzlers'}
+{'statement': "Between Tierra Azteca and Druxy's Famous Deli, the more expensive restaurant is Tierra Azteca.", 'answer': 'Tierra Azteca', 'candidate': "Druxy's Famous Deli"}
+{'statement': 'Between Maurya East Indian Roti and Eastern legend, the more expensive restaurant is Maurya East Indian Roti.', 'answer': 'Maurya East Indian Roti', 'candidate': 'Eastern legend'}
+{'statement': 'Between Bagel Nash and Grappa Ristorante, the more expensive restaurant is Grappa Ristorante.', 'answer': 'Grappa Ristorante', 'candidate': 'Bagel Nash'}
+{'statement': 'Between Cafe Jules and EJ Sushi, the more expensive restaurant is EJ Sushi.', 'answer': 'EJ Sushi', 'candidate': 'Cafe Jules'}
+{'statement': "Between Supermodel Pizza and Carole's Cheesecake Cafe, the more expensive restaurant is Carole's Cheesecake Cafe.", 'answer': "Carole's Cheesecake Cafe", 'candidate': 'Supermodel Pizza'}
+{'statement': 'Between Aris Place and Popeyes Louisiana Kitchen, the more expensive restaurant is Popeyes Louisiana Kitchen.', 'answer': 'Popeyes Louisiana Kitchen', 'candidate': 'Aris Place'}
+{'statement': 'Between Fit For Life and Banjara Indian Cuisine, the more expensive restaurant is Banjara Indian Cuisine.', 'answer': 'Banjara Indian Cuisine', 'candidate': 'Fit For Life'}
+{'statement': "Between Druxy's Famous Deli and Joe Badali's Ristorante Italiano & Bar, the more expensive restaurant is Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': "Druxy's Famous Deli"}
+{'statement': "Between Mi Mi Restaurant and Joe Badali's Ristorante Italiano & Bar, the more expensive restaurant is Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': 'Mi Mi Restaurant'}
+{'statement': 'Between Mt Everest Restaurant and Queen Slice, the more expensive restaurant is Mt Everest Restaurant.', 'answer': 'Mt Everest Restaurant', 'candidate': 'Queen Slice'}
+{'statement': "Between Bagel Nash and Nutella Cafe by Pusateri's, the more expensive restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Bagel Nash'}
+{'statement': "Between Druxy's Famous Deli and Hawthorne Food and Drink, the more expensive restaurant is Hawthorne Food and Drink.", 'answer': 'Hawthorne Food and Drink', 'candidate': "Druxy's Famous Deli"}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and LCBO, the more expensive restaurant is Sichuan Landscape Chinese Restaurant.', 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'LCBO'}
+{'statement': "Between Hina Sushi and McDonald's, the more expensive restaurant is Hina Sushi.", 'answer': 'Hina Sushi', 'candidate': "McDonald's"}
+{'statement': 'Between Le Papillon Park and Branca, the more expensive restaurant is Branca.', 'answer': 'Branca', 'candidate': 'Le Papillon Park'}
+{'statement': 'Between Mi Mi Restaurant and Pasta Pantry, the more expensive restaurant is Pasta Pantry.', 'answer': 'Pasta Pantry', 'candidate': 'Mi Mi Restaurant'}
+{'statement': "Between Fitness Avenue and Beryl's Pepper Pot, the more expensive restaurant is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'Fitness Avenue'}
+{'statement': "Between Cafe Jules and Dangerous Dan's Diner, the more expensive restaurant is Dangerous Dan's Diner.", 'answer': "Dangerous Dan's Diner", 'candidate': 'Cafe Jules'}
+{'statement': 'Between Kim PO Vietnamese and Thompson Rooftop, the more expensive restaurant is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'Kim PO Vietnamese'}
+{'statement': "Between Green Grotto and Nutella Cafe by Pusateri's, the more expensive restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Green Grotto'}
+{'statement': 'Between Amaya Express and Solero Mediterranean Bakery, the more expensive restaurant is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'Solero Mediterranean Bakery'}
+{'statement': "Between Queen Pita and Piper's Pub And Grill, the more expensive restaurant is Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Queen Pita'}
+{'statement': 'Between Eggspectation and Delicious Paradise Kitchen, the more expensive restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': "Between Falafel Hut Village and Beryl's Pepper Pot, the more expensive restaurant is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'Falafel Hut Village'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Kibo Sushi House, the more expensive restaurant is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Kibo Sushi House'}
+{'statement': "Between Harry's Char Broil & Dining Lounge and Lahore Grill & Fast Food, the more expensive restaurant is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': 'Between Cake Opera and Branca, the more expensive restaurant is Cake Opera.', 'answer': 'Cake Opera', 'candidate': 'Branca'}
+{'statement': 'Between Tik Talk Cafe and Madras Pantry, the more expensive restaurant is Tik Talk Cafe.', 'answer': 'Tik Talk Cafe', 'candidate': 'Madras Pantry'}
+{'statement': "Between Helena's Magic Kitchen and Pizzeria Via Mercanti, the more expensive restaurant is Pizzeria Via Mercanti.", 'answer': 'Pizzeria Via Mercanti', 'candidate': "Helena's Magic Kitchen"}
+{'statement': "Between FreshCo and Helena's Magic Kitchen, the more expensive restaurant is FreshCo.", 'answer': 'FreshCo', 'candidate': "Helena's Magic Kitchen"}
+{'statement': 'Between The Duke of Devon and St. Clair Shawarma and Falafel, the more expensive restaurant is The Duke of Devon.', 'answer': 'The Duke of Devon', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': 'Between Aris Place and Thai 4 You Restaurant, the more expensive restaurant is Thai 4 You Restaurant.', 'answer': 'Thai 4 You Restaurant', 'candidate': 'Aris Place'}
+{'statement': 'Between Banjara Indian Cuisine and Queen Slice, the more expensive restaurant is Banjara Indian Cuisine.', 'answer': 'Banjara Indian Cuisine', 'candidate': 'Queen Slice'}
+{'statement': 'Between Freshii and Pho 88, the more expensive restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'Pho 88'}
+{'statement': "Between Roncy's Bean and Cake Opera, the more expensive restaurant is Cake Opera.", 'answer': 'Cake Opera', 'candidate': "Roncy's Bean"}
+{'statement': 'Between Le Papillon Park and Top Sushi, the more expensive restaurant is Le Papillon Park.', 'answer': 'Le Papillon Park', 'candidate': 'Top Sushi'}
+{'statement': "Between Falafel Hut Village and Harvey's, the more expensive restaurant is Harvey's.", 'answer': "Harvey's", 'candidate': 'Falafel Hut Village'}
+{'statement': "Between Hapa Toronto and Mamma's Pizza, the more expensive restaurant is Hapa Toronto.", 'answer': 'Hapa Toronto', 'candidate': "Mamma's Pizza"}
+{'statement': 'Between Hina Sushi and Villa Madina, the more expensive restaurant is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Villa Madina'}
+{'statement': "Between Grappa Ristorante and Watson's, the more expensive restaurant is Grappa Ristorante.", 'answer': 'Grappa Ristorante', 'candidate': "Watson's"}
+{'statement': 'Between The Empire and Freshii, the more expensive restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'The Empire'}
+{'statement': "Between Goldstone Noodle Restaurant and Harry's Char Broil & Dining Lounge, the more expensive restaurant is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': "Between Taste of Greek Cuisine and Dinah's Cupboard, the more expensive restaurant is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Taste of Greek Cuisine'}
+{'statement': "Between Dinah's Cupboard and 9 Restaurant, the more expensive restaurant is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': '9 Restaurant'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Maurya East Indian Roti, the more expensive restaurant is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Maurya East Indian Roti'}
+{'statement': 'Between Maurya East Indian Roti and St. Clair Shawarma and Falafel, the more expensive restaurant is Maurya East Indian Roti.', 'answer': 'Maurya East Indian Roti', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': 'Between Edible Arrangements and Ici Bistro, the more expensive restaurant is Ici Bistro.', 'answer': 'Ici Bistro', 'candidate': 'Edible Arrangements'}
+{'statement': 'Between Juice & Java Cafe and Chick Fiesta, the more expensive restaurant is Juice & Java Cafe.', 'answer': 'Juice & Java Cafe', 'candidate': 'Chick Fiesta'}
+{'statement': 'Between Shawarma Twist and Hawthorne Food and Drink, the more expensive restaurant is Hawthorne Food and Drink.', 'answer': 'Hawthorne Food and Drink', 'candidate': 'Shawarma Twist'}
+{'statement': "Between Dangerous Dan's Diner and Aris Place, the more expensive restaurant is Dangerous Dan's Diner.", 'answer': "Dangerous Dan's Diner", 'candidate': 'Aris Place'}
+{'statement': "Between Phil's Original BBQ and Sichuan Landscape Chinese Restaurant, the more expensive restaurant is Sichuan Landscape Chinese Restaurant.", 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': "Phil's Original BBQ"}
+{'statement': 'Between To-ne Sushi and Falafel Hut Village, the more expensive restaurant is To-ne Sushi.', 'answer': 'To-ne Sushi', 'candidate': 'Falafel Hut Village'}
+{'statement': 'Between Magic Oven and St. Clair Shawarma and Falafel, the more expensive restaurant is Magic Oven.', 'answer': 'Magic Oven', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': 'Between Chipotle Mexican Grill and Falafel Hut Village, the more expensive restaurant is Chipotle Mexican Grill.', 'answer': 'Chipotle Mexican Grill', 'candidate': 'Falafel Hut Village'}
+{'statement': 'Between Sizzlers and Thai 4 You Restaurant, the more expensive restaurant is Thai 4 You Restaurant.', 'answer': 'Thai 4 You Restaurant', 'candidate': 'Sizzlers'}
+{'statement': "Between Dinah's Cupboard and Hina Sushi, the more expensive restaurant is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Hina Sushi'}
+{'statement': "Between Assembly Chef's Hall and Big Al's Diner, the more expensive restaurant is Assembly Chef's Hall.", 'answer': "Assembly Chef's Hall", 'candidate': "Big Al's Diner"}
+{'statement': 'Between Queen Slice and Chipotle Mexican Grill, the more expensive restaurant is Chipotle Mexican Grill.', 'answer': 'Chipotle Mexican Grill', 'candidate': 'Queen Slice'}
+{'statement': 'Between Tortería San Cosme and St. Clair Shawarma and Falafel, the more expensive restaurant is Tortería San Cosme.', 'answer': 'Tortería San Cosme', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': 'Between Scaddabush Italian Kitchen & Bar and Chick Fiesta, the more expensive restaurant is Scaddabush Italian Kitchen & Bar.', 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Chick Fiesta'}
+{'statement': "Between Phil's Original BBQ and Oxygen Restaurant & Lounge, the more expensive restaurant is Oxygen Restaurant & Lounge.", 'answer': 'Oxygen Restaurant & Lounge', 'candidate': "Phil's Original BBQ"}
+{'statement': 'Between Eggspectation and Bagel Nash, the more expensive restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Bagel Nash'}
+{'statement': 'Between Milestones Restaurants and Green Room, the more expensive restaurant is Milestones Restaurants.', 'answer': 'Milestones Restaurants', 'candidate': 'Green Room'}
+{'statement': "Between Chipotle Mexican Grill and Milo's Pita, the more expensive restaurant is Chipotle Mexican Grill.", 'answer': 'Chipotle Mexican Grill', 'candidate': "Milo's Pita"}
+{'statement': "Between Pho 88 and Warung Indonesia D'Eglinton, the more expensive restaurant is Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Pho 88'}
+{'statement': 'Between New Bilan Restaurant and Milestones Restaurants, the more expensive restaurant is Milestones Restaurants.', 'answer': 'Milestones Restaurants', 'candidate': 'New Bilan Restaurant'}
+{'statement': 'Between Cake Opera and The Empire, the more expensive restaurant is Cake Opera.', 'answer': 'Cake Opera', 'candidate': 'The Empire'}
+{'statement': 'Between Aroma Espresso Bar and Verona Restaurant, the more expensive restaurant is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Aroma Espresso Bar'}
+{'statement': "Between Oxygen Restaurant & Lounge and Nutella Cafe by Pusateri's, the more expensive restaurant is Oxygen Restaurant & Lounge.", 'answer': 'Oxygen Restaurant & Lounge', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Falafel House and Aroma Espresso Bar, the more expensive restaurant is Aroma Espresso Bar.', 'answer': 'Aroma Espresso Bar', 'candidate': 'Falafel House'}
+{'statement': 'Between Green Room and Pisco 1641, the more expensive restaurant is Pisco 1641.', 'answer': 'Pisco 1641', 'candidate': 'Green Room'}
+{'statement': "Between Assembly Chef's Hall and Branca, the more expensive restaurant is Branca.", 'answer': 'Branca', 'candidate': "Assembly Chef's Hall"}
+{'statement': "Between Harvey's and KFC, the more expensive restaurant is Harvey's.", 'answer': "Harvey's", 'candidate': 'KFC'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Anatolia Restaurant, the more expensive restaurant is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Anatolia Restaurant'}
+{'statement': 'Between Maurya East Indian Roti and Solero Mediterranean Bakery, the more expensive restaurant is Maurya East Indian Roti.', 'answer': 'Maurya East Indian Roti', 'candidate': 'Solero Mediterranean Bakery'}
+{'statement': 'Between Tian An Cuisine and Verona Restaurant, the more expensive restaurant is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Tian An Cuisine'}
+{'statement': 'Between Cake Opera and Bake Island, the more expensive restaurant is Cake Opera.', 'answer': 'Cake Opera', 'candidate': 'Bake Island'}
+{'statement': 'Between Hina Sushi and Adega Restaurante, the more expensive restaurant is Adega Restaurante.', 'answer': 'Adega Restaurante', 'candidate': 'Hina Sushi'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Hawthorne Food and Drink, the more expensive restaurant is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': "Between Sichuan Landscape Chinese Restaurant and Joe Badali's Ristorante Italiano & Bar, the more expensive restaurant is Sichuan Landscape Chinese Restaurant.", 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': 'Between La Cocina De Dona Luz and New Bilan Restaurant, the more expensive restaurant is La Cocina De Dona Luz.', 'answer': 'La Cocina De Dona Luz', 'candidate': 'New Bilan Restaurant'}
+{'statement': 'Between Branca and Supermodel Pizza, the more expensive restaurant is Branca.', 'answer': 'Branca', 'candidate': 'Supermodel Pizza'}
+{'statement': 'Between Freshii and Bagel Nash, the more expensive restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'Bagel Nash'}
+{'statement': 'Between Evoo Ristorante and La Cocina De Dona Luz, the more expensive restaurant is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'La Cocina De Dona Luz'}
+{'statement': 'Between Eggspectation and Top Sushi, the more expensive restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Top Sushi'}
+{'statement': 'Between Sushi Time Japanese Restaurant and Sizzlers, the more expensive restaurant is Sushi Time Japanese Restaurant.', 'answer': 'Sushi Time Japanese Restaurant', 'candidate': 'Sizzlers'}
+{'statement': 'Between Queen Slice and EJ Sushi, the more expensive restaurant is EJ Sushi.', 'answer': 'EJ Sushi', 'candidate': 'Queen Slice'}
+{'statement': "Between It's All Grk and St. Clair Shawarma and Falafel, the more expensive restaurant is It's All Grk.", 'answer': "It's All Grk", 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "Between Warung Indonesia D'Eglinton and Pizza Pizza, the more expensive restaurant is Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Pizza Pizza'}
+{'statement': 'Between Shawarma Twist and JJ Bean, the more expensive restaurant is JJ Bean.', 'answer': 'JJ Bean', 'candidate': 'Shawarma Twist'}
+{'statement': 'Between Amaya Express and Bake Island, the more expensive restaurant is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'Bake Island'}
+{'statement': 'Between Le Papillon Park and Lahore Grill & Fast Food, the more expensive restaurant is Le Papillon Park.', 'answer': 'Le Papillon Park', 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': 'Between Lebanese Bakery and Tim Hortons, the more expensive restaurant is Lebanese Bakery.', 'answer': 'Lebanese Bakery', 'candidate': 'Tim Hortons'}
+{'statement': 'Between Viccino Pizzeria and Delicious Paradise Kitchen, the more expensive restaurant is Viccino Pizzeria.', 'answer': 'Viccino Pizzeria', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': "Between Phil's Original BBQ and Verona Restaurant, the more expensive restaurant is Verona Restaurant.", 'answer': 'Verona Restaurant', 'candidate': "Phil's Original BBQ"}
+{'statement': 'Between z-teca Gourmet Burritos and Falafel House, the more expensive restaurant is z-teca Gourmet Burritos.', 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Falafel House'}
+{'statement': "Between Big Al's Diner and Le Papillon Park, the more expensive restaurant is Le Papillon Park.", 'answer': 'Le Papillon Park', 'candidate': "Big Al's Diner"}
+{'statement': 'Between Sizzlers and Hina Sushi, the more expensive restaurant is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Sizzlers'}
+{'statement': 'Between Fit For Life and Hina Sushi, the more expensive restaurant is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Fit For Life'}
+{'statement': "Between Mamma's Pizza and Mysteriously Yours Dinner Theatre, the more expensive restaurant is Mysteriously Yours Dinner Theatre.", 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': "Mamma's Pizza"}

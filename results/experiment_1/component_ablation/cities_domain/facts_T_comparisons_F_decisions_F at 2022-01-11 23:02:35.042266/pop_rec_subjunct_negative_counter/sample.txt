@@ -1,0 +1,200 @@
+{'statement': "You don't like big cities. If I were you, between London and Milan I would visit Milan.", 'answer': 'Milan', 'candidate': 'London'}
+{'statement': "You don't like big cities. If I were you, between Lagos and Calgary I would visit Calgary.", 'answer': 'Calgary', 'candidate': 'Lagos'}
+{'statement': "You don't like big cities. If I were you, between Douala and Reykjavík I would visit Reykjavík.", 'answer': 'Reykjavík', 'candidate': 'Douala'}
+{'statement': "You don't like big cities. If I were you, between Jakarta and Hanoi I would visit Hanoi.", 'answer': 'Hanoi', 'candidate': 'Jakarta'}
+{'statement': "You don't like big cities. If I were you, between Houston and Pretoria I would visit Pretoria.", 'answer': 'Pretoria', 'candidate': 'Houston'}
+{'statement': "You don't like big cities. If I were you, between Karachi and Lusaka I would visit Lusaka.", 'answer': 'Lusaka', 'candidate': 'Karachi'}
+{'statement': "You don't like big cities. If I were you, between Melbourne and Makurdi I would visit Makurdi.", 'answer': 'Makurdi', 'candidate': 'Melbourne'}
+{'statement': "You don't like big cities. If I were you, between Tashkent and Gabès I would visit Gabès.", 'answer': 'Gabès', 'candidate': 'Tashkent'}
+{'statement': "You don't like big cities. If I were you, between Luanda and Toliara I would visit Toliara.", 'answer': 'Toliara', 'candidate': 'Luanda'}
+{'statement': "You don't like big cities. If I were you, between Guadalajara and Harare I would visit Harare.", 'answer': 'Harare', 'candidate': 'Guadalajara'}
+{'statement': "You don't like big cities. If I were you, between Nairobi and Zagreb I would visit Zagreb.", 'answer': 'Zagreb', 'candidate': 'Nairobi'}
+{'statement': "You don't like big cities. If I were you, between Hanoi and Barranquilla I would visit Barranquilla.", 'answer': 'Barranquilla', 'candidate': 'Hanoi'}
+{'statement': "You don't like big cities. If I were you, between Berlin and Ndola I would visit Ndola.", 'answer': 'Ndola', 'candidate': 'Berlin'}
+{'statement': "You don't like big cities. If I were you, between Ho Chi Minh City and Bratislava I would visit Bratislava.", 'answer': 'Bratislava', 'candidate': 'Ho Chi Minh City'}
+{'statement': "You don't like big cities. If I were you, between Ankara and Cayenne I would visit Cayenne.", 'answer': 'Cayenne', 'candidate': 'Ankara'}
+{'statement': "You don't like big cities. If I were you, between Algiers and Chihuahua I would visit Chihuahua.", 'answer': 'Chihuahua', 'candidate': 'Algiers'}
+{'statement': "You don't like big cities. If I were you, between Manila and Managua I would visit Managua.", 'answer': 'Managua', 'candidate': 'Manila'}
+{'statement': "You don't like big cities. If I were you, between Berlin and San Juan I would visit San Juan.", 'answer': 'San Juan', 'candidate': 'Berlin'}
+{'statement': "You don't like big cities. If I were you, between Berlin and Córdoba I would visit Córdoba.", 'answer': 'Córdoba', 'candidate': 'Berlin'}
+{'statement': "You don't like big cities. If I were you, between Jakarta and Luanda I would visit Luanda.", 'answer': 'Luanda', 'candidate': 'Jakarta'}
+{'statement': "You don't like big cities. If I were you, between Ankara and Brisbane I would visit Brisbane.", 'answer': 'Brisbane', 'candidate': 'Ankara'}
+{'statement': "You don't like big cities. If I were you, between Karachi and Alexandria I would visit Alexandria.", 'answer': 'Alexandria', 'candidate': 'Karachi'}
+{'statement': "You don't like big cities. If I were you, between Phnom Penh and Port-Gentil I would visit Port-Gentil.", 'answer': 'Port-Gentil', 'candidate': 'Phnom Penh'}
+{'statement': "You don't like big cities. If I were you, between Paris and Juba I would visit Juba.", 'answer': 'Juba', 'candidate': 'Paris'}
+{'statement': "You don't like big cities. If I were you, between Santiago and Indianapolis I would visit Indianapolis.", 'answer': 'Indianapolis', 'candidate': 'Santiago'}
+{'statement': "You don't like big cities. If I were you, between Buenos Aires and Frankfurt I would visit Frankfurt.", 'answer': 'Frankfurt', 'candidate': 'Buenos Aires'}
+{'statement': "You don't like big cities. If I were you, between Manila and Ankara I would visit Ankara.", 'answer': 'Ankara', 'candidate': 'Manila'}
+{'statement': "You don't like big cities. If I were you, between Guadalajara and Manaus I would visit Manaus.", 'answer': 'Manaus', 'candidate': 'Guadalajara'}
+{'statement': "You don't like big cities. If I were you, between Bangkok and Entebbe I would visit Entebbe.", 'answer': 'Entebbe', 'candidate': 'Bangkok'}
+{'statement': "You don't like big cities. If I were you, between Lima and Rome I would visit Rome.", 'answer': 'Rome', 'candidate': 'Lima'}
+{'statement': "You don't like big cities. If I were you, between London and Mendoza I would visit Mendoza.", 'answer': 'Mendoza', 'candidate': 'London'}
+{'statement': "You don't like big cities. If I were you, between Dar es Salaam and Bucharest I would visit Bucharest.", 'answer': 'Bucharest', 'candidate': 'Dar es Salaam'}
+{'statement': "You don't like big cities. If I were you, between Bangkok and Canberra I would visit Canberra.", 'answer': 'Canberra', 'candidate': 'Bangkok'}
+{'statement': "You don't like big cities. If I were you, between Tashkent and Beirut I would visit Beirut.", 'answer': 'Beirut', 'candidate': 'Tashkent'}
+{'statement': "You don't like big cities. If I were you, between Santiago and Reykjavík I would visit Reykjavík.", 'answer': 'Reykjavík', 'candidate': 'Santiago'}
+{'statement': "You don't like big cities. If I were you, between Nairobi and Ljubljana I would visit Ljubljana.", 'answer': 'Ljubljana', 'candidate': 'Nairobi'}
+{'statement': "You don't like big cities. If I were you, between Mexico City and Fukuoka I would visit Fukuoka.", 'answer': 'Fukuoka', 'candidate': 'Mexico City'}
+{'statement': "You don't like big cities. If I were you, between Bogotá and Bergen I would visit Bergen.", 'answer': 'Bergen', 'candidate': 'Bogotá'}
+{'statement': "You don't like big cities. If I were you, between Mumbai and Rangpur I would visit Rangpur.", 'answer': 'Rangpur', 'candidate': 'Mumbai'}
+{'statement': "You don't like big cities. If I were you, between Brasília and Sokoto I would visit Sokoto.", 'answer': 'Sokoto', 'candidate': 'Brasília'}
+{'statement': "You don't like big cities. If I were you, between Buenos Aires and Ljubljana I would visit Ljubljana.", 'answer': 'Ljubljana', 'candidate': 'Buenos Aires'}
+{'statement': "You don't like big cities. If I were you, between Sydney and Bujumbura I would visit Bujumbura.", 'answer': 'Bujumbura', 'candidate': 'Sydney'}
+{'statement': "You don't like big cities. If I were you, between Moscow and Bangui I would visit Bangui.", 'answer': 'Bangui', 'candidate': 'Moscow'}
+{'statement': "You don't like big cities. If I were you, between Karachi and Amsterdam I would visit Amsterdam.", 'answer': 'Amsterdam', 'candidate': 'Karachi'}
+{'statement': "You don't like big cities. If I were you, between Beijing and Honolulu I would visit Honolulu.", 'answer': 'Honolulu', 'candidate': 'Beijing'}
+{'statement': "You don't like big cities. If I were you, between Nairobi and Denver I would visit Denver.", 'answer': 'Denver', 'candidate': 'Nairobi'}
+{'statement': "You don't like big cities. If I were you, between Buenos Aires and Kathmandu I would visit Kathmandu.", 'answer': 'Kathmandu', 'candidate': 'Buenos Aires'}
+{'statement': "You don't like big cities. If I were you, between Johannesburg and Bishkek I would visit Bishkek.", 'answer': 'Bishkek', 'candidate': 'Johannesburg'}
+{'statement': "You don't like big cities. If I were you, between Kabul and Tauranga I would visit Tauranga.", 'answer': 'Tauranga', 'candidate': 'Kabul'}
+{'statement': "You don't like big cities. If I were you, between Paris and Phnom Penh I would visit Phnom Penh.", 'answer': 'Phnom Penh', 'candidate': 'Paris'}
+{'statement': "You don't like big cities. If I were you, between Los Angeles and Anchorage I would visit Anchorage.", 'answer': 'Anchorage', 'candidate': 'Los Angeles'}
+{'statement': "You don't like big cities. If I were you, between Fukuoka and Tauranga I would visit Tauranga.", 'answer': 'Tauranga', 'candidate': 'Fukuoka'}
+{'statement': "You don't like big cities. If I were you, between Sydney and San Antonio I would visit San Antonio.", 'answer': 'San Antonio', 'candidate': 'Sydney'}
+{'statement': "You don't like big cities. If I were you, between Moscow and Florianópolis I would visit Florianópolis.", 'answer': 'Florianópolis', 'candidate': 'Moscow'}
+{'statement': "You don't like big cities. If I were you, between Riyadh and Asmara I would visit Asmara.", 'answer': 'Asmara', 'candidate': 'Riyadh'}
+{'statement': "You don't like big cities. If I were you, between Houston and Lake Havasu City I would visit Lake Havasu City.", 'answer': 'Lake Havasu City', 'candidate': 'Houston'}
+{'statement': "You don't like big cities. If I were you, between Minneapolis and Nakhon Ratchasima I would visit Nakhon Ratchasima.", 'answer': 'Nakhon Ratchasima', 'candidate': 'Minneapolis'}
+{'statement': "You don't like big cities. If I were you, between Houston and Bahía Blanca I would visit Bahía Blanca.", 'answer': 'Bahía Blanca', 'candidate': 'Houston'}
+{'statement': "You don't like big cities. If I were you, between Moscow and Dodoma I would visit Dodoma.", 'answer': 'Dodoma', 'candidate': 'Moscow'}
+{'statement': "You don't like big cities. If I were you, between Minneapolis and Santiago del Estero I would visit Santiago del Estero.", 'answer': 'Santiago del Estero', 'candidate': 'Minneapolis'}
+{'statement': "You don't like big cities. If I were you, between Manila and Baltimore I would visit Baltimore.", 'answer': 'Baltimore', 'candidate': 'Manila'}
+{'statement': "You don't like big cities. If I were you, between Alexandria and Palmerston North I would visit Palmerston North.", 'answer': 'Palmerston North', 'candidate': 'Alexandria'}
+{'statement': "You don't like big cities. If I were you, between Buenos Aires and Pittsburgh I would visit Pittsburgh.", 'answer': 'Pittsburgh', 'candidate': 'Buenos Aires'}
+{'statement': "You don't like big cities. If I were you, between Tampa and Chihuahua I would visit Chihuahua.", 'answer': 'Chihuahua', 'candidate': 'Tampa'}
+{'statement': "You don't like big cities. If I were you, between Beijing and Ndola I would visit Ndola.", 'answer': 'Ndola', 'candidate': 'Beijing'}
+{'statement': "You don't like big cities. If I were you, between Ankara and Parakou I would visit Parakou.", 'answer': 'Parakou', 'candidate': 'Ankara'}
+{'statement': "You don't like big cities. If I were you, between London and Mahajanga I would visit Mahajanga.", 'answer': 'Mahajanga', 'candidate': 'London'}
+{'statement': "You don't like big cities. If I were you, between Bangkok and Kampala I would visit Kampala.", 'answer': 'Kampala', 'candidate': 'Bangkok'}
+{'statement': "You don't like big cities. If I were you, between Beijing and Guadalajara I would visit Guadalajara.", 'answer': 'Guadalajara', 'candidate': 'Beijing'}
+{'statement': "You don't like big cities. If I were you, between Monterrey and Frankfurt I would visit Frankfurt.", 'answer': 'Frankfurt', 'candidate': 'Monterrey'}
+{'statement': "You don't like big cities. If I were you, between Cairo and Aden I would visit Aden.", 'answer': 'Aden', 'candidate': 'Cairo'}
+{'statement': "You don't like big cities. If I were you, between London and Punta Arenas I would visit Punta Arenas.", 'answer': 'Punta Arenas', 'candidate': 'London'}
+{'statement': "You don't like big cities. If I were you, between Harare and Toliara I would visit Toliara.", 'answer': 'Toliara', 'candidate': 'Harare'}
+{'statement': "You don't like big cities. If I were you, between Beijing and Baghdad I would visit Baghdad.", 'answer': 'Baghdad', 'candidate': 'Beijing'}
+{'statement': "You don't like big cities. If I were you, between Bogotá and Christchurch I would visit Christchurch.", 'answer': 'Christchurch', 'candidate': 'Bogotá'}
+{'statement': "You don't like big cities. If I were you, between Ankara and Halifax I would visit Halifax.", 'answer': 'Halifax', 'candidate': 'Ankara'}
+{'statement': "You don't like big cities. If I were you, between Toronto and Kansas City I would visit Kansas City.", 'answer': 'Kansas City', 'candidate': 'Toronto'}
+{'statement': "You don't like big cities. If I were you, between Brasília and Valencia I would visit Valencia.", 'answer': 'Valencia', 'candidate': 'Brasília'}
+{'statement': "You don't like big cities. If I were you, between Minneapolis and Entebbe I would visit Entebbe.", 'answer': 'Entebbe', 'candidate': 'Minneapolis'}
+{'statement': "You don't like big cities. If I were you, between Phoenix and Toamasina I would visit Toamasina.", 'answer': 'Toamasina', 'candidate': 'Phoenix'}
+{'statement': "You don't like big cities. If I were you, between Phoenix and Erbil I would visit Erbil.", 'answer': 'Erbil', 'candidate': 'Phoenix'}
+{'statement': "You don't like big cities. If I were you, between Ho Chi Minh City and Anchorage I would visit Anchorage.", 'answer': 'Anchorage', 'candidate': 'Ho Chi Minh City'}
+{'statement': "You don't like big cities. If I were you, between Bangkok and San José I would visit San José.", 'answer': 'San José', 'candidate': 'Bangkok'}
+{'statement': "You don't like big cities. If I were you, between Chicago and Baghdad I would visit Baghdad.", 'answer': 'Baghdad', 'candidate': 'Chicago'}
+{'statement': "You don't like big cities. If I were you, between Lagos and La Serena I would visit La Serena.", 'answer': 'La Serena', 'candidate': 'Lagos'}
+{'statement': "You don't like big cities. If I were you, between Tampa and Panama City I would visit Panama City.", 'answer': 'Panama City', 'candidate': 'Tampa'}
+{'statement': "You don't like big cities. If I were you, between Lagos and Erzurum I would visit Erzurum.", 'answer': 'Erzurum', 'candidate': 'Lagos'}
+{'statement': "You don't like big cities. If I were you, between Lagos and Saint Petersburg I would visit Saint Petersburg.", 'answer': 'Saint Petersburg', 'candidate': 'Lagos'}
+{'statement': "You don't like big cities. If I were you, between Lahore and Conakry I would visit Conakry.", 'answer': 'Conakry', 'candidate': 'Lahore'}
+{'statement': "You don't like big cities. If I were you, between Baghdad and Fukuoka I would visit Fukuoka.", 'answer': 'Fukuoka', 'candidate': 'Baghdad'}
+{'statement': "You don't like big cities. If I were you, between Toronto and Harare I would visit Harare.", 'answer': 'Harare', 'candidate': 'Toronto'}
+{'statement': "You don't like big cities. If I were you, between Houston and Hat Yai I would visit Hat Yai.", 'answer': 'Hat Yai', 'candidate': 'Houston'}
+{'statement': "You don't like big cities. If I were you, between Buenos Aires and Beirut I would visit Beirut.", 'answer': 'Beirut', 'candidate': 'Buenos Aires'}
+{'statement': "You don't like big cities. If I were you, between Lagos and Vienna I would visit Vienna.", 'answer': 'Vienna', 'candidate': 'Lagos'}
+{'statement': "You don't like big cities. If I were you, between London and Berlin I would visit Berlin.", 'answer': 'Berlin', 'candidate': 'London'}
+{'statement': "You don't like big cities. If I were you, between Mexico City and Bucharest I would visit Bucharest.", 'answer': 'Bucharest', 'candidate': 'Mexico City'}
+{'statement': "You don't like big cities. If I were you, between Kuwait City and Tamanrasset I would visit Tamanrasset.", 'answer': 'Tamanrasset', 'candidate': 'Kuwait City'}
+{'statement': "You don't like big cities. If I were you, between Cairo and Piura I would visit Piura.", 'answer': 'Piura', 'candidate': 'Cairo'}
+{'statement': "You don't like big cities. If I were you, between San Diego and Campos do Jordão I would visit Campos do Jordão.", 'answer': 'Campos do Jordão', 'candidate': 'San Diego'}
+{'statement': "You don't like big cities. If I were you, between Brisbane and Canberra I would visit Canberra.", 'answer': 'Canberra', 'candidate': 'Brisbane'}
+{'statement': "You don't like big cities. If I were you, between Tampa and Dodoma I would visit Dodoma.", 'answer': 'Dodoma', 'candidate': 'Tampa'}
+{'statement': "You don't like big cities. If I were you, between Lagos and Nur-Sultan I would visit Nur-Sultan.", 'answer': 'Nur-Sultan', 'candidate': 'Lagos'}
+{'statement': "You don't like big cities. If I were you, between Manila and Sucre I would visit Sucre.", 'answer': 'Sucre', 'candidate': 'Manila'}
+{'statement': "You don't like big cities. If I were you, between Berlin and Denpasar I would visit Denpasar.", 'answer': 'Denpasar', 'candidate': 'Berlin'}
+{'statement': "You don't like big cities. If I were you, between Yaoundé and Boise I would visit Boise.", 'answer': 'Boise', 'candidate': 'Yaoundé'}
+{'statement': "You don't like big cities. If I were you, between Karachi and Kathmandu I would visit Kathmandu.", 'answer': 'Kathmandu', 'candidate': 'Karachi'}
+{'statement': "You don't like big cities. If I were you, between Lahore and Almaty I would visit Almaty.", 'answer': 'Almaty', 'candidate': 'Lahore'}
+{'statement': "You don't like big cities. If I were you, between Ho Chi Minh City and La Ceiba I would visit La Ceiba.", 'answer': 'La Ceiba', 'candidate': 'Ho Chi Minh City'}
+{'statement': "You don't like big cities. If I were you, between Denver and Anchorage I would visit Anchorage.", 'answer': 'Anchorage', 'candidate': 'Denver'}
+{'statement': "You don't like big cities. If I were you, between Lima and Kathmandu I would visit Kathmandu.", 'answer': 'Kathmandu', 'candidate': 'Lima'}
+{'statement': "You don't like big cities. If I were you, between Riyadh and Beirut I would visit Beirut.", 'answer': 'Beirut', 'candidate': 'Riyadh'}
+{'statement': "You don't like big cities. If I were you, between Los Angeles and Lisbon I would visit Lisbon.", 'answer': 'Lisbon', 'candidate': 'Los Angeles'}
+{'statement': "You don't like big cities. If I were you, between Buenos Aires and Sapporo I would visit Sapporo.", 'answer': 'Sapporo', 'candidate': 'Buenos Aires'}
+{'statement': "You don't like big cities. If I were you, between Monterrey and Tamanrasset I would visit Tamanrasset.", 'answer': 'Tamanrasset', 'candidate': 'Monterrey'}
+{'statement': "You don't like big cities. If I were you, between London and Beirut I would visit Beirut.", 'answer': 'Beirut', 'candidate': 'London'}
+{'statement': "You don't like big cities. If I were you, between Riyadh and Darwin I would visit Darwin.", 'answer': 'Darwin', 'candidate': 'Riyadh'}
+{'statement': "You don't like big cities. If I were you, between Nairobi and Lviv I would visit Lviv.", 'answer': 'Lviv', 'candidate': 'Nairobi'}
+{'statement': "You don't like big cities. If I were you, between Chicago and Panama City I would visit Panama City.", 'answer': 'Panama City', 'candidate': 'Chicago'}
+{'statement': "You don't like big cities. If I were you, between Ho Chi Minh City and Viedma I would visit Viedma.", 'answer': 'Viedma', 'candidate': 'Ho Chi Minh City'}
+{'statement': "You don't like big cities. If I were you, between Saint Petersburg and Bergen I would visit Bergen.", 'answer': 'Bergen', 'candidate': 'Saint Petersburg'}
+{'statement': "You don't like big cities. If I were you, between Minneapolis and Oslo I would visit Oslo.", 'answer': 'Oslo', 'candidate': 'Minneapolis'}
+{'statement': "You don't like big cities. If I were you, between Saint Petersburg and Benghazi I would visit Benghazi.", 'answer': 'Benghazi', 'candidate': 'Saint Petersburg'}
+{'statement': "You don't like big cities. If I were you, between Tampa and Bata I would visit Bata.", 'answer': 'Bata', 'candidate': 'Tampa'}
+{'statement': "You don't like big cities. If I were you, between Sydney and Viedma I would visit Viedma.", 'answer': 'Viedma', 'candidate': 'Sydney'}
+{'statement': "You don't like big cities. If I were you, between Yaoundé and Port Moresby I would visit Port Moresby.", 'answer': 'Port Moresby', 'candidate': 'Yaoundé'}
+{'statement': "You don't like big cities. If I were you, between Los Angeles and Indianapolis I would visit Indianapolis.", 'answer': 'Indianapolis', 'candidate': 'Los Angeles'}
+{'statement': "You don't like big cities. If I were you, between Moscow and Yakutsk I would visit Yakutsk.", 'answer': 'Yakutsk', 'candidate': 'Moscow'}
+{'statement': "You don't like big cities. If I were you, between Lagos and Kingston I would visit Kingston.", 'answer': 'Kingston', 'candidate': 'Lagos'}
+{'statement': "You don't like big cities. If I were you, between Buenos Aires and Rosario I would visit Rosario.", 'answer': 'Rosario', 'candidate': 'Buenos Aires'}
+{'statement': "You don't like big cities. If I were you, between Addis Ababa and Copenhagen I would visit Copenhagen.", 'answer': 'Copenhagen', 'candidate': 'Addis Ababa'}
+{'statement': "You don't like big cities. If I were you, between Guangzhou and Addis Ababa I would visit Addis Ababa.", 'answer': 'Addis Ababa', 'candidate': 'Guangzhou'}
+{'statement': "You don't like big cities. If I were you, between Mexico City and Calgary I would visit Calgary.", 'answer': 'Calgary', 'candidate': 'Mexico City'}
+{'statement': "You don't like big cities. If I were you, between Johannesburg and San Juan I would visit San Juan.", 'answer': 'San Juan', 'candidate': 'Johannesburg'}
+{'statement': "You don't like big cities. If I were you, between Houston and Viedma I would visit Viedma.", 'answer': 'Viedma', 'candidate': 'Houston'}
+{'statement': "You don't like big cities. If I were you, between Algiers and Villahermosa I would visit Villahermosa.", 'answer': 'Villahermosa', 'candidate': 'Algiers'}
+{'statement': "You don't like big cities. If I were you, between Monterrey and Hat Yai I would visit Hat Yai.", 'answer': 'Hat Yai', 'candidate': 'Monterrey'}
+{'statement': "You don't like big cities. If I were you, between Kuwait City and Reykjavík I would visit Reykjavík.", 'answer': 'Reykjavík', 'candidate': 'Kuwait City'}
+{'statement': "You don't like big cities. If I were you, between Jakarta and Minsk I would visit Minsk.", 'answer': 'Minsk', 'candidate': 'Jakarta'}
+{'statement': "You don't like big cities. If I were you, between Dar es Salaam and Omaha I would visit Omaha.", 'answer': 'Omaha', 'candidate': 'Dar es Salaam'}
+{'statement': "You don't like big cities. If I were you, between Baghdad and Frankfurt I would visit Frankfurt.", 'answer': 'Frankfurt', 'candidate': 'Baghdad'}
+{'statement': "You don't like big cities. If I were you, between Denver and Makurdi I would visit Makurdi.", 'answer': 'Makurdi', 'candidate': 'Denver'}
+{'statement': "You don't like big cities. If I were you, between Bangkok and Medellín I would visit Medellín.", 'answer': 'Medellín', 'candidate': 'Bangkok'}
+{'statement': "You don't like big cities. If I were you, between Lagos and Toluca I would visit Toluca.", 'answer': 'Toluca', 'candidate': 'Lagos'}
+{'statement': "You don't like big cities. If I were you, between Riyadh and Sacramento I would visit Sacramento.", 'answer': 'Sacramento', 'candidate': 'Riyadh'}
+{'statement': "You don't like big cities. If I were you, between San Diego and Upington I would visit Upington.", 'answer': 'Upington', 'candidate': 'San Diego'}
+{'statement': "You don't like big cities. If I were you, between Monterrey and Palembang I would visit Palembang.", 'answer': 'Palembang', 'candidate': 'Monterrey'}
+{'statement': "You don't like big cities. If I were you, between Alexandria and Mombasa I would visit Mombasa.", 'answer': 'Mombasa', 'candidate': 'Alexandria'}
+{'statement': "You don't like big cities. If I were you, between Denver and San Juan I would visit San Juan.", 'answer': 'San Juan', 'candidate': 'Denver'}
+{'statement': "You don't like big cities. If I were you, between Berlin and Sokoto I would visit Sokoto.", 'answer': 'Sokoto', 'candidate': 'Berlin'}
+{'statement': "You don't like big cities. If I were you, between Beijing and Albuquerque I would visit Albuquerque.", 'answer': 'Albuquerque', 'candidate': 'Beijing'}
+{'statement': "You don't like big cities. If I were you, between Lagos and San Salvador I would visit San Salvador.", 'answer': 'San Salvador', 'candidate': 'Lagos'}
+{'statement': "You don't like big cities. If I were you, between Saint Petersburg and Douala I would visit Douala.", 'answer': 'Douala', 'candidate': 'Saint Petersburg'}
+{'statement': "You don't like big cities. If I were you, between Buenos Aires and Garoua I would visit Garoua.", 'answer': 'Garoua', 'candidate': 'Buenos Aires'}
+{'statement': "You don't like big cities. If I were you, between Bogotá and San Diego I would visit San Diego.", 'answer': 'San Diego', 'candidate': 'Bogotá'}
+{'statement': "You don't like big cities. If I were you, between Brisbane and Cabo San Lucas I would visit Cabo San Lucas.", 'answer': 'Cabo San Lucas', 'candidate': 'Brisbane'}
+{'statement': "You don't like big cities. If I were you, between Lahore and San Juan I would visit San Juan.", 'answer': 'San Juan', 'candidate': 'Lahore'}
+{'statement': "You don't like big cities. If I were you, between Jakarta and Monterrey I would visit Monterrey.", 'answer': 'Monterrey', 'candidate': 'Jakarta'}
+{'statement': "You don't like big cities. If I were you, between Saint Petersburg and Toluca I would visit Toluca.", 'answer': 'Toluca', 'candidate': 'Saint Petersburg'}
+{'statement': "You don't like big cities. If I were you, between Hanoi and Yinchuan I would visit Yinchuan.", 'answer': 'Yinchuan', 'candidate': 'Hanoi'}
+{'statement': "You don't like big cities. If I were you, between Sydney and Nouakchott I would visit Nouakchott.", 'answer': 'Nouakchott', 'candidate': 'Sydney'}
+{'statement': "You don't like big cities. If I were you, between Manila and Damascus I would visit Damascus.", 'answer': 'Damascus', 'candidate': 'Manila'}
+{'statement': "You don't like big cities. If I were you, between Mexico City and Copenhagen I would visit Copenhagen.", 'answer': 'Copenhagen', 'candidate': 'Mexico City'}
+{'statement': "You don't like big cities. If I were you, between Saint Petersburg and Panama City I would visit Panama City.", 'answer': 'Panama City', 'candidate': 'Saint Petersburg'}
+{'statement': "You don't like big cities. If I were you, between London and Tucson I would visit Tucson.", 'answer': 'Tucson', 'candidate': 'London'}
+{'statement': "You don't like big cities. If I were you, between Guadalajara and Bergen I would visit Bergen.", 'answer': 'Bergen', 'candidate': 'Guadalajara'}
+{'statement': "You don't like big cities. If I were you, between Brisbane and Palmerston North I would visit Palmerston North.", 'answer': 'Palmerston North', 'candidate': 'Brisbane'}
+{'statement': "You don't like big cities. If I were you, between Houston and Brasília I would visit Brasília.", 'answer': 'Brasília', 'candidate': 'Houston'}
+{'statement': "You don't like big cities. If I were you, between Johannesburg and Ushuaia I would visit Ushuaia.", 'answer': 'Ushuaia', 'candidate': 'Johannesburg'}
+{'statement': "You don't like big cities. If I were you, between Rome and Punta Arenas I would visit Punta Arenas.", 'answer': 'Punta Arenas', 'candidate': 'Rome'}
+{'statement': "You don't like big cities. If I were you, between San Diego and Malabo I would visit Malabo.", 'answer': 'Malabo', 'candidate': 'San Diego'}
+{'statement': "You don't like big cities. If I were you, between Hanoi and Piura I would visit Piura.", 'answer': 'Piura', 'candidate': 'Hanoi'}
+{'statement': "You don't like big cities. If I were you, between Phoenix and Cayenne I would visit Cayenne.", 'answer': 'Cayenne', 'candidate': 'Phoenix'}
+{'statement': "You don't like big cities. If I were you, between Surabaya and San Antonio I would visit San Antonio.", 'answer': 'San Antonio', 'candidate': 'Surabaya'}
+{'statement': "You don't like big cities. If I were you, between Shanghai and Kabul I would visit Kabul.", 'answer': 'Kabul', 'candidate': 'Shanghai'}
+{'statement': "You don't like big cities. If I were you, between Lagos and Lhasa I would visit Lhasa.", 'answer': 'Lhasa', 'candidate': 'Lagos'}
+{'statement': "You don't like big cities. If I were you, between Bogotá and Baltimore I would visit Baltimore.", 'answer': 'Baltimore', 'candidate': 'Bogotá'}
+{'statement': "You don't like big cities. If I were you, between London and Palmerston North I would visit Palmerston North.", 'answer': 'Palmerston North', 'candidate': 'London'}
+{'statement': "You don't like big cities. If I were you, between Cairo and Muscat I would visit Muscat.", 'answer': 'Muscat', 'candidate': 'Cairo'}
+{'statement': "You don't like big cities. If I were you, between Surabaya and Ljubljana I would visit Ljubljana.", 'answer': 'Ljubljana', 'candidate': 'Surabaya'}
+{'statement': "You don't like big cities. If I were you, between Saint Petersburg and Vienna I would visit Vienna.", 'answer': 'Vienna', 'candidate': 'Saint Petersburg'}
+{'statement': "You don't like big cities. If I were you, between Jakarta and Houston I would visit Houston.", 'answer': 'Houston', 'candidate': 'Jakarta'}
+{'statement': "You don't like big cities. If I were you, between Douala and Tabora I would visit Tabora.", 'answer': 'Tabora', 'candidate': 'Douala'}
+{'statement': "You don't like big cities. If I were you, between Ho Chi Minh City and Podgorica I would visit Podgorica.", 'answer': 'Podgorica', 'candidate': 'Ho Chi Minh City'}
+{'statement': "You don't like big cities. If I were you, between Los Angeles and Durban I would visit Durban.", 'answer': 'Durban', 'candidate': 'Los Angeles'}
+{'statement': "You don't like big cities. If I were you, between Alexandria and Napier I would visit Napier.", 'answer': 'Napier', 'candidate': 'Alexandria'}
+{'statement': "You don't like big cities. If I were you, between Nairobi and Nakhon Ratchasima I would visit Nakhon Ratchasima.", 'answer': 'Nakhon Ratchasima', 'candidate': 'Nairobi'}
+{'statement': "You don't like big cities. If I were you, between Johannesburg and Tauranga I would visit Tauranga.", 'answer': 'Tauranga', 'candidate': 'Johannesburg'}
+{'statement': "You don't like big cities. If I were you, between Rome and Palmerston North I would visit Palmerston North.", 'answer': 'Palmerston North', 'candidate': 'Rome'}
+{'statement': "You don't like big cities. If I were you, between Johannesburg and Mombasa I would visit Mombasa.", 'answer': 'Mombasa', 'candidate': 'Johannesburg'}
+{'statement': "You don't like big cities. If I were you, between San Diego and Toamasina I would visit Toamasina.", 'answer': 'Toamasina', 'candidate': 'San Diego'}
+{'statement': "You don't like big cities. If I were you, between Mexico City and Omaha I would visit Omaha.", 'answer': 'Omaha', 'candidate': 'Mexico City'}
+{'statement': "You don't like big cities. If I were you, between Ürümqi and Kuopio I would visit Kuopio.", 'answer': 'Kuopio', 'candidate': 'Ürümqi'}
+{'statement': "You don't like big cities. If I were you, between Jakarta and San Antonio I would visit San Antonio.", 'answer': 'San Antonio', 'candidate': 'Jakarta'}
+{'statement': "You don't like big cities. If I were you, between Jakarta and Lagos I would visit Lagos.", 'answer': 'Lagos', 'candidate': 'Jakarta'}
+{'statement': "You don't like big cities. If I were you, between Moscow and La Paz I would visit La Paz.", 'answer': 'La Paz', 'candidate': 'Moscow'}
+{'statement': "You don't like big cities. If I were you, between Toronto and Bratislava I would visit Bratislava.", 'answer': 'Bratislava', 'candidate': 'Toronto'}
+{'statement': "You don't like big cities. If I were you, between Kano and Ushuaia I would visit Ushuaia.", 'answer': 'Ushuaia', 'candidate': 'Kano'}
+{'statement': "You don't like big cities. If I were you, between Guadalajara and Denpasar I would visit Denpasar.", 'answer': 'Denpasar', 'candidate': 'Guadalajara'}
+{'statement': "You don't like big cities. If I were you, between Kabul and Omaha I would visit Omaha.", 'answer': 'Omaha', 'candidate': 'Kabul'}
+{'statement': "You don't like big cities. If I were you, between Cairo and Omaha I would visit Omaha.", 'answer': 'Omaha', 'candidate': 'Cairo'}

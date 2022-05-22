@@ -1,0 +1,200 @@
+{'statement': 'Between London and Milan, the city with a larger population is London.', 'answer': 'London', 'candidate': 'Milan'}
+{'statement': 'Between Lagos and Calgary, the city with a larger population is Lagos.', 'answer': 'Lagos', 'candidate': 'Calgary'}
+{'statement': 'Between Douala and Reykjavík, the city with a larger population is Douala.', 'answer': 'Douala', 'candidate': 'Reykjavík'}
+{'statement': 'Between Jakarta and Hanoi, the city with a larger population is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Hanoi'}
+{'statement': 'Between Houston and Pretoria, the city with a larger population is Houston.', 'answer': 'Houston', 'candidate': 'Pretoria'}
+{'statement': 'Between Karachi and Lusaka, the city with a larger population is Karachi.', 'answer': 'Karachi', 'candidate': 'Lusaka'}
+{'statement': 'Between Melbourne and Makurdi, the city with a larger population is Melbourne.', 'answer': 'Melbourne', 'candidate': 'Makurdi'}
+{'statement': 'Between Tashkent and Gabès, the city with a larger population is Tashkent.', 'answer': 'Tashkent', 'candidate': 'Gabès'}
+{'statement': 'Between Luanda and Toliara, the city with a larger population is Luanda.', 'answer': 'Luanda', 'candidate': 'Toliara'}
+{'statement': 'Between Guadalajara and Harare, the city with a larger population is Guadalajara.', 'answer': 'Guadalajara', 'candidate': 'Harare'}
+{'statement': 'Between Nairobi and Zagreb, the city with a larger population is Nairobi.', 'answer': 'Nairobi', 'candidate': 'Zagreb'}
+{'statement': 'Between Hanoi and Barranquilla, the city with a larger population is Hanoi.', 'answer': 'Hanoi', 'candidate': 'Barranquilla'}
+{'statement': 'Between Berlin and Ndola, the city with a larger population is Berlin.', 'answer': 'Berlin', 'candidate': 'Ndola'}
+{'statement': 'Between Ho Chi Minh City and Bratislava, the city with a larger population is Ho Chi Minh City.', 'answer': 'Ho Chi Minh City', 'candidate': 'Bratislava'}
+{'statement': 'Between Ankara and Cayenne, the city with a larger population is Ankara.', 'answer': 'Ankara', 'candidate': 'Cayenne'}
+{'statement': 'Between Algiers and Chihuahua, the city with a larger population is Algiers.', 'answer': 'Algiers', 'candidate': 'Chihuahua'}
+{'statement': 'Between Manila and Managua, the city with a larger population is Manila.', 'answer': 'Manila', 'candidate': 'Managua'}
+{'statement': 'Between Berlin and San Juan, the city with a larger population is Berlin.', 'answer': 'Berlin', 'candidate': 'San Juan'}
+{'statement': 'Between Berlin and Córdoba, the city with a larger population is Berlin.', 'answer': 'Berlin', 'candidate': 'Córdoba'}
+{'statement': 'Between Jakarta and Luanda, the city with a larger population is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Luanda'}
+{'statement': 'Between Ankara and Brisbane, the city with a larger population is Ankara.', 'answer': 'Ankara', 'candidate': 'Brisbane'}
+{'statement': 'Between Karachi and Alexandria, the city with a larger population is Karachi.', 'answer': 'Karachi', 'candidate': 'Alexandria'}
+{'statement': 'Between Phnom Penh and Port-Gentil, the city with a larger population is Phnom Penh.', 'answer': 'Phnom Penh', 'candidate': 'Port-Gentil'}
+{'statement': 'Between Paris and Juba, the city with a larger population is Paris.', 'answer': 'Paris', 'candidate': 'Juba'}
+{'statement': 'Between Santiago and Indianapolis, the city with a larger population is Santiago.', 'answer': 'Santiago', 'candidate': 'Indianapolis'}
+{'statement': 'Between Buenos Aires and Frankfurt, the city with a larger population is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Frankfurt'}
+{'statement': 'Between Manila and Ankara, the city with a larger population is Manila.', 'answer': 'Manila', 'candidate': 'Ankara'}
+{'statement': 'Between Guadalajara and Manaus, the city with a larger population is Guadalajara.', 'answer': 'Guadalajara', 'candidate': 'Manaus'}
+{'statement': 'Between Bangkok and Entebbe, the city with a larger population is Bangkok.', 'answer': 'Bangkok', 'candidate': 'Entebbe'}
+{'statement': 'Between Lima and Rome, the city with a larger population is Lima.', 'answer': 'Lima', 'candidate': 'Rome'}
+{'statement': 'Between London and Mendoza, the city with a larger population is London.', 'answer': 'London', 'candidate': 'Mendoza'}
+{'statement': 'Between Dar es Salaam and Bucharest, the city with a larger population is Dar es Salaam.', 'answer': 'Dar es Salaam', 'candidate': 'Bucharest'}
+{'statement': 'Between Bangkok and Canberra, the city with a larger population is Bangkok.', 'answer': 'Bangkok', 'candidate': 'Canberra'}
+{'statement': 'Between Tashkent and Beirut, the city with a larger population is Tashkent.', 'answer': 'Tashkent', 'candidate': 'Beirut'}
+{'statement': 'Between Santiago and Reykjavík, the city with a larger population is Santiago.', 'answer': 'Santiago', 'candidate': 'Reykjavík'}
+{'statement': 'Between Nairobi and Ljubljana, the city with a larger population is Nairobi.', 'answer': 'Nairobi', 'candidate': 'Ljubljana'}
+{'statement': 'Between Mexico City and Fukuoka, the city with a larger population is Mexico City.', 'answer': 'Mexico City', 'candidate': 'Fukuoka'}
+{'statement': 'Between Bogotá and Bergen, the city with a larger population is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Bergen'}
+{'statement': 'Between Mumbai and Rangpur, the city with a larger population is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Rangpur'}
+{'statement': 'Between Brasília and Sokoto, the city with a larger population is Brasília.', 'answer': 'Brasília', 'candidate': 'Sokoto'}
+{'statement': 'Between Buenos Aires and Ljubljana, the city with a larger population is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Ljubljana'}
+{'statement': 'Between Sydney and Bujumbura, the city with a larger population is Sydney.', 'answer': 'Sydney', 'candidate': 'Bujumbura'}
+{'statement': 'Between Moscow and Bangui, the city with a larger population is Moscow.', 'answer': 'Moscow', 'candidate': 'Bangui'}
+{'statement': 'Between Karachi and Amsterdam, the city with a larger population is Karachi.', 'answer': 'Karachi', 'candidate': 'Amsterdam'}
+{'statement': 'Between Beijing and Honolulu, the city with a larger population is Beijing.', 'answer': 'Beijing', 'candidate': 'Honolulu'}
+{'statement': 'Between Nairobi and Denver, the city with a larger population is Nairobi.', 'answer': 'Nairobi', 'candidate': 'Denver'}
+{'statement': 'Between Buenos Aires and Kathmandu, the city with a larger population is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Kathmandu'}
+{'statement': 'Between Johannesburg and Bishkek, the city with a larger population is Johannesburg.', 'answer': 'Johannesburg', 'candidate': 'Bishkek'}
+{'statement': 'Between Kabul and Tauranga, the city with a larger population is Kabul.', 'answer': 'Kabul', 'candidate': 'Tauranga'}
+{'statement': 'Between Paris and Phnom Penh, the city with a larger population is Paris.', 'answer': 'Paris', 'candidate': 'Phnom Penh'}
+{'statement': 'Between Los Angeles and Anchorage, the city with a larger population is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Anchorage'}
+{'statement': 'Between Fukuoka and Tauranga, the city with a larger population is Fukuoka.', 'answer': 'Fukuoka', 'candidate': 'Tauranga'}
+{'statement': 'Between Sydney and San Antonio, the city with a larger population is Sydney.', 'answer': 'Sydney', 'candidate': 'San Antonio'}
+{'statement': 'Between Moscow and Florianópolis, the city with a larger population is Moscow.', 'answer': 'Moscow', 'candidate': 'Florianópolis'}
+{'statement': 'Between Riyadh and Asmara, the city with a larger population is Riyadh.', 'answer': 'Riyadh', 'candidate': 'Asmara'}
+{'statement': 'Between Houston and Lake Havasu City, the city with a larger population is Houston.', 'answer': 'Houston', 'candidate': 'Lake Havasu City'}
+{'statement': 'Between Minneapolis and Nakhon Ratchasima, the city with a larger population is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Nakhon Ratchasima'}
+{'statement': 'Between Houston and Bahía Blanca, the city with a larger population is Houston.', 'answer': 'Houston', 'candidate': 'Bahía Blanca'}
+{'statement': 'Between Moscow and Dodoma, the city with a larger population is Moscow.', 'answer': 'Moscow', 'candidate': 'Dodoma'}
+{'statement': 'Between Minneapolis and Santiago del Estero, the city with a larger population is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Santiago del Estero'}
+{'statement': 'Between Manila and Baltimore, the city with a larger population is Manila.', 'answer': 'Manila', 'candidate': 'Baltimore'}
+{'statement': 'Between Alexandria and Palmerston North, the city with a larger population is Alexandria.', 'answer': 'Alexandria', 'candidate': 'Palmerston North'}
+{'statement': 'Between Buenos Aires and Pittsburgh, the city with a larger population is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Pittsburgh'}
+{'statement': 'Between Tampa and Chihuahua, the city with a larger population is Tampa.', 'answer': 'Tampa', 'candidate': 'Chihuahua'}
+{'statement': 'Between Beijing and Ndola, the city with a larger population is Beijing.', 'answer': 'Beijing', 'candidate': 'Ndola'}
+{'statement': 'Between Ankara and Parakou, the city with a larger population is Ankara.', 'answer': 'Ankara', 'candidate': 'Parakou'}
+{'statement': 'Between London and Mahajanga, the city with a larger population is London.', 'answer': 'London', 'candidate': 'Mahajanga'}
+{'statement': 'Between Bangkok and Kampala, the city with a larger population is Bangkok.', 'answer': 'Bangkok', 'candidate': 'Kampala'}
+{'statement': 'Between Beijing and Guadalajara, the city with a larger population is Beijing.', 'answer': 'Beijing', 'candidate': 'Guadalajara'}
+{'statement': 'Between Monterrey and Frankfurt, the city with a larger population is Monterrey.', 'answer': 'Monterrey', 'candidate': 'Frankfurt'}
+{'statement': 'Between Cairo and Aden, the city with a larger population is Cairo.', 'answer': 'Cairo', 'candidate': 'Aden'}
+{'statement': 'Between London and Punta Arenas, the city with a larger population is London.', 'answer': 'London', 'candidate': 'Punta Arenas'}
+{'statement': 'Between Harare and Toliara, the city with a larger population is Harare.', 'answer': 'Harare', 'candidate': 'Toliara'}
+{'statement': 'Between Beijing and Baghdad, the city with a larger population is Beijing.', 'answer': 'Beijing', 'candidate': 'Baghdad'}
+{'statement': 'Between Bogotá and Christchurch, the city with a larger population is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Christchurch'}
+{'statement': 'Between Ankara and Halifax, the city with a larger population is Ankara.', 'answer': 'Ankara', 'candidate': 'Halifax'}
+{'statement': 'Between Toronto and Kansas City, the city with a larger population is Toronto.', 'answer': 'Toronto', 'candidate': 'Kansas City'}
+{'statement': 'Between Brasília and Valencia, the city with a larger population is Brasília.', 'answer': 'Brasília', 'candidate': 'Valencia'}
+{'statement': 'Between Minneapolis and Entebbe, the city with a larger population is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Entebbe'}
+{'statement': 'Between Phoenix and Toamasina, the city with a larger population is Phoenix.', 'answer': 'Phoenix', 'candidate': 'Toamasina'}
+{'statement': 'Between Phoenix and Erbil, the city with a larger population is Phoenix.', 'answer': 'Phoenix', 'candidate': 'Erbil'}
+{'statement': 'Between Ho Chi Minh City and Anchorage, the city with a larger population is Ho Chi Minh City.', 'answer': 'Ho Chi Minh City', 'candidate': 'Anchorage'}
+{'statement': 'Between Bangkok and San José, the city with a larger population is Bangkok.', 'answer': 'Bangkok', 'candidate': 'San José'}
+{'statement': 'Between Chicago and Baghdad, the city with a larger population is Chicago.', 'answer': 'Chicago', 'candidate': 'Baghdad'}
+{'statement': 'Between Lagos and La Serena, the city with a larger population is Lagos.', 'answer': 'Lagos', 'candidate': 'La Serena'}
+{'statement': 'Between Tampa and Panama City, the city with a larger population is Tampa.', 'answer': 'Tampa', 'candidate': 'Panama City'}
+{'statement': 'Between Lagos and Erzurum, the city with a larger population is Lagos.', 'answer': 'Lagos', 'candidate': 'Erzurum'}
+{'statement': 'Between Lagos and Saint Petersburg, the city with a larger population is Lagos.', 'answer': 'Lagos', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Lahore and Conakry, the city with a larger population is Lahore.', 'answer': 'Lahore', 'candidate': 'Conakry'}
+{'statement': 'Between Baghdad and Fukuoka, the city with a larger population is Baghdad.', 'answer': 'Baghdad', 'candidate': 'Fukuoka'}
+{'statement': 'Between Toronto and Harare, the city with a larger population is Toronto.', 'answer': 'Toronto', 'candidate': 'Harare'}
+{'statement': 'Between Houston and Hat Yai, the city with a larger population is Houston.', 'answer': 'Houston', 'candidate': 'Hat Yai'}
+{'statement': 'Between Buenos Aires and Beirut, the city with a larger population is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Beirut'}
+{'statement': 'Between Lagos and Vienna, the city with a larger population is Lagos.', 'answer': 'Lagos', 'candidate': 'Vienna'}
+{'statement': 'Between London and Berlin, the city with a larger population is London.', 'answer': 'London', 'candidate': 'Berlin'}
+{'statement': 'Between Mexico City and Bucharest, the city with a larger population is Mexico City.', 'answer': 'Mexico City', 'candidate': 'Bucharest'}
+{'statement': 'Between Kuwait City and Tamanrasset, the city with a larger population is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Tamanrasset'}
+{'statement': 'Between Cairo and Piura, the city with a larger population is Cairo.', 'answer': 'Cairo', 'candidate': 'Piura'}
+{'statement': 'Between San Diego and Campos do Jordão, the city with a larger population is San Diego.', 'answer': 'San Diego', 'candidate': 'Campos do Jordão'}
+{'statement': 'Between Brisbane and Canberra, the city with a larger population is Brisbane.', 'answer': 'Brisbane', 'candidate': 'Canberra'}
+{'statement': 'Between Tampa and Dodoma, the city with a larger population is Tampa.', 'answer': 'Tampa', 'candidate': 'Dodoma'}
+{'statement': 'Between Lagos and Nur-Sultan, the city with a larger population is Lagos.', 'answer': 'Lagos', 'candidate': 'Nur-Sultan'}
+{'statement': 'Between Manila and Sucre, the city with a larger population is Manila.', 'answer': 'Manila', 'candidate': 'Sucre'}
+{'statement': 'Between Berlin and Denpasar, the city with a larger population is Berlin.', 'answer': 'Berlin', 'candidate': 'Denpasar'}
+{'statement': 'Between Yaoundé and Boise, the city with a larger population is Yaoundé.', 'answer': 'Yaoundé', 'candidate': 'Boise'}
+{'statement': 'Between Karachi and Kathmandu, the city with a larger population is Karachi.', 'answer': 'Karachi', 'candidate': 'Kathmandu'}
+{'statement': 'Between Lahore and Almaty, the city with a larger population is Lahore.', 'answer': 'Lahore', 'candidate': 'Almaty'}
+{'statement': 'Between Ho Chi Minh City and La Ceiba, the city with a larger population is Ho Chi Minh City.', 'answer': 'Ho Chi Minh City', 'candidate': 'La Ceiba'}
+{'statement': 'Between Denver and Anchorage, the city with a larger population is Denver.', 'answer': 'Denver', 'candidate': 'Anchorage'}
+{'statement': 'Between Lima and Kathmandu, the city with a larger population is Lima.', 'answer': 'Lima', 'candidate': 'Kathmandu'}
+{'statement': 'Between Riyadh and Beirut, the city with a larger population is Riyadh.', 'answer': 'Riyadh', 'candidate': 'Beirut'}
+{'statement': 'Between Los Angeles and Lisbon, the city with a larger population is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Lisbon'}
+{'statement': 'Between Buenos Aires and Sapporo, the city with a larger population is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Sapporo'}
+{'statement': 'Between Monterrey and Tamanrasset, the city with a larger population is Monterrey.', 'answer': 'Monterrey', 'candidate': 'Tamanrasset'}
+{'statement': 'Between London and Beirut, the city with a larger population is London.', 'answer': 'London', 'candidate': 'Beirut'}
+{'statement': 'Between Riyadh and Darwin, the city with a larger population is Riyadh.', 'answer': 'Riyadh', 'candidate': 'Darwin'}
+{'statement': 'Between Nairobi and Lviv, the city with a larger population is Nairobi.', 'answer': 'Nairobi', 'candidate': 'Lviv'}
+{'statement': 'Between Chicago and Panama City, the city with a larger population is Chicago.', 'answer': 'Chicago', 'candidate': 'Panama City'}
+{'statement': 'Between Ho Chi Minh City and Viedma, the city with a larger population is Ho Chi Minh City.', 'answer': 'Ho Chi Minh City', 'candidate': 'Viedma'}
+{'statement': 'Between Saint Petersburg and Bergen, the city with a larger population is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Bergen'}
+{'statement': 'Between Minneapolis and Oslo, the city with a larger population is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Oslo'}
+{'statement': 'Between Saint Petersburg and Benghazi, the city with a larger population is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Benghazi'}
+{'statement': 'Between Tampa and Bata, the city with a larger population is Tampa.', 'answer': 'Tampa', 'candidate': 'Bata'}
+{'statement': 'Between Sydney and Viedma, the city with a larger population is Sydney.', 'answer': 'Sydney', 'candidate': 'Viedma'}
+{'statement': 'Between Yaoundé and Port Moresby, the city with a larger population is Yaoundé.', 'answer': 'Yaoundé', 'candidate': 'Port Moresby'}
+{'statement': 'Between Los Angeles and Indianapolis, the city with a larger population is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Indianapolis'}
+{'statement': 'Between Moscow and Yakutsk, the city with a larger population is Moscow.', 'answer': 'Moscow', 'candidate': 'Yakutsk'}
+{'statement': 'Between Lagos and Kingston, the city with a larger population is Lagos.', 'answer': 'Lagos', 'candidate': 'Kingston'}
+{'statement': 'Between Buenos Aires and Rosario, the city with a larger population is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Rosario'}
+{'statement': 'Between Addis Ababa and Copenhagen, the city with a larger population is Addis Ababa.', 'answer': 'Addis Ababa', 'candidate': 'Copenhagen'}
+{'statement': 'Between Guangzhou and Addis Ababa, the city with a larger population is Guangzhou.', 'answer': 'Guangzhou', 'candidate': 'Addis Ababa'}
+{'statement': 'Between Mexico City and Calgary, the city with a larger population is Mexico City.', 'answer': 'Mexico City', 'candidate': 'Calgary'}
+{'statement': 'Between Johannesburg and San Juan, the city with a larger population is Johannesburg.', 'answer': 'Johannesburg', 'candidate': 'San Juan'}
+{'statement': 'Between Houston and Viedma, the city with a larger population is Houston.', 'answer': 'Houston', 'candidate': 'Viedma'}
+{'statement': 'Between Algiers and Villahermosa, the city with a larger population is Algiers.', 'answer': 'Algiers', 'candidate': 'Villahermosa'}
+{'statement': 'Between Monterrey and Hat Yai, the city with a larger population is Monterrey.', 'answer': 'Monterrey', 'candidate': 'Hat Yai'}
+{'statement': 'Between Kuwait City and Reykjavík, the city with a larger population is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Reykjavík'}
+{'statement': 'Between Jakarta and Minsk, the city with a larger population is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Minsk'}
+{'statement': 'Between Dar es Salaam and Omaha, the city with a larger population is Dar es Salaam.', 'answer': 'Dar es Salaam', 'candidate': 'Omaha'}
+{'statement': 'Between Baghdad and Frankfurt, the city with a larger population is Baghdad.', 'answer': 'Baghdad', 'candidate': 'Frankfurt'}
+{'statement': 'Between Denver and Makurdi, the city with a larger population is Denver.', 'answer': 'Denver', 'candidate': 'Makurdi'}
+{'statement': 'Between Bangkok and Medellín, the city with a larger population is Bangkok.', 'answer': 'Bangkok', 'candidate': 'Medellín'}
+{'statement': 'Between Lagos and Toluca, the city with a larger population is Lagos.', 'answer': 'Lagos', 'candidate': 'Toluca'}
+{'statement': 'Between Riyadh and Sacramento, the city with a larger population is Riyadh.', 'answer': 'Riyadh', 'candidate': 'Sacramento'}
+{'statement': 'Between San Diego and Upington, the city with a larger population is San Diego.', 'answer': 'San Diego', 'candidate': 'Upington'}
+{'statement': 'Between Monterrey and Palembang, the city with a larger population is Monterrey.', 'answer': 'Monterrey', 'candidate': 'Palembang'}
+{'statement': 'Between Alexandria and Mombasa, the city with a larger population is Alexandria.', 'answer': 'Alexandria', 'candidate': 'Mombasa'}
+{'statement': 'Between Denver and San Juan, the city with a larger population is Denver.', 'answer': 'Denver', 'candidate': 'San Juan'}
+{'statement': 'Between Berlin and Sokoto, the city with a larger population is Berlin.', 'answer': 'Berlin', 'candidate': 'Sokoto'}
+{'statement': 'Between Beijing and Albuquerque, the city with a larger population is Beijing.', 'answer': 'Beijing', 'candidate': 'Albuquerque'}
+{'statement': 'Between Lagos and San Salvador, the city with a larger population is Lagos.', 'answer': 'Lagos', 'candidate': 'San Salvador'}
+{'statement': 'Between Saint Petersburg and Douala, the city with a larger population is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Douala'}
+{'statement': 'Between Buenos Aires and Garoua, the city with a larger population is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Garoua'}
+{'statement': 'Between Bogotá and San Diego, the city with a larger population is Bogotá.', 'answer': 'Bogotá', 'candidate': 'San Diego'}
+{'statement': 'Between Brisbane and Cabo San Lucas, the city with a larger population is Brisbane.', 'answer': 'Brisbane', 'candidate': 'Cabo San Lucas'}
+{'statement': 'Between Lahore and San Juan, the city with a larger population is Lahore.', 'answer': 'Lahore', 'candidate': 'San Juan'}
+{'statement': 'Between Jakarta and Monterrey, the city with a larger population is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Monterrey'}
+{'statement': 'Between Saint Petersburg and Toluca, the city with a larger population is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Toluca'}
+{'statement': 'Between Hanoi and Yinchuan, the city with a larger population is Hanoi.', 'answer': 'Hanoi', 'candidate': 'Yinchuan'}
+{'statement': 'Between Sydney and Nouakchott, the city with a larger population is Sydney.', 'answer': 'Sydney', 'candidate': 'Nouakchott'}
+{'statement': 'Between Manila and Damascus, the city with a larger population is Manila.', 'answer': 'Manila', 'candidate': 'Damascus'}
+{'statement': 'Between Mexico City and Copenhagen, the city with a larger population is Mexico City.', 'answer': 'Mexico City', 'candidate': 'Copenhagen'}
+{'statement': 'Between Saint Petersburg and Panama City, the city with a larger population is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Panama City'}
+{'statement': 'Between London and Tucson, the city with a larger population is London.', 'answer': 'London', 'candidate': 'Tucson'}
+{'statement': 'Between Guadalajara and Bergen, the city with a larger population is Guadalajara.', 'answer': 'Guadalajara', 'candidate': 'Bergen'}
+{'statement': 'Between Brisbane and Palmerston North, the city with a larger population is Brisbane.', 'answer': 'Brisbane', 'candidate': 'Palmerston North'}
+{'statement': 'Between Houston and Brasília, the city with a larger population is Houston.', 'answer': 'Houston', 'candidate': 'Brasília'}
+{'statement': 'Between Johannesburg and Ushuaia, the city with a larger population is Johannesburg.', 'answer': 'Johannesburg', 'candidate': 'Ushuaia'}
+{'statement': 'Between Rome and Punta Arenas, the city with a larger population is Rome.', 'answer': 'Rome', 'candidate': 'Punta Arenas'}
+{'statement': 'Between San Diego and Malabo, the city with a larger population is San Diego.', 'answer': 'San Diego', 'candidate': 'Malabo'}
+{'statement': 'Between Hanoi and Piura, the city with a larger population is Hanoi.', 'answer': 'Hanoi', 'candidate': 'Piura'}
+{'statement': 'Between Phoenix and Cayenne, the city with a larger population is Phoenix.', 'answer': 'Phoenix', 'candidate': 'Cayenne'}
+{'statement': 'Between Surabaya and San Antonio, the city with a larger population is Surabaya.', 'answer': 'Surabaya', 'candidate': 'San Antonio'}
+{'statement': 'Between Shanghai and Kabul, the city with a larger population is Shanghai.', 'answer': 'Shanghai', 'candidate': 'Kabul'}
+{'statement': 'Between Lagos and Lhasa, the city with a larger population is Lagos.', 'answer': 'Lagos', 'candidate': 'Lhasa'}
+{'statement': 'Between Bogotá and Baltimore, the city with a larger population is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Baltimore'}
+{'statement': 'Between London and Palmerston North, the city with a larger population is London.', 'answer': 'London', 'candidate': 'Palmerston North'}
+{'statement': 'Between Cairo and Muscat, the city with a larger population is Cairo.', 'answer': 'Cairo', 'candidate': 'Muscat'}
+{'statement': 'Between Surabaya and Ljubljana, the city with a larger population is Surabaya.', 'answer': 'Surabaya', 'candidate': 'Ljubljana'}
+{'statement': 'Between Saint Petersburg and Vienna, the city with a larger population is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Vienna'}
+{'statement': 'Between Jakarta and Houston, the city with a larger population is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Houston'}
+{'statement': 'Between Douala and Tabora, the city with a larger population is Douala.', 'answer': 'Douala', 'candidate': 'Tabora'}
+{'statement': 'Between Ho Chi Minh City and Podgorica, the city with a larger population is Ho Chi Minh City.', 'answer': 'Ho Chi Minh City', 'candidate': 'Podgorica'}
+{'statement': 'Between Los Angeles and Durban, the city with a larger population is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Durban'}
+{'statement': 'Between Alexandria and Napier, the city with a larger population is Alexandria.', 'answer': 'Alexandria', 'candidate': 'Napier'}
+{'statement': 'Between Nairobi and Nakhon Ratchasima, the city with a larger population is Nairobi.', 'answer': 'Nairobi', 'candidate': 'Nakhon Ratchasima'}
+{'statement': 'Between Johannesburg and Tauranga, the city with a larger population is Johannesburg.', 'answer': 'Johannesburg', 'candidate': 'Tauranga'}
+{'statement': 'Between Rome and Palmerston North, the city with a larger population is Rome.', 'answer': 'Rome', 'candidate': 'Palmerston North'}
+{'statement': 'Between Johannesburg and Mombasa, the city with a larger population is Johannesburg.', 'answer': 'Johannesburg', 'candidate': 'Mombasa'}
+{'statement': 'Between San Diego and Toamasina, the city with a larger population is San Diego.', 'answer': 'San Diego', 'candidate': 'Toamasina'}
+{'statement': 'Between Mexico City and Omaha, the city with a larger population is Mexico City.', 'answer': 'Mexico City', 'candidate': 'Omaha'}
+{'statement': 'Between Ürümqi and Kuopio, the city with a larger population is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'Kuopio'}
+{'statement': 'Between Jakarta and San Antonio, the city with a larger population is Jakarta.', 'answer': 'Jakarta', 'candidate': 'San Antonio'}
+{'statement': 'Between Jakarta and Lagos, the city with a larger population is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Lagos'}
+{'statement': 'Between Moscow and La Paz, the city with a larger population is Moscow.', 'answer': 'Moscow', 'candidate': 'La Paz'}
+{'statement': 'Between Toronto and Bratislava, the city with a larger population is Toronto.', 'answer': 'Toronto', 'candidate': 'Bratislava'}
+{'statement': 'Between Kano and Ushuaia, the city with a larger population is Kano.', 'answer': 'Kano', 'candidate': 'Ushuaia'}
+{'statement': 'Between Guadalajara and Denpasar, the city with a larger population is Guadalajara.', 'answer': 'Guadalajara', 'candidate': 'Denpasar'}
+{'statement': 'Between Kabul and Omaha, the city with a larger population is Kabul.', 'answer': 'Kabul', 'candidate': 'Omaha'}
+{'statement': 'Between Cairo and Omaha, the city with a larger population is Cairo.', 'answer': 'Cairo', 'candidate': 'Omaha'}

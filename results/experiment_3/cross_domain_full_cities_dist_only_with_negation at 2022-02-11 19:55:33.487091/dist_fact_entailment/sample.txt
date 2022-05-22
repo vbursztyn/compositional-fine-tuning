@@ -1,0 +1,200 @@
+{'statement': 'Between Cantine Bar & Grill and Eggspectation, the nearest restaurant is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Eggspectation'}
+{'statement': 'Between Supermodel Pizza and Nook, the nearest restaurant is Supermodel Pizza.', 'answer': 'Supermodel Pizza', 'candidate': 'Nook'}
+{'statement': 'Between La Pupusa Loka and Cafe Jules, the nearest restaurant is La Pupusa Loka.', 'answer': 'La Pupusa Loka', 'candidate': 'Cafe Jules'}
+{'statement': 'Between St. Clair Shawarma and Falafel and Sushi World, the nearest restaurant is Sushi World.', 'answer': 'Sushi World', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "Between New Bilan Restaurant and Warung Indonesia D'Eglinton, the nearest restaurant is Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'New Bilan Restaurant'}
+{'statement': 'Between Cafe Jules and Breakfast Room, the nearest restaurant is Breakfast Room.', 'answer': 'Breakfast Room', 'candidate': 'Cafe Jules'}
+{'statement': 'Between 9 Restaurant and Green Grotto, the nearest restaurant is Green Grotto.', 'answer': 'Green Grotto', 'candidate': '9 Restaurant'}
+{'statement': "Between Carole's Cheesecake Cafe and Just Soups Take Out & Catering, the nearest restaurant is Just Soups Take Out & Catering.", 'answer': 'Just Soups Take Out & Catering', 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': 'Between To-ne Sushi and El Fogón, the nearest restaurant is El Fogón.', 'answer': 'El Fogón', 'candidate': 'To-ne Sushi'}
+{'statement': 'Between Green Grotto and Edible Arrangements, the nearest restaurant is Green Grotto.', 'answer': 'Green Grotto', 'candidate': 'Edible Arrangements'}
+{'statement': 'Between Daily Press Juicery and FreshCo, the nearest restaurant is Daily Press Juicery.', 'answer': 'Daily Press Juicery', 'candidate': 'FreshCo'}
+{'statement': 'Between Eggspectation and Solero Mediterranean Bakery, the nearest restaurant is Solero Mediterranean Bakery.', 'answer': 'Solero Mediterranean Bakery', 'candidate': 'Eggspectation'}
+{'statement': "Between McDonald's and Smoke's Weinerie, the nearest restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': "Smoke's Weinerie"}
+{'statement': 'Between St. Louis Bar & Grill and Verona Restaurant, the nearest restaurant is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Verona Restaurant'}
+{'statement': 'Between La Cocina De Dona Luz and The Coffee Pocket, the nearest restaurant is La Cocina De Dona Luz.', 'answer': 'La Cocina De Dona Luz', 'candidate': 'The Coffee Pocket'}
+{'statement': "Between Milo's Pita and Oxygen Restaurant & Lounge, the nearest restaurant is Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': 'Between Adega Restaurante and Maurya East Indian Roti, the nearest restaurant is Maurya East Indian Roti.', 'answer': 'Maurya East Indian Roti', 'candidate': 'Adega Restaurante'}
+{'statement': 'Between Tian An Cuisine and Green Room, the nearest restaurant is Tian An Cuisine.', 'answer': 'Tian An Cuisine', 'candidate': 'Green Room'}
+{'statement': "Between Queen Slice and Dinah's Cupboard, the nearest restaurant is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Queen Slice'}
+{'statement': 'Between Adega Restaurante and Breakfast Room, the nearest restaurant is Breakfast Room.', 'answer': 'Breakfast Room', 'candidate': 'Adega Restaurante'}
+{'statement': 'Between Amaya Express and Verona Restaurant, the nearest restaurant is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'Verona Restaurant'}
+{'statement': 'Between The Empire and 9 Restaurant, the nearest restaurant is The Empire.', 'answer': 'The Empire', 'candidate': '9 Restaurant'}
+{'statement': 'Between Mirage Grill & Lounge and Evoo Ristorante, the nearest restaurant is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': "Between Cake Opera and Warung Indonesia D'Eglinton, the nearest restaurant is Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Cake Opera'}
+{'statement': 'Between Sushi World and Freshii, the nearest restaurant is Sushi World.', 'answer': 'Sushi World', 'candidate': 'Freshii'}
+{'statement': 'Between Fit For Life and Cake Opera, the nearest restaurant is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'Cake Opera'}
+{'statement': 'Between Kim PO Vietnamese and Eggspectation, the nearest restaurant is Kim PO Vietnamese.', 'answer': 'Kim PO Vietnamese', 'candidate': 'Eggspectation'}
+{'statement': "Between Pizza Pizza and Phil's Original BBQ, the nearest restaurant is Pizza Pizza.", 'answer': 'Pizza Pizza', 'candidate': "Phil's Original BBQ"}
+{'statement': "Between Domino's Pizza and Tim Hortons, the nearest restaurant is Tim Hortons.", 'answer': 'Tim Hortons', 'candidate': "Domino's Pizza"}
+{'statement': 'Between z-teca Gourmet Burritos and Lebanese Bakery, the nearest restaurant is Lebanese Bakery.', 'answer': 'Lebanese Bakery', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': 'Between Sushi Shop and Thompson Rooftop, the nearest restaurant is Sushi Shop.', 'answer': 'Sushi Shop', 'candidate': 'Thompson Rooftop'}
+{'statement': "Between Banjara Indian Cuisine and Milo's Pita, the nearest restaurant is Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Banjara Indian Cuisine'}
+{'statement': 'Between Fit For Life and Freshii, the nearest restaurant is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'Freshii'}
+{'statement': 'Between Supermodel Pizza and Queen Pita, the nearest restaurant is Supermodel Pizza.', 'answer': 'Supermodel Pizza', 'candidate': 'Queen Pita'}
+{'statement': "Between Harry's Char Broil & Dining Lounge and Ciao Europa wine bar, the nearest restaurant is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Ciao Europa wine bar'}
+{'statement': 'Between Tik Talk Cafe and JJ Bean, the nearest restaurant is Tik Talk Cafe.', 'answer': 'Tik Talk Cafe', 'candidate': 'JJ Bean'}
+{'statement': 'Between 9 Restaurant and Pizzeria Via Mercanti, the nearest restaurant is 9 Restaurant.', 'answer': '9 Restaurant', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "Between Milo's Pita and Top Sushi, the nearest restaurant is Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Top Sushi'}
+{'statement': 'Between Pisco 1641 and St. Clair Shawarma and Falafel, the nearest restaurant is Pisco 1641.', 'answer': 'Pisco 1641', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "Between McDonald's and Green Grotto, the nearest restaurant is Green Grotto.", 'answer': 'Green Grotto', 'candidate': "McDonald's"}
+{'statement': 'Between Taste of Greek Cuisine and Tian An Cuisine, the nearest restaurant is Tian An Cuisine.', 'answer': 'Tian An Cuisine', 'candidate': 'Taste of Greek Cuisine'}
+{'statement': 'Between Freshii and Scaddabush Italian Kitchen & Bar, the nearest restaurant is Scaddabush Italian Kitchen & Bar.', 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Freshii'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Ici Bistro, the nearest restaurant is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Ici Bistro'}
+{'statement': "Between Top Sushi and Phil's Original BBQ, the nearest restaurant is Top Sushi.", 'answer': 'Top Sushi', 'candidate': "Phil's Original BBQ"}
+{'statement': "Between Daily Press Juicery and Harvey's, the nearest restaurant is Daily Press Juicery.", 'answer': 'Daily Press Juicery', 'candidate': "Harvey's"}
+{'statement': 'Between Basil Express Restaurant and Eastern legend, the nearest restaurant is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'Eastern legend'}
+{'statement': 'Between Tik Talk Cafe and Popeyes Louisiana Kitchen, the nearest restaurant is Tik Talk Cafe.', 'answer': 'Tik Talk Cafe', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': 'Between Bao Bao Plus Dim Sum and Topham Corner, the nearest restaurant is Bao Bao Plus Dim Sum.', 'answer': 'Bao Bao Plus Dim Sum', 'candidate': 'Topham Corner'}
+{'statement': "Between New Bilan Restaurant and McDonald's, the nearest restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'New Bilan Restaurant'}
+{'statement': 'Between Amaya Express and LCBO, the nearest restaurant is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'LCBO'}
+{'statement': "Between Joe Badali's Ristorante Italiano & Bar and Amaya Express, the nearest restaurant is Amaya Express.", 'answer': 'Amaya Express', 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': "Between Harvey's and Supermodel Pizza, the nearest restaurant is Supermodel Pizza.", 'answer': 'Supermodel Pizza', 'candidate': "Harvey's"}
+{'statement': 'Between Green Room and Milestones Restaurants, the nearest restaurant is Milestones Restaurants.', 'answer': 'Milestones Restaurants', 'candidate': 'Green Room'}
+{'statement': 'Between Mirage Grill & Lounge and Delicious Paradise Kitchen, the nearest restaurant is Delicious Paradise Kitchen.', 'answer': 'Delicious Paradise Kitchen', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': "Between Watson's and Beryl's Pepper Pot, the nearest restaurant is Watson's.", 'answer': "Watson's", 'candidate': "Beryl's Pepper Pot"}
+{'statement': 'Between Madras Pantry and Capitol Trattoria Pizzeria, the nearest restaurant is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': "Between Supermodel Pizza and Assembly Chef's Hall, the nearest restaurant is Supermodel Pizza.", 'answer': 'Supermodel Pizza', 'candidate': "Assembly Chef's Hall"}
+{'statement': "Between Nutella Cafe by Pusateri's and Sheriff Broaster Chicken, the nearest restaurant is Sheriff Broaster Chicken.", 'answer': 'Sheriff Broaster Chicken', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Bao Bao Plus Dim Sum and Fit For Life, the nearest restaurant is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': "Between Shawarma Twist and Harry's Char Broil & Dining Lounge, the nearest restaurant is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Shawarma Twist'}
+{'statement': "Between Assembly Chef's Hall and Sweet Jesus, the nearest restaurant is Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': "Assembly Chef's Hall"}
+{'statement': 'Between Modo Mio Italian Bistro and Green Grotto, the nearest restaurant is Green Grotto.', 'answer': 'Green Grotto', 'candidate': 'Modo Mio Italian Bistro'}
+{'statement': "Between It's All Grk and New Bilan Restaurant, the nearest restaurant is It's All Grk.", 'answer': "It's All Grk", 'candidate': 'New Bilan Restaurant'}
+{'statement': "Between Chipotle Mexican Grill and Helena's Magic Kitchen, the nearest restaurant is Chipotle Mexican Grill.", 'answer': 'Chipotle Mexican Grill', 'candidate': "Helena's Magic Kitchen"}
+{'statement': "Between Dangerous Dan's Diner and Mt Everest Restaurant, the nearest restaurant is Dangerous Dan's Diner.", 'answer': "Dangerous Dan's Diner", 'candidate': 'Mt Everest Restaurant'}
+{'statement': 'Between The Coffee Pocket and Branca, the nearest restaurant is Branca.', 'answer': 'Branca', 'candidate': 'The Coffee Pocket'}
+{'statement': "Between Marcello’s pizzeria and Phil's Original BBQ, the nearest restaurant is Marcello’s pizzeria.", 'answer': 'Marcello’s pizzeria', 'candidate': "Phil's Original BBQ"}
+{'statement': 'Between Hina Sushi and Verona Restaurant, the nearest restaurant is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Hina Sushi'}
+{'statement': "Between Dinah's Cupboard and Hina Sushi, the nearest restaurant is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Hina Sushi'}
+{'statement': "Between McDonald's and Hina Sushi, the nearest restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'Hina Sushi'}
+{'statement': 'Between To-ne Sushi and Thompson Rooftop, the nearest restaurant is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'To-ne Sushi'}
+{'statement': 'Between Tian An Cuisine and To-ne Sushi, the nearest restaurant is Tian An Cuisine.', 'answer': 'Tian An Cuisine', 'candidate': 'To-ne Sushi'}
+{'statement': 'Between Milestones Restaurants and Galata Cafe, the nearest restaurant is Milestones Restaurants.', 'answer': 'Milestones Restaurants', 'candidate': 'Galata Cafe'}
+{'statement': 'Between Hina Sushi and La Cocina De Dona Luz, the nearest restaurant is La Cocina De Dona Luz.', 'answer': 'La Cocina De Dona Luz', 'candidate': 'Hina Sushi'}
+{'statement': "Between Lahore Grill & Fast Food and Beryl's Pepper Pot, the nearest restaurant is Lahore Grill & Fast Food.", 'answer': 'Lahore Grill & Fast Food', 'candidate': "Beryl's Pepper Pot"}
+{'statement': "Between Breakfast Room and Smoke's Weinerie, the nearest restaurant is Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': "Smoke's Weinerie"}
+{'statement': "Between Smoke's Weinerie and Madras Pantry, the nearest restaurant is Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': "Smoke's Weinerie"}
+{'statement': 'Between Cafe Jules and Basil Express Restaurant, the nearest restaurant is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'Cafe Jules'}
+{'statement': "Between Scaddabush Italian Kitchen & Bar and Helena's Magic Kitchen, the nearest restaurant is Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': "Helena's Magic Kitchen"}
+{'statement': 'Between KFC and Fitness Avenue, the nearest restaurant is KFC.', 'answer': 'KFC', 'candidate': 'Fitness Avenue'}
+{'statement': 'Between Chick Fiesta and Queen Slice, the nearest restaurant is Chick Fiesta.', 'answer': 'Chick Fiesta', 'candidate': 'Queen Slice'}
+{'statement': 'Between Bonne Journee and La Pupusa Loka, the nearest restaurant is La Pupusa Loka.', 'answer': 'La Pupusa Loka', 'candidate': 'Bonne Journee'}
+{'statement': 'Between Capitol Trattoria Pizzeria and Taste of Greek Cuisine, the nearest restaurant is Taste of Greek Cuisine.', 'answer': 'Taste of Greek Cuisine', 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': 'Between Queen Slice and La Pupusa Loka, the nearest restaurant is La Pupusa Loka.', 'answer': 'La Pupusa Loka', 'candidate': 'Queen Slice'}
+{'statement': 'Between Magic Oven and Marcello’s pizzeria, the nearest restaurant is Marcello’s pizzeria.', 'answer': 'Marcello’s pizzeria', 'candidate': 'Magic Oven'}
+{'statement': 'Between Pho 88 and Hapa Toronto, the nearest restaurant is Hapa Toronto.', 'answer': 'Hapa Toronto', 'candidate': 'Pho 88'}
+{'statement': 'Between Bonne Journee and Tortería San Cosme, the nearest restaurant is Tortería San Cosme.', 'answer': 'Tortería San Cosme', 'candidate': 'Bonne Journee'}
+{'statement': 'Between Evoo Ristorante and To-ne Sushi, the nearest restaurant is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'To-ne Sushi'}
+{'statement': "Between Smoke's Weinerie and Anatolia Restaurant, the nearest restaurant is Anatolia Restaurant.", 'answer': 'Anatolia Restaurant', 'candidate': "Smoke's Weinerie"}
+{'statement': "Between Adega Restaurante and Domino's Pizza, the nearest restaurant is Adega Restaurante.", 'answer': 'Adega Restaurante', 'candidate': "Domino's Pizza"}
+{'statement': "Between Lahore Grill & Fast Food and Assembly Chef's Hall, the nearest restaurant is Lahore Grill & Fast Food.", 'answer': 'Lahore Grill & Fast Food', 'candidate': "Assembly Chef's Hall"}
+{'statement': "Between Mirage Grill & Lounge and Watson's, the nearest restaurant is Watson's.", 'answer': "Watson's", 'candidate': 'Mirage Grill & Lounge'}
+{'statement': "Between Harvey's and Nutella Cafe by Pusateri's, the nearest restaurant is Harvey's.", 'answer': "Harvey's", 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Ardor Bistro and Ici Bistro, the nearest restaurant is Ardor Bistro.', 'answer': 'Ardor Bistro', 'candidate': 'Ici Bistro'}
+{'statement': "Between Roncy's Bean and Lebanese Bakery, the nearest restaurant is Lebanese Bakery.", 'answer': 'Lebanese Bakery', 'candidate': "Roncy's Bean"}
+{'statement': 'Between Cafe Jules and Goldstone Noodle Restaurant, the nearest restaurant is Goldstone Noodle Restaurant.', 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'Cafe Jules'}
+{'statement': 'Between Cake Opera and Juice & Java Cafe, the nearest restaurant is Juice & Java Cafe.', 'answer': 'Juice & Java Cafe', 'candidate': 'Cake Opera'}
+{'statement': 'Between Queen Slice and Branca, the nearest restaurant is Branca.', 'answer': 'Branca', 'candidate': 'Queen Slice'}
+{'statement': 'Between Tierra Azteca and Basil Express Restaurant, the nearest restaurant is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'Tierra Azteca'}
+{'statement': "Between Delicious Paradise Kitchen and Domino's Pizza, the nearest restaurant is Delicious Paradise Kitchen.", 'answer': 'Delicious Paradise Kitchen', 'candidate': "Domino's Pizza"}
+{'statement': 'Between Madras Pantry and Pasta Pantry, the nearest restaurant is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'Pasta Pantry'}
+{'statement': 'Between Sheriff Broaster Chicken and Freshii, the nearest restaurant is Sheriff Broaster Chicken.', 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Freshii'}
+{'statement': 'Between LCBO and Daily Press Juicery, the nearest restaurant is Daily Press Juicery.', 'answer': 'Daily Press Juicery', 'candidate': 'LCBO'}
+{'statement': "Between Amaya Express and Big Al's Diner, the nearest restaurant is Amaya Express.", 'answer': 'Amaya Express', 'candidate': "Big Al's Diner"}
+{'statement': "Between Cake Opera and Mamma's Pizza, the nearest restaurant is Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'Cake Opera'}
+{'statement': 'Between Tortería San Cosme and Freshii, the nearest restaurant is Tortería San Cosme.', 'answer': 'Tortería San Cosme', 'candidate': 'Freshii'}
+{'statement': "Between Harvey's and Lahore Grill & Fast Food, the nearest restaurant is Lahore Grill & Fast Food.", 'answer': 'Lahore Grill & Fast Food', 'candidate': "Harvey's"}
+{'statement': 'Between Tik Talk Cafe and Bagel Nash, the nearest restaurant is Tik Talk Cafe.', 'answer': 'Tik Talk Cafe', 'candidate': 'Bagel Nash'}
+{'statement': 'Between Cantine Bar & Grill and Bake Island, the nearest restaurant is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Bake Island'}
+{'statement': 'Between Pizza Pizza and Green Grotto, the nearest restaurant is Green Grotto.', 'answer': 'Green Grotto', 'candidate': 'Pizza Pizza'}
+{'statement': 'Between Fit For Life and Villa Madina, the nearest restaurant is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'Villa Madina'}
+{'statement': "Between Pizza Pizza and Roncy's Bean, the nearest restaurant is Pizza Pizza.", 'answer': 'Pizza Pizza', 'candidate': "Roncy's Bean"}
+{'statement': 'Between Bagel Nash and The Empire, the nearest restaurant is The Empire.', 'answer': 'The Empire', 'candidate': 'Bagel Nash'}
+{'statement': 'Between Sushi Shop and JJ Bean, the nearest restaurant is Sushi Shop.', 'answer': 'Sushi Shop', 'candidate': 'JJ Bean'}
+{'statement': 'Between Tik Talk Cafe and Ciao Europa wine bar, the nearest restaurant is Tik Talk Cafe.', 'answer': 'Tik Talk Cafe', 'candidate': 'Ciao Europa wine bar'}
+{'statement': 'Between Mt Everest Restaurant and Falafel Hut Village, the nearest restaurant is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "Between Harvey's and Amaya Express, the nearest restaurant is Amaya Express.", 'answer': 'Amaya Express', 'candidate': "Harvey's"}
+{'statement': 'Between z-teca Gourmet Burritos and Delicious Paradise Kitchen, the nearest restaurant is Delicious Paradise Kitchen.', 'answer': 'Delicious Paradise Kitchen', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': 'Between Breakfast Room and Capitol Trattoria Pizzeria, the nearest restaurant is Breakfast Room.', 'answer': 'Breakfast Room', 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': 'Between Tian An Cuisine and Popeyes Louisiana Kitchen, the nearest restaurant is Tian An Cuisine.', 'answer': 'Tian An Cuisine', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': 'Between Tian An Cuisine and Bake Island, the nearest restaurant is Tian An Cuisine.', 'answer': 'Tian An Cuisine', 'candidate': 'Bake Island'}
+{'statement': 'Between Itamae Ayce Sushi and Ici Bistro, the nearest restaurant is Itamae Ayce Sushi.', 'answer': 'Itamae Ayce Sushi', 'candidate': 'Ici Bistro'}
+{'statement': 'Between Galata Cafe and Pisco 1641, the nearest restaurant is Pisco 1641.', 'answer': 'Pisco 1641', 'candidate': 'Galata Cafe'}
+{'statement': 'Between New Bilan Restaurant and Tortería San Cosme, the nearest restaurant is Tortería San Cosme.', 'answer': 'Tortería San Cosme', 'candidate': 'New Bilan Restaurant'}
+{'statement': 'Between Juice & Java Cafe and Sweet Jesus, the nearest restaurant is Juice & Java Cafe.', 'answer': 'Juice & Java Cafe', 'candidate': 'Sweet Jesus'}
+{'statement': 'Between Bonne Journee and Thai 4 You Restaurant, the nearest restaurant is Thai 4 You Restaurant.', 'answer': 'Thai 4 You Restaurant', 'candidate': 'Bonne Journee'}
+{'statement': "Between Popeyes Louisiana Kitchen and Warung Indonesia D'Eglinton, the nearest restaurant is Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': 'Between Chipotle Mexican Grill and Sizzlers, the nearest restaurant is Chipotle Mexican Grill.', 'answer': 'Chipotle Mexican Grill', 'candidate': 'Sizzlers'}
+{'statement': 'Between Green Room and La Pupusa Loka, the nearest restaurant is La Pupusa Loka.', 'answer': 'La Pupusa Loka', 'candidate': 'Green Room'}
+{'statement': 'Between La Pupusa Loka and Hina Sushi, the nearest restaurant is La Pupusa Loka.', 'answer': 'La Pupusa Loka', 'candidate': 'Hina Sushi'}
+{'statement': "Between Roncy's Bean and Sushi World, the nearest restaurant is Sushi World.", 'answer': 'Sushi World', 'candidate': "Roncy's Bean"}
+{'statement': "Between Freshii and McDonald's, the nearest restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'Freshii'}
+{'statement': "Between Sweet Jesus and Big Al's Diner, the nearest restaurant is Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': "Big Al's Diner"}
+{'statement': 'Between Nook and Sushi World, the nearest restaurant is Sushi World.', 'answer': 'Sushi World', 'candidate': 'Nook'}
+{'statement': 'Between The Coffee Pocket and Basil Express Restaurant, the nearest restaurant is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'The Coffee Pocket'}
+{'statement': 'Between Thompson Rooftop and Tortería San Cosme, the nearest restaurant is Tortería San Cosme.', 'answer': 'Tortería San Cosme', 'candidate': 'Thompson Rooftop'}
+{'statement': 'Between The Duke of Devon and Hina Sushi, the nearest restaurant is The Duke of Devon.', 'answer': 'The Duke of Devon', 'candidate': 'Hina Sushi'}
+{'statement': "Between Joe Badali's Ristorante Italiano & Bar and Pisco 1641, the nearest restaurant is Pisco 1641.", 'answer': 'Pisco 1641', 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': 'Between Topham Corner and Pisco 1641, the nearest restaurant is Pisco 1641.', 'answer': 'Pisco 1641', 'candidate': 'Topham Corner'}
+{'statement': 'Between Amaya Express and Tim Hortons, the nearest restaurant is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'Tim Hortons'}
+{'statement': 'Between Just Soups Take Out & Catering and Fitness Avenue, the nearest restaurant is Just Soups Take Out & Catering.', 'answer': 'Just Soups Take Out & Catering', 'candidate': 'Fitness Avenue'}
+{'statement': 'Between St. Louis Bar & Grill and Hawthorne Food and Drink, the nearest restaurant is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': "Between Dinah's Cupboard and EJ Sushi, the nearest restaurant is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'EJ Sushi'}
+{'statement': 'Between Queen Pita and Lebanese Bakery, the nearest restaurant is Lebanese Bakery.', 'answer': 'Lebanese Bakery', 'candidate': 'Queen Pita'}
+{'statement': "Between Queen Slice and Harry's Char Broil & Dining Lounge, the nearest restaurant is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Queen Slice'}
+{'statement': 'Between Buk Chang Dong Soon Tofu and Branca, the nearest restaurant is Branca.', 'answer': 'Branca', 'candidate': 'Buk Chang Dong Soon Tofu'}
+{'statement': 'Between Falafel Hut Village and Ciao Europa wine bar, the nearest restaurant is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'Ciao Europa wine bar'}
+{'statement': "Between Dinah's Cupboard and Green Room, the nearest restaurant is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Green Room'}
+{'statement': 'Between Falafel Hut Village and Oxygen Restaurant & Lounge, the nearest restaurant is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': "Between St. Clair Shawarma and Falafel and McDonald's, the nearest restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': 'Between Eggspectation and Basha Middle Eastern Grill, the nearest restaurant is Basha Middle Eastern Grill.', 'answer': 'Basha Middle Eastern Grill', 'candidate': 'Eggspectation'}
+{'statement': 'Between Eggspectation and Thompson Rooftop, the nearest restaurant is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'Eggspectation'}
+{'statement': 'Between Tortería San Cosme and Aroma Espresso Bar, the nearest restaurant is Tortería San Cosme.', 'answer': 'Tortería San Cosme', 'candidate': 'Aroma Espresso Bar'}
+{'statement': 'Between Edible Arrangements and Cantine Bar & Grill, the nearest restaurant is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Edible Arrangements'}
+{'statement': 'Between Anatolia Restaurant and Bonne Journee, the nearest restaurant is Anatolia Restaurant.', 'answer': 'Anatolia Restaurant', 'candidate': 'Bonne Journee'}
+{'statement': "Between Hina Sushi and McDonald's, the nearest restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'Hina Sushi'}
+{'statement': 'Between Amaya Express and Queen Slice, the nearest restaurant is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'Queen Slice'}
+{'statement': 'Between Kim PO Vietnamese and Topham Corner, the nearest restaurant is Kim PO Vietnamese.', 'answer': 'Kim PO Vietnamese', 'candidate': 'Topham Corner'}
+{'statement': "Between Scaddabush Italian Kitchen & Bar and Smoke's Weinerie, the nearest restaurant is Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': "Smoke's Weinerie"}
+{'statement': "Between Carole's Cheesecake Cafe and Daily Press Juicery, the nearest restaurant is Daily Press Juicery.", 'answer': 'Daily Press Juicery', 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': 'Between Sizzlers and Pizza Pizza, the nearest restaurant is Pizza Pizza.', 'answer': 'Pizza Pizza', 'candidate': 'Sizzlers'}
+{'statement': 'Between Supermodel Pizza and Falafel House, the nearest restaurant is Supermodel Pizza.', 'answer': 'Supermodel Pizza', 'candidate': 'Falafel House'}
+{'statement': 'Between St. Louis Bar & Grill and EJ Sushi, the nearest restaurant is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'EJ Sushi'}
+{'statement': 'Between Le Papillon Park and Pizzeria Via Mercanti, the nearest restaurant is Le Papillon Park.', 'answer': 'Le Papillon Park', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': 'Between Juice & Java Cafe and Mi Mi Restaurant, the nearest restaurant is Juice & Java Cafe.', 'answer': 'Juice & Java Cafe', 'candidate': 'Mi Mi Restaurant'}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and The Coffee Pocket, the nearest restaurant is Sichuan Landscape Chinese Restaurant.', 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'The Coffee Pocket'}
+{'statement': 'Between Mövenpick Café and z-teca Gourmet Burritos, the nearest restaurant is Mövenpick Café.', 'answer': 'Mövenpick Café', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "Between The Empire and Carole's Cheesecake Cafe, the nearest restaurant is The Empire.", 'answer': 'The Empire', 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': 'Between Sheriff Broaster Chicken and Bonne Journee, the nearest restaurant is Sheriff Broaster Chicken.', 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Bonne Journee'}
+{'statement': "Between Roncy's Bean and La Cocina De Dona Luz, the nearest restaurant is La Cocina De Dona Luz.", 'answer': 'La Cocina De Dona Luz', 'candidate': "Roncy's Bean"}
+{'statement': 'Between Ici Bistro and Farmacia Health Bar, the nearest restaurant is Farmacia Health Bar.', 'answer': 'Farmacia Health Bar', 'candidate': 'Ici Bistro'}
+{'statement': 'Between Mt Everest Restaurant and Basil Express Restaurant, the nearest restaurant is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "Between Breakfast Room and Nutella Cafe by Pusateri's, the nearest restaurant is Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "Between Paradise Farms Prime Beef Bistro and Phil's Original BBQ, the nearest restaurant is Paradise Farms Prime Beef Bistro.", 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': "Phil's Original BBQ"}
+{'statement': 'Between El Fogón and Marcello’s pizzeria, the nearest restaurant is El Fogón.', 'answer': 'El Fogón', 'candidate': 'Marcello’s pizzeria'}
+{'statement': "Between Sushi World and Smoke's Weinerie, the nearest restaurant is Sushi World.", 'answer': 'Sushi World', 'candidate': "Smoke's Weinerie"}
+{'statement': "Between Tian An Cuisine and Beryl's Pepper Pot, the nearest restaurant is Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': "Beryl's Pepper Pot"}
+{'statement': 'Between St. Clair Shawarma and Falafel and Tim Hortons, the nearest restaurant is Tim Hortons.', 'answer': 'Tim Hortons', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "Between Domino's Pizza and Basha Middle Eastern Grill, the nearest restaurant is Basha Middle Eastern Grill.", 'answer': 'Basha Middle Eastern Grill', 'candidate': "Domino's Pizza"}
+{'statement': 'Between Eastern legend and St. Clair Shawarma and Falafel, the nearest restaurant is Eastern legend.', 'answer': 'Eastern legend', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': 'Between Queen Pita and Itamae Ayce Sushi, the nearest restaurant is Itamae Ayce Sushi.', 'answer': 'Itamae Ayce Sushi', 'candidate': 'Queen Pita'}
+{'statement': "Between Mysteriously Yours Dinner Theatre and Assembly Chef's Hall, the nearest restaurant is Mysteriously Yours Dinner Theatre.", 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': "Assembly Chef's Hall"}
+{'statement': 'Between Tim Hortons and New Bilan Restaurant, the nearest restaurant is Tim Hortons.', 'answer': 'Tim Hortons', 'candidate': 'New Bilan Restaurant'}
+{'statement': 'Between Hapa Toronto and The Duke of Devon, the nearest restaurant is Hapa Toronto.', 'answer': 'Hapa Toronto', 'candidate': 'The Duke of Devon'}
+{'statement': 'Between Madras Pantry and Sky Dragon Chinese Restaurant, the nearest restaurant is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'Sky Dragon Chinese Restaurant'}
+{'statement': "Between Beryl's Pepper Pot and Sushi Shop, the nearest restaurant is Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': "Beryl's Pepper Pot"}
+{'statement': 'Between Amaya Express and Fitness Avenue, the nearest restaurant is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'Fitness Avenue'}
+{'statement': 'Between Bao Bao Plus Dim Sum and La Pupusa Loka, the nearest restaurant is La Pupusa Loka.', 'answer': 'La Pupusa Loka', 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': 'Between Juice & Java Cafe and Hina Sushi, the nearest restaurant is Juice & Java Cafe.', 'answer': 'Juice & Java Cafe', 'candidate': 'Hina Sushi'}
+{'statement': 'Between Itamae Ayce Sushi and Top Sushi, the nearest restaurant is Itamae Ayce Sushi.', 'answer': 'Itamae Ayce Sushi', 'candidate': 'Top Sushi'}
+{'statement': 'Between Madras Pantry and Ciao Europa wine bar, the nearest restaurant is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'Ciao Europa wine bar'}
+{'statement': 'Between Itamae Ayce Sushi and Aroma Espresso Bar, the nearest restaurant is Itamae Ayce Sushi.', 'answer': 'Itamae Ayce Sushi', 'candidate': 'Aroma Espresso Bar'}
+{'statement': 'Between Mysteriously Yours Dinner Theatre and Bagel Nash, the nearest restaurant is Mysteriously Yours Dinner Theatre.', 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': 'Bagel Nash'}
+{'statement': "Between Just Soups Take Out & Catering and Roncy's Bean, the nearest restaurant is Just Soups Take Out & Catering.", 'answer': 'Just Soups Take Out & Catering', 'candidate': "Roncy's Bean"}
+{'statement': "Between Evoo Ristorante and Roncy's Bean, the nearest restaurant is Evoo Ristorante.", 'answer': 'Evoo Ristorante', 'candidate': "Roncy's Bean"}
+{'statement': "Between Nutella Cafe by Pusateri's and McDonald's, the nearest restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "Between Beryl's Pepper Pot and Harry's Char Broil & Dining Lounge, the nearest restaurant is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': "Beryl's Pepper Pot"}
+{'statement': 'Between La Cocina De Dona Luz and Ici Bistro, the nearest restaurant is La Cocina De Dona Luz.', 'answer': 'La Cocina De Dona Luz', 'candidate': 'Ici Bistro'}
+{'statement': "Between Topham Corner and Warung Indonesia D'Eglinton, the nearest restaurant is Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Topham Corner'}
+{'statement': 'Between Mt Everest Restaurant and St. Louis Bar & Grill, the nearest restaurant is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Mt Everest Restaurant'}

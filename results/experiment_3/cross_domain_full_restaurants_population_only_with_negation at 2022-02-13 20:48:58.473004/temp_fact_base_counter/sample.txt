@@ -1,0 +1,200 @@
+{'statement': 'Between Tampa and Anchorage, the city with lower average temperature is Anchorage.', 'answer': 'Anchorage', 'candidate': 'Tampa'}
+{'statement': 'Between Auckland and Bamako, the city with lower average temperature is Auckland.', 'answer': 'Auckland', 'candidate': 'Bamako'}
+{'statement': 'Between Luanda and Suwałki, the city with lower average temperature is Suwałki.', 'answer': 'Suwałki', 'candidate': 'Luanda'}
+{'statement': 'Between Sucre and Pontianak, the city with lower average temperature is Sucre.', 'answer': 'Sucre', 'candidate': 'Pontianak'}
+{'statement': 'Between Mahajanga and Bergen, the city with lower average temperature is Bergen.', 'answer': 'Bergen', 'candidate': 'Mahajanga'}
+{'statement': 'Between Frankfurt and Barranquilla, the city with lower average temperature is Frankfurt.', 'answer': 'Frankfurt', 'candidate': 'Barranquilla'}
+{'statement': 'Between Lyon and Pontianak, the city with lower average temperature is Lyon.', 'answer': 'Lyon', 'candidate': 'Pontianak'}
+{'statement': 'Between Port Sudan and Vladivostok, the city with lower average temperature is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Port Sudan'}
+{'statement': 'Between Kansas City and Managua, the city with lower average temperature is Kansas City.', 'answer': 'Kansas City', 'candidate': 'Managua'}
+{'statement': 'Between Belgrade and Managua, the city with lower average temperature is Belgrade.', 'answer': 'Belgrade', 'candidate': 'Managua'}
+{'statement': 'Between Hanoi and Reykjavík, the city with lower average temperature is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Hanoi'}
+{'statement': 'Between Maputo and Ushuaia, the city with lower average temperature is Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'Maputo'}
+{'statement': 'Between Bogotá and Suva, the city with lower average temperature is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Suva'}
+{'statement': 'Between Mendoza and Ottawa, the city with lower average temperature is Ottawa.', 'answer': 'Ottawa', 'candidate': 'Mendoza'}
+{'statement': 'Between Paris and Ulaanbaatar, the city with lower average temperature is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Paris'}
+{'statement': 'Between London and Makurdi, the city with lower average temperature is London.', 'answer': 'London', 'candidate': 'Makurdi'}
+{'statement': 'Between Irkutsk and Bishkek, the city with lower average temperature is Irkutsk.', 'answer': 'Irkutsk', 'candidate': 'Bishkek'}
+{'statement': 'Between Mexico City and Panama City, the city with lower average temperature is Mexico City.', 'answer': 'Mexico City', 'candidate': 'Panama City'}
+{'statement': 'Between Addis Ababa and Port Moresby, the city with lower average temperature is Addis Ababa.', 'answer': 'Addis Ababa', 'candidate': 'Port Moresby'}
+{'statement': 'Between Harare and Djibouti, the city with lower average temperature is Harare.', 'answer': 'Harare', 'candidate': 'Djibouti'}
+{'statement': 'Between Riyadh and Oslo, the city with lower average temperature is Oslo.', 'answer': 'Oslo', 'candidate': 'Riyadh'}
+{'statement': 'Between Medellín and Sapporo, the city with lower average temperature is Sapporo.', 'answer': 'Sapporo', 'candidate': 'Medellín'}
+{'statement': 'Between Milan and Antsiranana, the city with lower average temperature is Milan.', 'answer': 'Milan', 'candidate': 'Antsiranana'}
+{'statement': 'Between Saint Petersburg and Djibouti, the city with lower average temperature is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Djibouti'}
+{'statement': 'Between Asmara and Bangkok, the city with lower average temperature is Asmara.', 'answer': 'Asmara', 'candidate': 'Bangkok'}
+{'statement': 'Between Pittsburgh and Entebbe, the city with lower average temperature is Pittsburgh.', 'answer': 'Pittsburgh', 'candidate': 'Entebbe'}
+{'statement': 'Between Reykjavík and Buenos Aires, the city with lower average temperature is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Buenos Aires'}
+{'statement': 'Between Curitiba and Willemstad, the city with lower average temperature is Curitiba.', 'answer': 'Curitiba', 'candidate': 'Willemstad'}
+{'statement': 'Between Changsha and Anchorage, the city with lower average temperature is Anchorage.', 'answer': 'Anchorage', 'candidate': 'Changsha'}
+{'statement': 'Between Vladivostok and Auckland, the city with lower average temperature is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Auckland'}
+{'statement': 'Between Bratislava and Manaus, the city with lower average temperature is Bratislava.', 'answer': 'Bratislava', 'candidate': 'Manaus'}
+{'statement': 'Between Toluca and Mahajanga, the city with lower average temperature is Toluca.', 'answer': 'Toluca', 'candidate': 'Mahajanga'}
+{'statement': 'Between San Juan and Shanghai, the city with lower average temperature is Shanghai.', 'answer': 'Shanghai', 'candidate': 'San Juan'}
+{'statement': 'Between Napier and Paramaribo, the city with lower average temperature is Napier.', 'answer': 'Napier', 'candidate': 'Paramaribo'}
+{'statement': 'Between Dodoma and Sapporo, the city with lower average temperature is Sapporo.', 'answer': 'Sapporo', 'candidate': 'Dodoma'}
+{'statement': 'Between La Serena and Ségou, the city with lower average temperature is La Serena.', 'answer': 'La Serena', 'candidate': 'Ségou'}
+{'statement': 'Between Anchorage and Conakry, the city with lower average temperature is Anchorage.', 'answer': 'Anchorage', 'candidate': 'Conakry'}
+{'statement': 'Between Baku and Phnom Penh, the city with lower average temperature is Baku.', 'answer': 'Baku', 'candidate': 'Phnom Penh'}
+{'statement': 'Between Dublin and Djibouti, the city with lower average temperature is Dublin.', 'answer': 'Dublin', 'candidate': 'Djibouti'}
+{'statement': 'Between Mendoza and Vladivostok, the city with lower average temperature is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Mendoza'}
+{'statement': 'Between Suva and Santiago, the city with lower average temperature is Santiago.', 'answer': 'Santiago', 'candidate': 'Suva'}
+{'statement': 'Between Denpasar and Canberra, the city with lower average temperature is Canberra.', 'answer': 'Canberra', 'candidate': 'Denpasar'}
+{'statement': 'Between Yinchuan and Manila, the city with lower average temperature is Yinchuan.', 'answer': 'Yinchuan', 'candidate': 'Manila'}
+{'statement': 'Between Lyon and La Ceiba, the city with lower average temperature is Lyon.', 'answer': 'Lyon', 'candidate': 'La Ceiba'}
+{'statement': 'Between Mombasa and Ottawa, the city with lower average temperature is Ottawa.', 'answer': 'Ottawa', 'candidate': 'Mombasa'}
+{'statement': 'Between Rome and Erzurum, the city with lower average temperature is Erzurum.', 'answer': 'Erzurum', 'candidate': 'Rome'}
+{'statement': 'Between Omaha and San José, the city with lower average temperature is Omaha.', 'answer': 'Omaha', 'candidate': 'San José'}
+{'statement': 'Between Yakutsk and Ouahigouya, the city with lower average temperature is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Ouahigouya'}
+{'statement': 'Between Ürümqi and Hanoi, the city with lower average temperature is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'Hanoi'}
+{'statement': 'Between Kuopio and Cotonou, the city with lower average temperature is Kuopio.', 'answer': 'Kuopio', 'candidate': 'Cotonou'}
+{'statement': 'Between Bata and Ankara, the city with lower average temperature is Ankara.', 'answer': 'Ankara', 'candidate': 'Bata'}
+{'statement': 'Between Bogotá and Makurdi, the city with lower average temperature is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Makurdi'}
+{'statement': 'Between Luanda and Ottawa, the city with lower average temperature is Ottawa.', 'answer': 'Ottawa', 'candidate': 'Luanda'}
+{'statement': 'Between Ho Chi Minh City and Kabul, the city with lower average temperature is Kabul.', 'answer': 'Kabul', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Between Belize City and Irkutsk, the city with lower average temperature is Irkutsk.', 'answer': 'Irkutsk', 'candidate': 'Belize City'}
+{'statement': 'Between Moscow and Douala, the city with lower average temperature is Moscow.', 'answer': 'Moscow', 'candidate': 'Douala'}
+{'statement': 'Between Lake Havasu City and Boise, the city with lower average temperature is Boise.', 'answer': 'Boise', 'candidate': 'Lake Havasu City'}
+{'statement': 'Between Beijing and San Juan, the city with lower average temperature is Beijing.', 'answer': 'Beijing', 'candidate': 'San Juan'}
+{'statement': 'Between Valencia and Ottawa, the city with lower average temperature is Ottawa.', 'answer': 'Ottawa', 'candidate': 'Valencia'}
+{'statement': 'Between Manila and Kansas City, the city with lower average temperature is Kansas City.', 'answer': 'Kansas City', 'candidate': 'Manila'}
+{'statement': 'Between Tirana and Douala, the city with lower average temperature is Tirana.', 'answer': 'Tirana', 'candidate': 'Douala'}
+{'statement': 'Between Nairobi and Wau, the city with lower average temperature is Nairobi.', 'answer': 'Nairobi', 'candidate': 'Wau'}
+{'statement': 'Between Piura and La Serena, the city with lower average temperature is La Serena.', 'answer': 'La Serena', 'candidate': 'Piura'}
+{'statement': 'Between Almaty and Kingston, the city with lower average temperature is Almaty.', 'answer': 'Almaty', 'candidate': 'Kingston'}
+{'statement': 'Between Lhasa and Perth, the city with lower average temperature is Lhasa.', 'answer': 'Lhasa', 'candidate': 'Perth'}
+{'statement': 'Between Bujumbura and Ankara, the city with lower average temperature is Ankara.', 'answer': 'Ankara', 'candidate': 'Bujumbura'}
+{'statement': 'Between Fukuoka and Ho Chi Minh City, the city with lower average temperature is Fukuoka.', 'answer': 'Fukuoka', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Between Bamako and Melbourne, the city with lower average temperature is Melbourne.', 'answer': 'Melbourne', 'candidate': 'Bamako'}
+{'statement': 'Between Lahore and Kabul, the city with lower average temperature is Kabul.', 'answer': 'Kabul', 'candidate': 'Lahore'}
+{'statement': 'Between Manila and Palmerston North, the city with lower average temperature is Palmerston North.', 'answer': 'Palmerston North', 'candidate': 'Manila'}
+{'statement': 'Between Cairo and Milwaukee, the city with lower average temperature is Milwaukee.', 'answer': 'Milwaukee', 'candidate': 'Cairo'}
+{'statement': 'Between Mexicali and Beijing, the city with lower average temperature is Beijing.', 'answer': 'Beijing', 'candidate': 'Mexicali'}
+{'statement': 'Between Wellington and Conakry, the city with lower average temperature is Wellington.', 'answer': 'Wellington', 'candidate': 'Conakry'}
+{'statement': 'Between Albuquerque and Belize City, the city with lower average temperature is Albuquerque.', 'answer': 'Albuquerque', 'candidate': 'Belize City'}
+{'statement': 'Between Djibouti and Melbourne, the city with lower average temperature is Melbourne.', 'answer': 'Melbourne', 'candidate': 'Djibouti'}
+{'statement': 'Between Napier and Dar es Salaam, the city with lower average temperature is Napier.', 'answer': 'Napier', 'candidate': 'Dar es Salaam'}
+{'statement': 'Between Milwaukee and Djibouti, the city with lower average temperature is Milwaukee.', 'answer': 'Milwaukee', 'candidate': 'Djibouti'}
+{'statement': 'Between Lisbon and Pontianak, the city with lower average temperature is Lisbon.', 'answer': 'Lisbon', 'candidate': 'Pontianak'}
+{'statement': 'Between Paris and Karachi, the city with lower average temperature is Paris.', 'answer': 'Paris', 'candidate': 'Karachi'}
+{'statement': 'Between Kathmandu and Ouahigouya, the city with lower average temperature is Kathmandu.', 'answer': 'Kathmandu', 'candidate': 'Ouahigouya'}
+{'statement': 'Between Rome and Cotonou, the city with lower average temperature is Rome.', 'answer': 'Rome', 'candidate': 'Cotonou'}
+{'statement': 'Between Saint Petersburg and Rosario, the city with lower average temperature is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Rosario'}
+{'statement': 'Between Asmara and Kingston, the city with lower average temperature is Asmara.', 'answer': 'Asmara', 'candidate': 'Kingston'}
+{'statement': 'Between Parakou and Vladivostok, the city with lower average temperature is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Parakou'}
+{'statement': 'Between Kingston and Vienna, the city with lower average temperature is Vienna.', 'answer': 'Vienna', 'candidate': 'Kingston'}
+{'statement': 'Between Lyon and Dodoma, the city with lower average temperature is Lyon.', 'answer': 'Lyon', 'candidate': 'Dodoma'}
+{'statement': 'Between Kuopio and Toamasina, the city with lower average temperature is Kuopio.', 'answer': 'Kuopio', 'candidate': 'Toamasina'}
+{'statement': 'Between London and Ségou, the city with lower average temperature is London.', 'answer': 'London', 'candidate': 'Ségou'}
+{'statement': 'Between Johannesburg and Bamako, the city with lower average temperature is Johannesburg.', 'answer': 'Johannesburg', 'candidate': 'Bamako'}
+{'statement': 'Between Kansas City and Malabo, the city with lower average temperature is Kansas City.', 'answer': 'Kansas City', 'candidate': 'Malabo'}
+{'statement': 'Between Brasília and Brussels, the city with lower average temperature is Brussels.', 'answer': 'Brussels', 'candidate': 'Brasília'}
+{'statement': 'Between Luanda and Bergen, the city with lower average temperature is Bergen.', 'answer': 'Bergen', 'candidate': 'Luanda'}
+{'statement': 'Between Nouakchott and Ulaanbaatar, the city with lower average temperature is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Nouakchott'}
+{'statement': 'Between Goiânia and Saint Petersburg, the city with lower average temperature is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Goiânia'}
+{'statement': 'Between Mahajanga and Pittsburgh, the city with lower average temperature is Pittsburgh.', 'answer': 'Pittsburgh', 'candidate': 'Mahajanga'}
+{'statement': 'Between Yinchuan and Kampala, the city with lower average temperature is Yinchuan.', 'answer': 'Yinchuan', 'candidate': 'Kampala'}
+{'statement': 'Between Canberra and San Salvador, the city with lower average temperature is Canberra.', 'answer': 'Canberra', 'candidate': 'San Salvador'}
+{'statement': 'Between Río Gallegos and La Ceiba, the city with lower average temperature is Río Gallegos.', 'answer': 'Río Gallegos', 'candidate': 'La Ceiba'}
+{'statement': 'Between Mandalay and Podgorica, the city with lower average temperature is Podgorica.', 'answer': 'Podgorica', 'candidate': 'Mandalay'}
+{'statement': 'Between Ségou and Changsha, the city with lower average temperature is Changsha.', 'answer': 'Changsha', 'candidate': 'Ségou'}
+{'statement': 'Between Phoenix and Saint Petersburg, the city with lower average temperature is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Phoenix'}
+{'statement': 'Between Wau and Quito, the city with lower average temperature is Quito.', 'answer': 'Quito', 'candidate': 'Wau'}
+{'statement': 'Between Fairbanks and Rome, the city with lower average temperature is Fairbanks.', 'answer': 'Fairbanks', 'candidate': 'Rome'}
+{'statement': 'Between Oslo and Córdoba, the city with lower average temperature is Oslo.', 'answer': 'Oslo', 'candidate': 'Córdoba'}
+{'statement': 'Between Manila and Fairbanks, the city with lower average temperature is Fairbanks.', 'answer': 'Fairbanks', 'candidate': 'Manila'}
+{'statement': 'Between Ho Chi Minh City and Bahía Blanca, the city with lower average temperature is Bahía Blanca.', 'answer': 'Bahía Blanca', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Between Paris and Jakarta, the city with lower average temperature is Paris.', 'answer': 'Paris', 'candidate': 'Jakarta'}
+{'statement': 'Between Garissa and Zagreb, the city with lower average temperature is Zagreb.', 'answer': 'Zagreb', 'candidate': 'Garissa'}
+{'statement': 'Between Riyadh and Chicago, the city with lower average temperature is Chicago.', 'answer': 'Chicago', 'candidate': 'Riyadh'}
+{'statement': 'Between Ushuaia and Riyadh, the city with lower average temperature is Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'Riyadh'}
+{'statement': 'Between Managua and Baltimore, the city with lower average temperature is Baltimore.', 'answer': 'Baltimore', 'candidate': 'Managua'}
+{'statement': 'Between Palembang and Bogotá, the city with lower average temperature is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Palembang'}
+{'statement': 'Between Yakutsk and Vientiane, the city with lower average temperature is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Vientiane'}
+{'statement': 'Between Niamey and Christchurch, the city with lower average temperature is Christchurch.', 'answer': 'Christchurch', 'candidate': 'Niamey'}
+{'statement': 'Between Manaus and Omaha, the city with lower average temperature is Omaha.', 'answer': 'Omaha', 'candidate': 'Manaus'}
+{'statement': 'Between Surabaya and Milwaukee, the city with lower average temperature is Milwaukee.', 'answer': 'Milwaukee', 'candidate': 'Surabaya'}
+{'statement': 'Between Bucharest and Yaoundé, the city with lower average temperature is Bucharest.', 'answer': 'Bucharest', 'candidate': 'Yaoundé'}
+{'statement': 'Between Ushuaia and Conakry, the city with lower average temperature is Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'Conakry'}
+{'statement': 'Between Maputo and Copenhagen, the city with lower average temperature is Copenhagen.', 'answer': 'Copenhagen', 'candidate': 'Maputo'}
+{'statement': 'Between Cairo and Bergen, the city with lower average temperature is Bergen.', 'answer': 'Bergen', 'candidate': 'Cairo'}
+{'statement': 'Between Honolulu and Minneapolis, the city with lower average temperature is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Honolulu'}
+{'statement': 'Between Tucson and Pittsburgh, the city with lower average temperature is Pittsburgh.', 'answer': 'Pittsburgh', 'candidate': 'Tucson'}
+{'statement': 'Between Lyon and Willemstad, the city with lower average temperature is Lyon.', 'answer': 'Lyon', 'candidate': 'Willemstad'}
+{'statement': 'Between Kabul and Ouahigouya, the city with lower average temperature is Kabul.', 'answer': 'Kabul', 'candidate': 'Ouahigouya'}
+{'statement': 'Between San Juan and Rome, the city with lower average temperature is Rome.', 'answer': 'Rome', 'candidate': 'San Juan'}
+{'statement': 'Between Sokoto and Algiers, the city with lower average temperature is Algiers.', 'answer': 'Algiers', 'candidate': 'Sokoto'}
+{'statement': 'Between Palembang and Frankfurt, the city with lower average temperature is Frankfurt.', 'answer': 'Frankfurt', 'candidate': 'Palembang'}
+{'statement': 'Between Yerevan and Yakutsk, the city with lower average temperature is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Yerevan'}
+{'statement': 'Between Monterrey and Saskatoon, the city with lower average temperature is Saskatoon.', 'answer': 'Saskatoon', 'candidate': 'Monterrey'}
+{'statement': 'Between Almaty and La Ceiba, the city with lower average temperature is Almaty.', 'answer': 'Almaty', 'candidate': 'La Ceiba'}
+{'statement': 'Between Surabaya and Bergen, the city with lower average temperature is Bergen.', 'answer': 'Bergen', 'candidate': 'Surabaya'}
+{'statement': 'Between Cotonou and Lhasa, the city with lower average temperature is Lhasa.', 'answer': 'Lhasa', 'candidate': 'Cotonou'}
+{'statement': 'Between Campos do Jordão and Barranquilla, the city with lower average temperature is Campos do Jordão.', 'answer': 'Campos do Jordão', 'candidate': 'Barranquilla'}
+{'statement': 'Between Novosibirsk and Bata, the city with lower average temperature is Novosibirsk.', 'answer': 'Novosibirsk', 'candidate': 'Bata'}
+{'statement': 'Between Curitiba and Anchorage, the city with lower average temperature is Anchorage.', 'answer': 'Anchorage', 'candidate': 'Curitiba'}
+{'statement': 'Between Honolulu and Bratislava, the city with lower average temperature is Bratislava.', 'answer': 'Bratislava', 'candidate': 'Honolulu'}
+{'statement': 'Between Cabo San Lucas and Chicago, the city with lower average temperature is Chicago.', 'answer': 'Chicago', 'candidate': 'Cabo San Lucas'}
+{'statement': 'Between Zürich and Toamasina, the city with lower average temperature is Zürich.', 'answer': 'Zürich', 'candidate': 'Toamasina'}
+{'statement': 'Between Campos do Jordão and Honolulu, the city with lower average temperature is Campos do Jordão.', 'answer': 'Campos do Jordão', 'candidate': 'Honolulu'}
+{'statement': 'Between Lake Havasu City and Lyon, the city with lower average temperature is Lyon.', 'answer': 'Lyon', 'candidate': 'Lake Havasu City'}
+{'statement': 'Between Omaha and Palembang, the city with lower average temperature is Omaha.', 'answer': 'Omaha', 'candidate': 'Palembang'}
+{'statement': 'Between Valencia and Ouahigouya, the city with lower average temperature is Valencia.', 'answer': 'Valencia', 'candidate': 'Ouahigouya'}
+{'statement': 'Between Nur-Sultan and Hanoi, the city with lower average temperature is Nur-Sultan.', 'answer': 'Nur-Sultan', 'candidate': 'Hanoi'}
+{'statement': 'Between Kuwait City and Murmansk, the city with lower average temperature is Murmansk.', 'answer': 'Murmansk', 'candidate': 'Kuwait City'}
+{'statement': 'Between La Paz and Omaha, the city with lower average temperature is Omaha.', 'answer': 'Omaha', 'candidate': 'La Paz'}
+{'statement': 'Between Ulaanbaatar and Brisbane, the city with lower average temperature is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Brisbane'}
+{'statement': 'Between Garissa and Rome, the city with lower average temperature is Rome.', 'answer': 'Rome', 'candidate': 'Garissa'}
+{'statement': 'Between Omaha and Lahore, the city with lower average temperature is Omaha.', 'answer': 'Omaha', 'candidate': 'Lahore'}
+{'statement': 'Between Juba and Melbourne, the city with lower average temperature is Melbourne.', 'answer': 'Melbourne', 'candidate': 'Juba'}
+{'statement': 'Between Amsterdam and Caracas, the city with lower average temperature is Amsterdam.', 'answer': 'Amsterdam', 'candidate': 'Caracas'}
+{'statement': 'Between Reykjavík and Karachi, the city with lower average temperature is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Karachi'}
+{'statement': 'Between La Paz and Moscow, the city with lower average temperature is Moscow.', 'answer': 'Moscow', 'candidate': 'La Paz'}
+{'statement': 'Between Bishkek and Toliara, the city with lower average temperature is Bishkek.', 'answer': 'Bishkek', 'candidate': 'Toliara'}
+{'statement': 'Between Karachi and Copenhagen, the city with lower average temperature is Copenhagen.', 'answer': 'Copenhagen', 'candidate': 'Karachi'}
+{'statement': 'Between Zürich and Erbil, the city with lower average temperature is Zürich.', 'answer': 'Zürich', 'candidate': 'Erbil'}
+{'statement': 'Between Toliara and Ankara, the city with lower average temperature is Ankara.', 'answer': 'Ankara', 'candidate': 'Toliara'}
+{'statement': 'Between Harare and Río Gallegos, the city with lower average temperature is Río Gallegos.', 'answer': 'Río Gallegos', 'candidate': 'Harare'}
+{'statement': 'Between Irkutsk and Shanghai, the city with lower average temperature is Irkutsk.', 'answer': 'Irkutsk', 'candidate': 'Shanghai'}
+{'statement': 'Between Yakutsk and Lviv, the city with lower average temperature is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Lviv'}
+{'statement': 'Between Bangkok and Córdoba, the city with lower average temperature is Córdoba.', 'answer': 'Córdoba', 'candidate': 'Bangkok'}
+{'statement': 'Between Erzurum and Darwin, the city with lower average temperature is Erzurum.', 'answer': 'Erzurum', 'candidate': 'Darwin'}
+{'statement': 'Between Calgary and Conakry, the city with lower average temperature is Calgary.', 'answer': 'Calgary', 'candidate': 'Conakry'}
+{'statement': 'Between Ljubljana and Mandalay, the city with lower average temperature is Ljubljana.', 'answer': 'Ljubljana', 'candidate': 'Mandalay'}
+{'statement': 'Between Karachi and Zagreb, the city with lower average temperature is Zagreb.', 'answer': 'Zagreb', 'candidate': 'Karachi'}
+{'statement': 'Between Vladivostok and Darwin, the city with lower average temperature is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Darwin'}
+{'statement': 'Between La Paz and Minsk, the city with lower average temperature is Minsk.', 'answer': 'Minsk', 'candidate': 'La Paz'}
+{'statement': 'Between Bergen and Nairobi, the city with lower average temperature is Bergen.', 'answer': 'Bergen', 'candidate': 'Nairobi'}
+{'statement': 'Between Fairbanks and London, the city with lower average temperature is Fairbanks.', 'answer': 'Fairbanks', 'candidate': 'London'}
+{'statement': 'Between Durban and Moscow, the city with lower average temperature is Moscow.', 'answer': 'Moscow', 'candidate': 'Durban'}
+{'statement': 'Between Tabora and Ulaanbaatar, the city with lower average temperature is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Tabora'}
+{'statement': 'Between Novosibirsk and San Juan, the city with lower average temperature is Novosibirsk.', 'answer': 'Novosibirsk', 'candidate': 'San Juan'}
+{'statement': 'Between Bogotá and Calgary, the city with lower average temperature is Calgary.', 'answer': 'Calgary', 'candidate': 'Bogotá'}
+{'statement': 'Between Tashkent and Belize City, the city with lower average temperature is Tashkent.', 'answer': 'Tashkent', 'candidate': 'Belize City'}
+{'statement': 'Between Albuquerque and Antsiranana, the city with lower average temperature is Albuquerque.', 'answer': 'Albuquerque', 'candidate': 'Antsiranana'}
+{'statement': 'Between Bujumbura and Toronto, the city with lower average temperature is Toronto.', 'answer': 'Toronto', 'candidate': 'Bujumbura'}
+{'statement': 'Between Nouakchott and Melbourne, the city with lower average temperature is Melbourne.', 'answer': 'Melbourne', 'candidate': 'Nouakchott'}
+{'statement': 'Between Hobart and Mumbai, the city with lower average temperature is Hobart.', 'answer': 'Hobart', 'candidate': 'Mumbai'}
+{'statement': 'Between Buenos Aires and Moscow, the city with lower average temperature is Moscow.', 'answer': 'Moscow', 'candidate': 'Buenos Aires'}
+{'statement': 'Between Yerevan and Ulaanbaatar, the city with lower average temperature is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Yerevan'}
+{'statement': 'Between San Juan and Melbourne, the city with lower average temperature is Melbourne.', 'answer': 'Melbourne', 'candidate': 'San Juan'}
+{'statement': 'Between Vladivostok and Chihuahua, the city with lower average temperature is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Chihuahua'}
+{'statement': 'Between Djibouti and Vladivostok, the city with lower average temperature is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Djibouti'}
+{'statement': 'Between Fairbanks and Lviv, the city with lower average temperature is Fairbanks.', 'answer': 'Fairbanks', 'candidate': 'Lviv'}
+{'statement': 'Between Pontianak and Amsterdam, the city with lower average temperature is Amsterdam.', 'answer': 'Amsterdam', 'candidate': 'Pontianak'}
+{'statement': 'Between Florianópolis and Saskatoon, the city with lower average temperature is Saskatoon.', 'answer': 'Saskatoon', 'candidate': 'Florianópolis'}
+{'statement': 'Between Lagos and London, the city with lower average temperature is London.', 'answer': 'London', 'candidate': 'Lagos'}
+{'statement': 'Between Reykjavík and Quito, the city with lower average temperature is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Quito'}
+{'statement': 'Between Cairo and Ürümqi, the city with lower average temperature is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'Cairo'}
+{'statement': 'Between Barranquilla and Christchurch, the city with lower average temperature is Christchurch.', 'answer': 'Christchurch', 'candidate': 'Barranquilla'}
+{'statement': 'Between Yakutsk and Benghazi, the city with lower average temperature is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Benghazi'}
+{'statement': 'Between Dodoma and Pittsburgh, the city with lower average temperature is Pittsburgh.', 'answer': 'Pittsburgh', 'candidate': 'Dodoma'}
+{'statement': 'Between Sucre and Barranquilla, the city with lower average temperature is Sucre.', 'answer': 'Sucre', 'candidate': 'Barranquilla'}
+{'statement': 'Between Bujumbura and Almaty, the city with lower average temperature is Almaty.', 'answer': 'Almaty', 'candidate': 'Bujumbura'}
+{'statement': 'Between Baltimore and Bangui, the city with lower average temperature is Baltimore.', 'answer': 'Baltimore', 'candidate': 'Bangui'}
+{'statement': 'Between Brussels and Monterrey, the city with lower average temperature is Brussels.', 'answer': 'Brussels', 'candidate': 'Monterrey'}
+{'statement': 'Between Willemstad and Antofagasta, the city with lower average temperature is Antofagasta.', 'answer': 'Antofagasta', 'candidate': 'Willemstad'}
+{'statement': 'Between Lomé and Almaty, the city with lower average temperature is Almaty.', 'answer': 'Almaty', 'candidate': 'Lomé'}
+{'statement': 'Between Palmerston North and Juba, the city with lower average temperature is Palmerston North.', 'answer': 'Palmerston North', 'candidate': 'Juba'}
+{'statement': 'Between San Salvador and Punta Arenas, the city with lower average temperature is Punta Arenas.', 'answer': 'Punta Arenas', 'candidate': 'San Salvador'}
+{'statement': 'Between Garissa and Belgrade, the city with lower average temperature is Belgrade.', 'answer': 'Belgrade', 'candidate': 'Garissa'}

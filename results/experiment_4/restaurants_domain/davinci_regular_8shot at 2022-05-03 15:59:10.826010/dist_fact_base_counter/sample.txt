@@ -1,0 +1,100 @@
+{'statement': 'Between La Cocina De Dona Luz and Queen Pita, the restaurant at a greater distance is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'La Cocina De Dona Luz'}
+{'statement': 'Between Basil Express Restaurant and Bagel Nash, the restaurant at a greater distance is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Basil Express Restaurant'}
+{'statement': "Between Domino's Pizza and Pho 88, the restaurant at a greater distance is Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': 'Pho 88'}
+{'statement': "Between Mysteriously Yours Dinner Theatre and Smoke's Weinerie, the restaurant at a greater distance is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': 'Between Top Sushi and The Empire, the restaurant at a greater distance is Top Sushi.', 'answer': 'Top Sushi', 'candidate': 'The Empire'}
+{'statement': 'Between To-ne Sushi and Popeyes Louisiana Kitchen, the restaurant at a greater distance is To-ne Sushi.', 'answer': 'To-ne Sushi', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': "Between Tian An Cuisine and Roncy's Bean, the restaurant at a greater distance is Roncy's Bean.", 'answer': "Roncy's Bean", 'candidate': 'Tian An Cuisine'}
+{'statement': "Between Smoke's Weinerie and Scaddabush Italian Kitchen & Bar, the restaurant at a greater distance is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Scaddabush Italian Kitchen & Bar'}
+{'statement': 'Between Farmacia Health Bar and Mirage Grill & Lounge, the restaurant at a greater distance is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'Farmacia Health Bar'}
+{'statement': "Between Fit For Life and Beryl's Pepper Pot, the restaurant at a greater distance is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'Fit For Life'}
+{'statement': 'Between Freshii and JJ Bean, the restaurant at a greater distance is Freshii.', 'answer': 'Freshii', 'candidate': 'JJ Bean'}
+{'statement': 'Between Madras Pantry and Sushi World, the restaurant at a greater distance is Sushi World.', 'answer': 'Sushi World', 'candidate': 'Madras Pantry'}
+{'statement': 'Between Sizzlers and Tian An Cuisine, the restaurant at a greater distance is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'Tian An Cuisine'}
+{'statement': 'Between Delicious Paradise Kitchen and Mirage Grill & Lounge, the restaurant at a greater distance is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': 'Between Hina Sushi and Anatolia Restaurant, the restaurant at a greater distance is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Anatolia Restaurant'}
+{'statement': 'Between Juice & Java Cafe and Topham Corner, the restaurant at a greater distance is Topham Corner.', 'answer': 'Topham Corner', 'candidate': 'Juice & Java Cafe'}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and Capitol Trattoria Pizzeria, the restaurant at a greater distance is Capitol Trattoria Pizzeria.', 'answer': 'Capitol Trattoria Pizzeria', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': 'Between Magic Oven and Sushi Shop, the restaurant at a greater distance is Magic Oven.', 'answer': 'Magic Oven', 'candidate': 'Sushi Shop'}
+{'statement': 'Between Topham Corner and Hapa Toronto, the restaurant at a greater distance is Topham Corner.', 'answer': 'Topham Corner', 'candidate': 'Hapa Toronto'}
+{'statement': 'Between Sheriff Broaster Chicken and Modo Mio Italian Bistro, the restaurant at a greater distance is Modo Mio Italian Bistro.', 'answer': 'Modo Mio Italian Bistro', 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': 'Between Viccino Pizzeria and Tian An Cuisine, the restaurant at a greater distance is Viccino Pizzeria.', 'answer': 'Viccino Pizzeria', 'candidate': 'Tian An Cuisine'}
+{'statement': "Between Bagel Nash and Harry's Char Broil & Dining Lounge, the restaurant at a greater distance is Bagel Nash.", 'answer': 'Bagel Nash', 'candidate': "Harry's Char Broil & Dining Lounge"}
+{'statement': 'Between Sizzlers and JJ Bean, the restaurant at a greater distance is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'JJ Bean'}
+{'statement': 'Between Marcello’s pizzeria and Green Grotto, the restaurant at a greater distance is Marcello’s pizzeria.', 'answer': 'Marcello’s pizzeria', 'candidate': 'Green Grotto'}
+{'statement': 'Between Branca and Buk Chang Dong Soon Tofu, the restaurant at a greater distance is Buk Chang Dong Soon Tofu.', 'answer': 'Buk Chang Dong Soon Tofu', 'candidate': 'Branca'}
+{'statement': 'Between Ici Bistro and Basil Express Restaurant, the restaurant at a greater distance is Ici Bistro.', 'answer': 'Ici Bistro', 'candidate': 'Basil Express Restaurant'}
+{'statement': 'Between St. Louis Bar & Grill and Viccino Pizzeria, the restaurant at a greater distance is Viccino Pizzeria.', 'answer': 'Viccino Pizzeria', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': 'Between Falafel House and Thai 4 You Restaurant, the restaurant at a greater distance is Falafel House.', 'answer': 'Falafel House', 'candidate': 'Thai 4 You Restaurant'}
+{'statement': 'Between Just Soups Take Out & Catering and Hina Sushi, the restaurant at a greater distance is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': 'Between Falafel Hut Village and Adega Restaurante, the restaurant at a greater distance is Adega Restaurante.', 'answer': 'Adega Restaurante', 'candidate': 'Falafel Hut Village'}
+{'statement': "Between Roncy's Bean and Pisco 1641, the restaurant at a greater distance is Roncy's Bean.", 'answer': "Roncy's Bean", 'candidate': 'Pisco 1641'}
+{'statement': 'Between Queen Slice and Delicious Paradise Kitchen, the restaurant at a greater distance is Queen Slice.', 'answer': 'Queen Slice', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': "Between The Duke of Devon and Phil's Original BBQ, the restaurant at a greater distance is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': 'The Duke of Devon'}
+{'statement': "Between Phil's Original BBQ and Mövenpick Café, the restaurant at a greater distance is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': 'Mövenpick Café'}
+{'statement': "Between McDonald's and Capitol Trattoria Pizzeria, the restaurant at a greater distance is Capitol Trattoria Pizzeria.", 'answer': 'Capitol Trattoria Pizzeria', 'candidate': "McDonald's"}
+{'statement': 'Between Queen Pita and Popeyes Louisiana Kitchen, the restaurant at a greater distance is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': 'Between Edible Arrangements and To-ne Sushi, the restaurant at a greater distance is To-ne Sushi.', 'answer': 'To-ne Sushi', 'candidate': 'Edible Arrangements'}
+{'statement': 'Between Fit For Life and Aroma Espresso Bar, the restaurant at a greater distance is Aroma Espresso Bar.', 'answer': 'Aroma Espresso Bar', 'candidate': 'Fit For Life'}
+{'statement': 'Between Cafe Jules and Branca, the restaurant at a greater distance is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Branca'}
+{'statement': "Between Nutella Cafe by Pusateri's and KFC, the restaurant at a greater distance is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'KFC'}
+{'statement': 'Between Maurya East Indian Roti and The Duke of Devon, the restaurant at a greater distance is The Duke of Devon.', 'answer': 'The Duke of Devon', 'candidate': 'Maurya East Indian Roti'}
+{'statement': 'Between Eggspectation and Kibo Sushi House, the restaurant at a greater distance is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Eggspectation, the restaurant at a greater distance is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': 'Between EJ Sushi and Breakfast Room, the restaurant at a greater distance is EJ Sushi.', 'answer': 'EJ Sushi', 'candidate': 'Breakfast Room'}
+{'statement': 'Between Eastern legend and El Fogón, the restaurant at a greater distance is Eastern legend.', 'answer': 'Eastern legend', 'candidate': 'El Fogón'}
+{'statement': 'Between Mirage Grill & Lounge and Bao Bao Plus Dim Sum, the restaurant at a greater distance is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': 'Between Queen Pita and Evoo Ristorante, the restaurant at a greater distance is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'Evoo Ristorante'}
+{'statement': 'Between Falafel House and Tik Talk Cafe, the restaurant at a greater distance is Falafel House.', 'answer': 'Falafel House', 'candidate': 'Tik Talk Cafe'}
+{'statement': "Between Freshii and Milo's Pita, the restaurant at a greater distance is Freshii.", 'answer': 'Freshii', 'candidate': "Milo's Pita"}
+{'statement': 'Between Mi Mi Restaurant and Just Soups Take Out & Catering, the restaurant at a greater distance is Mi Mi Restaurant.', 'answer': 'Mi Mi Restaurant', 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': 'Between Fit For Life and Tierra Azteca, the restaurant at a greater distance is Tierra Azteca.', 'answer': 'Tierra Azteca', 'candidate': 'Fit For Life'}
+{'statement': 'Between Pasta Pantry and Cantine Bar & Grill, the restaurant at a greater distance is Pasta Pantry.', 'answer': 'Pasta Pantry', 'candidate': 'Cantine Bar & Grill'}
+{'statement': 'Between Kairali - Taste of Kerala and EJ Sushi, the restaurant at a greater distance is EJ Sushi.', 'answer': 'EJ Sushi', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': 'Between Sheriff Broaster Chicken and New Bilan Restaurant, the restaurant at a greater distance is New Bilan Restaurant.', 'answer': 'New Bilan Restaurant', 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': 'Between Itamae Ayce Sushi and Mi Mi Restaurant, the restaurant at a greater distance is Mi Mi Restaurant.', 'answer': 'Mi Mi Restaurant', 'candidate': 'Itamae Ayce Sushi'}
+{'statement': "Between Dinah's Cupboard and Banjara Indian Cuisine, the restaurant at a greater distance is Banjara Indian Cuisine.", 'answer': 'Banjara Indian Cuisine', 'candidate': "Dinah's Cupboard"}
+{'statement': 'Between Evoo Ristorante and Bao Bao Plus Dim Sum, the restaurant at a greater distance is Bao Bao Plus Dim Sum.', 'answer': 'Bao Bao Plus Dim Sum', 'candidate': 'Evoo Ristorante'}
+{'statement': "Between El Fogón and Beryl's Pepper Pot, the restaurant at a greater distance is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'El Fogón'}
+{'statement': "Between Tik Talk Cafe and Carole's Cheesecake Cafe, the restaurant at a greater distance is Carole's Cheesecake Cafe.", 'answer': "Carole's Cheesecake Cafe", 'candidate': 'Tik Talk Cafe'}
+{'statement': "Between Piper's Pub And Grill and Queen Pita, the restaurant at a greater distance is Queen Pita.", 'answer': 'Queen Pita', 'candidate': "Piper's Pub And Grill"}
+{'statement': "Between Kim PO Vietnamese and Big Al's Diner, the restaurant at a greater distance is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Queen Pita and Kibo Sushi House, the restaurant at a greater distance is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between The Coffee Pocket and Amaya Express, the restaurant at a greater distance is The Coffee Pocket.', 'answer': 'The Coffee Pocket', 'candidate': 'Amaya Express'}
+{'statement': "Between Farmacia Health Bar and Smoke's Weinerie, the restaurant at a greater distance is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Farmacia Health Bar'}
+{'statement': 'Between La Pupusa Loka and Mi Mi Restaurant, the restaurant at a greater distance is Mi Mi Restaurant.', 'answer': 'Mi Mi Restaurant', 'candidate': 'La Pupusa Loka'}
+{'statement': 'Between Lahore Grill & Fast Food and Mövenpick Café, the restaurant at a greater distance is Mövenpick Café.', 'answer': 'Mövenpick Café', 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': "Between Aris Place and Warung Indonesia D'Eglinton, the restaurant at a greater distance is Aris Place.", 'answer': 'Aris Place', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': 'Between Tik Talk Cafe and Thompson Rooftop, the restaurant at a greater distance is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'Tik Talk Cafe'}
+{'statement': "Between Cake Opera and Piper's Pub And Grill, the restaurant at a greater distance is Cake Opera.", 'answer': 'Cake Opera', 'candidate': "Piper's Pub And Grill"}
+{'statement': 'Between Cantine Bar & Grill and Bagel Nash, the restaurant at a greater distance is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Cantine Bar & Grill'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Mirage Grill & Lounge, the restaurant at a greater distance is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': 'Between Aroma Espresso Bar and Basil Express Restaurant, the restaurant at a greater distance is Aroma Espresso Bar.', 'answer': 'Aroma Espresso Bar', 'candidate': 'Basil Express Restaurant'}
+{'statement': 'Between The Empire and Mt Everest Restaurant, the restaurant at a greater distance is Mt Everest Restaurant.', 'answer': 'Mt Everest Restaurant', 'candidate': 'The Empire'}
+{'statement': "Between Big Al's Diner and Mövenpick Café, the restaurant at a greater distance is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Mövenpick Café'}
+{'statement': 'Between Aroma Espresso Bar and Mirage Grill & Lounge, the restaurant at a greater distance is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'Aroma Espresso Bar'}
+{'statement': "Between Domino's Pizza and Falafel Hut Village, the restaurant at a greater distance is Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': 'Falafel Hut Village'}
+{'statement': 'Between St. Louis Bar & Grill and EJ Sushi, the restaurant at a greater distance is EJ Sushi.', 'answer': 'EJ Sushi', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': 'Between Tian An Cuisine and LCBO, the restaurant at a greater distance is LCBO.', 'answer': 'LCBO', 'candidate': 'Tian An Cuisine'}
+{'statement': "Between Mövenpick Café and Assembly Chef's Hall, the restaurant at a greater distance is Assembly Chef's Hall.", 'answer': "Assembly Chef's Hall", 'candidate': 'Mövenpick Café'}
+{'statement': 'Between Edible Arrangements and Tortería San Cosme, the restaurant at a greater distance is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between Tortería San Cosme and Bake Island, the restaurant at a greater distance is Bake Island.', 'answer': 'Bake Island', 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between Eggspectation and The Duke of Devon, the restaurant at a greater distance is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'The Duke of Devon'}
+{'statement': 'Between The Duke of Devon and To-ne Sushi, the restaurant at a greater distance is To-ne Sushi.', 'answer': 'To-ne Sushi', 'candidate': 'The Duke of Devon'}
+{'statement': 'Between Tortería San Cosme and Mövenpick Café, the restaurant at a greater distance is Mövenpick Café.', 'answer': 'Mövenpick Café', 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between Bao Bao Plus Dim Sum and Kibo Sushi House, the restaurant at a greater distance is Bao Bao Plus Dim Sum.', 'answer': 'Bao Bao Plus Dim Sum', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between Cantine Bar & Grill and Pho 88, the restaurant at a greater distance is Pho 88.', 'answer': 'Pho 88', 'candidate': 'Cantine Bar & Grill'}
+{'statement': 'Between Kim PO Vietnamese and Freshii, the restaurant at a greater distance is Freshii.', 'answer': 'Freshii', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Freshii and Itamae Ayce Sushi, the restaurant at a greater distance is Freshii.', 'answer': 'Freshii', 'candidate': 'Itamae Ayce Sushi'}
+{'statement': 'Between Madras Pantry and Top Sushi, the restaurant at a greater distance is Top Sushi.', 'answer': 'Top Sushi', 'candidate': 'Madras Pantry'}
+{'statement': 'Between Madras Pantry and Sizzlers, the restaurant at a greater distance is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'Madras Pantry'}
+{'statement': 'Between Daily Press Juicery and Nook, the restaurant at a greater distance is Nook.', 'answer': 'Nook', 'candidate': 'Daily Press Juicery'}
+{'statement': 'Between Kim PO Vietnamese and Modo Mio Italian Bistro, the restaurant at a greater distance is Modo Mio Italian Bistro.', 'answer': 'Modo Mio Italian Bistro', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Chick Fiesta and Freshii, the restaurant at a greater distance is Freshii.', 'answer': 'Freshii', 'candidate': 'Chick Fiesta'}
+{'statement': 'Between Fit For Life and Sizzlers, the restaurant at a greater distance is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'Fit For Life'}
+{'statement': 'Between LCBO and Goldstone Noodle Restaurant, the restaurant at a greater distance is LCBO.', 'answer': 'LCBO', 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': 'Between Sheriff Broaster Chicken and JJ Bean, the restaurant at a greater distance is JJ Bean.', 'answer': 'JJ Bean', 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': 'Between Viccino Pizzeria and Kibo Sushi House, the restaurant at a greater distance is Viccino Pizzeria.', 'answer': 'Viccino Pizzeria', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between Freshii and Sushi Time Japanese Restaurant, the restaurant at a greater distance is Freshii.', 'answer': 'Freshii', 'candidate': 'Sushi Time Japanese Restaurant'}
+{'statement': 'Between Kim PO Vietnamese and Pho 88, the restaurant at a greater distance is Pho 88.', 'answer': 'Pho 88', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Aroma Espresso Bar and Juice & Java Cafe, the restaurant at a greater distance is Aroma Espresso Bar.', 'answer': 'Aroma Espresso Bar', 'candidate': 'Juice & Java Cafe'}

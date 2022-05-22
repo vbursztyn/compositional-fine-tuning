@@ -1,0 +1,815 @@
+,prompt,completion
+0,"Q: Is the following sentence plausible? ""William Nylander crossed the blue line.""
+A: The answer is ->", yes.
+1,"Q: Is the following sentence plausible? ""Nikola Vucevic lost control of the puck.""
+A: The answer is ->", no.
+2,"Q: Is the following sentence plausible? ""Anthony Rizzo skated backwards in the Stanley Cup.""
+A: The answer is ->", no.
+3,"Q: Is the following sentence plausible? ""Draymond Green took a three.""
+A: The answer is ->", yes.
+4,"Q: Is the following sentence plausible? ""Neymar took a throw in in the Champions League Final.""
+A: The answer is ->", yes.
+5,"Q: Is the following sentence plausible? ""Ryan O\'Reilly wristed a shot.""
+A: The answer is ->", yes.
+6,"Q: Is the following sentence plausible? ""Khyri Thomas\xc2\xa0 hit nothing but net.""
+A: The answer is ->", yes.
+7,"Q: Is the following sentence plausible? ""Marquise Brown hit the wheel route.""
+A: The answer is ->", yes.
+8,"Q: Is the following sentence plausible? ""Aaron Rodgers scored a freekick.""
+A: The answer is ->", no.
+9,"Q: Is the following sentence plausible? ""George Springer committed a blocking foul.""
+A: The answer is ->", no.
+10,"Q: Is the following sentence plausible? ""Khris Middleton went one for two from the line in the NBA Championship.""
+A: The answer is ->", yes.
+11,"Q: Is the following sentence plausible? ""Kristaps Porzingis launched a hail mary.""
+A: The answer is ->", no.
+12,"Q: Is the following sentence plausible? ""Kevin Durant hit a walkoff homer.""
+A: The answer is ->", no.
+13,"Q: Is the following sentence plausible? ""Tuukka Rask hit a double.""
+A: The answer is ->", no.
+14,"Q: Is the following sentence plausible? ""Deshaun Watson was flagged on the play.""
+A: The answer is ->", yes.
+15,"Q: Is the following sentence plausible? ""Juan Soto spent time in the penalty box.""
+A: The answer is ->", no.
+16,"Q: Is the following sentence plausible? ""Manny Machado comitted an offensive foul in the Eastern Conference Finals.""
+A: The answer is ->", no.
+17,"Q: Is the following sentence plausible? ""Mario Balotelli hit the wheel route.""
+A: The answer is ->", no.
+18,"Q: Is the following sentence plausible? ""Yordan Alvarez was safe at first.""
+A: The answer is ->", yes.
+19,"Q: Is the following sentence plausible? ""Xander Bogaerts shot the puck.""
+A: The answer is ->", no.
+20,"Q: Is the following sentence plausible? ""Daniele De Rossi got a base hit.""
+A: The answer is ->", no.
+21,"Q: Is the following sentence plausible? ""Luka Doncic\xc2\xa0 scored a reverse layup.""
+A: The answer is ->", yes.
+22,"Q: Is the following sentence plausible? ""Stephen Curry took an elbow jumper.""
+A: The answer is ->", yes.
+23,"Q: Is the following sentence plausible? ""Mike Williams fumbled the ball in the Superbowl.""
+A: The answer is ->", yes.
+24,"Q: Is the following sentence plausible? ""Freddie Freeman watched the pitch go by.""
+A: The answer is ->", yes.
+25,"Q: Is the following sentence plausible? ""Bastian Schweinsteiger earned a direct kick.""
+A: The answer is ->", yes.
+26,"Q: Is the following sentence plausible? ""George Springer drew a flag on the play.""
+A: The answer is ->", no.
+27,"Q: Is the following sentence plausible? ""Terry McLaurin took a long two.""
+A: The answer is ->", no.
+28,"Q: Is the following sentence plausible? ""Javier Mascherano wristed a shot.""
+A: The answer is ->", no.
+29,"Q: Is the following sentence plausible? ""Mitchell Marner was out at second.""
+A: The answer is ->", no.
+30,"Q: Is the following sentence plausible? ""Jamal Murray went five hole.""
+A: The answer is ->", no.
+31,"Q: Is the following sentence plausible? ""Philip Rivers launched a hail mary.""
+A: The answer is ->", yes.
+32,"Q: Is the following sentence plausible? ""Seth Jones earned a trip to the penalty box.""
+A: The answer is ->", yes.
+33,"Q: Is the following sentence plausible? ""Mason Plumlee did a maradona on the defender.""
+A: The answer is ->", no.
+34,"Q: Is the following sentence plausible? ""Golden Tate was flagged on the play in the NFC championship.""
+A: The answer is ->", yes.
+35,"Q: Is the following sentence plausible? ""Jayson Tatum was caught offsides in the Champions Leage Semifinal.""
+A: The answer is ->", no.
+36,"Q: Is the following sentence plausible? ""Brandon Ingram shot the puck.""
+A: The answer is ->", no.
+37,"Q: Is the following sentence plausible? ""Alex Bregman earned an indirect kick.""
+A: The answer is ->", no.
+38,"Q: Is the following sentence plausible? ""Stephen Strasburg performed a cruyff turn.""
+A: The answer is ->", no.
+39,"Q: Is the following sentence plausible? ""Gardner Minshew was safe at home.""
+A: The answer is ->", no.
+40,"Q: Is the following sentence plausible? ""Donovan Mitchell took a turnaround jumper.""
+A: The answer is ->", yes.
+41,"Q: Is the following sentence plausible? ""Tyler Boyd hit the screen pass in the NFC divisional round.""
+A: The answer is ->", yes.
+42,"Q: Is the following sentence plausible? ""Mario Gomez scored a reverse layup.""
+A: The answer is ->", no.
+43,"Q: Is the following sentence plausible? ""Khyri Thomas\xc2\xa0 committed a three second violation in the NBA Championship.""
+A: The answer is ->", yes.
+44,"Q: Is the following sentence plausible? ""John Carlson fumbled the ball.""
+A: The answer is ->", no.
+45,"Q: Is the following sentence plausible? ""Jack Eichel got into the endzone.""
+A: The answer is ->", no.
+46,"Q: Is the following sentence plausible? ""Kawhi Leonard hit the slant pass.""
+A: The answer is ->", no.
+47,"Q: Is the following sentence plausible? ""Marek Hamsik skated behind the net.""
+A: The answer is ->", no.
+48,"Q: Is the following sentence plausible? ""Carles Puyol banked the shot in.""
+A: The answer is ->", no.
+49,"Q: Is the following sentence plausible? ""Courtland Sutton hit a triple.""
+A: The answer is ->", no.
+50,"Q: Is the following sentence plausible? ""J.T. Miller took a three.""
+A: The answer is ->", no.
+51,"Q: Is the following sentence plausible? ""Evgeni Malkin hit a single.""
+A: The answer is ->", no.
+52,"Q: Is the following sentence plausible? ""Sam Darnold scored on the power play in the Stanley Cup.""
+A: The answer is ->", no.
+53,"Q: Is the following sentence plausible? ""Jack Flaherty pitched a shutout in the National League Championship Series.""
+A: The answer is ->", yes.
+54,"Q: Is the following sentence plausible? ""Tyler Lockett caught the back shoulder fade.""
+A: The answer is ->", yes.
+55,"Q: Is the following sentence plausible? ""Gardner Minshew was out at second.""
+A: The answer is ->", no.
+56,"Q: Is the following sentence plausible? ""Arjen Robben crossed the blue line in the Stanley Cup.""
+A: The answer is ->", no.
+57,"Q: Is the following sentence plausible? ""Deandre Ayton shot from beyond the arc.""
+A: The answer is ->", yes.
+58,"Q: Is the following sentence plausible? ""Radamel Falcao earned an indirect kick.""
+A: The answer is ->", yes.
+59,"Q: Is the following sentence plausible? ""Mookie Betts took a side-step three.""
+A: The answer is ->", no.
+60,"Q: Is the following sentence plausible? ""Michael Thomas took the snap.""
+A: The answer is ->", yes.
+61,"Q: Is the following sentence plausible? ""Jose Altuve was out at first.""
+A: The answer is ->", yes.
+62,"Q: Is the following sentence plausible? ""Gleyber Torres got a base hit.""
+A: The answer is ->", yes.
+63,"Q: Is the following sentence plausible? ""De\'Aaron Fox airballed the shot.""
+A: The answer is ->", yes.
+64,"Q: Is the following sentence plausible? ""Teuvo Teravainen shot the puck.""
+A: The answer is ->", yes.
+65,"Q: Is the following sentence plausible? ""Fernandinho converted the first down.""
+A: The answer is ->", no.
+66,"Q: Is the following sentence plausible? ""Javier Pastore went five hole.""
+A: The answer is ->", no.
+67,"Q: Is the following sentence plausible? ""Eugenio Suarez hit a walkoff homer in the National League Championship Series.""
+A: The answer is ->", yes.
+68,"Q: Is the following sentence plausible? ""Miro Heiskanen earned a trip to the penalty box.""
+A: The answer is ->", yes.
+69,"Q: Is the following sentence plausible? ""Claude Giroux killed the powerplay in the Stanley Cup.""
+A: The answer is ->", yes.
+70,"Q: Is the following sentence plausible? ""Michael Porter Jr. called for the screen.""
+A: The answer is ->", yes.
+71,"Q: Is the following sentence plausible? ""Miles Bridges hit the slant pass in the AFC divisional round.""
+A: The answer is ->", no.
+72,"Q: Is the following sentence plausible? ""David Pastrnak skated backwards.""
+A: The answer is ->", yes.
+73,"Q: Is the following sentence plausible? ""Wayne Rooney threw a touchdown in the Superbowl.""
+A: The answer is ->", no.
+74,"Q: Is the following sentence plausible? ""Mesut Ozil wristed a shot.""
+A: The answer is ->", no.
+75,"Q: Is the following sentence plausible? ""Patrice Bergeron converted the first down.""
+A: The answer is ->", no.
+76,"Q: Is the following sentence plausible? ""Kwadwo Asamoah was flagged on the play.""
+A: The answer is ->", no.
+77,"Q: Is the following sentence plausible? ""Yu Darvish threw to first base.""
+A: The answer is ->", yes.
+78,"Q: Is the following sentence plausible? ""Chris Kreider got on the end of a through ball.""
+A: The answer is ->", no.
+79,"Q: Is the following sentence plausible? ""Pete Alonso hit a homerun.""
+A: The answer is ->", yes.
+80,"Q: Is the following sentence plausible? ""Adam Thielen got on base.""
+A: The answer is ->", no.
+81,"Q: Is the following sentence plausible? ""Yordan Alvarez grounded out to second base.""
+A: The answer is ->", yes.
+82,"Q: Is the following sentence plausible? ""Whit Merrifield watched the pitch go by in the National League Championship Series.""
+A: The answer is ->", yes.
+83,"Q: Is the following sentence plausible? ""Luis Suarez got on the end of a through ball.""
+A: The answer is ->", yes.
+84,"Q: Is the following sentence plausible? ""Bam Adebayo took a turnaround jumper.""
+A: The answer is ->", yes.
+85,"Q: Is the following sentence plausible? ""Marcell Ozuna shot from the six yard line.""
+A: The answer is ->", no.
+86,"Q: Is the following sentence plausible? ""Jimmy Butler eurostepped to the basket.""
+A: The answer is ->", yes.
+87,"Q: Is the following sentence plausible? ""Javi Martinez comitted a three second violation.""
+A: The answer is ->", no.
+88,"Q: Is the following sentence plausible? ""Thiago Silva took a backhand shot in the Stanley Cup.""
+A: The answer is ->", no.
+89,"Q: Is the following sentence plausible? ""Fernando Tatis Jr. hit a walkoff homer.""
+A: The answer is ->", yes.
+90,"Q: Is the following sentence plausible? ""Will Fuller hit a walkoff homer.""
+A: The answer is ->", no.
+91,"Q: Is the following sentence plausible? ""Carlos Correa headed back to the dugout.""
+A: The answer is ->", yes.
+92,"Q: Is the following sentence plausible? ""Tyler Boyd airballed the shot.""
+A: The answer is ->", no.
+93,"Q: Is the following sentence plausible? ""Nerlens Noel went for it on fourth down.""
+A: The answer is ->", no.
+94,"Q: Is the following sentence plausible? ""Philip Rivers hit a triple.""
+A: The answer is ->", no.
+95,"Q: Is the following sentence plausible? ""Angel Di Maria got on the end of a through ball in the Champions League Final.""
+A: The answer is ->", yes.
+96,"Q: Is the following sentence plausible? ""Diego Forlan hit the back shoulder fade in the Superbowl.""
+A: The answer is ->", no.
+97,"Q: Is the following sentence plausible? ""Tom Wilson scored a penalty kick.""
+A: The answer is ->", no.
+98,"Q: Is the following sentence plausible? ""Kyle Lowry dunked the ball.""
+A: The answer is ->", yes.
+99,"Q: Is the following sentence plausible? ""Al Horford scored in the shootout.""
+A: The answer is ->", no.
+100,"Q: Is the following sentence plausible? ""Radamel Falcao airballed the shot in the Eastern Conference Finals.""
+A: The answer is ->", no.
+101,"Q: Is the following sentence plausible? ""Connor McDavid wristed a shot.""
+A: The answer is ->", yes.
+102,"Q: Is the following sentence plausible? ""Bastian Schweinsteiger scored in added time.""
+A: The answer is ->", yes.
+103,"Q: Is the following sentence plausible? ""Jonas Valanciunas comitted an offensive foul.""
+A: The answer is ->", yes.
+104,"Q: Is the following sentence plausible? ""Nikola Jokic passed the puck.""
+A: The answer is ->", no.
+105,"Q: Is the following sentence plausible? ""J.T. Realmuto hit a homerun in the American League Championship Series.""
+A: The answer is ->", yes.
+106,"Q: Is the following sentence plausible? ""Joey Gallo nutmegged the defender.""
+A: The answer is ->", no.
+107,"Q: Is the following sentence plausible? ""Christian Yelich went in studs up in the World Cup.""
+A: The answer is ->", no.
+108,"Q: Is the following sentence plausible? ""Trevor Story hit the wheel route in the AFC divisional round.""
+A: The answer is ->", no.
+109,"Q: Is the following sentence plausible? ""Yaya Toure scored a freekick.""
+A: The answer is ->", yes.
+110,"Q: Is the following sentence plausible? ""Sergio Ramos hit nothing but net.""
+A: The answer is ->", no.
+111,"Q: Is the following sentence plausible? ""Alex Bregman flew out to center.""
+A: The answer is ->", yes.
+112,"Q: Is the following sentence plausible? ""Sergio Ramos took a corner three in the Eastern Conference Finals.""
+A: The answer is ->", no.
+113,"Q: Is the following sentence plausible? ""Patrice Evra scored in the shootout.""
+A: The answer is ->", no.
+114,"Q: Is the following sentence plausible? ""Fred VanVleet was called for the goal tend.""
+A: The answer is ->", yes.
+115,"Q: Is the following sentence plausible? ""Neymar did a maradona on the defender in the Champions Leage Semifinal.""
+A: The answer is ->", yes.
+116,"Q: Is the following sentence plausible? ""Vincent Kompany committed a handball.""
+A: The answer is ->", yes.
+117,"Q: Is the following sentence plausible? ""Jacob Markstrom entered the attacking zone in the Stanley Cup.""
+A: The answer is ->", yes.
+118,"Q: Is the following sentence plausible? ""Luis Suarez fumbled the ball.""
+A: The answer is ->", no.
+119,"Q: Is the following sentence plausible? ""Calvin Ridley drove into the paint.""
+A: The answer is ->", no.
+120,"Q: Is the following sentence plausible? ""Adam Thielen performed a slide tackle.""
+A: The answer is ->", no.
+121,"Q: Is the following sentence plausible? ""Marcell Ozuna took a backhand shot in the Stanley Cup.""
+A: The answer is ->", no.
+122,"Q: Is the following sentence plausible? ""Ketel Marte was out at second.""
+A: The answer is ->", yes.
+123,"Q: Is the following sentence plausible? ""Matt Ryan scored a penalty kick.""
+A: The answer is ->", no.
+124,"Q: Is the following sentence plausible? ""Wayne Rooney beat the buzzer.""
+A: The answer is ->", no.
+125,"Q: Is the following sentence plausible? ""Thomas Muller did a double stepover.""
+A: The answer is ->", yes.
+126,"Q: Is the following sentence plausible? ""Amari Cooper scored a penalty kick.""
+A: The answer is ->", no.
+127,"Q: Is the following sentence plausible? ""Mitchell Marner wristed a shot.""
+A: The answer is ->", yes.
+128,"Q: Is the following sentence plausible? ""Max Pacioretty spent time in the penalty box.""
+A: The answer is ->", yes.
+129,"Q: Is the following sentence plausible? ""Moussa Dembele gained five yards.""
+A: The answer is ->", no.
+130,"Q: Is the following sentence plausible? ""Domantas Sabonis gained five yards in the AFC championship.""
+A: The answer is ->", no.
+131,"Q: Is the following sentence plausible? ""Drew Brees was flagged on the play.""
+A: The answer is ->", yes.
+132,"Q: Is the following sentence plausible? ""Jaylen Brown comitted a three second violation.""
+A: The answer is ->", yes.
+133,"Q: Is the following sentence plausible? ""Darius Slayton gained five yards.""
+A: The answer is ->", yes.
+134,"Q: Is the following sentence plausible? ""Jayson Tatum took a side-step three in the NBA Championship.""
+A: The answer is ->", yes.
+135,"Q: Is the following sentence plausible? ""Freddie Freeman worked a full count.""
+A: The answer is ->", yes.
+136,"Q: Is the following sentence plausible? ""Sterling Shepard changed direction in the backfield.""
+A: The answer is ->", yes.
+137,"Q: Is the following sentence plausible? ""Robin Lehner launched a hail mary.""
+A: The answer is ->", no.
+138,"Q: Is the following sentence plausible? ""Tuukka Rask killed the powerplay.""
+A: The answer is ->", yes.
+139,"Q: Is the following sentence plausible? ""Travis Konecny did a maradona on the defender.""
+A: The answer is ->", no.
+140,"Q: Is the following sentence plausible? ""Jacob Markstrom backhanded a shot.""
+A: The answer is ->", yes.
+141,"Q: Is the following sentence plausible? ""Freddie Freeman scored a bicycle kick.""
+A: The answer is ->", no.
+142,"Q: Is the following sentence plausible? ""Jared Goff scored in added time.""
+A: The answer is ->", no.
+143,"Q: Is the following sentence plausible? ""Javier Zanetti watched the pitch go by in the National League Championship Series.""
+A: The answer is ->", no.
+144,"Q: Is the following sentence plausible? ""Tim Anderson went in studs up in the European Cup.""
+A: The answer is ->", no.
+145,"Q: Is the following sentence plausible? ""Caris LeVert scored a reverse layup.""
+A: The answer is ->", yes.
+146,"Q: Is the following sentence plausible? ""Juan Soto scored in the third period.""
+A: The answer is ->", no.
+147,"Q: Is the following sentence plausible? ""Brad Hand hit a double.""
+A: The answer is ->", yes.
+148,"Q: Is the following sentence plausible? ""Carter Hart eurostepped to the basket.""
+A: The answer is ->", no.
+149,"Q: Is the following sentence plausible? ""Connor Hellebuyck hit a triple.""
+A: The answer is ->", no.
+150,"Q: Is the following sentence plausible? ""Jerry Jeudy scored on the power play.""
+A: The answer is ->", no.
+151,"Q: Is the following sentence plausible? ""Aleksander Barkov took to the ice.""
+A: The answer is ->", yes.
+152,"Q: Is the following sentence plausible? ""Mark Scheifele skated backwards.""
+A: The answer is ->", yes.
+153,"Q: Is the following sentence plausible? ""Ben Simmons banked the shot in.""
+A: The answer is ->", yes.
+154,"Q: Is the following sentence plausible? ""Neymar did a double stepover.""
+A: The answer is ->", yes.
+155,"Q: Is the following sentence plausible? ""Mike Moustakas watched the pitch go by.""
+A: The answer is ->", yes.
+156,"Q: Is the following sentence plausible? ""Leon Draisaitl grounded out to second base in the National League Championship Series.""
+A: The answer is ->", no.
+157,"Q: Is the following sentence plausible? ""Chris Boucher comitted a three second violation.""
+A: The answer is ->", yes.
+158,"Q: Is the following sentence plausible? ""Didier Drogba earned an indirect kick.""
+A: The answer is ->", yes.
+159,"Q: Is the following sentence plausible? ""Hulk hit a triple.""
+A: The answer is ->", no.
+160,"Q: Is the following sentence plausible? ""Jack Flaherty walked to first base in the National League Championship Series.""
+A: The answer is ->", yes.
+161,"Q: Is the following sentence plausible? ""Dejounte Murray took a left footed shot.""
+A: The answer is ->", no.
+162,"Q: Is the following sentence plausible? ""Darijo Srna eurostepped to the basket.""
+A: The answer is ->", no.
+163,"Q: Is the following sentence plausible? ""William Nylander skated behind the net.""
+A: The answer is ->", yes.
+164,"Q: Is the following sentence plausible? ""John Carlson entered the attacking zone.""
+A: The answer is ->", yes.
+165,"Q: Is the following sentence plausible? ""Eugenio Suarez pitched a complete game.""
+A: The answer is ->", yes.
+166,"Q: Is the following sentence plausible? ""Kyle Tucker pitched a shutout.""
+A: The answer is ->", yes.
+167,"Q: Is the following sentence plausible? ""Aaron Rodgers was flagged on the play.""
+A: The answer is ->", yes.
+168,"Q: Is the following sentence plausible? ""Timo Meier nutmegged the defender in the FA Cup.""
+A: The answer is ->", no.
+169,"Q: Is the following sentence plausible? ""Josh Hader scored a touchdown.""
+A: The answer is ->", no.
+170,"Q: Is the following sentence plausible? ""Malik Beasley\xc2\xa0 comitted a three second violation.""
+A: The answer is ->", yes.
+171,"Q: Is the following sentence plausible? ""Eden Hazard took a corner kick.""
+A: The answer is ->", yes.
+172,"Q: Is the following sentence plausible? ""J.D. Martinez hit a homerun.""
+A: The answer is ->", yes.
+173,"Q: Is the following sentence plausible? ""Anders Lee went in studs up in the Champions League Final.""
+A: The answer is ->", no.
+174,"Q: Is the following sentence plausible? ""Matt Chapman hit a walkoff homer.""
+A: The answer is ->", yes.
+175,"Q: Is the following sentence plausible? ""Samir Nasri performed a cruyff turn.""
+A: The answer is ->", yes.
+176,"Q: Is the following sentence plausible? ""Jarrett Allen fumbled the ball.""
+A: The answer is ->", no.
+177,"Q: Is the following sentence plausible? ""Jerry Jeudy caught the back shoulder fade.""
+A: The answer is ->", yes.
+178,"Q: Is the following sentence plausible? ""Stephen Curry comitted a three second violation.""
+A: The answer is ->", yes.
+179,"Q: Is the following sentence plausible? ""Mike Trout hit a double.""
+A: The answer is ->", yes.
+180,"Q: Is the following sentence plausible? ""Vladimir Guerrero Jr. walked to first base.""
+A: The answer is ->", yes.
+181,"Q: Is the following sentence plausible? ""Mike Evans ran out of bounds.""
+A: The answer is ->", yes.
+182,"Q: Is the following sentence plausible? ""Xavi caught the back shoulder fade.""
+A: The answer is ->", no.
+183,"Q: Is the following sentence plausible? ""Robert Woods hit a triple.""
+A: The answer is ->", no.
+184,"Q: Is the following sentence plausible? ""Jamal Murray went one for two from the line in the Eastern Conference Finals.""
+A: The answer is ->", yes.
+185,"Q: Is the following sentence plausible? ""Manny Machado hit a homerun.""
+A: The answer is ->", yes.
+186,"Q: Is the following sentence plausible? ""Trae Young committed a blocking foul in the NBA Championship.""
+A: The answer is ->", yes.
+187,"Q: Is the following sentence plausible? ""Mike Trout passed the puck.""
+A: The answer is ->", no.
+188,"Q: Is the following sentence plausible? ""Tyler Glasnow threw to first base.""
+A: The answer is ->", yes.
+189,"Q: Is the following sentence plausible? ""Brady Tkachuk scored a header goal.""
+A: The answer is ->", no.
+190,"Q: Is the following sentence plausible? ""Jacob deGrom took a corner kick.""
+A: The answer is ->", no.
+191,"Q: Is the following sentence plausible? ""Joey Gallo fumbled the ball.""
+A: The answer is ->", no.
+192,"Q: Is the following sentence plausible? ""Mario Balotelli was out at second.""
+A: The answer is ->", no.
+193,"Q: Is the following sentence plausible? ""Jacob deGrom was flagged on the play.""
+A: The answer is ->", no.
+194,"Q: Is the following sentence plausible? ""Carlos Tevez converted the first down.""
+A: The answer is ->", no.
+195,"Q: Is the following sentence plausible? ""AJ Pollock walked to first base in the World Series.""
+A: The answer is ->", yes.
+196,"Q: Is the following sentence plausible? ""Tyler Glasnow scored a penalty kick.""
+A: The answer is ->", no.
+197,"Q: Is the following sentence plausible? ""John Carlson scored in the third period.""
+A: The answer is ->", yes.
+198,"Q: Is the following sentence plausible? ""George Springer went five hole in the Stanley Cup.""
+A: The answer is ->", no.
+199,"Q: Is the following sentence plausible? ""Calvin Ridley skated behind the net.""
+A: The answer is ->", no.
+200,"Q: Is the following sentence plausible? ""Tyler Glasnow scored on the power play.""
+A: The answer is ->", no.
+201,"Q: Is the following sentence plausible? ""Zack Greinke struck out.""
+A: The answer is ->", yes.
+202,"Q: Is the following sentence plausible? ""Joao Moutinho was out at third.""
+A: The answer is ->", no.
+203,"Q: Is the following sentence plausible? ""Trae Young got into the endzone.""
+A: The answer is ->", no.
+204,"Q: Is the following sentence plausible? ""DK Metcalf launched a hail mary.""
+A: The answer is ->", yes.
+205,"Q: Is the following sentence plausible? ""Chris Boucher was called for the goal tend.""
+A: The answer is ->", yes.
+206,"Q: Is the following sentence plausible? ""David Silva took a throw in.""
+A: The answer is ->", yes.
+207,"Q: Is the following sentence plausible? ""Julio Jones passed the puck.""
+A: The answer is ->", no.
+208,"Q: Is the following sentence plausible? ""Darijo Srna earned a red card.""
+A: The answer is ->", yes.
+209,"Q: Is the following sentence plausible? ""Sonny Gray flew out to center.""
+A: The answer is ->", yes.
+210,"Q: Is the following sentence plausible? ""Mika Zibanejad passed the puck in the Stanley Cup.""
+A: The answer is ->", yes.
+211,"Q: Is the following sentence plausible? ""Raisel Iglesias drove into the paint.""
+A: The answer is ->", no.
+212,"Q: Is the following sentence plausible? ""Miro Heiskanen took to the ice in the Stanley Cup.""
+A: The answer is ->", yes.
+213,"Q: Is the following sentence plausible? ""Adam Thielen hit the screen pass.""
+A: The answer is ->", yes.
+214,"Q: Is the following sentence plausible? ""Klaas Jan Huntelaar shot with the left foot.""
+A: The answer is ->", yes.
+215,"Q: Is the following sentence plausible? ""Bastian Schweinsteiger did a double stepover.""
+A: The answer is ->", yes.
+216,"Q: Is the following sentence plausible? ""Francisco Lindor hit a single.""
+A: The answer is ->", yes.
+217,"Q: Is the following sentence plausible? ""Brandin Cooks caught the screen pass.""
+A: The answer is ->", yes.
+218,"Q: Is the following sentence plausible? ""Mike Moustakas scored a touchdown.""
+A: The answer is ->", no.
+219,"Q: Is the following sentence plausible? ""Kris Bryant stepped on first base.""
+A: The answer is ->", yes.
+220,"Q: Is the following sentence plausible? ""Chris Godwin converted the first down in the AFC divisional round.""
+A: The answer is ->", yes.
+221,"Q: Is the following sentence plausible? ""Yaya Toure struck out.""
+A: The answer is ->", no.
+222,"Q: Is the following sentence plausible? ""Calvin Ridley ran out of bounds in the NFC divisional round.""
+A: The answer is ->", yes.
+223,"Q: Is the following sentence plausible? ""John Carlson entered the attacking zone in the Stanley Cup.""
+A: The answer is ->", yes.
+224,"Q: Is the following sentence plausible? ""Sergio Aguero hit the buzzer beater in the NBA Championship.""
+A: The answer is ->", no.
+225,"Q: Is the following sentence plausible? ""Calvin Ridley committed a handball.""
+A: The answer is ->", no.
+226,"Q: Is the following sentence plausible? ""Joe Burrow was flagged on the play.""
+A: The answer is ->", yes.
+227,"Q: Is the following sentence plausible? ""Jarvis Landry gained five yards.""
+A: The answer is ->", yes.
+228,"Q: Is the following sentence plausible? ""Nathan MacKinnon bricked the three pointer in the Eastern Conference Finals.""
+A: The answer is ->", no.
+229,"Q: Is the following sentence plausible? ""Jamal Murray walked on ball four.""
+A: The answer is ->", no.
+230,"Q: Is the following sentence plausible? ""Morgan Rielly swung to protect the runner.""
+A: The answer is ->", no.
+231,"Q: Is the following sentence plausible? ""Joe Ingles took a long two.""
+A: The answer is ->", yes.
+232,"Q: Is the following sentence plausible? ""Mitchell Robinson airballed the shot.""
+A: The answer is ->", yes.
+233,"Q: Is the following sentence plausible? ""Connor McDavid scored a penalty kick.""
+A: The answer is ->", no.
+234,"Q: Is the following sentence plausible? ""Patrik Laine skated backwards.""
+A: The answer is ->", yes.
+235,"Q: Is the following sentence plausible? ""Sean Couturier passed the puck in the Stanley Cup.""
+A: The answer is ->", yes.
+236,"Q: Is the following sentence plausible? ""Franmil Reyes scored a reverse layup.""
+A: The answer is ->", no.
+237,"Q: Is the following sentence plausible? ""Kyle Palmieri went in studs up.""
+A: The answer is ->", no.
+238,"Q: Is the following sentence plausible? ""Jaren Jackson Jr. eurostepped to the basket in the NBA Championship.""
+A: The answer is ->", yes.
+239,"Q: Is the following sentence plausible? ""Hernanes performed a cruyff turn.""
+A: The answer is ->", yes.
+240,"Q: Is the following sentence plausible? ""Golden Tate set the pick and roll.""
+A: The answer is ->", no.
+241,"Q: Is the following sentence plausible? ""Caris LeVert scored a corner kick.""
+A: The answer is ->", no.
+242,"Q: Is the following sentence plausible? ""Eden Hazard walked to first base.""
+A: The answer is ->", no.
+243,"Q: Is the following sentence plausible? ""Sebastian Aho scored a touchdown.""
+A: The answer is ->", no.
+244,"Q: Is the following sentence plausible? ""Donovan Mitchell fumbled the ball in the AFC championship.""
+A: The answer is ->", no.
+245,"Q: Is the following sentence plausible? ""Mike Hoffman launched the half court shot in the Western Conference Finals.""
+A: The answer is ->", no.
+246,"Q: Is the following sentence plausible? ""Mike Trout hit a walkoff homer.""
+A: The answer is ->", yes.
+247,"Q: Is the following sentence plausible? ""Teddy Bridgewater scored on the power play.""
+A: The answer is ->", no.
+248,"Q: Is the following sentence plausible? ""Mario Gomez scored a reverse layup.""
+A: The answer is ->", no.
+249,"Q: Is the following sentence plausible? ""Malcolm Brogdon took a charge.""
+A: The answer is ->", yes.
+250,"Q: Is the following sentence plausible? ""Lonzo Ball took a long two.""
+A: The answer is ->", yes.
+251,"Q: Is the following sentence plausible? ""Zach LaVine\xc2\xa0 airballed the shot in the Western Conference Finals.""
+A: The answer is ->", yes.
+252,"Q: Is the following sentence plausible? ""Chris Boucher took a side-step three.""
+A: The answer is ->", yes.
+253,"Q: Is the following sentence plausible? ""Kris Letang lost control of the puck.""
+A: The answer is ->", yes.
+254,"Q: Is the following sentence plausible? ""Gerrit Cole converted the double play.""
+A: The answer is ->", yes.
+255,"Q: Is the following sentence plausible? ""Franmil Reyes got on base.""
+A: The answer is ->", yes.
+256,"Q: Is the following sentence plausible? ""Julio Jones was called for the goal tend.""
+A: The answer is ->", no.
+257,"Q: Is the following sentence plausible? ""Jesus Luzardo headed back to the dugout.""
+A: The answer is ->", yes.
+258,"Q: Is the following sentence plausible? ""Kendrick Nunn committed a three second violation.""
+A: The answer is ->", yes.
+259,"Q: Is the following sentence plausible? ""Kenny Golladay took the snap.""
+A: The answer is ->", yes.
+260,"Q: Is the following sentence plausible? ""Luke Voit watched the pitch go by in the National League Championship Series.""
+A: The answer is ->", yes.
+261,"Q: Is the following sentence plausible? ""Javier Zanetti caught the screen pass.""
+A: The answer is ->", no.
+262,"Q: Is the following sentence plausible? ""LaMelo Ball launched the half court shot in the Western Conference Finals.""
+A: The answer is ->", yes.
+263,"Q: Is the following sentence plausible? ""Corbin Burnes earned an indirect kick.""
+A: The answer is ->", no.
+264,"Q: Is the following sentence plausible? ""Giannis Antetokounmpo threw a touchdown.""
+A: The answer is ->", no.
+265,"Q: Is the following sentence plausible? ""Brandon Woodruff walked to first base in the American League Championship Series.""
+A: The answer is ->", yes.
+266,"Q: Is the following sentence plausible? ""Sean Couturier maradona\'d the defender.""
+A: The answer is ->", no.
+267,"Q: Is the following sentence plausible? ""Yoan Moncada fumbled the ball in the Superbowl.""
+A: The answer is ->", no.
+268,"Q: Is the following sentence plausible? ""Michael Thomas hit a double.""
+A: The answer is ->", no.
+269,"Q: Is the following sentence plausible? ""Nelson Cruz earned a red card.""
+A: The answer is ->", no.
+270,"Q: Is the following sentence plausible? ""Bryce Harper hit the back shoulder fade.""
+A: The answer is ->", no.
+271,"Q: Is the following sentence plausible? ""DeMar DeRozan was called for the goal tend.""
+A: The answer is ->", yes.
+272,"Q: Is the following sentence plausible? ""Blake Wheeler was called for icing.""
+A: The answer is ->", yes.
+273,"Q: Is the following sentence plausible? ""Paul Goldschmidt banked the shot in.""
+A: The answer is ->", no.
+274,"Q: Is the following sentence plausible? ""Diontae Johnson went for it on fourth down.""
+A: The answer is ->", yes.
+275,"Q: Is the following sentence plausible? ""DeMar DeRozan was perfect from the line.""
+A: The answer is ->", yes.
+276,"Q: Is the following sentence plausible? ""Tristan Jarry dunked the ball.""
+A: The answer is ->", no.
+277,"Q: Is the following sentence plausible? ""Norman Powell took a turnaround jumper.""
+A: The answer is ->", yes.
+278,"Q: Is the following sentence plausible? ""Christian Eriksen scored in extra time.""
+A: The answer is ->", yes.
+279,"Q: Is the following sentence plausible? ""Collin Sexton took a throw in.""
+A: The answer is ->", no.
+280,"Q: Is the following sentence plausible? ""Cesc Fabregas earned a direct kick.""
+A: The answer is ->", yes.
+281,"Q: Is the following sentence plausible? ""Eugenio Suarez watched the pitch go by.""
+A: The answer is ->", yes.
+282,"Q: Is the following sentence plausible? ""Ryan Tannehill was flagged on the play.""
+A: The answer is ->", yes.
+283,"Q: Is the following sentence plausible? ""Robin Lehner took to the ice.""
+A: The answer is ->", yes.
+284,"Q: Is the following sentence plausible? ""Joey Gallo was perfect from the line.""
+A: The answer is ->", no.
+285,"Q: Is the following sentence plausible? ""Jordi Alba scored a reverse layup in the Western Conference Finals.""
+A: The answer is ->", no.
+286,"Q: Is the following sentence plausible? ""Marcell Ozuna hit a single.""
+A: The answer is ->", yes.
+287,"Q: Is the following sentence plausible? ""Deandre Ayton was perfect from the line in the Eastern Conference Finals.""
+A: The answer is ->", yes.
+288,"Q: Is the following sentence plausible? ""Delon Wright went for it on fourth down.""
+A: The answer is ->", no.
+289,"Q: Is the following sentence plausible? ""Logan Couture went for it on fourth down.""
+A: The answer is ->", no.
+290,"Q: Is the following sentence plausible? ""Max Pacioretty skated backwards.""
+A: The answer is ->", yes.
+291,"Q: Is the following sentence plausible? ""Mike Trout hit the buzzer beater.""
+A: The answer is ->", no.
+292,"Q: Is the following sentence plausible? ""Joe Hart eurostepped to the basket.""
+A: The answer is ->", no.
+293,"Q: Is the following sentence plausible? ""Kenta Maeda caught the screen pass.""
+A: The answer is ->", no.
+294,"Q: Is the following sentence plausible? ""Jonathan Marchessault scored on the power play in the Stanley Cup.""
+A: The answer is ->", yes.
+295,"Q: Is the following sentence plausible? ""Nick Castellanos hit nothing but net.""
+A: The answer is ->", no.
+296,"Q: Is the following sentence plausible? ""Karl-Anthony Towns took a corner kick.""
+A: The answer is ->", no.
+297,"Q: Is the following sentence plausible? ""Amari Cooper scored a touchdown.""
+A: The answer is ->", yes.
+298,"Q: Is the following sentence plausible? ""Malcolm Brogdon took a turnaround jumper in the NBA Championship.""
+A: The answer is ->", yes.
+299,"Q: Is the following sentence plausible? ""Sergio Aguero maradona\'d the defender.""
+A: The answer is ->", yes.
+300,"Q: Is the following sentence plausible? ""Ezequiel Lavezzi was out at home in the American League Championship Series.""
+A: The answer is ->", no.
+301,"Q: Is the following sentence plausible? ""Arjen Robben earned a direct kick.""
+A: The answer is ->", yes.
+302,"Q: Is the following sentence plausible? ""Luis Robert was out at second.""
+A: The answer is ->", yes.
+303,"Q: Is the following sentence plausible? ""Neymar took a backhand shot in the Stanley Cup.""
+A: The answer is ->", no.
+304,"Q: Is the following sentence plausible? ""Jaylen Brown was called for the goal tend.""
+A: The answer is ->", yes.
+305,"Q: Is the following sentence plausible? ""Evgeni Malkin passed the puck.""
+A: The answer is ->", yes.
+306,"Q: Is the following sentence plausible? ""Trevor Bauer stepped on first base.""
+A: The answer is ->", yes.
+307,"Q: Is the following sentence plausible? ""Victor Wanyama took a left footed shot.""
+A: The answer is ->", yes.
+308,"Q: Is the following sentence plausible? ""Xander Bogaerts eurostepped to the basket.""
+A: The answer is ->", no.
+309,"Q: Is the following sentence plausible? ""DK Metcalf got into the endzone.""
+A: The answer is ->", yes.
+310,"Q: Is the following sentence plausible? ""Angel Di Maria scored in extra time.""
+A: The answer is ->", yes.
+311,"Q: Is the following sentence plausible? ""Kailer Yamamoto crossed the blue line.""
+A: The answer is ->", yes.
+312,"Q: Is the following sentence plausible? ""Zion Williamson scored the easy layup.""
+A: The answer is ->", yes.
+313,"Q: Is the following sentence plausible? ""Brad Hand hit the wheel route.""
+A: The answer is ->", no.
+314,"Q: Is the following sentence plausible? ""Neymar went for it on fourth down.""
+A: The answer is ->", no.
+315,"Q: Is the following sentence plausible? ""Thiago Silva hit a single.""
+A: The answer is ->", no.
+316,"Q: Is the following sentence plausible? ""Adam Thielen scored in added time.""
+A: The answer is ->", no.
+317,"Q: Is the following sentence plausible? ""Kyle Lowry was called for slashing.""
+A: The answer is ->", no.
+318,"Q: Is the following sentence plausible? ""Marcelo earned a yellow card in the FA Cup.""
+A: The answer is ->", yes.
+319,"Q: Is the following sentence plausible? ""Sam Darnold struck out.""
+A: The answer is ->", no.
+320,"Q: Is the following sentence plausible? ""Pierre-Luc Dubois scored in the shootout.""
+A: The answer is ->", yes.
+321,"Q: Is the following sentence plausible? ""Ben Simmons called for the screen.""
+A: The answer is ->", yes.
+322,"Q: Is the following sentence plausible? ""Blake Wheeler took a three.""
+A: The answer is ->", no.
+323,"Q: Is the following sentence plausible? ""Dejounte Murray took a side-step three.""
+A: The answer is ->", yes.
+324,"Q: Is the following sentence plausible? ""Karl-Anthony Towns committed a blocking foul.""
+A: The answer is ->", yes.
+325,"Q: Is the following sentence plausible? ""Santi Cazorla scored a touchdown.""
+A: The answer is ->", no.
+326,"Q: Is the following sentence plausible? ""P.J. Washington pitched a shutout.""
+A: The answer is ->", no.
+327,"Q: Is the following sentence plausible? ""Willian took a left footed shot in the Champions League Final.""
+A: The answer is ->", yes.
+328,"Q: Is the following sentence plausible? ""Ben Simmons set the hard screen in the Western Conference Finals.""
+A: The answer is ->", yes.
+329,"Q: Is the following sentence plausible? ""Bastian Schweinsteiger scored in added time.""
+A: The answer is ->", yes.
+330,"Q: Is the following sentence plausible? ""Mecole Hardman swung to protect the runner in the American League Championship Series.""
+A: The answer is ->", no.
+331,"Q: Is the following sentence plausible? ""Nicklas Backstrom earned a trip to the penalty box.""
+A: The answer is ->", yes.
+332,"Q: Is the following sentence plausible? ""Robert Lewandowski killed the powerplay in the Stanley Cup.""
+A: The answer is ->", no.
+333,"Q: Is the following sentence plausible? ""Connor McDavid earned a red card.""
+A: The answer is ->", no.
+334,"Q: Is the following sentence plausible? ""Darcy Kuemper scored a bicycle kick.""
+A: The answer is ->", no.
+335,"Q: Is the following sentence plausible? ""Marquise Brown fumbled the ball in the AFC championship.""
+A: The answer is ->", yes.
+336,"Q: Is the following sentence plausible? ""Edinson Cavani hit nothing but net.""
+A: The answer is ->", no.
+337,"Q: Is the following sentence plausible? ""Deandre Ayton set the hard screen in the NBA Championship.""
+A: The answer is ->", yes.
+338,"Q: Is the following sentence plausible? ""Juan Soto took ball four.""
+A: The answer is ->", yes.
+339,"Q: Is the following sentence plausible? ""Mikal Bridges got into the endzone.""
+A: The answer is ->", no.
+340,"Q: Is the following sentence plausible? ""Cristiano Ronaldo converted the first down in the Superbowl.""
+A: The answer is ->", no.
+341,"Q: Is the following sentence plausible? ""Javier Mascherano took a left footed shot.""
+A: The answer is ->", yes.
+342,"Q: Is the following sentence plausible? ""Klaas Jan Huntelaar shot the puck.""
+A: The answer is ->", no.
+343,"Q: Is the following sentence plausible? ""Marcelo was out at third.""
+A: The answer is ->", no.
+344,"Q: Is the following sentence plausible? ""Elias Lindholm took the snap.""
+A: The answer is ->", no.
+345,"Q: Is the following sentence plausible? ""Brady Tkachuk was called for slashing.""
+A: The answer is ->", yes.
+346,"Q: Is the following sentence plausible? ""Freddie Freeman banked the shot in.""
+A: The answer is ->", no.
+347,"Q: Is the following sentence plausible? ""Daniel Jones fumbled the ball.""
+A: The answer is ->", yes.
+348,"Q: Is the following sentence plausible? ""Jack Eichel dunked the ball.""
+A: The answer is ->", no.
+349,"Q: Is the following sentence plausible? ""Stephan El Shaarawy shot with the left foot.""
+A: The answer is ->", yes.
+350,"Q: Is the following sentence plausible? ""Terry Rozier\xc2\xa0 shot from beyond the arc in the Western Conference Finals.""
+A: The answer is ->", yes.
+351,"Q: Is the following sentence plausible? ""Javi Martinez earned a red card.""
+A: The answer is ->", yes.
+352,"Q: Is the following sentence plausible? ""Marouane Fellaini scored in extra time.""
+A: The answer is ->", yes.
+353,"Q: Is the following sentence plausible? ""CJ McCollum shot from the six yard line.""
+A: The answer is ->", no.
+354,"Q: Is the following sentence plausible? ""Jerami Grant did a double stepover.""
+A: The answer is ->", no.
+355,"Q: Is the following sentence plausible? ""Didier Drogba hit nothing but net.""
+A: The answer is ->", no.
+356,"Q: Is the following sentence plausible? ""Shinji Kagawa went in studs up.""
+A: The answer is ->", yes.
+357,"Q: Is the following sentence plausible? ""Alex Bregman hit a triple.""
+A: The answer is ->", yes.
+358,"Q: Is the following sentence plausible? ""Mookie Betts scored on the power play.""
+A: The answer is ->", no.
+359,"Q: Is the following sentence plausible? ""Mitchell Trubisky set the pick and roll.""
+A: The answer is ->", no.
+360,"Q: Is the following sentence plausible? ""Devin Booker took to the ice.""
+A: The answer is ->", no.
+361,"Q: Is the following sentence plausible? ""Petr Cech was safe at first.""
+A: The answer is ->", no.
+362,"Q: Is the following sentence plausible? ""Robin Lehner was called for icing.""
+A: The answer is ->", yes.
+363,"Q: Is the following sentence plausible? ""Amari Cooper scored a penalty kick.""
+A: The answer is ->", no.
+364,"Q: Is the following sentence plausible? ""John Tavares went five hole.""
+A: The answer is ->", yes.
+365,"Q: Is the following sentence plausible? ""Brandon Woodruff set the hard screen in the Eastern Conference Finals.""
+A: The answer is ->", no.
+366,"Q: Is the following sentence plausible? ""Damian Lillard called for the screen in the Eastern Conference Finals.""
+A: The answer is ->", yes.
+367,"Q: Is the following sentence plausible? ""Andres Iniesta was called for icing in the Stanley Cup.""
+A: The answer is ->", no.
+368,"Q: Is the following sentence plausible? ""Andrew Wiggins airballed the shot.""
+A: The answer is ->", yes.
+369,"Q: Is the following sentence plausible? ""Mika Zibanejad went for it on fourth down.""
+A: The answer is ->", no.
+370,"Q: Is the following sentence plausible? ""Kevin Durant walked to first base.""
+A: The answer is ->", no.
+371,"Q: Is the following sentence plausible? ""Nick Castellanos hit the wheel route.""
+A: The answer is ->", no.
+372,"Q: Is the following sentence plausible? ""Keenan Allen drew a flag on the play in the NFC championship.""
+A: The answer is ->", yes.
+373,"Q: Is the following sentence plausible? ""David Villa shot a free throw.""
+A: The answer is ->", no.
+374,"Q: Is the following sentence plausible? ""Timo Meier took a backhand shot in the Stanley Cup.""
+A: The answer is ->", yes.
+375,"Q: Is the following sentence plausible? ""Caris LeVert scored a reverse dunk.""
+A: The answer is ->", yes.
+376,"Q: Is the following sentence plausible? ""Anthony Davis beat the buzzer.""
+A: The answer is ->", yes.
+377,"Q: Is the following sentence plausible? ""Zach Werenski shot the puck.""
+A: The answer is ->", yes.
+378,"Q: Is the following sentence plausible? ""Evgeni Malkin took a three.""
+A: The answer is ->", no.
+379,"Q: Is the following sentence plausible? ""Patrice Bergeron took to the ice.""
+A: The answer is ->", yes.
+380,"Q: Is the following sentence plausible? ""Aaron Nola converted the first down.""
+A: The answer is ->", no.
+381,"Q: Is the following sentence plausible? ""Mike Conley called for the screen.""
+A: The answer is ->", yes.
+382,"Q: Is the following sentence plausible? ""Wesley Sneijder got on base in the American League Championship Series.""
+A: The answer is ->", no.
+383,"Q: Is the following sentence plausible? ""Tom Wilson hit the back shoulder fade.""
+A: The answer is ->", no.
+384,"Q: Is the following sentence plausible? ""Franmil Reyes was caught in a rundown.""
+A: The answer is ->", yes.
+385,"Q: Is the following sentence plausible? ""Brayden Schenn scored a corner kick.""
+A: The answer is ->", no.
+386,"Q: Is the following sentence plausible? ""Kevin Durant scored the easy layup.""
+A: The answer is ->", yes.
+387,"Q: Is the following sentence plausible? ""Jayson Tatum nutmegged the defender.""
+A: The answer is ->", no.
+388,"Q: Is the following sentence plausible? ""Trent Grisham scored a touchdown.""
+A: The answer is ->", no.
+389,"Q: Is the following sentence plausible? ""Philipp Lahm threw a touchdown.""
+A: The answer is ->", no.
+390,"Q: Is the following sentence plausible? ""LeBron James took a corner kick.""
+A: The answer is ->", no.
+391,"Q: Is the following sentence plausible? ""Blake Wheeler maradona\'d the defender in the Champions Leage Semifinal.""
+A: The answer is ->", no.
+392,"Q: Is the following sentence plausible? ""Marvin Jones lost control of the puck.""
+A: The answer is ->", no.
+393,"Q: Is the following sentence plausible? ""Philip Rivers headed back to the dugout.""
+A: The answer is ->", no.
+394,"Q: Is the following sentence plausible? ""Pedro was perfect from the line in the Eastern Conference Finals.""
+A: The answer is ->", no.
+395,"Q: Is the following sentence plausible? ""Petr Cech bricked the three pointer.""
+A: The answer is ->", no.
+396,"Q: Is the following sentence plausible? ""Darius Garland\xc2\xa0 shot from beyond the arc.""
+A: The answer is ->", yes.
+397,"Q: Is the following sentence plausible? ""Connor McDavid threw a touchdown in the NFC divisional round.""
+A: The answer is ->", no.
+398,"Q: Is the following sentence plausible? ""Yoan Moncada flew out to center.""
+A: The answer is ->", yes.
+399,"Q: Is the following sentence plausible? ""Kailer Yamamoto performed a slide tackle in the European Cup.""
+A: The answer is ->", no.
+400,"Q: Is the following sentence plausible? ""Shai Gilgeous-Alexander hit nothing but net.""
+A: The answer is ->", yes.
+401,"Q: Is the following sentence plausible? ""Santi Cazorla called for the screen.""
+A: The answer is ->", no.
+402,"Q: Is the following sentence plausible? ""Alex Pietrangelo backhanded a shot.""
+A: The answer is ->", yes.
+403,"Q: Is the following sentence plausible? ""Mikal Bridges scored a windmill dunk.""
+A: The answer is ->", yes.
+404,"Q: Is the following sentence plausible? ""Andrei Svechnikov took ball four.""
+A: The answer is ->", no.
+405,"Q: Is the following sentence plausible? ""Cale Makar hit into a double play.""
+A: The answer is ->", no.
+406,"Q: Is the following sentence plausible? ""Myles Turner committed a blocking foul.""
+A: The answer is ->", yes.

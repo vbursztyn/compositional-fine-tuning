@@ -1,0 +1,30 @@
+{
+	"cities" : [
+		{"prompt":"I don't like cold weather ->","completion":" I like hot weather"},
+		{"prompt":"I don't like hot weather ->","completion":" I like cold weather"},
+		{"prompt":"I don't like small cities ->","completion":" I like big cities"},
+		{"prompt":"I don't like big cities ->","completion":" I like small cities"},
+		{"prompt":"You don't like cold weather ->","completion":" You like hot weather"},
+		{"prompt":"You don't like hot weather ->","completion":" You like cold weather"},
+		{"prompt":"You don't like small cities ->","completion":" You like big cities"},
+		{"prompt":"You don't like big cities ->","completion":" You like small cities"},
+		{"prompt":"Someone doesn't like cold weather ->","completion":" Someone likes hot weather"},
+		{"prompt":"Someone doesn't like hot weather ->","completion":" Someone likes cold weather"},
+		{"prompt":"Someone doesn't like small cities ->","completion":" Someone likes big cities"},
+		{"prompt":"Someone doesn't like big cities ->","completion":" Someone likes small cities"}
+	],
+	"restaurants" : [
+		{"prompt":"I don't like cheap restaurants ->","completion":" I like expensive restaurants"},
+		{"prompt":"I don't like the restaurants nearby ->","completion":" I like restaurants further away"},
+		{"prompt":"I don't like expensive restaurants ->","completion":" I like affordable restaurants"},
+		{"prompt":"I don't like restaurants further away ->","completion":" I like restaurants nearby"},
+		{"prompt":"You don't like cheap restaurants ->","completion":" You like expensive restaurants"},
+		{"prompt":"You don't like the restaurants nearby ->","completion":" You like restaurants further away"},
+		{"prompt":"You don't like expensive restaurants ->","completion":" You like affordable restaurants"},
+		{"prompt":"You don't like restaurants further away ->","completion":" You like restaurants nearby"},
+		{"prompt":"Someone doesn't like cheap restaurants ->","completion":" Someone likes expensive restaurants"},
+		{"prompt":"Someone doesn't like the restaurants nearby ->","completion":" Someone likes restaurants further away"},
+		{"prompt":"Someone doesn't like expensive restaurants ->","completion":" Someone likes affordable restaurants"},
+		{"prompt":"Someone doesn't like restaurants further away ->","completion":" Someone likes restaurants nearby"}
+	]
+}

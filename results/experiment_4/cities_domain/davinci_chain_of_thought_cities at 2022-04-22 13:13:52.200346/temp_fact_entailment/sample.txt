@@ -1,0 +1,100 @@
+{'statement': 'Between Lagos and Hobart, the city with warmer weather is Lagos.', 'answer': 'Lagos', 'candidate': 'Hobart'}
+{'statement': 'Between Phnom Penh and Zagreb, the city with warmer weather is Phnom Penh.', 'answer': 'Phnom Penh', 'candidate': 'Zagreb'}
+{'statement': 'Between Darwin and Moscow, the city with warmer weather is Darwin.', 'answer': 'Darwin', 'candidate': 'Moscow'}
+{'statement': 'Between Kabul and Honolulu, the city with warmer weather is Honolulu.', 'answer': 'Honolulu', 'candidate': 'Kabul'}
+{'statement': 'Between San Juan and Ushuaia, the city with warmer weather is San Juan.', 'answer': 'San Juan', 'candidate': 'Ushuaia'}
+{'statement': 'Between Juba and Omaha, the city with warmer weather is Juba.', 'answer': 'Juba', 'candidate': 'Omaha'}
+{'statement': 'Between Juba and Addis Ababa, the city with warmer weather is Juba.', 'answer': 'Juba', 'candidate': 'Addis Ababa'}
+{'statement': 'Between Murmansk and Auckland, the city with warmer weather is Auckland.', 'answer': 'Auckland', 'candidate': 'Murmansk'}
+{'statement': 'Between Porto Alegre and Halifax, the city with warmer weather is Porto Alegre.', 'answer': 'Porto Alegre', 'candidate': 'Halifax'}
+{'statement': 'Between Suwałki and Sydney, the city with warmer weather is Sydney.', 'answer': 'Sydney', 'candidate': 'Suwałki'}
+{'statement': 'Between Jakarta and Wellington, the city with warmer weather is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Wellington'}
+{'statement': 'Between Ürümqi and Harare, the city with warmer weather is Harare.', 'answer': 'Harare', 'candidate': 'Ürümqi'}
+{'statement': 'Between San Diego and Muscat, the city with warmer weather is Muscat.', 'answer': 'Muscat', 'candidate': 'San Diego'}
+{'statement': 'Between Oslo and Suva, the city with warmer weather is Suva.', 'answer': 'Suva', 'candidate': 'Oslo'}
+{'statement': 'Between Bratislava and Palembang, the city with warmer weather is Palembang.', 'answer': 'Palembang', 'candidate': 'Bratislava'}
+{'statement': 'Between Oslo and Valencia, the city with warmer weather is Valencia.', 'answer': 'Valencia', 'candidate': 'Oslo'}
+{'statement': 'Between Los Angeles and Oslo, the city with warmer weather is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Oslo'}
+{'statement': 'Between Baltimore and Djibouti, the city with warmer weather is Djibouti.', 'answer': 'Djibouti', 'candidate': 'Baltimore'}
+{'statement': 'Between Omaha and Luanda, the city with warmer weather is Luanda.', 'answer': 'Luanda', 'candidate': 'Omaha'}
+{'statement': 'Between Houston and Minsk, the city with warmer weather is Houston.', 'answer': 'Houston', 'candidate': 'Minsk'}
+{'statement': 'Between Baghdad and Saint Petersburg, the city with warmer weather is Baghdad.', 'answer': 'Baghdad', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Irkutsk and Sucre, the city with warmer weather is Sucre.', 'answer': 'Sucre', 'candidate': 'Irkutsk'}
+{'statement': 'Between Irkutsk and Napier, the city with warmer weather is Napier.', 'answer': 'Napier', 'candidate': 'Irkutsk'}
+{'statement': 'Between Santiago del Estero and Zürich, the city with warmer weather is Santiago del Estero.', 'answer': 'Santiago del Estero', 'candidate': 'Zürich'}
+{'statement': 'Between Monterrey and Zürich, the city with warmer weather is Monterrey.', 'answer': 'Monterrey', 'candidate': 'Zürich'}
+{'statement': 'Between Thiès and Brussels, the city with warmer weather is Thiès.', 'answer': 'Thiès', 'candidate': 'Brussels'}
+{'statement': 'Between Malabo and Kansas City, the city with warmer weather is Malabo.', 'answer': 'Malabo', 'candidate': 'Kansas City'}
+{'statement': 'Between Punta Arenas and Rosario, the city with warmer weather is Rosario.', 'answer': 'Rosario', 'candidate': 'Punta Arenas'}
+{'statement': 'Between Mumbai and Vladivostok, the city with warmer weather is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Vladivostok'}
+{'statement': 'Between Auckland and Muscat, the city with warmer weather is Muscat.', 'answer': 'Muscat', 'candidate': 'Auckland'}
+{'statement': 'Between Port-Gentil and Santiago, the city with warmer weather is Port-Gentil.', 'answer': 'Port-Gentil', 'candidate': 'Santiago'}
+{'statement': 'Between Phnom Penh and Copenhagen, the city with warmer weather is Phnom Penh.', 'answer': 'Phnom Penh', 'candidate': 'Copenhagen'}
+{'statement': 'Between Irkutsk and Pontianak, the city with warmer weather is Pontianak.', 'answer': 'Pontianak', 'candidate': 'Irkutsk'}
+{'statement': 'Between Nur-Sultan and Erbil, the city with warmer weather is Erbil.', 'answer': 'Erbil', 'candidate': 'Nur-Sultan'}
+{'statement': 'Between Vladivostok and San Diego, the city with warmer weather is San Diego.', 'answer': 'San Diego', 'candidate': 'Vladivostok'}
+{'statement': 'Between Copenhagen and Tabora, the city with warmer weather is Tabora.', 'answer': 'Tabora', 'candidate': 'Copenhagen'}
+{'statement': 'Between Changsha and Bangkok, the city with warmer weather is Bangkok.', 'answer': 'Bangkok', 'candidate': 'Changsha'}
+{'statement': 'Between Wau and Toronto, the city with warmer weather is Wau.', 'answer': 'Wau', 'candidate': 'Toronto'}
+{'statement': 'Between Managua and Minneapolis, the city with warmer weather is Managua.', 'answer': 'Managua', 'candidate': 'Minneapolis'}
+{'statement': 'Between Willemstad and Indianapolis, the city with warmer weather is Willemstad.', 'answer': 'Willemstad', 'candidate': 'Indianapolis'}
+{'statement': 'Between Mexicali and Dublin, the city with warmer weather is Mexicali.', 'answer': 'Mexicali', 'candidate': 'Dublin'}
+{'statement': 'Between Oslo and Benghazi, the city with warmer weather is Benghazi.', 'answer': 'Benghazi', 'candidate': 'Oslo'}
+{'statement': 'Between Douala and Yinchuan, the city with warmer weather is Douala.', 'answer': 'Douala', 'candidate': 'Yinchuan'}
+{'statement': 'Between Río Gallegos and Córdoba, the city with warmer weather is Córdoba.', 'answer': 'Córdoba', 'candidate': 'Río Gallegos'}
+{'statement': 'Between Dodoma and Berlin, the city with warmer weather is Dodoma.', 'answer': 'Dodoma', 'candidate': 'Berlin'}
+{'statement': 'Between Niamey and Fukuoka, the city with warmer weather is Niamey.', 'answer': 'Niamey', 'candidate': 'Fukuoka'}
+{'statement': 'Between Palmerston North and Kuwait City, the city with warmer weather is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Palmerston North'}
+{'statement': 'Between Bratislava and Tamanrasset, the city with warmer weather is Tamanrasset.', 'answer': 'Tamanrasset', 'candidate': 'Bratislava'}
+{'statement': 'Between Kingston and Moscow, the city with warmer weather is Kingston.', 'answer': 'Kingston', 'candidate': 'Moscow'}
+{'statement': 'Between Willemstad and Buenos Aires, the city with warmer weather is Willemstad.', 'answer': 'Willemstad', 'candidate': 'Buenos Aires'}
+{'statement': 'Between Douala and Saskatoon, the city with warmer weather is Douala.', 'answer': 'Douala', 'candidate': 'Saskatoon'}
+{'statement': 'Between Bishkek and Irkutsk, the city with warmer weather is Bishkek.', 'answer': 'Bishkek', 'candidate': 'Irkutsk'}
+{'statement': 'Between Dodoma and Río Gallegos, the city with warmer weather is Dodoma.', 'answer': 'Dodoma', 'candidate': 'Río Gallegos'}
+{'statement': 'Between Berlin and Bata, the city with warmer weather is Bata.', 'answer': 'Bata', 'candidate': 'Berlin'}
+{'statement': 'Between Douala and Berlin, the city with warmer weather is Douala.', 'answer': 'Douala', 'candidate': 'Berlin'}
+{'statement': 'Between Mumbai and Reykjavík, the city with warmer weather is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Reykjavík'}
+{'statement': 'Between Djibouti and Skopje, the city with warmer weather is Djibouti.', 'answer': 'Djibouti', 'candidate': 'Skopje'}
+{'statement': 'Between Kuopio and Barranquilla, the city with warmer weather is Barranquilla.', 'answer': 'Barranquilla', 'candidate': 'Kuopio'}
+{'statement': 'Between Lyon and Kuwait City, the city with warmer weather is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Lyon'}
+{'statement': 'Between Ottawa and Harare, the city with warmer weather is Harare.', 'answer': 'Harare', 'candidate': 'Ottawa'}
+{'statement': 'Between Milwaukee and Ndola, the city with warmer weather is Ndola.', 'answer': 'Ndola', 'candidate': 'Milwaukee'}
+{'statement': 'Between Durban and Erzurum, the city with warmer weather is Durban.', 'answer': 'Durban', 'candidate': 'Erzurum'}
+{'statement': 'Between Guangzhou and Zürich, the city with warmer weather is Guangzhou.', 'answer': 'Guangzhou', 'candidate': 'Zürich'}
+{'statement': 'Between Florianópolis and Brussels, the city with warmer weather is Florianópolis.', 'answer': 'Florianópolis', 'candidate': 'Brussels'}
+{'statement': 'Between San Juan and Ankara, the city with warmer weather is San Juan.', 'answer': 'San Juan', 'candidate': 'Ankara'}
+{'statement': 'Between Bishkek and Port Sudan, the city with warmer weather is Port Sudan.', 'answer': 'Port Sudan', 'candidate': 'Bishkek'}
+{'statement': 'Between Nur-Sultan and Benghazi, the city with warmer weather is Benghazi.', 'answer': 'Benghazi', 'candidate': 'Nur-Sultan'}
+{'statement': 'Between Manila and Viedma, the city with warmer weather is Manila.', 'answer': 'Manila', 'candidate': 'Viedma'}
+{'statement': 'Between Vientiane and Bergen, the city with warmer weather is Vientiane.', 'answer': 'Vientiane', 'candidate': 'Bergen'}
+{'statement': 'Between Kuwait City and Moscow, the city with warmer weather is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Moscow'}
+{'statement': 'Between Erzurum and Monterrey, the city with warmer weather is Monterrey.', 'answer': 'Monterrey', 'candidate': 'Erzurum'}
+{'statement': 'Between Christchurch and Luanda, the city with warmer weather is Luanda.', 'answer': 'Luanda', 'candidate': 'Christchurch'}
+{'statement': 'Between Saskatoon and Rabat, the city with warmer weather is Rabat.', 'answer': 'Rabat', 'candidate': 'Saskatoon'}
+{'statement': 'Between Dodoma and Copenhagen, the city with warmer weather is Dodoma.', 'answer': 'Dodoma', 'candidate': 'Copenhagen'}
+{'statement': 'Between Cotonou and Toronto, the city with warmer weather is Cotonou.', 'answer': 'Cotonou', 'candidate': 'Toronto'}
+{'statement': 'Between Dublin and Tucson, the city with warmer weather is Tucson.', 'answer': 'Tucson', 'candidate': 'Dublin'}
+{'statement': 'Between San Antonio and Almaty, the city with warmer weather is San Antonio.', 'answer': 'San Antonio', 'candidate': 'Almaty'}
+{'statement': 'Between Ségou and Fianarantsoa, the city with warmer weather is Ségou.', 'answer': 'Ségou', 'candidate': 'Fianarantsoa'}
+{'statement': 'Between Toluca and Tampa, the city with warmer weather is Tampa.', 'answer': 'Tampa', 'candidate': 'Toluca'}
+{'statement': 'Between Djibouti and Kathmandu, the city with warmer weather is Djibouti.', 'answer': 'Djibouti', 'candidate': 'Kathmandu'}
+{'statement': 'Between Suva and Calgary, the city with warmer weather is Suva.', 'answer': 'Suva', 'candidate': 'Calgary'}
+{'statement': 'Between Bogotá and Nouakchott, the city with warmer weather is Nouakchott.', 'answer': 'Nouakchott', 'candidate': 'Bogotá'}
+{'statement': 'Between Caracas and Punta Arenas, the city with warmer weather is Caracas.', 'answer': 'Caracas', 'candidate': 'Punta Arenas'}
+{'statement': 'Between Nakhon Ratchasima and Chicago, the city with warmer weather is Nakhon Ratchasima.', 'answer': 'Nakhon Ratchasima', 'candidate': 'Chicago'}
+{'statement': 'Between Fukuoka and Villahermosa, the city with warmer weather is Villahermosa.', 'answer': 'Villahermosa', 'candidate': 'Fukuoka'}
+{'statement': 'Between Manila and Kansas City, the city with warmer weather is Manila.', 'answer': 'Manila', 'candidate': 'Kansas City'}
+{'statement': 'Between Maputo and Lyon, the city with warmer weather is Maputo.', 'answer': 'Maputo', 'candidate': 'Lyon'}
+{'statement': 'Between Vladivostok and Makurdi, the city with warmer weather is Makurdi.', 'answer': 'Makurdi', 'candidate': 'Vladivostok'}
+{'statement': 'Between Kampala and Reykjavík, the city with warmer weather is Kampala.', 'answer': 'Kampala', 'candidate': 'Reykjavík'}
+{'statement': 'Between Manila and Auckland, the city with warmer weather is Manila.', 'answer': 'Manila', 'candidate': 'Auckland'}
+{'statement': 'Between Muscat and Minsk, the city with warmer weather is Muscat.', 'answer': 'Muscat', 'candidate': 'Minsk'}
+{'statement': 'Between Ulaanbaatar and Curitiba, the city with warmer weather is Curitiba.', 'answer': 'Curitiba', 'candidate': 'Ulaanbaatar'}
+{'statement': 'Between Hanoi and Saint Petersburg, the city with warmer weather is Hanoi.', 'answer': 'Hanoi', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Mandalay and Rabat, the city with warmer weather is Mandalay.', 'answer': 'Mandalay', 'candidate': 'Rabat'}
+{'statement': 'Between Cape Town and Saskatoon, the city with warmer weather is Cape Town.', 'answer': 'Cape Town', 'candidate': 'Saskatoon'}
+{'statement': 'Between Durban and Punta Arenas, the city with warmer weather is Durban.', 'answer': 'Durban', 'candidate': 'Punta Arenas'}
+{'statement': 'Between Mombasa and Oslo, the city with warmer weather is Mombasa.', 'answer': 'Mombasa', 'candidate': 'Oslo'}
+{'statement': 'Between Manaus and London, the city with warmer weather is Manaus.', 'answer': 'Manaus', 'candidate': 'London'}
+{'statement': 'Between Lima and Irkutsk, the city with warmer weather is Lima.', 'answer': 'Lima', 'candidate': 'Irkutsk'}
+{'statement': 'Between Bucharest and Suva, the city with warmer weather is Suva.', 'answer': 'Suva', 'candidate': 'Bucharest'}

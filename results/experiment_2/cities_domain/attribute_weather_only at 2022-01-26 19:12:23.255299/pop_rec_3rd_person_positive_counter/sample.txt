@@ -1,0 +1,200 @@
+{'statement': 'Someone is looking for a small city to visit. Between Addis Ababa and Cotonou, this person should visit Cotonou.', 'answer': 'Cotonou', 'candidate': 'Addis Ababa'}
+{'statement': 'Someone is looking for a small city to visit. Between Chicago and Baku, this person should visit Baku.', 'answer': 'Baku', 'candidate': 'Chicago'}
+{'statement': 'Someone is looking for a small city to visit. Between Medellín and Garoua, this person should visit Garoua.', 'answer': 'Garoua', 'candidate': 'Medellín'}
+{'statement': 'Someone is looking for a small city to visit. Between Perth and Suwałki, this person should visit Suwałki.', 'answer': 'Suwałki', 'candidate': 'Perth'}
+{'statement': 'Someone is looking for a small city to visit. Between Los Angeles and Lomé, this person should visit Lomé.', 'answer': 'Lomé', 'candidate': 'Los Angeles'}
+{'statement': 'Someone is looking for a small city to visit. Between Houston and Bishkek, this person should visit Bishkek.', 'answer': 'Bishkek', 'candidate': 'Houston'}
+{'statement': 'Someone is looking for a small city to visit. Between Paris and Cape Town, this person should visit Cape Town.', 'answer': 'Cape Town', 'candidate': 'Paris'}
+{'statement': 'Someone is looking for a small city to visit. Between Melbourne and Ouahigouya, this person should visit Ouahigouya.', 'answer': 'Ouahigouya', 'candidate': 'Melbourne'}
+{'statement': 'Someone is looking for a small city to visit. Between Guadalajara and Kuopio, this person should visit Kuopio.', 'answer': 'Kuopio', 'candidate': 'Guadalajara'}
+{'statement': 'Someone is looking for a small city to visit. Between Nairobi and Pretoria, this person should visit Pretoria.', 'answer': 'Pretoria', 'candidate': 'Nairobi'}
+{'statement': 'Someone is looking for a small city to visit. Between London and Bujumbura, this person should visit Bujumbura.', 'answer': 'Bujumbura', 'candidate': 'London'}
+{'statement': 'Someone is looking for a small city to visit. Between Saint Petersburg and Novosibirsk, this person should visit Novosibirsk.', 'answer': 'Novosibirsk', 'candidate': 'Saint Petersburg'}
+{'statement': 'Someone is looking for a small city to visit. Between Luanda and Podgorica, this person should visit Podgorica.', 'answer': 'Podgorica', 'candidate': 'Luanda'}
+{'statement': 'Someone is looking for a small city to visit. Between Shanghai and Belgrade, this person should visit Belgrade.', 'answer': 'Belgrade', 'candidate': 'Shanghai'}
+{'statement': 'Someone is looking for a small city to visit. Between Houston and Ouahigouya, this person should visit Ouahigouya.', 'answer': 'Ouahigouya', 'candidate': 'Houston'}
+{'statement': 'Someone is looking for a small city to visit. Between Fukuoka and Nouadhibou, this person should visit Nouadhibou.', 'answer': 'Nouadhibou', 'candidate': 'Fukuoka'}
+{'statement': 'Someone is looking for a small city to visit. Between Sydney and Garoua, this person should visit Garoua.', 'answer': 'Garoua', 'candidate': 'Sydney'}
+{'statement': 'Someone is looking for a small city to visit. Between Kabul and Garissa, this person should visit Garissa.', 'answer': 'Garissa', 'candidate': 'Kabul'}
+{'statement': 'Someone is looking for a small city to visit. Between Mexico City and Changsha, this person should visit Changsha.', 'answer': 'Changsha', 'candidate': 'Mexico City'}
+{'statement': 'Someone is looking for a small city to visit. Between Kunming and Nur-Sultan, this person should visit Nur-Sultan.', 'answer': 'Nur-Sultan', 'candidate': 'Kunming'}
+{'statement': 'Someone is looking for a small city to visit. Between Mumbai and Ouahigouya, this person should visit Ouahigouya.', 'answer': 'Ouahigouya', 'candidate': 'Mumbai'}
+{'statement': 'Someone is looking for a small city to visit. Between Sydney and Kuopio, this person should visit Kuopio.', 'answer': 'Kuopio', 'candidate': 'Sydney'}
+{'statement': 'Someone is looking for a small city to visit. Between Ankara and Cotonou, this person should visit Cotonou.', 'answer': 'Cotonou', 'candidate': 'Ankara'}
+{'statement': 'Someone is looking for a small city to visit. Between Riyadh and Erbil, this person should visit Erbil.', 'answer': 'Erbil', 'candidate': 'Riyadh'}
+{'statement': 'Someone is looking for a small city to visit. Between Toronto and Makurdi, this person should visit Makurdi.', 'answer': 'Makurdi', 'candidate': 'Toronto'}
+{'statement': 'Someone is looking for a small city to visit. Between Los Angeles and Changsha, this person should visit Changsha.', 'answer': 'Changsha', 'candidate': 'Los Angeles'}
+{'statement': 'Someone is looking for a small city to visit. Between London and Barranquilla, this person should visit Barranquilla.', 'answer': 'Barranquilla', 'candidate': 'London'}
+{'statement': 'Someone is looking for a small city to visit. Between Ankara and Skopje, this person should visit Skopje.', 'answer': 'Skopje', 'candidate': 'Ankara'}
+{'statement': 'Someone is looking for a small city to visit. Between Karachi and Kano, this person should visit Kano.', 'answer': 'Kano', 'candidate': 'Karachi'}
+{'statement': 'Someone is looking for a small city to visit. Between Cairo and Sokoto, this person should visit Sokoto.', 'answer': 'Sokoto', 'candidate': 'Cairo'}
+{'statement': 'Someone is looking for a small city to visit. Between London and Pontianak, this person should visit Pontianak.', 'answer': 'Pontianak', 'candidate': 'London'}
+{'statement': 'Someone is looking for a small city to visit. Between Los Angeles and Belgrade, this person should visit Belgrade.', 'answer': 'Belgrade', 'candidate': 'Los Angeles'}
+{'statement': 'Someone is looking for a small city to visit. Between Melbourne and Zagreb, this person should visit Zagreb.', 'answer': 'Zagreb', 'candidate': 'Melbourne'}
+{'statement': 'Someone is looking for a small city to visit. Between Bogotá and Porto Alegre, this person should visit Porto Alegre.', 'answer': 'Porto Alegre', 'candidate': 'Bogotá'}
+{'statement': 'Someone is looking for a small city to visit. Between Saint Petersburg and Zagreb, this person should visit Zagreb.', 'answer': 'Zagreb', 'candidate': 'Saint Petersburg'}
+{'statement': 'Someone is looking for a small city to visit. Between Guangzhou and Amsterdam, this person should visit Amsterdam.', 'answer': 'Amsterdam', 'candidate': 'Guangzhou'}
+{'statement': 'Someone is looking for a small city to visit. Between Hanoi and Bamako, this person should visit Bamako.', 'answer': 'Bamako', 'candidate': 'Hanoi'}
+{'statement': 'Someone is looking for a small city to visit. Between Los Angeles and Kunming, this person should visit Kunming.', 'answer': 'Kunming', 'candidate': 'Los Angeles'}
+{'statement': 'Someone is looking for a small city to visit. Between Lagos and Berlin, this person should visit Berlin.', 'answer': 'Berlin', 'candidate': 'Lagos'}
+{'statement': 'Someone is looking for a small city to visit. Between Los Angeles and Tirana, this person should visit Tirana.', 'answer': 'Tirana', 'candidate': 'Los Angeles'}
+{'statement': 'Someone is looking for a small city to visit. Between Lagos and Panama City, this person should visit Panama City.', 'answer': 'Panama City', 'candidate': 'Lagos'}
+{'statement': 'Someone is looking for a small city to visit. Between Ho Chi Minh City and Almaty, this person should visit Almaty.', 'answer': 'Almaty', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Someone is looking for a small city to visit. Between London and Garissa, this person should visit Garissa.', 'answer': 'Garissa', 'candidate': 'London'}
+{'statement': 'Someone is looking for a small city to visit. Between Buenos Aires and Bratislava, this person should visit Bratislava.', 'answer': 'Bratislava', 'candidate': 'Buenos Aires'}
+{'statement': 'Someone is looking for a small city to visit. Between Guadalajara and Maputo, this person should visit Maputo.', 'answer': 'Maputo', 'candidate': 'Guadalajara'}
+{'statement': 'Someone is looking for a small city to visit. Between Alexandria and Nakhon Ratchasima, this person should visit Nakhon Ratchasima.', 'answer': 'Nakhon Ratchasima', 'candidate': 'Alexandria'}
+{'statement': 'Someone is looking for a small city to visit. Between Dar es Salaam and Tabora, this person should visit Tabora.', 'answer': 'Tabora', 'candidate': 'Dar es Salaam'}
+{'statement': 'Someone is looking for a small city to visit. Between Shanghai and Yakutsk, this person should visit Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Shanghai'}
+{'statement': 'Someone is looking for a small city to visit. Between Riyadh and Palembang, this person should visit Palembang.', 'answer': 'Palembang', 'candidate': 'Riyadh'}
+{'statement': 'Someone is looking for a small city to visit. Between Buenos Aires and Pittsburgh, this person should visit Pittsburgh.', 'answer': 'Pittsburgh', 'candidate': 'Buenos Aires'}
+{'statement': 'Someone is looking for a small city to visit. Between Phoenix and Nouakchott, this person should visit Nouakchott.', 'answer': 'Nouakchott', 'candidate': 'Phoenix'}
+{'statement': 'Someone is looking for a small city to visit. Between Minneapolis and Albuquerque, this person should visit Albuquerque.', 'answer': 'Albuquerque', 'candidate': 'Minneapolis'}
+{'statement': 'Someone is looking for a small city to visit. Between Monterrey and Upington, this person should visit Upington.', 'answer': 'Upington', 'candidate': 'Monterrey'}
+{'statement': 'Someone is looking for a small city to visit. Between Baghdad and Malabo, this person should visit Malabo.', 'answer': 'Malabo', 'candidate': 'Baghdad'}
+{'statement': 'Someone is looking for a small city to visit. Between London and Maputo, this person should visit Maputo.', 'answer': 'Maputo', 'candidate': 'London'}
+{'statement': 'Someone is looking for a small city to visit. Between Surabaya and Lusaka, this person should visit Lusaka.', 'answer': 'Lusaka', 'candidate': 'Surabaya'}
+{'statement': 'Someone is looking for a small city to visit. Between Melbourne and Cabo San Lucas, this person should visit Cabo San Lucas.', 'answer': 'Cabo San Lucas', 'candidate': 'Melbourne'}
+{'statement': 'Someone is looking for a small city to visit. Between Sydney and Ulaanbaatar, this person should visit Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Sydney'}
+{'statement': 'Someone is looking for a small city to visit. Between Kabul and Asmara, this person should visit Asmara.', 'answer': 'Asmara', 'candidate': 'Kabul'}
+{'statement': 'Someone is looking for a small city to visit. Between Jakarta and Toliara, this person should visit Toliara.', 'answer': 'Toliara', 'candidate': 'Jakarta'}
+{'statement': 'Someone is looking for a small city to visit. Between Rome and Fairbanks, this person should visit Fairbanks.', 'answer': 'Fairbanks', 'candidate': 'Rome'}
+{'statement': 'Someone is looking for a small city to visit. Between Karachi and Nouadhibou, this person should visit Nouadhibou.', 'answer': 'Nouadhibou', 'candidate': 'Karachi'}
+{'statement': 'Someone is looking for a small city to visit. Between Santiago and Durban, this person should visit Durban.', 'answer': 'Durban', 'candidate': 'Santiago'}
+{'statement': 'Someone is looking for a small city to visit. Between Lima and Managua, this person should visit Managua.', 'answer': 'Managua', 'candidate': 'Lima'}
+{'statement': 'Someone is looking for a small city to visit. Between Manila and Brussels, this person should visit Brussels.', 'answer': 'Brussels', 'candidate': 'Manila'}
+{'statement': 'Someone is looking for a small city to visit. Between Lima and Port Moresby, this person should visit Port Moresby.', 'answer': 'Port Moresby', 'candidate': 'Lima'}
+{'statement': 'Someone is looking for a small city to visit. Between Johannesburg and Lake Havasu City, this person should visit Lake Havasu City.', 'answer': 'Lake Havasu City', 'candidate': 'Johannesburg'}
+{'statement': 'Someone is looking for a small city to visit. Between Baghdad and Novosibirsk, this person should visit Novosibirsk.', 'answer': 'Novosibirsk', 'candidate': 'Baghdad'}
+{'statement': 'Someone is looking for a small city to visit. Between Shanghai and Baltimore, this person should visit Baltimore.', 'answer': 'Baltimore', 'candidate': 'Shanghai'}
+{'statement': 'Someone is looking for a small city to visit. Between Guangzhou and Melbourne, this person should visit Melbourne.', 'answer': 'Melbourne', 'candidate': 'Guangzhou'}
+{'statement': 'Someone is looking for a small city to visit. Between Ankara and Anchorage, this person should visit Anchorage.', 'answer': 'Anchorage', 'candidate': 'Ankara'}
+{'statement': 'Someone is looking for a small city to visit. Between Johannesburg and Reykjavík, this person should visit Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Johannesburg'}
+{'statement': 'Someone is looking for a small city to visit. Between Alexandria and Baku, this person should visit Baku.', 'answer': 'Baku', 'candidate': 'Alexandria'}
+{'statement': 'Someone is looking for a small city to visit. Between Buenos Aires and Mandalay, this person should visit Mandalay.', 'answer': 'Mandalay', 'candidate': 'Buenos Aires'}
+{'statement': 'Someone is looking for a small city to visit. Between Houston and Bergen, this person should visit Bergen.', 'answer': 'Bergen', 'candidate': 'Houston'}
+{'statement': 'Someone is looking for a small city to visit. Between Harare and Abéché, this person should visit Abéché.', 'answer': 'Abéché', 'candidate': 'Harare'}
+{'statement': 'Someone is looking for a small city to visit. Between Kuwait City and Gabès, this person should visit Gabès.', 'answer': 'Gabès', 'candidate': 'Kuwait City'}
+{'statement': 'Someone is looking for a small city to visit. Between Kuwait City and Reykjavík, this person should visit Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Kuwait City'}
+{'statement': 'Someone is looking for a small city to visit. Between Sydney and Ottawa, this person should visit Ottawa.', 'answer': 'Ottawa', 'candidate': 'Sydney'}
+{'statement': 'Someone is looking for a small city to visit. Between Dar es Salaam and Makurdi, this person should visit Makurdi.', 'answer': 'Makurdi', 'candidate': 'Dar es Salaam'}
+{'statement': 'Someone is looking for a small city to visit. Between Ho Chi Minh City and Mahajanga, this person should visit Mahajanga.', 'answer': 'Mahajanga', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Someone is looking for a small city to visit. Between Shanghai and Entebbe, this person should visit Entebbe.', 'answer': 'Entebbe', 'candidate': 'Shanghai'}
+{'statement': 'Someone is looking for a small city to visit. Between Shanghai and Sokoto, this person should visit Sokoto.', 'answer': 'Sokoto', 'candidate': 'Shanghai'}
+{'statement': 'Someone is looking for a small city to visit. Between Douala and Tirana, this person should visit Tirana.', 'answer': 'Tirana', 'candidate': 'Douala'}
+{'statement': 'Someone is looking for a small city to visit. Between Ankara and Amsterdam, this person should visit Amsterdam.', 'answer': 'Amsterdam', 'candidate': 'Ankara'}
+{'statement': 'Someone is looking for a small city to visit. Between Tashkent and Anchorage, this person should visit Anchorage.', 'answer': 'Anchorage', 'candidate': 'Tashkent'}
+{'statement': 'Someone is looking for a small city to visit. Between Phoenix and Suwałki, this person should visit Suwałki.', 'answer': 'Suwałki', 'candidate': 'Phoenix'}
+{'statement': 'Someone is looking for a small city to visit. Between Mexico City and Luanda, this person should visit Luanda.', 'answer': 'Luanda', 'candidate': 'Mexico City'}
+{'statement': 'Someone is looking for a small city to visit. Between Harare and Kuopio, this person should visit Kuopio.', 'answer': 'Kuopio', 'candidate': 'Harare'}
+{'statement': 'Someone is looking for a small city to visit. Between Shanghai and Makurdi, this person should visit Makurdi.', 'answer': 'Makurdi', 'candidate': 'Shanghai'}
+{'statement': 'Someone is looking for a small city to visit. Between Beijing and Toronto, this person should visit Toronto.', 'answer': 'Toronto', 'candidate': 'Beijing'}
+{'statement': 'Someone is looking for a small city to visit. Between Cairo and Medellín, this person should visit Medellín.', 'answer': 'Medellín', 'candidate': 'Cairo'}
+{'statement': 'Someone is looking for a small city to visit. Between Surabaya and Conakry, this person should visit Conakry.', 'answer': 'Conakry', 'candidate': 'Surabaya'}
+{'statement': 'Someone is looking for a small city to visit. Between Ho Chi Minh City and Barranquilla, this person should visit Barranquilla.', 'answer': 'Barranquilla', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Someone is looking for a small city to visit. Between Tampa and Napier, this person should visit Napier.', 'answer': 'Napier', 'candidate': 'Tampa'}
+{'statement': 'Someone is looking for a small city to visit. Between Bangkok and Antofagasta, this person should visit Antofagasta.', 'answer': 'Antofagasta', 'candidate': 'Bangkok'}
+{'statement': 'Someone is looking for a small city to visit. Between Los Angeles and Garissa, this person should visit Garissa.', 'answer': 'Garissa', 'candidate': 'Los Angeles'}
+{'statement': 'Someone is looking for a small city to visit. Between Mumbai and Lusaka, this person should visit Lusaka.', 'answer': 'Lusaka', 'candidate': 'Mumbai'}
+{'statement': 'Someone is looking for a small city to visit. Between Dar es Salaam and Ushuaia, this person should visit Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'Dar es Salaam'}
+{'statement': 'Someone is looking for a small city to visit. Between Rome and Erbil, this person should visit Erbil.', 'answer': 'Erbil', 'candidate': 'Rome'}
+{'statement': 'Someone is looking for a small city to visit. Between Paris and Napier, this person should visit Napier.', 'answer': 'Napier', 'candidate': 'Paris'}
+{'statement': 'Someone is looking for a small city to visit. Between Bangkok and Reykjavík, this person should visit Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Bangkok'}
+{'statement': 'Someone is looking for a small city to visit. Between Karachi and Panama City, this person should visit Panama City.', 'answer': 'Panama City', 'candidate': 'Karachi'}
+{'statement': 'Someone is looking for a small city to visit. Between Ürümqi and Nouakchott, this person should visit Nouakchott.', 'answer': 'Nouakchott', 'candidate': 'Ürümqi'}
+{'statement': 'Someone is looking for a small city to visit. Between Kunming and Lisbon, this person should visit Lisbon.', 'answer': 'Lisbon', 'candidate': 'Kunming'}
+{'statement': 'Someone is looking for a small city to visit. Between Dar es Salaam and Curitiba, this person should visit Curitiba.', 'answer': 'Curitiba', 'candidate': 'Dar es Salaam'}
+{'statement': 'Someone is looking for a small city to visit. Between Kuwait City and Nouadhibou, this person should visit Nouadhibou.', 'answer': 'Nouadhibou', 'candidate': 'Kuwait City'}
+{'statement': 'Someone is looking for a small city to visit. Between Kano and Changsha, this person should visit Changsha.', 'answer': 'Changsha', 'candidate': 'Kano'}
+{'statement': 'Someone is looking for a small city to visit. Between Luanda and Saskatoon, this person should visit Saskatoon.', 'answer': 'Saskatoon', 'candidate': 'Luanda'}
+{'statement': 'Someone is looking for a small city to visit. Between Phoenix and Sucre, this person should visit Sucre.', 'answer': 'Sucre', 'candidate': 'Phoenix'}
+{'statement': 'Someone is looking for a small city to visit. Between Toronto and Cotonou, this person should visit Cotonou.', 'answer': 'Cotonou', 'candidate': 'Toronto'}
+{'statement': 'Someone is looking for a small city to visit. Between Bangkok and Medellín, this person should visit Medellín.', 'answer': 'Medellín', 'candidate': 'Bangkok'}
+{'statement': 'Someone is looking for a small city to visit. Between Alexandria and Bangui, this person should visit Bangui.', 'answer': 'Bangui', 'candidate': 'Alexandria'}
+{'statement': 'Someone is looking for a small city to visit. Between Kunming and Gabès, this person should visit Gabès.', 'answer': 'Gabès', 'candidate': 'Kunming'}
+{'statement': 'Someone is looking for a small city to visit. Between Kabul and Darwin, this person should visit Darwin.', 'answer': 'Darwin', 'candidate': 'Kabul'}
+{'statement': 'Someone is looking for a small city to visit. Between Saint Petersburg and San José, this person should visit San José.', 'answer': 'San José', 'candidate': 'Saint Petersburg'}
+{'statement': 'Someone is looking for a small city to visit. Between Lahore and Lhasa, this person should visit Lhasa.', 'answer': 'Lhasa', 'candidate': 'Lahore'}
+{'statement': 'Someone is looking for a small city to visit. Between Harare and Nouadhibou, this person should visit Nouadhibou.', 'answer': 'Nouadhibou', 'candidate': 'Harare'}
+{'statement': 'Someone is looking for a small city to visit. Between Kabul and Pittsburgh, this person should visit Pittsburgh.', 'answer': 'Pittsburgh', 'candidate': 'Kabul'}
+{'statement': 'Someone is looking for a small city to visit. Between Bangkok and Parakou, this person should visit Parakou.', 'answer': 'Parakou', 'candidate': 'Bangkok'}
+{'statement': 'Someone is looking for a small city to visit. Between Harare and Fairbanks, this person should visit Fairbanks.', 'answer': 'Fairbanks', 'candidate': 'Harare'}
+{'statement': 'Someone is looking for a small city to visit. Between Ürümqi and Halifax, this person should visit Halifax.', 'answer': 'Halifax', 'candidate': 'Ürümqi'}
+{'statement': 'Someone is looking for a small city to visit. Between Toronto and Tucson, this person should visit Tucson.', 'answer': 'Tucson', 'candidate': 'Toronto'}
+{'statement': 'Someone is looking for a small city to visit. Between Alexandria and Harare, this person should visit Harare.', 'answer': 'Harare', 'candidate': 'Alexandria'}
+{'statement': 'Someone is looking for a small city to visit. Between Karachi and Oslo, this person should visit Oslo.', 'answer': 'Oslo', 'candidate': 'Karachi'}
+{'statement': 'Someone is looking for a small city to visit. Between Phoenix and Toamasina, this person should visit Toamasina.', 'answer': 'Toamasina', 'candidate': 'Phoenix'}
+{'statement': 'Someone is looking for a small city to visit. Between Lima and Riyadh, this person should visit Riyadh.', 'answer': 'Riyadh', 'candidate': 'Lima'}
+{'statement': 'Someone is looking for a small city to visit. Between Mexico City and Benghazi, this person should visit Benghazi.', 'answer': 'Benghazi', 'candidate': 'Mexico City'}
+{'statement': 'Someone is looking for a small city to visit. Between Mexico City and Novosibirsk, this person should visit Novosibirsk.', 'answer': 'Novosibirsk', 'candidate': 'Mexico City'}
+{'statement': 'Someone is looking for a small city to visit. Between Algiers and Beirut, this person should visit Beirut.', 'answer': 'Beirut', 'candidate': 'Algiers'}
+{'statement': 'Someone is looking for a small city to visit. Between Hanoi and Yaoundé, this person should visit Yaoundé.', 'answer': 'Yaoundé', 'candidate': 'Hanoi'}
+{'statement': 'Someone is looking for a small city to visit. Between Cairo and Bata, this person should visit Bata.', 'answer': 'Bata', 'candidate': 'Cairo'}
+{'statement': 'Someone is looking for a small city to visit. Between Beijing and Santiago del Estero, this person should visit Santiago del Estero.', 'answer': 'Santiago del Estero', 'candidate': 'Beijing'}
+{'statement': 'Someone is looking for a small city to visit. Between Saint Petersburg and Frankfurt, this person should visit Frankfurt.', 'answer': 'Frankfurt', 'candidate': 'Saint Petersburg'}
+{'statement': 'Someone is looking for a small city to visit. Between Alexandria and Lusaka, this person should visit Lusaka.', 'answer': 'Lusaka', 'candidate': 'Alexandria'}
+{'statement': 'Someone is looking for a small city to visit. Between Cairo and Dar es Salaam, this person should visit Dar es Salaam.', 'answer': 'Dar es Salaam', 'candidate': 'Cairo'}
+{'statement': 'Someone is looking for a small city to visit. Between Phnom Penh and Ouahigouya, this person should visit Ouahigouya.', 'answer': 'Ouahigouya', 'candidate': 'Phnom Penh'}
+{'statement': 'Someone is looking for a small city to visit. Between Kabul and Maputo, this person should visit Maputo.', 'answer': 'Maputo', 'candidate': 'Kabul'}
+{'statement': 'Someone is looking for a small city to visit. Between San Diego and Maputo, this person should visit Maputo.', 'answer': 'Maputo', 'candidate': 'San Diego'}
+{'statement': 'Someone is looking for a small city to visit. Between Bogotá and Niamey, this person should visit Niamey.', 'answer': 'Niamey', 'candidate': 'Bogotá'}
+{'statement': 'Someone is looking for a small city to visit. Between Yaoundé and Willemstad, this person should visit Willemstad.', 'answer': 'Willemstad', 'candidate': 'Yaoundé'}
+{'statement': 'Someone is looking for a small city to visit. Between Saint Petersburg and La Paz, this person should visit La Paz.', 'answer': 'La Paz', 'candidate': 'Saint Petersburg'}
+{'statement': 'Someone is looking for a small city to visit. Between Karachi and Abéché, this person should visit Abéché.', 'answer': 'Abéché', 'candidate': 'Karachi'}
+{'statement': 'Someone is looking for a small city to visit. Between Lahore and Tashkent, this person should visit Tashkent.', 'answer': 'Tashkent', 'candidate': 'Lahore'}
+{'statement': 'Someone is looking for a small city to visit. Between Denver and Christchurch, this person should visit Christchurch.', 'answer': 'Christchurch', 'candidate': 'Denver'}
+{'statement': 'Someone is looking for a small city to visit. Between Lahore and Tauranga, this person should visit Tauranga.', 'answer': 'Tauranga', 'candidate': 'Lahore'}
+{'statement': 'Someone is looking for a small city to visit. Between San Diego and Kathmandu, this person should visit Kathmandu.', 'answer': 'Kathmandu', 'candidate': 'San Diego'}
+{'statement': 'Someone is looking for a small city to visit. Between Kunming and Anchorage, this person should visit Anchorage.', 'answer': 'Anchorage', 'candidate': 'Kunming'}
+{'statement': 'Someone is looking for a small city to visit. Between Ürümqi and Lisbon, this person should visit Lisbon.', 'answer': 'Lisbon', 'candidate': 'Ürümqi'}
+{'statement': 'Someone is looking for a small city to visit. Between Denver and La Paz, this person should visit La Paz.', 'answer': 'La Paz', 'candidate': 'Denver'}
+{'statement': 'Someone is looking for a small city to visit. Between Ho Chi Minh City and Yaoundé, this person should visit Yaoundé.', 'answer': 'Yaoundé', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Someone is looking for a small city to visit. Between London and Caracas, this person should visit Caracas.', 'answer': 'Caracas', 'candidate': 'London'}
+{'statement': 'Someone is looking for a small city to visit. Between Surabaya and Nakhon Ratchasima, this person should visit Nakhon Ratchasima.', 'answer': 'Nakhon Ratchasima', 'candidate': 'Surabaya'}
+{'statement': 'Someone is looking for a small city to visit. Between Guadalajara and La Ceiba, this person should visit La Ceiba.', 'answer': 'La Ceiba', 'candidate': 'Guadalajara'}
+{'statement': 'Someone is looking for a small city to visit. Between Algiers and Ségou, this person should visit Ségou.', 'answer': 'Ségou', 'candidate': 'Algiers'}
+{'statement': 'Someone is looking for a small city to visit. Between Manila and Erzurum, this person should visit Erzurum.', 'answer': 'Erzurum', 'candidate': 'Manila'}
+{'statement': 'Someone is looking for a small city to visit. Between Riyadh and Ushuaia, this person should visit Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'Riyadh'}
+{'statement': 'Someone is looking for a small city to visit. Between Los Angeles and Napier, this person should visit Napier.', 'answer': 'Napier', 'candidate': 'Los Angeles'}
+{'statement': 'Someone is looking for a small city to visit. Between Santiago and Phnom Penh, this person should visit Phnom Penh.', 'answer': 'Phnom Penh', 'candidate': 'Santiago'}
+{'statement': 'Someone is looking for a small city to visit. Between Dar es Salaam and Wau, this person should visit Wau.', 'answer': 'Wau', 'candidate': 'Dar es Salaam'}
+{'statement': 'Someone is looking for a small city to visit. Between Nairobi and Albuquerque, this person should visit Albuquerque.', 'answer': 'Albuquerque', 'candidate': 'Nairobi'}
+{'statement': 'Someone is looking for a small city to visit. Between Algiers and Milwaukee, this person should visit Milwaukee.', 'answer': 'Milwaukee', 'candidate': 'Algiers'}
+{'statement': 'Someone is looking for a small city to visit. Between Cairo and Viedma, this person should visit Viedma.', 'answer': 'Viedma', 'candidate': 'Cairo'}
+{'statement': 'Someone is looking for a small city to visit. Between Guadalajara and Lviv, this person should visit Lviv.', 'answer': 'Lviv', 'candidate': 'Guadalajara'}
+{'statement': 'Someone is looking for a small city to visit. Between Tampa and El Paso, this person should visit El Paso.', 'answer': 'El Paso', 'candidate': 'Tampa'}
+{'statement': 'Someone is looking for a small city to visit. Between London and Nouakchott, this person should visit Nouakchott.', 'answer': 'Nouakchott', 'candidate': 'London'}
+{'statement': 'Someone is looking for a small city to visit. Between Bogotá and Oslo, this person should visit Oslo.', 'answer': 'Oslo', 'candidate': 'Bogotá'}
+{'statement': 'Someone is looking for a small city to visit. Between Ankara and Harare, this person should visit Harare.', 'answer': 'Harare', 'candidate': 'Ankara'}
+{'statement': 'Someone is looking for a small city to visit. Between Los Angeles and Bahía Blanca, this person should visit Bahía Blanca.', 'answer': 'Bahía Blanca', 'candidate': 'Los Angeles'}
+{'statement': 'Someone is looking for a small city to visit. Between Buenos Aires and Djibouti, this person should visit Djibouti.', 'answer': 'Djibouti', 'candidate': 'Buenos Aires'}
+{'statement': 'Someone is looking for a small city to visit. Between Ho Chi Minh City and Yinchuan, this person should visit Yinchuan.', 'answer': 'Yinchuan', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Someone is looking for a small city to visit. Between Melbourne and Baku, this person should visit Baku.', 'answer': 'Baku', 'candidate': 'Melbourne'}
+{'statement': 'Someone is looking for a small city to visit. Between Guadalajara and Upington, this person should visit Upington.', 'answer': 'Upington', 'candidate': 'Guadalajara'}
+{'statement': 'Someone is looking for a small city to visit. Between Lagos and Nakhon Ratchasima, this person should visit Nakhon Ratchasima.', 'answer': 'Nakhon Ratchasima', 'candidate': 'Lagos'}
+{'statement': 'Someone is looking for a small city to visit. Between Alexandria and Niamey, this person should visit Niamey.', 'answer': 'Niamey', 'candidate': 'Alexandria'}
+{'statement': 'Someone is looking for a small city to visit. Between Phoenix and Mandalay, this person should visit Mandalay.', 'answer': 'Mandalay', 'candidate': 'Phoenix'}
+{'statement': 'Someone is looking for a small city to visit. Between Shanghai and Hobart, this person should visit Hobart.', 'answer': 'Hobart', 'candidate': 'Shanghai'}
+{'statement': 'Someone is looking for a small city to visit. Between Surabaya and Douala, this person should visit Douala.', 'answer': 'Douala', 'candidate': 'Surabaya'}
+{'statement': 'Someone is looking for a small city to visit. Between Bangkok and Omaha, this person should visit Omaha.', 'answer': 'Omaha', 'candidate': 'Bangkok'}
+{'statement': 'Someone is looking for a small city to visit. Between Buenos Aires and Campos do Jordão, this person should visit Campos do Jordão.', 'answer': 'Campos do Jordão', 'candidate': 'Buenos Aires'}
+{'statement': 'Someone is looking for a small city to visit. Between Sydney and Paramaribo, this person should visit Paramaribo.', 'answer': 'Paramaribo', 'candidate': 'Sydney'}
+{'statement': 'Someone is looking for a small city to visit. Between Sydney and Pretoria, this person should visit Pretoria.', 'answer': 'Pretoria', 'candidate': 'Sydney'}
+{'statement': 'Someone is looking for a small city to visit. Between Bangkok and Antsiranana, this person should visit Antsiranana.', 'answer': 'Antsiranana', 'candidate': 'Bangkok'}
+{'statement': 'Someone is looking for a small city to visit. Between Hanoi and Hat Yai, this person should visit Hat Yai.', 'answer': 'Hat Yai', 'candidate': 'Hanoi'}
+{'statement': 'Someone is looking for a small city to visit. Between Ho Chi Minh City and Panama City, this person should visit Panama City.', 'answer': 'Panama City', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Someone is looking for a small city to visit. Between Paris and Changsha, this person should visit Changsha.', 'answer': 'Changsha', 'candidate': 'Paris'}
+{'statement': 'Someone is looking for a small city to visit. Between Ürümqi and La Paz, this person should visit La Paz.', 'answer': 'La Paz', 'candidate': 'Ürümqi'}
+{'statement': 'Someone is looking for a small city to visit. Between Mexico City and Frankfurt, this person should visit Frankfurt.', 'answer': 'Frankfurt', 'candidate': 'Mexico City'}
+{'statement': 'Someone is looking for a small city to visit. Between Alexandria and Antsiranana, this person should visit Antsiranana.', 'answer': 'Antsiranana', 'candidate': 'Alexandria'}
+{'statement': 'Someone is looking for a small city to visit. Between Karachi and Baghdad, this person should visit Baghdad.', 'answer': 'Baghdad', 'candidate': 'Karachi'}
+{'statement': 'Someone is looking for a small city to visit. Between Ho Chi Minh City and Dar es Salaam, this person should visit Dar es Salaam.', 'answer': 'Dar es Salaam', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Someone is looking for a small city to visit. Between Dar es Salaam and La Serena, this person should visit La Serena.', 'answer': 'La Serena', 'candidate': 'Dar es Salaam'}
+{'statement': 'Someone is looking for a small city to visit. Between Saint Petersburg and Goiânia, this person should visit Goiânia.', 'answer': 'Goiânia', 'candidate': 'Saint Petersburg'}
+{'statement': 'Someone is looking for a small city to visit. Between Beijing and Monterrey, this person should visit Monterrey.', 'answer': 'Monterrey', 'candidate': 'Beijing'}
+{'statement': 'Someone is looking for a small city to visit. Between Shanghai and Alexandria, this person should visit Alexandria.', 'answer': 'Alexandria', 'candidate': 'Shanghai'}
+{'statement': 'Someone is looking for a small city to visit. Between Dar es Salaam and Kuopio, this person should visit Kuopio.', 'answer': 'Kuopio', 'candidate': 'Dar es Salaam'}
+{'statement': 'Someone is looking for a small city to visit. Between Guadalajara and Bahía Blanca, this person should visit Bahía Blanca.', 'answer': 'Bahía Blanca', 'candidate': 'Guadalajara'}
+{'statement': 'Someone is looking for a small city to visit. Between Dar es Salaam and Milan, this person should visit Milan.', 'answer': 'Milan', 'candidate': 'Dar es Salaam'}
+{'statement': 'Someone is looking for a small city to visit. Between Baltimore and Upington, this person should visit Upington.', 'answer': 'Upington', 'candidate': 'Baltimore'}
+{'statement': 'Someone is looking for a small city to visit. Between Kuwait City and Cayenne, this person should visit Cayenne.', 'answer': 'Cayenne', 'candidate': 'Kuwait City'}

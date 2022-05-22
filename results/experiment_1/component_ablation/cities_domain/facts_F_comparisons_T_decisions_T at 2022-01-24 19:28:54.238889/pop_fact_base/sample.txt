@@ -1,0 +1,200 @@
+{'statement': 'Between Monterrey and Florianópolis, the city with a smaller population is Florianópolis.', 'answer': 'Florianópolis', 'candidate': 'Monterrey'}
+{'statement': 'Between Saint Petersburg and Kathmandu, the city with a smaller population is Kathmandu.', 'answer': 'Kathmandu', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Phoenix and Mandalay, the city with a smaller population is Mandalay.', 'answer': 'Mandalay', 'candidate': 'Phoenix'}
+{'statement': 'Between Sydney and Antofagasta, the city with a smaller population is Antofagasta.', 'answer': 'Antofagasta', 'candidate': 'Sydney'}
+{'statement': 'Between Buenos Aires and Port-Gentil, the city with a smaller population is Port-Gentil.', 'answer': 'Port-Gentil', 'candidate': 'Buenos Aires'}
+{'statement': 'Between Ürümqi and Cotonou, the city with a smaller population is Cotonou.', 'answer': 'Cotonou', 'candidate': 'Ürümqi'}
+{'statement': 'Between Tampa and Makurdi, the city with a smaller population is Makurdi.', 'answer': 'Makurdi', 'candidate': 'Tampa'}
+{'statement': 'Between Phoenix and Podgorica, the city with a smaller population is Podgorica.', 'answer': 'Podgorica', 'candidate': 'Phoenix'}
+{'statement': 'Between Guangzhou and Mahajanga, the city with a smaller population is Mahajanga.', 'answer': 'Mahajanga', 'candidate': 'Guangzhou'}
+{'statement': 'Between Medellín and Neuquén, the city with a smaller population is Neuquén.', 'answer': 'Neuquén', 'candidate': 'Medellín'}
+{'statement': 'Between Surabaya and Erbil, the city with a smaller population is Erbil.', 'answer': 'Erbil', 'candidate': 'Surabaya'}
+{'statement': 'Between Denver and Juba, the city with a smaller population is Juba.', 'answer': 'Juba', 'candidate': 'Denver'}
+{'statement': 'Between Lagos and Yakutsk, the city with a smaller population is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Lagos'}
+{'statement': 'Between Jakarta and Palermo, the city with a smaller population is Palermo.', 'answer': 'Palermo', 'candidate': 'Jakarta'}
+{'statement': 'Between Karachi and Minneapolis, the city with a smaller population is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Karachi'}
+{'statement': 'Between Surabaya and Fukuoka, the city with a smaller population is Fukuoka.', 'answer': 'Fukuoka', 'candidate': 'Surabaya'}
+{'statement': 'Between Kabul and Pretoria, the city with a smaller population is Pretoria.', 'answer': 'Pretoria', 'candidate': 'Kabul'}
+{'statement': 'Between Lagos and Surabaya, the city with a smaller population is Surabaya.', 'answer': 'Surabaya', 'candidate': 'Lagos'}
+{'statement': 'Between Bangkok and Curitiba, the city with a smaller population is Curitiba.', 'answer': 'Curitiba', 'candidate': 'Bangkok'}
+{'statement': 'Between Lima and Pretoria, the city with a smaller population is Pretoria.', 'answer': 'Pretoria', 'candidate': 'Lima'}
+{'statement': 'Between Denver and Podgorica, the city with a smaller population is Podgorica.', 'answer': 'Podgorica', 'candidate': 'Denver'}
+{'statement': 'Between Mexico City and Ouahigouya, the city with a smaller population is Ouahigouya.', 'answer': 'Ouahigouya', 'candidate': 'Mexico City'}
+{'statement': 'Between Mumbai and Pontianak, the city with a smaller population is Pontianak.', 'answer': 'Pontianak', 'candidate': 'Mumbai'}
+{'statement': 'Between Melbourne and Nouakchott, the city with a smaller population is Nouakchott.', 'answer': 'Nouakchott', 'candidate': 'Melbourne'}
+{'statement': 'Between Douala and Ségou, the city with a smaller population is Ségou.', 'answer': 'Ségou', 'candidate': 'Douala'}
+{'statement': 'Between Brisbane and Kuopio, the city with a smaller population is Kuopio.', 'answer': 'Kuopio', 'candidate': 'Brisbane'}
+{'statement': 'Between Buenos Aires and Panama City, the city with a smaller population is Panama City.', 'answer': 'Panama City', 'candidate': 'Buenos Aires'}
+{'statement': 'Between Guangzhou and Boise, the city with a smaller population is Boise.', 'answer': 'Boise', 'candidate': 'Guangzhou'}
+{'statement': 'Between Guangzhou and Ouahigouya, the city with a smaller population is Ouahigouya.', 'answer': 'Ouahigouya', 'candidate': 'Guangzhou'}
+{'statement': 'Between Shanghai and Cape Town, the city with a smaller population is Cape Town.', 'answer': 'Cape Town', 'candidate': 'Shanghai'}
+{'statement': 'Between Rome and La Paz, the city with a smaller population is La Paz.', 'answer': 'La Paz', 'candidate': 'Rome'}
+{'statement': 'Between Chicago and Novosibirsk, the city with a smaller population is Novosibirsk.', 'answer': 'Novosibirsk', 'candidate': 'Chicago'}
+{'statement': 'Between Ankara and Wellington, the city with a smaller population is Wellington.', 'answer': 'Wellington', 'candidate': 'Ankara'}
+{'statement': 'Between Ürümqi and Ndola, the city with a smaller population is Ndola.', 'answer': 'Ndola', 'candidate': 'Ürümqi'}
+{'statement': 'Between Toronto and Podgorica, the city with a smaller population is Podgorica.', 'answer': 'Podgorica', 'candidate': 'Toronto'}
+{'statement': 'Between Lahore and Aden, the city with a smaller population is Aden.', 'answer': 'Aden', 'candidate': 'Lahore'}
+{'statement': 'Between Kuwait City and Lomé, the city with a smaller population is Lomé.', 'answer': 'Lomé', 'candidate': 'Kuwait City'}
+{'statement': 'Between Kunming and San Diego, the city with a smaller population is San Diego.', 'answer': 'San Diego', 'candidate': 'Kunming'}
+{'statement': 'Between Paris and Lomé, the city with a smaller population is Lomé.', 'answer': 'Lomé', 'candidate': 'Paris'}
+{'statement': 'Between Karachi and Barranquilla, the city with a smaller population is Barranquilla.', 'answer': 'Barranquilla', 'candidate': 'Karachi'}
+{'statement': 'Between Riyadh and Pretoria, the city with a smaller population is Pretoria.', 'answer': 'Pretoria', 'candidate': 'Riyadh'}
+{'statement': 'Between Cairo and Cabo San Lucas, the city with a smaller population is Cabo San Lucas.', 'answer': 'Cabo San Lucas', 'candidate': 'Cairo'}
+{'statement': 'Between Houston and Brussels, the city with a smaller population is Brussels.', 'answer': 'Brussels', 'candidate': 'Houston'}
+{'statement': 'Between Bangkok and Reykjavík, the city with a smaller population is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Bangkok'}
+{'statement': 'Between Rome and Fianarantsoa, the city with a smaller population is Fianarantsoa.', 'answer': 'Fianarantsoa', 'candidate': 'Rome'}
+{'statement': 'Between Lima and Florianópolis, the city with a smaller population is Florianópolis.', 'answer': 'Florianópolis', 'candidate': 'Lima'}
+{'statement': 'Between Bogotá and Toronto, the city with a smaller population is Toronto.', 'answer': 'Toronto', 'candidate': 'Bogotá'}
+{'statement': 'Between Chicago and Bishkek, the city with a smaller population is Bishkek.', 'answer': 'Bishkek', 'candidate': 'Chicago'}
+{'statement': 'Between London and Houston, the city with a smaller population is Houston.', 'answer': 'Houston', 'candidate': 'London'}
+{'statement': 'Between Hanoi and Saskatoon, the city with a smaller population is Saskatoon.', 'answer': 'Saskatoon', 'candidate': 'Hanoi'}
+{'statement': 'Between Luanda and Lake Havasu City, the city with a smaller population is Lake Havasu City.', 'answer': 'Lake Havasu City', 'candidate': 'Luanda'}
+{'statement': 'Between Medellín and Ushuaia, the city with a smaller population is Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'Medellín'}
+{'statement': 'Between Shanghai and Barranquilla, the city with a smaller population is Barranquilla.', 'answer': 'Barranquilla', 'candidate': 'Shanghai'}
+{'statement': 'Between Perth and Cabo San Lucas, the city with a smaller population is Cabo San Lucas.', 'answer': 'Cabo San Lucas', 'candidate': 'Perth'}
+{'statement': 'Between Kabul and Ulaanbaatar, the city with a smaller population is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Kabul'}
+{'statement': 'Between Houston and Tauranga, the city with a smaller population is Tauranga.', 'answer': 'Tauranga', 'candidate': 'Houston'}
+{'statement': 'Between Kunming and Río Gallegos, the city with a smaller population is Río Gallegos.', 'answer': 'Río Gallegos', 'candidate': 'Kunming'}
+{'statement': 'Between Nairobi and Cape Town, the city with a smaller population is Cape Town.', 'answer': 'Cape Town', 'candidate': 'Nairobi'}
+{'statement': 'Between Rome and Reykjavík, the city with a smaller population is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Rome'}
+{'statement': 'Between Beijing and Bishkek, the city with a smaller population is Bishkek.', 'answer': 'Bishkek', 'candidate': 'Beijing'}
+{'statement': 'Between Monterrey and Baku, the city with a smaller population is Baku.', 'answer': 'Baku', 'candidate': 'Monterrey'}
+{'statement': 'Between Phoenix and Lyon, the city with a smaller population is Lyon.', 'answer': 'Lyon', 'candidate': 'Phoenix'}
+{'statement': 'Between Brasília and Suva, the city with a smaller population is Suva.', 'answer': 'Suva', 'candidate': 'Brasília'}
+{'statement': 'Between Berlin and Río Gallegos, the city with a smaller population is Río Gallegos.', 'answer': 'Río Gallegos', 'candidate': 'Berlin'}
+{'statement': 'Between Mumbai and Bangui, the city with a smaller population is Bangui.', 'answer': 'Bangui', 'candidate': 'Mumbai'}
+{'statement': 'Between Los Angeles and Ulaanbaatar, the city with a smaller population is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Los Angeles'}
+{'statement': 'Between Tampa and Entebbe, the city with a smaller population is Entebbe.', 'answer': 'Entebbe', 'candidate': 'Tampa'}
+{'statement': 'Between Riyadh and Sokoto, the city with a smaller population is Sokoto.', 'answer': 'Sokoto', 'candidate': 'Riyadh'}
+{'statement': 'Between Jakarta and Copenhagen, the city with a smaller population is Copenhagen.', 'answer': 'Copenhagen', 'candidate': 'Jakarta'}
+{'statement': 'Between Manila and Frankfurt, the city with a smaller population is Frankfurt.', 'answer': 'Frankfurt', 'candidate': 'Manila'}
+{'statement': 'Between Guadalajara and Erzurum, the city with a smaller population is Erzurum.', 'answer': 'Erzurum', 'candidate': 'Guadalajara'}
+{'statement': 'Between Kuwait City and Pretoria, the city with a smaller population is Pretoria.', 'answer': 'Pretoria', 'candidate': 'Kuwait City'}
+{'statement': 'Between Phoenix and Palembang, the city with a smaller population is Palembang.', 'answer': 'Palembang', 'candidate': 'Phoenix'}
+{'statement': 'Between Nairobi and Bamako, the city with a smaller population is Bamako.', 'answer': 'Bamako', 'candidate': 'Nairobi'}
+{'statement': 'Between Addis Ababa and Cabo San Lucas, the city with a smaller population is Cabo San Lucas.', 'answer': 'Cabo San Lucas', 'candidate': 'Addis Ababa'}
+{'statement': 'Between Sydney and Addis Ababa, the city with a smaller population is Addis Ababa.', 'answer': 'Addis Ababa', 'candidate': 'Sydney'}
+{'statement': 'Between Johannesburg and Kampala, the city with a smaller population is Kampala.', 'answer': 'Kampala', 'candidate': 'Johannesburg'}
+{'statement': 'Between Shanghai and Kingston, the city with a smaller population is Kingston.', 'answer': 'Kingston', 'candidate': 'Shanghai'}
+{'statement': 'Between Baghdad and Tucson, the city with a smaller population is Tucson.', 'answer': 'Tucson', 'candidate': 'Baghdad'}
+{'statement': 'Between Nairobi and Goiânia, the city with a smaller population is Goiânia.', 'answer': 'Goiânia', 'candidate': 'Nairobi'}
+{'statement': 'Between Dar es Salaam and Cape Town, the city with a smaller population is Cape Town.', 'answer': 'Cape Town', 'candidate': 'Dar es Salaam'}
+{'statement': 'Between Buenos Aires and Upington, the city with a smaller population is Upington.', 'answer': 'Upington', 'candidate': 'Buenos Aires'}
+{'statement': 'Between Dar es Salaam and Tirana, the city with a smaller population is Tirana.', 'answer': 'Tirana', 'candidate': 'Dar es Salaam'}
+{'statement': 'Between Mumbai and Hobart, the city with a smaller population is Hobart.', 'answer': 'Hobart', 'candidate': 'Mumbai'}
+{'statement': 'Between Melbourne and Pretoria, the city with a smaller population is Pretoria.', 'answer': 'Pretoria', 'candidate': 'Melbourne'}
+{'statement': 'Between Johannesburg and Erbil, the city with a smaller population is Erbil.', 'answer': 'Erbil', 'candidate': 'Johannesburg'}
+{'statement': 'Between Algiers and La Paz, the city with a smaller population is La Paz.', 'answer': 'La Paz', 'candidate': 'Algiers'}
+{'statement': 'Between Berlin and Piura, the city with a smaller population is Piura.', 'answer': 'Piura', 'candidate': 'Berlin'}
+{'statement': 'Between Nairobi and Córdoba, the city with a smaller population is Córdoba.', 'answer': 'Córdoba', 'candidate': 'Nairobi'}
+{'statement': 'Between Bogotá and Florianópolis, the city with a smaller population is Florianópolis.', 'answer': 'Florianópolis', 'candidate': 'Bogotá'}
+{'statement': 'Between Los Angeles and Brasília, the city with a smaller population is Brasília.', 'answer': 'Brasília', 'candidate': 'Los Angeles'}
+{'statement': 'Between Bogotá and Yinchuan, the city with a smaller population is Yinchuan.', 'answer': 'Yinchuan', 'candidate': 'Bogotá'}
+{'statement': 'Between Guangzhou and Baghdad, the city with a smaller population is Baghdad.', 'answer': 'Baghdad', 'candidate': 'Guangzhou'}
+{'statement': 'Between Sydney and Perth, the city with a smaller population is Perth.', 'answer': 'Perth', 'candidate': 'Sydney'}
+{'statement': 'Between Minneapolis and Lisbon, the city with a smaller population is Lisbon.', 'answer': 'Lisbon', 'candidate': 'Minneapolis'}
+{'statement': 'Between Tashkent and La Serena, the city with a smaller population is La Serena.', 'answer': 'La Serena', 'candidate': 'Tashkent'}
+{'statement': 'Between Johannesburg and Amsterdam, the city with a smaller population is Amsterdam.', 'answer': 'Amsterdam', 'candidate': 'Johannesburg'}
+{'statement': 'Between Alexandria and Palmerston North, the city with a smaller population is Palmerston North.', 'answer': 'Palmerston North', 'candidate': 'Alexandria'}
+{'statement': 'Between Nairobi and San José, the city with a smaller population is San José.', 'answer': 'San José', 'candidate': 'Nairobi'}
+{'statement': 'Between London and Asmara, the city with a smaller population is Asmara.', 'answer': 'Asmara', 'candidate': 'London'}
+{'statement': 'Between Melbourne and Ulaanbaatar, the city with a smaller population is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Melbourne'}
+{'statement': 'Between Sydney and Porto Alegre, the city with a smaller population is Porto Alegre.', 'answer': 'Porto Alegre', 'candidate': 'Sydney'}
+{'statement': 'Between Jakarta and Santiago del Estero, the city with a smaller population is Santiago del Estero.', 'answer': 'Santiago del Estero', 'candidate': 'Jakarta'}
+{'statement': 'Between Saint Petersburg and Medellín, the city with a smaller population is Medellín.', 'answer': 'Medellín', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Santiago and Rosario, the city with a smaller population is Rosario.', 'answer': 'Rosario', 'candidate': 'Santiago'}
+{'statement': 'Between Buenos Aires and Zürich, the city with a smaller population is Zürich.', 'answer': 'Zürich', 'candidate': 'Buenos Aires'}
+{'statement': 'Between Guangzhou and Ottawa, the city with a smaller population is Ottawa.', 'answer': 'Ottawa', 'candidate': 'Guangzhou'}
+{'statement': 'Between Hanoi and Quito, the city with a smaller population is Quito.', 'answer': 'Quito', 'candidate': 'Hanoi'}
+{'statement': 'Between Paris and Dodoma, the city with a smaller population is Dodoma.', 'answer': 'Dodoma', 'candidate': 'Paris'}
+{'statement': 'Between Algiers and Dodoma, the city with a smaller population is Dodoma.', 'answer': 'Dodoma', 'candidate': 'Algiers'}
+{'statement': 'Between Saint Petersburg and Goiânia, the city with a smaller population is Goiânia.', 'answer': 'Goiânia', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Brisbane and Ndola, the city with a smaller population is Ndola.', 'answer': 'Ndola', 'candidate': 'Brisbane'}
+{'statement': 'Between Brasília and Palermo, the city with a smaller population is Palermo.', 'answer': 'Palermo', 'candidate': 'Brasília'}
+{'statement': 'Between Perth and Nakhon Ratchasima, the city with a smaller population is Nakhon Ratchasima.', 'answer': 'Nakhon Ratchasima', 'candidate': 'Perth'}
+{'statement': 'Between Perth and Punta Arenas, the city with a smaller population is Punta Arenas.', 'answer': 'Punta Arenas', 'candidate': 'Perth'}
+{'statement': 'Between Santiago and Entebbe, the city with a smaller population is Entebbe.', 'answer': 'Entebbe', 'candidate': 'Santiago'}
+{'statement': 'Between Jakarta and Tucson, the city with a smaller population is Tucson.', 'answer': 'Tucson', 'candidate': 'Jakarta'}
+{'statement': 'Between Los Angeles and Addis Ababa, the city with a smaller population is Addis Ababa.', 'answer': 'Addis Ababa', 'candidate': 'Los Angeles'}
+{'statement': 'Between Medellín and Piura, the city with a smaller population is Piura.', 'answer': 'Piura', 'candidate': 'Medellín'}
+{'statement': 'Between Kuwait City and Thiès, the city with a smaller population is Thiès.', 'answer': 'Thiès', 'candidate': 'Kuwait City'}
+{'statement': 'Between London and Hobart, the city with a smaller population is Hobart.', 'answer': 'Hobart', 'candidate': 'London'}
+{'statement': 'Between Minneapolis and Antofagasta, the city with a smaller population is Antofagasta.', 'answer': 'Antofagasta', 'candidate': 'Minneapolis'}
+{'statement': 'Between Lagos and Algiers, the city with a smaller population is Algiers.', 'answer': 'Algiers', 'candidate': 'Lagos'}
+{'statement': 'Between Dar es Salaam and Algiers, the city with a smaller population is Algiers.', 'answer': 'Algiers', 'candidate': 'Dar es Salaam'}
+{'statement': 'Between Paris and Albuquerque, the city with a smaller population is Albuquerque.', 'answer': 'Albuquerque', 'candidate': 'Paris'}
+{'statement': 'Between Mexico City and Lima, the city with a smaller population is Lima.', 'answer': 'Lima', 'candidate': 'Mexico City'}
+{'statement': 'Between London and Ushuaia, the city with a smaller population is Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'London'}
+{'statement': 'Between Kabul and Mombasa, the city with a smaller population is Mombasa.', 'answer': 'Mombasa', 'candidate': 'Kabul'}
+{'statement': 'Between Chicago and Curitiba, the city with a smaller population is Curitiba.', 'answer': 'Curitiba', 'candidate': 'Chicago'}
+{'statement': 'Between Mexico City and Benghazi, the city with a smaller population is Benghazi.', 'answer': 'Benghazi', 'candidate': 'Mexico City'}
+{'statement': 'Between Johannesburg and Nouakchott, the city with a smaller population is Nouakchott.', 'answer': 'Nouakchott', 'candidate': 'Johannesburg'}
+{'statement': 'Between Baghdad and Christchurch, the city with a smaller population is Christchurch.', 'answer': 'Christchurch', 'candidate': 'Baghdad'}
+{'statement': 'Between Phoenix and Port Sudan, the city with a smaller population is Port Sudan.', 'answer': 'Port Sudan', 'candidate': 'Phoenix'}
+{'statement': 'Between Phoenix and San Juan, the city with a smaller population is San Juan.', 'answer': 'San Juan', 'candidate': 'Phoenix'}
+{'statement': 'Between Melbourne and Ljubljana, the city with a smaller population is Ljubljana.', 'answer': 'Ljubljana', 'candidate': 'Melbourne'}
+{'statement': 'Between London and Tauranga, the city with a smaller population is Tauranga.', 'answer': 'Tauranga', 'candidate': 'London'}
+{'statement': 'Between Monterrey and San José, the city with a smaller population is San José.', 'answer': 'San José', 'candidate': 'Monterrey'}
+{'statement': 'Between Hanoi and Nairobi, the city with a smaller population is Nairobi.', 'answer': 'Nairobi', 'candidate': 'Hanoi'}
+{'statement': 'Between Baghdad and Frankfurt, the city with a smaller population is Frankfurt.', 'answer': 'Frankfurt', 'candidate': 'Baghdad'}
+{'statement': 'Between Cairo and Houston, the city with a smaller population is Houston.', 'answer': 'Houston', 'candidate': 'Cairo'}
+{'statement': 'Between Algiers and Christchurch, the city with a smaller population is Christchurch.', 'answer': 'Christchurch', 'candidate': 'Algiers'}
+{'statement': 'Between Chicago and Changsha, the city with a smaller population is Changsha.', 'answer': 'Changsha', 'candidate': 'Chicago'}
+{'statement': 'Between Brasília and Tucson, the city with a smaller population is Tucson.', 'answer': 'Tucson', 'candidate': 'Brasília'}
+{'statement': 'Between Bangkok and Darwin, the city with a smaller population is Darwin.', 'answer': 'Darwin', 'candidate': 'Bangkok'}
+{'statement': 'Between Johannesburg and Punta Arenas, the city with a smaller population is Punta Arenas.', 'answer': 'Punta Arenas', 'candidate': 'Johannesburg'}
+{'statement': 'Between Alexandria and Medellín, the city with a smaller population is Medellín.', 'answer': 'Medellín', 'candidate': 'Alexandria'}
+{'statement': 'Between Chicago and Dublin, the city with a smaller population is Dublin.', 'answer': 'Dublin', 'candidate': 'Chicago'}
+{'statement': 'Between Lahore and Hat Yai, the city with a smaller population is Hat Yai.', 'answer': 'Hat Yai', 'candidate': 'Lahore'}
+{'statement': 'Between Jakarta and Bangkok, the city with a smaller population is Bangkok.', 'answer': 'Bangkok', 'candidate': 'Jakarta'}
+{'statement': 'Between Douala and Tamanrasset, the city with a smaller population is Tamanrasset.', 'answer': 'Tamanrasset', 'candidate': 'Douala'}
+{'statement': 'Between Santiago and Minneapolis, the city with a smaller population is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Santiago'}
+{'statement': 'Between Kunming and Asmara, the city with a smaller population is Asmara.', 'answer': 'Asmara', 'candidate': 'Kunming'}
+{'statement': 'Between Phoenix and Fukuoka, the city with a smaller population is Fukuoka.', 'answer': 'Fukuoka', 'candidate': 'Phoenix'}
+{'statement': 'Between Shanghai and Goiânia, the city with a smaller population is Goiânia.', 'answer': 'Goiânia', 'candidate': 'Shanghai'}
+{'statement': 'Between Beijing and La Serena, the city with a smaller population is La Serena.', 'answer': 'La Serena', 'candidate': 'Beijing'}
+{'statement': 'Between Saint Petersburg and Damascus, the city with a smaller population is Damascus.', 'answer': 'Damascus', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Yaoundé and Dodoma, the city with a smaller population is Dodoma.', 'answer': 'Dodoma', 'candidate': 'Yaoundé'}
+{'statement': 'Between Nairobi and Managua, the city with a smaller population is Managua.', 'answer': 'Managua', 'candidate': 'Nairobi'}
+{'statement': 'Between Lahore and Garissa, the city with a smaller population is Garissa.', 'answer': 'Garissa', 'candidate': 'Lahore'}
+{'statement': 'Between Kuwait City and Malabo, the city with a smaller population is Malabo.', 'answer': 'Malabo', 'candidate': 'Kuwait City'}
+{'statement': 'Between Ankara and Rabat, the city with a smaller population is Rabat.', 'answer': 'Rabat', 'candidate': 'Ankara'}
+{'statement': 'Between Los Angeles and Lima, the city with a smaller population is Lima.', 'answer': 'Lima', 'candidate': 'Los Angeles'}
+{'statement': 'Between Cairo and Bishkek, the city with a smaller population is Bishkek.', 'answer': 'Bishkek', 'candidate': 'Cairo'}
+{'statement': 'Between Luanda and Muscat, the city with a smaller population is Muscat.', 'answer': 'Muscat', 'candidate': 'Luanda'}
+{'statement': 'Between Alexandria and Auckland, the city with a smaller population is Auckland.', 'answer': 'Auckland', 'candidate': 'Alexandria'}
+{'statement': 'Between Saint Petersburg and Malabo, the city with a smaller population is Malabo.', 'answer': 'Malabo', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Karachi and Maputo, the city with a smaller population is Maputo.', 'answer': 'Maputo', 'candidate': 'Karachi'}
+{'statement': 'Between Addis Ababa and Boise, the city with a smaller population is Boise.', 'answer': 'Boise', 'candidate': 'Addis Ababa'}
+{'statement': 'Between Manila and Baltimore, the city with a smaller population is Baltimore.', 'answer': 'Baltimore', 'candidate': 'Manila'}
+{'statement': 'Between Guadalajara and Rosario, the city with a smaller population is Rosario.', 'answer': 'Rosario', 'candidate': 'Guadalajara'}
+{'statement': 'Between Lagos and Vienna, the city with a smaller population is Vienna.', 'answer': 'Vienna', 'candidate': 'Lagos'}
+{'statement': 'Between Mexico City and Phnom Penh, the city with a smaller population is Phnom Penh.', 'answer': 'Phnom Penh', 'candidate': 'Mexico City'}
+{'statement': 'Between Paris and Zagreb, the city with a smaller population is Zagreb.', 'answer': 'Zagreb', 'candidate': 'Paris'}
+{'statement': 'Between Phoenix and Dublin, the city with a smaller population is Dublin.', 'answer': 'Dublin', 'candidate': 'Phoenix'}
+{'statement': 'Between Yaoundé and Boise, the city with a smaller population is Boise.', 'answer': 'Boise', 'candidate': 'Yaoundé'}
+{'statement': 'Between Nairobi and Changsha, the city with a smaller population is Changsha.', 'answer': 'Changsha', 'candidate': 'Nairobi'}
+{'statement': 'Between Bogotá and Niamey, the city with a smaller population is Niamey.', 'answer': 'Niamey', 'candidate': 'Bogotá'}
+{'statement': 'Between Saint Petersburg and Cayenne, the city with a smaller population is Cayenne.', 'answer': 'Cayenne', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Monterrey and Maputo, the city with a smaller population is Maputo.', 'answer': 'Maputo', 'candidate': 'Monterrey'}
+{'statement': 'Between Toronto and Ljubljana, the city with a smaller population is Ljubljana.', 'answer': 'Ljubljana', 'candidate': 'Toronto'}
+{'statement': 'Between Jakarta and Albuquerque, the city with a smaller population is Albuquerque.', 'answer': 'Albuquerque', 'candidate': 'Jakarta'}
+{'statement': 'Between Johannesburg and Barranquilla, the city with a smaller population is Barranquilla.', 'answer': 'Barranquilla', 'candidate': 'Johannesburg'}
+{'statement': 'Between Jakarta and Willemstad, the city with a smaller population is Willemstad.', 'answer': 'Willemstad', 'candidate': 'Jakarta'}
+{'statement': 'Between Hanoi and Berlin, the city with a smaller population is Berlin.', 'answer': 'Berlin', 'candidate': 'Hanoi'}
+{'statement': 'Between Berlin and Ljubljana, the city with a smaller population is Ljubljana.', 'answer': 'Ljubljana', 'candidate': 'Berlin'}
+{'statement': 'Between Jakarta and Milwaukee, the city with a smaller population is Milwaukee.', 'answer': 'Milwaukee', 'candidate': 'Jakarta'}
+{'statement': 'Between Algiers and Nakhon Ratchasima, the city with a smaller population is Nakhon Ratchasima.', 'answer': 'Nakhon Ratchasima', 'candidate': 'Algiers'}
+{'statement': 'Between Kunming and Almaty, the city with a smaller population is Almaty.', 'answer': 'Almaty', 'candidate': 'Kunming'}
+{'statement': 'Between Bogotá and Douala, the city with a smaller population is Douala.', 'answer': 'Douala', 'candidate': 'Bogotá'}
+{'statement': 'Between Los Angeles and Chihuahua, the city with a smaller population is Chihuahua.', 'answer': 'Chihuahua', 'candidate': 'Los Angeles'}
+{'statement': 'Between Melbourne and Benghazi, the city with a smaller population is Benghazi.', 'answer': 'Benghazi', 'candidate': 'Melbourne'}
+{'statement': 'Between Guangzhou and Mexicali, the city with a smaller population is Mexicali.', 'answer': 'Mexicali', 'candidate': 'Guangzhou'}
+{'statement': 'Between Rome and Zürich, the city with a smaller population is Zürich.', 'answer': 'Zürich', 'candidate': 'Rome'}
+{'statement': 'Between Mexico City and Vientiane, the city with a smaller population is Vientiane.', 'answer': 'Vientiane', 'candidate': 'Mexico City'}
+{'statement': 'Between Luanda and Piura, the city with a smaller population is Piura.', 'answer': 'Piura', 'candidate': 'Luanda'}
+{'statement': 'Between Moscow and Brisbane, the city with a smaller population is Brisbane.', 'answer': 'Brisbane', 'candidate': 'Moscow'}
+{'statement': 'Between Shanghai and Tashkent, the city with a smaller population is Tashkent.', 'answer': 'Tashkent', 'candidate': 'Shanghai'}
+{'statement': 'Between London and Ségou, the city with a smaller population is Ségou.', 'answer': 'Ségou', 'candidate': 'London'}
+{'statement': 'Between Bangkok and Sokoto, the city with a smaller population is Sokoto.', 'answer': 'Sokoto', 'candidate': 'Bangkok'}
+{'statement': 'Between Los Angeles and Rangpur, the city with a smaller population is Rangpur.', 'answer': 'Rangpur', 'candidate': 'Los Angeles'}

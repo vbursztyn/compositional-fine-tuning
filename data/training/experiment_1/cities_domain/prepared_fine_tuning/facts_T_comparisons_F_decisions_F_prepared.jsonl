@@ -1,0 +1,694 @@
+{"prompt":"In Celsius, the average temperature in Bridgetown is ->","completion":" 27.0\n"}
+{"prompt":"Bridgetown has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Belize City is ->","completion":" 26.7\n"}
+{"prompt":"Belize City has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Hamilton is ->","completion":" 22.3\n"}
+{"prompt":"Hamilton has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Calgary is ->","completion":" 4.4\n"}
+{"prompt":"Calgary has a population of ->","completion":" 1.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Edmonton is ->","completion":" 4.2\n"}
+{"prompt":"Edmonton has a population of ->","completion":" 1.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Halifax is ->","completion":" 7.5\n"}
+{"prompt":"Halifax has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Moncton is ->","completion":" 6.1\n"}
+{"prompt":"Moncton has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Ottawa is ->","completion":" 6.6\n"}
+{"prompt":"Ottawa has a population of ->","completion":" 1.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Saskatoon is ->","completion":" 3.3\n"}
+{"prompt":"Saskatoon has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in St. John's is ->","completion":" 5.0\n"}
+{"prompt":"St. John's has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Toronto is ->","completion":" 9.4\n"}
+{"prompt":"Toronto has a population of ->","completion":" 5.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Vancouver is ->","completion":" 10.4\n"}
+{"prompt":"Vancouver has a population of ->","completion":" 2.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Winnipeg is ->","completion":" 3.0\n"}
+{"prompt":"Winnipeg has a population of ->","completion":" 0.7M people\n"}
+{"prompt":"In Celsius, the average temperature in San José is ->","completion":" 22.6\n"}
+{"prompt":"San José has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Havana is ->","completion":" 25.2\n"}
+{"prompt":"Havana has a population of ->","completion":" 2.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Willemstad is ->","completion":" 28.0\n"}
+{"prompt":"Willemstad has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Santo Domingo is ->","completion":" 25.9\n"}
+{"prompt":"Santo Domingo has a population of ->","completion":" 2.6M people\n"}
+{"prompt":"In Celsius, the average temperature in La Ceiba is ->","completion":" 26.2\n"}
+{"prompt":"La Ceiba has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Tegucigalpa is ->","completion":" 21.7\n"}
+{"prompt":"Tegucigalpa has a population of ->","completion":" 1.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Kingston is ->","completion":" 27.4\n"}
+{"prompt":"Kingston has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Cabo San Lucas is ->","completion":" 23.9\n"}
+{"prompt":"Cabo San Lucas has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Chihuahua is ->","completion":" 18.6\n"}
+{"prompt":"Chihuahua has a population of ->","completion":" 0.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Guadalajara is ->","completion":" 20.9\n"}
+{"prompt":"Guadalajara has a population of ->","completion":" 5.3M people\n"}
+{"prompt":"In Celsius, the average temperature in La Paz is ->","completion":" 23.7\n"}
+{"prompt":"La Paz has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Mexicali is ->","completion":" 23.1\n"}
+{"prompt":"Mexicali has a population of ->","completion":" 1.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Mexico City is ->","completion":" 17.5\n"}
+{"prompt":"Mexico City has a population of ->","completion":" 21.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Monterrey is ->","completion":" 22.3\n"}
+{"prompt":"Monterrey has a population of ->","completion":" 4.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Tijuana is ->","completion":" 17.8\n"}
+{"prompt":"Tijuana has a population of ->","completion":" 2.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Toluca is ->","completion":" 12.4\n"}
+{"prompt":"Toluca has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Veracruz is ->","completion":" 25.4\n"}
+{"prompt":"Veracruz has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Villahermosa is ->","completion":" 27.1\n"}
+{"prompt":"Villahermosa has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Managua is ->","completion":" 27.3\n"}
+{"prompt":"Managua has a population of ->","completion":" 1.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Panama City is ->","completion":" 28\n"}
+{"prompt":"Panama City has a population of ->","completion":" 0.9M people\n"}
+{"prompt":"In Celsius, the average temperature in San Salvador is ->","completion":" 23.1\n"}
+{"prompt":"San Salvador has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in San Juan is ->","completion":" 27.2\n"}
+{"prompt":"San Juan has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Albuquerque is ->","completion":" 14.0\n"}
+{"prompt":"Albuquerque has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Anchorage is ->","completion":" 2.8\n"}
+{"prompt":"Anchorage has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Baltimore is ->","completion":" 13.1\n"}
+{"prompt":"Baltimore has a population of ->","completion":" 2.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Boise is ->","completion":" 11.4\n"}
+{"prompt":"Boise has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Chicago is ->","completion":" 9.8\n"}
+{"prompt":"Chicago has a population of ->","completion":" 8.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Denver is ->","completion":" 10.4\n"}
+{"prompt":"Denver has a population of ->","completion":" 2.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Detroit is ->","completion":" 10.0\n"}
+{"prompt":"Detroit has a population of ->","completion":" 3.5M people\n"}
+{"prompt":"In Celsius, the average temperature in El Paso is ->","completion":" 18.1\n"}
+{"prompt":"El Paso has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Fairbanks ->","completion":" is −2.3\n"}
+{"prompt":"Fairbanks has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Houston is ->","completion":" 20.8\n"}
+{"prompt":"Houston has a population of ->","completion":" 5.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Indianapolis is ->","completion":" 11.8\n"}
+{"prompt":"Indianapolis has a population of ->","completion":" 1.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Kansas City is ->","completion":" 12.5\n"}
+{"prompt":"Kansas City has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Lake Havasu City is ->","completion":" 23.7\n"}
+{"prompt":"Lake Havasu City has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Los Angeles is ->","completion":" 18.6\n"}
+{"prompt":"Los Angeles has a population of ->","completion":" 12.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Milwaukee is ->","completion":" 8.9\n"}
+{"prompt":"Milwaukee has a population of ->","completion":" 1.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Minneapolis is ->","completion":" 7.8\n"}
+{"prompt":"Minneapolis has a population of ->","completion":" 3.0M people\n"}
+{"prompt":"In Celsius, the average temperature in New Orleans is ->","completion":" 20.7\n"}
+{"prompt":"New Orleans has a population of ->","completion":" 1.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Omaha is ->","completion":" 10.6\n"}
+{"prompt":"Omaha has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Phoenix is ->","completion":" 23.9\n"}
+{"prompt":"Phoenix has a population of ->","completion":" 4.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Pittsburgh is ->","completion":" 10.8\n"}
+{"prompt":"Pittsburgh has a population of ->","completion":" 1.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Sacramento is ->","completion":" 16.3\n"}
+{"prompt":"Sacramento has a population of ->","completion":" 1.9M people\n"}
+{"prompt":"In Celsius, the average temperature in San Antonio is ->","completion":" 20.8\n"}
+{"prompt":"San Antonio has a population of ->","completion":" 2.0M people\n"}
+{"prompt":"In Celsius, the average temperature in San Diego is ->","completion":" 17.8\n"}
+{"prompt":"San Diego has a population of ->","completion":" 3.2M people\n"}
+{"prompt":"In Celsius, the average temperature in San Jose is ->","completion":" 16.4\n"}
+{"prompt":"San Jose has a population of ->","completion":" 1.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Seattle is ->","completion":" 11.3\n"}
+{"prompt":"Seattle has a population of ->","completion":" 3.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Tampa is ->","completion":" 22.9\n"}
+{"prompt":"Tampa has a population of ->","completion":" 2.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Tucson is ->","completion":" 20.9\n"}
+{"prompt":"Tucson has a population of ->","completion":" 0.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Wichita is ->","completion":" 13.9\n"}
+{"prompt":"Wichita has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Bahía Blanca is ->","completion":" 15.3\n"}
+{"prompt":"Bahía Blanca has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Buenos Aires is ->","completion":" 17.9\n"}
+{"prompt":"Buenos Aires has a population of ->","completion":" 16.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Comodoro Rivadavia is ->","completion":" 13.0\n"}
+{"prompt":"Comodoro Rivadavia has a population of ->","completion":" 0.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Córdoba is ->","completion":" 18.2\n"}
+{"prompt":"Córdoba has a population of ->","completion":" 1.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Mar del Plata is ->","completion":" 13.9\n"}
+{"prompt":"Mar del Plata has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Mendoza is ->","completion":" 17.1\n"}
+{"prompt":"Mendoza has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Neuquén is ->","completion":" 14.7\n"}
+{"prompt":"Neuquén has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Resistencia is ->","completion":" 21.1\n"}
+{"prompt":"Resistencia has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Río Gallegos is ->","completion":" 7.8\n"}
+{"prompt":"Río Gallegos has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Rosario is ->","completion":" 17.5\n"}
+{"prompt":"Rosario has a population of ->","completion":" 1.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Salta is ->","completion":" 16.7\n"}
+{"prompt":"Salta has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in San Juan is ->","completion":" 17.9\n"}
+{"prompt":"San Juan has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Santiago del Estero is ->","completion":" 20.4\n"}
+{"prompt":"Santiago del Estero has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Ushuaia is ->","completion":" 5.7\n"}
+{"prompt":"Ushuaia has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Viedma is ->","completion":" 14.2\n"}
+{"prompt":"Viedma has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in La Paz is ->","completion":" 8.8\n"}
+{"prompt":"La Paz has a population of ->","completion":" 2.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Sucre is ->","completion":" 15.6\n"}
+{"prompt":"Sucre has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Belo Horizonte is ->","completion":" 21.1\n"}
+{"prompt":"Belo Horizonte has a population of ->","completion":" 5.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Brasília is ->","completion":" 20.6\n"}
+{"prompt":"Brasília has a population of ->","completion":" 3.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Campos do Jordão is ->","completion":" 14.2\n"}
+{"prompt":"Campos do Jordão has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Curitiba is ->","completion":" 16.8\n"}
+{"prompt":"Curitiba has a population of ->","completion":" 1.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Florianópolis is ->","completion":" 20.9\n"}
+{"prompt":"Florianópolis has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Fortaleza is ->","completion":" 26.6\n"}
+{"prompt":"Fortaleza has a population of ->","completion":" 2.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Goiânia is ->","completion":" 23.2\n"}
+{"prompt":"Goiânia has a population of ->","completion":" 1.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Manaus is ->","completion":" 26.7\n"}
+{"prompt":"Manaus has a population of ->","completion":" 1.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Porto Alegre is ->","completion":" 19.5\n"}
+{"prompt":"Porto Alegre has a population of ->","completion":" 1.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Recife is ->","completion":" 25.5\n"}
+{"prompt":"Recife has a population of ->","completion":" 1.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Rio de Janeiro is ->","completion":" 23.8\n"}
+{"prompt":"Rio de Janeiro has a population of ->","completion":" 12.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Salvador is ->","completion":" 25.3\n"}
+{"prompt":"Salvador has a population of ->","completion":" 2.9M people\n"}
+{"prompt":"In Celsius, the average temperature in São Paulo is ->","completion":" 19.2\n"}
+{"prompt":"São Paulo has a population of ->","completion":" 22.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Vitória is ->","completion":" 24.8\n"}
+{"prompt":"Vitória has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Antofagasta is ->","completion":" 16.7\n"}
+{"prompt":"Antofagasta has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Concepción is ->","completion":" 12.4\n"}
+{"prompt":"Concepción has a population of ->","completion":" 0.9M people\n"}
+{"prompt":"In Celsius, the average temperature in La Serena is ->","completion":" 13.6\n"}
+{"prompt":"La Serena has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Punta Arenas is ->","completion":" 6.1\n"}
+{"prompt":"Punta Arenas has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Santiago is ->","completion":" 14.7\n"}
+{"prompt":"Santiago has a population of ->","completion":" 7.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Bogotá is ->","completion":" 14.4\n"}
+{"prompt":"Bogotá has a population of ->","completion":" 9.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Barranquilla is ->","completion":" 27.4\n"}
+{"prompt":"Barranquilla has a population of ->","completion":" 1.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Medellín is ->","completion":" 22.5\n"}
+{"prompt":"Medellín has a population of ->","completion":" 2.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Guayaquil is ->","completion":" 26.5\n"}
+{"prompt":"Guayaquil has a population of ->","completion":" 2.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Quito is ->","completion":" 14.4\n"}
+{"prompt":"Quito has a population of ->","completion":" 2.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Cayenne is ->","completion":" 26.7\n"}
+{"prompt":"Cayenne has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Georgetown is ->","completion":" 26.8\n"}
+{"prompt":"Georgetown has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Asunción is ->","completion":" 22.7\n"}
+{"prompt":"Asunción has a population of ->","completion":" 1.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Cusco is ->","completion":" 12.5\n"}
+{"prompt":"Cusco has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Lima is ->","completion":" 19.2\n"}
+{"prompt":"Lima has a population of ->","completion":" 9.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Piura is ->","completion":" 24.5\n"}
+{"prompt":"Piura has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Paramaribo is ->","completion":" 26.8\n"}
+{"prompt":"Paramaribo has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Montevideo is ->","completion":" 16.7\n"}
+{"prompt":"Montevideo has a population of ->","completion":" 1.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Caracas is ->","completion":" 22.0\n"}
+{"prompt":"Caracas has a population of ->","completion":" 1.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Tirana is ->","completion":" 15.2\n"}
+{"prompt":"Tirana has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Vienna is ->","completion":" 10.4\n"}
+{"prompt":"Vienna has a population of ->","completion":" 1.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Minsk is ->","completion":" 6.7\n"}
+{"prompt":"Minsk has a population of ->","completion":" 2.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Brussels is ->","completion":" 10.5\n"}
+{"prompt":"Brussels has a population of ->","completion":" 1.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Sofia is ->","completion":" 10.6\n"}
+{"prompt":"Sofia has a population of ->","completion":" 1.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Zagreb is ->","completion":" 10.7\n"}
+{"prompt":"Zagreb has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Split is ->","completion":" 16.1\n"}
+{"prompt":"Split has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Nicosia is ->","completion":" 19.7\n"}
+{"prompt":"Nicosia has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Copenhagen is ->","completion":" 9.1\n"}
+{"prompt":"Copenhagen has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Tallinn is ->","completion":" 6.4\n"}
+{"prompt":"Tallinn has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Helsinki is ->","completion":" 5.9\n"}
+{"prompt":"Helsinki has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Kuopio is ->","completion":" 3.4\n"}
+{"prompt":"Kuopio has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Oulu is ->","completion":" 2.7\n"}
+{"prompt":"Oulu has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Lyon is ->","completion":" 12.5\n"}
+{"prompt":"Lyon has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Marseille is ->","completion":" 15.8\n"}
+{"prompt":"Marseille has a population of ->","completion":" 0.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Paris is ->","completion":" 12.3\n"}
+{"prompt":"Paris has a population of ->","completion":" 11.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Berlin is ->","completion":" 10.3\n"}
+{"prompt":"Berlin has a population of ->","completion":" 3.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Frankfurt is ->","completion":" 10.6\n"}
+{"prompt":"Frankfurt has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Piraeus is ->","completion":" 19.4\n"}
+{"prompt":"Piraeus has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Budapest is ->","completion":" 11.3\n"}
+{"prompt":"Budapest has a population of ->","completion":" 1.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Reykjavík is ->","completion":" 4.3\n"}
+{"prompt":"Reykjavík has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Dublin is ->","completion":" 9.8\n"}
+{"prompt":"Dublin has a population of ->","completion":" 1.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Milan is ->","completion":" 13.0\n"}
+{"prompt":"Milan has a population of ->","completion":" 1.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Palermo is ->","completion":" 18.5\n"}
+{"prompt":"Palermo has a population of ->","completion":" 0.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Rome is ->","completion":" 15.2\n"}
+{"prompt":"Rome has a population of ->","completion":" 2.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Riga is ->","completion":" 6.2\n"}
+{"prompt":"Riga has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Vilnius is ->","completion":" 6.0\n"}
+{"prompt":"Vilnius has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Skopje is ->","completion":" 12.4\n"}
+{"prompt":"Skopje has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Podgorica is ->","completion":" 15.3\n"}
+{"prompt":"Podgorica has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Amsterdam is ->","completion":" 10.2\n"}
+{"prompt":"Amsterdam has a population of ->","completion":" 0.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Bergen is ->","completion":" 7.7\n"}
+{"prompt":"Bergen has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Oslo is ->","completion":" 5.7\n"}
+{"prompt":"Oslo has a population of ->","completion":" 0.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Suwałki is ->","completion":" 7.2\n"}
+{"prompt":"Suwałki has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Warsaw is ->","completion":" 8.5\n"}
+{"prompt":"Warsaw has a population of ->","completion":" 1.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Wrocław is ->","completion":" 9.6\n"}
+{"prompt":"Wrocław has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Lisbon is ->","completion":" 17.5\n"}
+{"prompt":"Lisbon has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Bucharest is ->","completion":" 10.8\n"}
+{"prompt":"Bucharest has a population of ->","completion":" 1.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Arkhangelsk is ->","completion":" 1.3\n"}
+{"prompt":"Arkhangelsk has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Moscow is ->","completion":" 5.8\n"}
+{"prompt":"Moscow has a population of ->","completion":" 17.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Murmansk is ->","completion":" 0.6\n"}
+{"prompt":"Murmansk has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Saint Petersburg is ->","completion":" 5.8\n"}
+{"prompt":"Saint Petersburg has a population of ->","completion":" 5.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Sochi is ->","completion":" 14.2\n"}
+{"prompt":"Sochi has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Belgrade is ->","completion":" 12.5\n"}
+{"prompt":"Belgrade has a population of ->","completion":" 1.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Bratislava is ->","completion":" 10.5\n"}
+{"prompt":"Bratislava has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Ljubljana is ->","completion":" 10.9\n"}
+{"prompt":"Ljubljana has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Barcelona is ->","completion":" 18.2\n"}
+{"prompt":"Barcelona has a population of ->","completion":" 4.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Madrid is ->","completion":" 15.0\n"}
+{"prompt":"Madrid has a population of ->","completion":" 6.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Valencia is ->","completion":" 18.3\n"}
+{"prompt":"Valencia has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Stockholm is ->","completion":" 6.6\n"}
+{"prompt":"Stockholm has a population of ->","completion":" 1.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Zürich is ->","completion":" 9.3\n"}
+{"prompt":"Zürich has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Istanbul is ->","completion":" 13.9\n"}
+{"prompt":"Istanbul has a population of ->","completion":" 15.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Lviv is ->","completion":" 7.8\n"}
+{"prompt":"Lviv has a population of ->","completion":" 0.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Edinburgh is ->","completion":" 9.3\n"}
+{"prompt":"Edinburgh has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in London is ->","completion":" 11.3\n"}
+{"prompt":"London has a population of ->","completion":" 11.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Adelaide is ->","completion":" 17.3\n"}
+{"prompt":"Adelaide has a population of ->","completion":" 1.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Brisbane is ->","completion":" 21.4\n"}
+{"prompt":"Brisbane has a population of ->","completion":" 2.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Cairns is ->","completion":" 25\n"}
+{"prompt":"Cairns has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Canberra is ->","completion":" 13.1\n"}
+{"prompt":"Canberra has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Darwin is ->","completion":" 27.6\n"}
+{"prompt":"Darwin has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Hobart is ->","completion":" 12.7\n"}
+{"prompt":"Hobart has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Melbourne is ->","completion":" 15.1\n"}
+{"prompt":"Melbourne has a population of ->","completion":" 5.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Perth is ->","completion":" 18.7\n"}
+{"prompt":"Perth has a population of ->","completion":" 2.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Sydney is ->","completion":" 17.7\n"}
+{"prompt":"Sydney has a population of ->","completion":" 5.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Suva is ->","completion":" 25.6\n"}
+{"prompt":"Suva has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Auckland is ->","completion":" 15.2\n"}
+{"prompt":"Auckland has a population of ->","completion":" 1.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Christchurch is ->","completion":" 12.2\n"}
+{"prompt":"Christchurch has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Dunedin is ->","completion":" 11.1\n"}
+{"prompt":"Dunedin has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Hamilton is ->","completion":" 13.8\n"}
+{"prompt":"Hamilton has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Napier is ->","completion":" 14.6\n"}
+{"prompt":"Napier has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Palmerston North is ->","completion":" 13.2\n"}
+{"prompt":"Palmerston North has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Tauranga is ->","completion":" 14.8\n"}
+{"prompt":"Tauranga has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Wellington is ->","completion":" 12.9\n"}
+{"prompt":"Wellington has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Port Moresby is ->","completion":" 26.9\n"}
+{"prompt":"Port Moresby has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Honiara is ->","completion":" 26.5\n"}
+{"prompt":"Honiara has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Honolulu is ->","completion":" 25.4\n"}
+{"prompt":"Honolulu has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Kabul is ->","completion":" 12.1\n"}
+{"prompt":"Kabul has a population of ->","completion":" 3.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Baku is ->","completion":" 15.1\n"}
+{"prompt":"Baku has a population of ->","completion":" 2.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Yerevan is ->","completion":" 12.4\n"}
+{"prompt":"Yerevan has a population of ->","completion":" 1.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Manama is ->","completion":" 26.5\n"}
+{"prompt":"Manama has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Dhaka is ->","completion":" 25.9\n"}
+{"prompt":"Dhaka has a population of ->","completion":" 15.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Rangpur is ->","completion":" 24.4\n"}
+{"prompt":"Rangpur has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Phnom Penh is ->","completion":" 28.3\n"}
+{"prompt":"Phnom Penh has a population of ->","completion":" 2.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Beijing is ->","completion":" 12.9\n"}
+{"prompt":"Beijing has a population of ->","completion":" 19.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Changsha is ->","completion":" 17.4\n"}
+{"prompt":"Changsha has a population of ->","completion":" 0.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Chongqing is ->","completion":" 18.6\n"}
+{"prompt":"Chongqing has a population of ->","completion":" 7.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Guangzhou is ->","completion":" 22.4\n"}
+{"prompt":"Guangzhou has a population of ->","completion":" 20.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Harbin is ->","completion":" 5.0\n"}
+{"prompt":"Harbin has a population of ->","completion":" 4.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Kunming is ->","completion":" 15.7\n"}
+{"prompt":"Kunming has a population of ->","completion":" 6.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Lhasa is ->","completion":" 7.6\n"}
+{"prompt":"Lhasa has a population of ->","completion":" 0.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Shanghai is ->","completion":" 16.7\n"}
+{"prompt":"Shanghai has a population of ->","completion":" 22.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Ürümqi is ->","completion":" 7.4\n"}
+{"prompt":"Ürümqi has a population of ->","completion":" 3.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Yinchuan is ->","completion":" 9.0\n"}
+{"prompt":"Yinchuan has a population of ->","completion":" 1.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Batumi is ->","completion":" 14\n"}
+{"prompt":"Batumi has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Tbilisi is ->","completion":" 12.9\n"}
+{"prompt":"Tbilisi has a population of ->","completion":" 1.1M people\n"}
+{"prompt":"In Celsius, the average temperature in New Delhi is ->","completion":" 25\n"}
+{"prompt":"New Delhi has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Mumbai is ->","completion":" 27.1\n"}
+{"prompt":"Mumbai has a population of ->","completion":" 23.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Jakarta is ->","completion":" 26.7\n"}
+{"prompt":"Jakarta has a population of ->","completion":" 34.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Denpasar is ->","completion":" 23.7\n"}
+{"prompt":"Denpasar has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Jayapura is ->","completion":" 27.0\n"}
+{"prompt":"Jayapura has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Makassar is ->","completion":" 26.7\n"}
+{"prompt":"Makassar has a population of ->","completion":" 1.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Medan is ->","completion":" 26.5\n"}
+{"prompt":"Medan has a population of ->","completion":" 2.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Palembang is ->","completion":" 27.3\n"}
+{"prompt":"Palembang has a population of ->","completion":" 1.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Pontianak is ->","completion":" 27.7\n"}
+{"prompt":"Pontianak has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Surabaya is ->","completion":" 27.1\n"}
+{"prompt":"Surabaya has a population of ->","completion":" 5.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Baghdad is ->","completion":" 22.77\n"}
+{"prompt":"Baghdad has a population of ->","completion":" 5.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Erbil is ->","completion":" 19.5\n"}
+{"prompt":"Erbil has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Tehran is ->","completion":" 17\n"}
+{"prompt":"Tehran has a population of ->","completion":" 13.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Sapporo is ->","completion":" 8.9\n"}
+{"prompt":"Sapporo has a population of ->","completion":" 2.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Niigata is ->","completion":" 13.9\n"}
+{"prompt":"Niigata has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Tokyo is ->","completion":" 15.4\n"}
+{"prompt":"Tokyo has a population of ->","completion":" 38.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Hiroshima is ->","completion":" 16.3\n"}
+{"prompt":"Hiroshima has a population of ->","completion":" 1.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Fukuoka is ->","completion":" 17.0\n"}
+{"prompt":"Fukuoka has a population of ->","completion":" 2.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Naha is ->","completion":" 23.1\n"}
+{"prompt":"Naha has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Almaty is ->","completion":" 10.0\n"}
+{"prompt":"Almaty has a population of ->","completion":" 1.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Nur-Sultan is ->","completion":" 3.5\n"}
+{"prompt":"Nur-Sultan has a population of ->","completion":" 1.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Kuwait City is ->","completion":" 25.7\n"}
+{"prompt":"Kuwait City has a population of ->","completion":" 3.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Bishkek is ->","completion":" 11.3\n"}
+{"prompt":"Bishkek has a population of ->","completion":" 1.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Vientiane is ->","completion":" 25.9\n"}
+{"prompt":"Vientiane has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Beirut is ->","completion":" 20.9\n"}
+{"prompt":"Beirut has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Kuala Lumpur is ->","completion":" 27.3\n"}
+{"prompt":"Kuala Lumpur has a population of ->","completion":" 8.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Ulaanbaatar ->","completion":" is −0.4\n"}
+{"prompt":"Ulaanbaatar has a population of ->","completion":" 1.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Mandalay is ->","completion":" 28.0\n"}
+{"prompt":"Mandalay has a population of ->","completion":" 1.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Kathmandu is ->","completion":" 18.3\n"}
+{"prompt":"Kathmandu has a population of ->","completion":" 1.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Muscat is ->","completion":" 28\n"}
+{"prompt":"Muscat has a population of ->","completion":" 1.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Karachi is ->","completion":" 26.0\n"}
+{"prompt":"Karachi has a population of ->","completion":" 14.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Lahore is ->","completion":" 24.3\n"}
+{"prompt":"Lahore has a population of ->","completion":" 11.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Manila is ->","completion":" 28.4\n"}
+{"prompt":"Manila has a population of ->","completion":" 23.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Irkutsk is ->","completion":" 1.0\n"}
+{"prompt":"Irkutsk has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Novosibirsk is ->","completion":" 1.7\n"}
+{"prompt":"Novosibirsk has a population of ->","completion":" 1.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Vladivostok is ->","completion":" 4.9\n"}
+{"prompt":"Vladivostok has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Yakutsk ->","completion":" is −8.8\n"}
+{"prompt":"Yakutsk has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Riyadh is ->","completion":" 26\n"}
+{"prompt":"Riyadh has a population of ->","completion":" 6.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Singapore is ->","completion":" 27\n"}
+{"prompt":"Singapore has a population of ->","completion":" 5.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Colombo is ->","completion":" 27.4\n"}
+{"prompt":"Colombo has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Damascus is ->","completion":" 17.0\n"}
+{"prompt":"Damascus has a population of ->","completion":" 1.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Dushanbe is ->","completion":" 14.7\n"}
+{"prompt":"Dushanbe has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Taipei is ->","completion":" 23.0\n"}
+{"prompt":"Taipei has a population of ->","completion":" 2.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Bangkok is ->","completion":" 28.6\n"}
+{"prompt":"Bangkok has a population of ->","completion":" 17.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Chiang Mai is ->","completion":" 25.8\n"}
+{"prompt":"Chiang Mai has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Hat Yai is ->","completion":" 27.0\n"}
+{"prompt":"Hat Yai has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Nakhon Ratchasima is ->","completion":" 27.3\n"}
+{"prompt":"Nakhon Ratchasima has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Ankara is ->","completion":" 12.0\n"}
+{"prompt":"Ankara has a population of ->","completion":" 5.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Erzurum is ->","completion":" 5.1\n"}
+{"prompt":"Erzurum has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in İzmir is ->","completion":" 17.9\n"}
+{"prompt":"İzmir has a population of ->","completion":" 4.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Ashgabat is ->","completion":" 17.1\n"}
+{"prompt":"Ashgabat has a population of ->","completion":" 1.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Tashkent is ->","completion":" 14.8\n"}
+{"prompt":"Tashkent has a population of ->","completion":" 2.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Hanoi is ->","completion":" 23.6\n"}
+{"prompt":"Hanoi has a population of ->","completion":" 7.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Ho Chi Minh City is ->","completion":" 27.4\n"}
+{"prompt":"Ho Chi Minh City has a population of ->","completion":" 13.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Aden is ->","completion":" 29.1\n"}
+{"prompt":"Aden has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Algiers is ->","completion":" 17.4\n"}
+{"prompt":"Algiers has a population of ->","completion":" 3.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Tamanrasset is ->","completion":" 21.7\n"}
+{"prompt":"Tamanrasset has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Luanda is ->","completion":" 25.8\n"}
+{"prompt":"Luanda has a population of ->","completion":" 8.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Cotonou is ->","completion":" 27.2\n"}
+{"prompt":"Cotonou has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Parakou is ->","completion":" 26.8\n"}
+{"prompt":"Parakou has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Kandi is ->","completion":" 27.7\n"}
+{"prompt":"Kandi has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Maun is ->","completion":" 22.4\n"}
+{"prompt":"Maun has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Gaborone is ->","completion":" 21\n"}
+{"prompt":"Gaborone has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Ouagadougou is ->","completion":" 28.3\n"}
+{"prompt":"Ouagadougou has a population of ->","completion":" 1.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Ouahigouya is ->","completion":" 28.6\n"}
+{"prompt":"Ouahigouya has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Bujumbura is ->","completion":" 23.8\n"}
+{"prompt":"Bujumbura has a population of ->","completion":" 0.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Garoua is ->","completion":" 28.3\n"}
+{"prompt":"Garoua has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Ngaoundéré is ->","completion":" 22.0\n"}
+{"prompt":"Ngaoundéré has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Douala is ->","completion":" 26.7\n"}
+{"prompt":"Douala has a population of ->","completion":" 2.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Yaoundé is ->","completion":" 23.8\n"}
+{"prompt":"Yaoundé has a population of ->","completion":" 2.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Bangui is ->","completion":" 26.0\n"}
+{"prompt":"Bangui has a population of ->","completion":" 0.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Abéché is ->","completion":" 29.4\n"}
+{"prompt":"Abéché has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Djibouti is ->","completion":" 29.9\n"}
+{"prompt":"Djibouti has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Cairo is ->","completion":" 21.4\n"}
+{"prompt":"Cairo has a population of ->","completion":" 19.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Alexandria is ->","completion":" 20.0\n"}
+{"prompt":"Alexandria has a population of ->","completion":" 4.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Bata is ->","completion":" 25.1\n"}
+{"prompt":"Bata has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Malabo is ->","completion":" 26.3\n"}
+{"prompt":"Malabo has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Asmara is ->","completion":" 15.6\n"}
+{"prompt":"Asmara has a population of ->","completion":" 1.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Assab is ->","completion":" 30.5\n"}
+{"prompt":"Assab has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Addis Ababa is ->","completion":" 16\n"}
+{"prompt":"Addis Ababa has a population of ->","completion":" 3.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Libreville is ->","completion":" 25.9\n"}
+{"prompt":"Libreville has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Port-Gentil is ->","completion":" 26.0\n"}
+{"prompt":"Port-Gentil has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Accra is ->","completion":" 26.4\n"}
+{"prompt":"Accra has a population of ->","completion":" 2.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Tamale is ->","completion":" 27.9\n"}
+{"prompt":"Tamale has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Kumasi is ->","completion":" 26\n"}
+{"prompt":"Kumasi has a population of ->","completion":" 2.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Conakry is ->","completion":" 26.4\n"}
+{"prompt":"Conakry has a population of ->","completion":" 1.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Kankan is ->","completion":" 26.5\n"}
+{"prompt":"Kankan has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Bissau is ->","completion":" 27\n"}
+{"prompt":"Bissau has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Mombasa is ->","completion":" 26.3\n"}
+{"prompt":"Mombasa has a population of ->","completion":" 1.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Nairobi is ->","completion":" 17.8\n"}
+{"prompt":"Nairobi has a population of ->","completion":" 5.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Garissa is ->","completion":" 29.3\n"}
+{"prompt":"Garissa has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Lodwar is ->","completion":" 29.3\n"}
+{"prompt":"Lodwar has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Tripoli is ->","completion":" 20\n"}
+{"prompt":"Tripoli has a population of ->","completion":" 1.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Benghazi is ->","completion":" 19.9\n"}
+{"prompt":"Benghazi has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Fianarantsoa is ->","completion":" 17.9\n"}
+{"prompt":"Fianarantsoa has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Toamasina is ->","completion":" 23.4\n"}
+{"prompt":"Toamasina has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Antananarivo is ->","completion":" 17.9\n"}
+{"prompt":"Antananarivo has a population of ->","completion":" 2.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Antsiranana is ->","completion":" 25.2\n"}
+{"prompt":"Antsiranana has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Mahajanga is ->","completion":" 26.3\n"}
+{"prompt":"Mahajanga has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Toliara is ->","completion":" 24.1\n"}
+{"prompt":"Toliara has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Blantyre is ->","completion":" 22.2\n"}
+{"prompt":"Blantyre has a population of ->","completion":" 1.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Mzuzu is ->","completion":" 17.7\n"}
+{"prompt":"Mzuzu has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Ségou is ->","completion":" 28\n"}
+{"prompt":"Ségou has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Bamako is ->","completion":" 27.8\n"}
+{"prompt":"Bamako has a population of ->","completion":" 2.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Nouadhibou is ->","completion":" 21.3\n"}
+{"prompt":"Nouadhibou has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Nouakchott is ->","completion":" 25.7\n"}
+{"prompt":"Nouakchott has a population of ->","completion":" 1.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Rabat is ->","completion":" 17.2\n"}
+{"prompt":"Rabat has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Maputo is ->","completion":" 22.8\n"}
+{"prompt":"Maputo has a population of ->","completion":" 1.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Niamey is ->","completion":" 29.3\n"}
+{"prompt":"Niamey has a population of ->","completion":" 1.0M people\n"}
+{"prompt":"In Celsius, the average temperature in Lagos is ->","completion":" 26.8\n"}
+{"prompt":"Lagos has a population of ->","completion":" 15.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Makurdi is ->","completion":" 26.0\n"}
+{"prompt":"Makurdi has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Jos is ->","completion":" 27.4\n"}
+{"prompt":"Jos has a population of ->","completion":" 0.9M people\n"}
+{"prompt":"In Celsius, the average temperature in Kano is ->","completion":" 26.4\n"}
+{"prompt":"Kano has a population of ->","completion":" 2.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Sokoto is ->","completion":" 28\n"}
+{"prompt":"Sokoto has a population of ->","completion":" 0.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Dakar is ->","completion":" 24\n"}
+{"prompt":"Dakar has a population of ->","completion":" 1.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Thiès is ->","completion":" 24\n"}
+{"prompt":"Thiès has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Mogadishu is ->","completion":" 27.1\n"}
+{"prompt":"Mogadishu has a population of ->","completion":" 2.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Pretoria is ->","completion":" 18.2\n"}
+{"prompt":"Pretoria has a population of ->","completion":" 0.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Cape Town is ->","completion":" 16.2\n"}
+{"prompt":"Cape Town has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Johannesburg is ->","completion":" 15.5\n"}
+{"prompt":"Johannesburg has a population of ->","completion":" 4.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Bloemfontein is ->","completion":" 15.6\n"}
+{"prompt":"Bloemfontein has a population of ->","completion":" 0.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Upington is ->","completion":" 20.4\n"}
+{"prompt":"Upington has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Durban is ->","completion":" 20.6\n"}
+{"prompt":"Durban has a population of ->","completion":" 0.6M people\n"}
+{"prompt":"In Celsius, the average temperature in Juba is ->","completion":" 27.8\n"}
+{"prompt":"Juba has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Wau is ->","completion":" 27.8\n"}
+{"prompt":"Wau has a population of ->","completion":" 0.2M people\n"}
+{"prompt":"In Celsius, the average temperature in Port Sudan is ->","completion":" 28.4\n"}
+{"prompt":"Port Sudan has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Khartoum is ->","completion":" 29.9\n"}
+{"prompt":"Khartoum has a population of ->","completion":" 7.3M people\n"}
+{"prompt":"In Celsius, the average temperature in Dar es Salaam is ->","completion":" 25.8\n"}
+{"prompt":"Dar es Salaam has a population of ->","completion":" 6.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Tabora is ->","completion":" 23\n"}
+{"prompt":"Tabora has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Dodoma is ->","completion":" 22.7\n"}
+{"prompt":"Dodoma has a population of ->","completion":" 0.4M people\n"}
+{"prompt":"In Celsius, the average temperature in Lomé is ->","completion":" 26.9\n"}
+{"prompt":"Lomé has a population of ->","completion":" 0.8M people\n"}
+{"prompt":"In Celsius, the average temperature in Tunis is ->","completion":" 18.4\n"}
+{"prompt":"Tunis has a population of ->","completion":" 1.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Gabès is ->","completion":" 19.5\n"}
+{"prompt":"Gabès has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Kampala is ->","completion":" 20\n"}
+{"prompt":"Kampala has a population of ->","completion":" 1.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Entebbe is ->","completion":" 21\n"}
+{"prompt":"Entebbe has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Ndola is ->","completion":" 20.3\n"}
+{"prompt":"Ndola has a population of ->","completion":" 0.5M people\n"}
+{"prompt":"In Celsius, the average temperature in Lusaka is ->","completion":" 19.9\n"}
+{"prompt":"Lusaka has a population of ->","completion":" 1.7M people\n"}
+{"prompt":"In Celsius, the average temperature in Livingstone is ->","completion":" 21.8\n"}
+{"prompt":"Livingstone has a population of ->","completion":" 0.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Harare is ->","completion":" 18.4\n"}
+{"prompt":"Harare has a population of ->","completion":" 2.1M people\n"}
+{"prompt":"In Celsius, the average temperature in Bulawayo is ->","completion":" 18.9\n"}
+{"prompt":"Bulawayo has a population of ->","completion":" 0.7M people\n"}

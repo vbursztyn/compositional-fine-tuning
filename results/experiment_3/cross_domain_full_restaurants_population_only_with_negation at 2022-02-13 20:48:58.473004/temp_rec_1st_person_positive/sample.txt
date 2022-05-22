@@ -1,0 +1,200 @@
+{'statement': "I'm looking for a city with warm weather. Between Anchorage and Tampa, I should visit Tampa.", 'answer': 'Tampa', 'candidate': 'Anchorage'}
+{'statement': "I'm looking for a city with warm weather. Between Bamako and Auckland, I should visit Bamako.", 'answer': 'Bamako', 'candidate': 'Auckland'}
+{'statement': "I'm looking for a city with warm weather. Between Suwałki and Luanda, I should visit Luanda.", 'answer': 'Luanda', 'candidate': 'Suwałki'}
+{'statement': "I'm looking for a city with warm weather. Between Sucre and Pontianak, I should visit Pontianak.", 'answer': 'Pontianak', 'candidate': 'Sucre'}
+{'statement': "I'm looking for a city with warm weather. Between Mahajanga and Bergen, I should visit Mahajanga.", 'answer': 'Mahajanga', 'candidate': 'Bergen'}
+{'statement': "I'm looking for a city with warm weather. Between Barranquilla and Frankfurt, I should visit Barranquilla.", 'answer': 'Barranquilla', 'candidate': 'Frankfurt'}
+{'statement': "I'm looking for a city with warm weather. Between Pontianak and Lyon, I should visit Pontianak.", 'answer': 'Pontianak', 'candidate': 'Lyon'}
+{'statement': "I'm looking for a city with warm weather. Between Vladivostok and Port Sudan, I should visit Port Sudan.", 'answer': 'Port Sudan', 'candidate': 'Vladivostok'}
+{'statement': "I'm looking for a city with warm weather. Between Kansas City and Managua, I should visit Managua.", 'answer': 'Managua', 'candidate': 'Kansas City'}
+{'statement': "I'm looking for a city with warm weather. Between Managua and Belgrade, I should visit Managua.", 'answer': 'Managua', 'candidate': 'Belgrade'}
+{'statement': "I'm looking for a city with warm weather. Between Hanoi and Reykjavík, I should visit Hanoi.", 'answer': 'Hanoi', 'candidate': 'Reykjavík'}
+{'statement': "I'm looking for a city with warm weather. Between Maputo and Ushuaia, I should visit Maputo.", 'answer': 'Maputo', 'candidate': 'Ushuaia'}
+{'statement': "I'm looking for a city with warm weather. Between Suva and Bogotá, I should visit Suva.", 'answer': 'Suva', 'candidate': 'Bogotá'}
+{'statement': "I'm looking for a city with warm weather. Between Ottawa and Mendoza, I should visit Mendoza.", 'answer': 'Mendoza', 'candidate': 'Ottawa'}
+{'statement': "I'm looking for a city with warm weather. Between Paris and Ulaanbaatar, I should visit Paris.", 'answer': 'Paris', 'candidate': 'Ulaanbaatar'}
+{'statement': "I'm looking for a city with warm weather. Between London and Makurdi, I should visit Makurdi.", 'answer': 'Makurdi', 'candidate': 'London'}
+{'statement': "I'm looking for a city with warm weather. Between Bishkek and Irkutsk, I should visit Bishkek.", 'answer': 'Bishkek', 'candidate': 'Irkutsk'}
+{'statement': "I'm looking for a city with warm weather. Between Mexico City and Panama City, I should visit Panama City.", 'answer': 'Panama City', 'candidate': 'Mexico City'}
+{'statement': "I'm looking for a city with warm weather. Between Port Moresby and Addis Ababa, I should visit Port Moresby.", 'answer': 'Port Moresby', 'candidate': 'Addis Ababa'}
+{'statement': "I'm looking for a city with warm weather. Between Djibouti and Harare, I should visit Djibouti.", 'answer': 'Djibouti', 'candidate': 'Harare'}
+{'statement': "I'm looking for a city with warm weather. Between Oslo and Riyadh, I should visit Riyadh.", 'answer': 'Riyadh', 'candidate': 'Oslo'}
+{'statement': "I'm looking for a city with warm weather. Between Medellín and Sapporo, I should visit Medellín.", 'answer': 'Medellín', 'candidate': 'Sapporo'}
+{'statement': "I'm looking for a city with warm weather. Between Antsiranana and Milan, I should visit Antsiranana.", 'answer': 'Antsiranana', 'candidate': 'Milan'}
+{'statement': "I'm looking for a city with warm weather. Between Djibouti and Saint Petersburg, I should visit Djibouti.", 'answer': 'Djibouti', 'candidate': 'Saint Petersburg'}
+{'statement': "I'm looking for a city with warm weather. Between Bangkok and Asmara, I should visit Bangkok.", 'answer': 'Bangkok', 'candidate': 'Asmara'}
+{'statement': "I'm looking for a city with warm weather. Between Pittsburgh and Entebbe, I should visit Entebbe.", 'answer': 'Entebbe', 'candidate': 'Pittsburgh'}
+{'statement': "I'm looking for a city with warm weather. Between Reykjavík and Buenos Aires, I should visit Buenos Aires.", 'answer': 'Buenos Aires', 'candidate': 'Reykjavík'}
+{'statement': "I'm looking for a city with warm weather. Between Curitiba and Willemstad, I should visit Willemstad.", 'answer': 'Willemstad', 'candidate': 'Curitiba'}
+{'statement': "I'm looking for a city with warm weather. Between Anchorage and Changsha, I should visit Changsha.", 'answer': 'Changsha', 'candidate': 'Anchorage'}
+{'statement': "I'm looking for a city with warm weather. Between Vladivostok and Auckland, I should visit Auckland.", 'answer': 'Auckland', 'candidate': 'Vladivostok'}
+{'statement': "I'm looking for a city with warm weather. Between Bratislava and Manaus, I should visit Manaus.", 'answer': 'Manaus', 'candidate': 'Bratislava'}
+{'statement': "I'm looking for a city with warm weather. Between Mahajanga and Toluca, I should visit Mahajanga.", 'answer': 'Mahajanga', 'candidate': 'Toluca'}
+{'statement': "I'm looking for a city with warm weather. Between Shanghai and San Juan, I should visit San Juan.", 'answer': 'San Juan', 'candidate': 'Shanghai'}
+{'statement': "I'm looking for a city with warm weather. Between Napier and Paramaribo, I should visit Paramaribo.", 'answer': 'Paramaribo', 'candidate': 'Napier'}
+{'statement': "I'm looking for a city with warm weather. Between Dodoma and Sapporo, I should visit Dodoma.", 'answer': 'Dodoma', 'candidate': 'Sapporo'}
+{'statement': "I'm looking for a city with warm weather. Between Ségou and La Serena, I should visit Ségou.", 'answer': 'Ségou', 'candidate': 'La Serena'}
+{'statement': "I'm looking for a city with warm weather. Between Anchorage and Conakry, I should visit Conakry.", 'answer': 'Conakry', 'candidate': 'Anchorage'}
+{'statement': "I'm looking for a city with warm weather. Between Phnom Penh and Baku, I should visit Phnom Penh.", 'answer': 'Phnom Penh', 'candidate': 'Baku'}
+{'statement': "I'm looking for a city with warm weather. Between Djibouti and Dublin, I should visit Djibouti.", 'answer': 'Djibouti', 'candidate': 'Dublin'}
+{'statement': "I'm looking for a city with warm weather. Between Mendoza and Vladivostok, I should visit Mendoza.", 'answer': 'Mendoza', 'candidate': 'Vladivostok'}
+{'statement': "I'm looking for a city with warm weather. Between Suva and Santiago, I should visit Suva.", 'answer': 'Suva', 'candidate': 'Santiago'}
+{'statement': "I'm looking for a city with warm weather. Between Denpasar and Canberra, I should visit Denpasar.", 'answer': 'Denpasar', 'candidate': 'Canberra'}
+{'statement': "I'm looking for a city with warm weather. Between Manila and Yinchuan, I should visit Manila.", 'answer': 'Manila', 'candidate': 'Yinchuan'}
+{'statement': "I'm looking for a city with warm weather. Between La Ceiba and Lyon, I should visit La Ceiba.", 'answer': 'La Ceiba', 'candidate': 'Lyon'}
+{'statement': "I'm looking for a city with warm weather. Between Mombasa and Ottawa, I should visit Mombasa.", 'answer': 'Mombasa', 'candidate': 'Ottawa'}
+{'statement': "I'm looking for a city with warm weather. Between Rome and Erzurum, I should visit Rome.", 'answer': 'Rome', 'candidate': 'Erzurum'}
+{'statement': "I'm looking for a city with warm weather. Between Omaha and San José, I should visit San José.", 'answer': 'San José', 'candidate': 'Omaha'}
+{'statement': "I'm looking for a city with warm weather. Between Ouahigouya and Yakutsk, I should visit Ouahigouya.", 'answer': 'Ouahigouya', 'candidate': 'Yakutsk'}
+{'statement': "I'm looking for a city with warm weather. Between Ürümqi and Hanoi, I should visit Hanoi.", 'answer': 'Hanoi', 'candidate': 'Ürümqi'}
+{'statement': "I'm looking for a city with warm weather. Between Cotonou and Kuopio, I should visit Cotonou.", 'answer': 'Cotonou', 'candidate': 'Kuopio'}
+{'statement': "I'm looking for a city with warm weather. Between Ankara and Bata, I should visit Bata.", 'answer': 'Bata', 'candidate': 'Ankara'}
+{'statement': "I'm looking for a city with warm weather. Between Bogotá and Makurdi, I should visit Makurdi.", 'answer': 'Makurdi', 'candidate': 'Bogotá'}
+{'statement': "I'm looking for a city with warm weather. Between Ottawa and Luanda, I should visit Luanda.", 'answer': 'Luanda', 'candidate': 'Ottawa'}
+{'statement': "I'm looking for a city with warm weather. Between Kabul and Ho Chi Minh City, I should visit Ho Chi Minh City.", 'answer': 'Ho Chi Minh City', 'candidate': 'Kabul'}
+{'statement': "I'm looking for a city with warm weather. Between Belize City and Irkutsk, I should visit Belize City.", 'answer': 'Belize City', 'candidate': 'Irkutsk'}
+{'statement': "I'm looking for a city with warm weather. Between Douala and Moscow, I should visit Douala.", 'answer': 'Douala', 'candidate': 'Moscow'}
+{'statement': "I'm looking for a city with warm weather. Between Boise and Lake Havasu City, I should visit Lake Havasu City.", 'answer': 'Lake Havasu City', 'candidate': 'Boise'}
+{'statement': "I'm looking for a city with warm weather. Between San Juan and Beijing, I should visit San Juan.", 'answer': 'San Juan', 'candidate': 'Beijing'}
+{'statement': "I'm looking for a city with warm weather. Between Valencia and Ottawa, I should visit Valencia.", 'answer': 'Valencia', 'candidate': 'Ottawa'}
+{'statement': "I'm looking for a city with warm weather. Between Kansas City and Manila, I should visit Manila.", 'answer': 'Manila', 'candidate': 'Kansas City'}
+{'statement': "I'm looking for a city with warm weather. Between Douala and Tirana, I should visit Douala.", 'answer': 'Douala', 'candidate': 'Tirana'}
+{'statement': "I'm looking for a city with warm weather. Between Nairobi and Wau, I should visit Wau.", 'answer': 'Wau', 'candidate': 'Nairobi'}
+{'statement': "I'm looking for a city with warm weather. Between Piura and La Serena, I should visit Piura.", 'answer': 'Piura', 'candidate': 'La Serena'}
+{'statement': "I'm looking for a city with warm weather. Between Almaty and Kingston, I should visit Kingston.", 'answer': 'Kingston', 'candidate': 'Almaty'}
+{'statement': "I'm looking for a city with warm weather. Between Perth and Lhasa, I should visit Perth.", 'answer': 'Perth', 'candidate': 'Lhasa'}
+{'statement': "I'm looking for a city with warm weather. Between Ankara and Bujumbura, I should visit Bujumbura.", 'answer': 'Bujumbura', 'candidate': 'Ankara'}
+{'statement': "I'm looking for a city with warm weather. Between Fukuoka and Ho Chi Minh City, I should visit Ho Chi Minh City.", 'answer': 'Ho Chi Minh City', 'candidate': 'Fukuoka'}
+{'statement': "I'm looking for a city with warm weather. Between Melbourne and Bamako, I should visit Bamako.", 'answer': 'Bamako', 'candidate': 'Melbourne'}
+{'statement': "I'm looking for a city with warm weather. Between Lahore and Kabul, I should visit Lahore.", 'answer': 'Lahore', 'candidate': 'Kabul'}
+{'statement': "I'm looking for a city with warm weather. Between Palmerston North and Manila, I should visit Manila.", 'answer': 'Manila', 'candidate': 'Palmerston North'}
+{'statement': "I'm looking for a city with warm weather. Between Milwaukee and Cairo, I should visit Cairo.", 'answer': 'Cairo', 'candidate': 'Milwaukee'}
+{'statement': "I'm looking for a city with warm weather. Between Beijing and Mexicali, I should visit Mexicali.", 'answer': 'Mexicali', 'candidate': 'Beijing'}
+{'statement': "I'm looking for a city with warm weather. Between Wellington and Conakry, I should visit Conakry.", 'answer': 'Conakry', 'candidate': 'Wellington'}
+{'statement': "I'm looking for a city with warm weather. Between Albuquerque and Belize City, I should visit Belize City.", 'answer': 'Belize City', 'candidate': 'Albuquerque'}
+{'statement': "I'm looking for a city with warm weather. Between Melbourne and Djibouti, I should visit Djibouti.", 'answer': 'Djibouti', 'candidate': 'Melbourne'}
+{'statement': "I'm looking for a city with warm weather. Between Dar es Salaam and Napier, I should visit Dar es Salaam.", 'answer': 'Dar es Salaam', 'candidate': 'Napier'}
+{'statement': "I'm looking for a city with warm weather. Between Milwaukee and Djibouti, I should visit Djibouti.", 'answer': 'Djibouti', 'candidate': 'Milwaukee'}
+{'statement': "I'm looking for a city with warm weather. Between Lisbon and Pontianak, I should visit Pontianak.", 'answer': 'Pontianak', 'candidate': 'Lisbon'}
+{'statement': "I'm looking for a city with warm weather. Between Karachi and Paris, I should visit Karachi.", 'answer': 'Karachi', 'candidate': 'Paris'}
+{'statement': "I'm looking for a city with warm weather. Between Kathmandu and Ouahigouya, I should visit Ouahigouya.", 'answer': 'Ouahigouya', 'candidate': 'Kathmandu'}
+{'statement': "I'm looking for a city with warm weather. Between Rome and Cotonou, I should visit Cotonou.", 'answer': 'Cotonou', 'candidate': 'Rome'}
+{'statement': "I'm looking for a city with warm weather. Between Saint Petersburg and Rosario, I should visit Rosario.", 'answer': 'Rosario', 'candidate': 'Saint Petersburg'}
+{'statement': "I'm looking for a city with warm weather. Between Kingston and Asmara, I should visit Kingston.", 'answer': 'Kingston', 'candidate': 'Asmara'}
+{'statement': "I'm looking for a city with warm weather. Between Vladivostok and Parakou, I should visit Parakou.", 'answer': 'Parakou', 'candidate': 'Vladivostok'}
+{'statement': "I'm looking for a city with warm weather. Between Vienna and Kingston, I should visit Kingston.", 'answer': 'Kingston', 'candidate': 'Vienna'}
+{'statement': "I'm looking for a city with warm weather. Between Lyon and Dodoma, I should visit Dodoma.", 'answer': 'Dodoma', 'candidate': 'Lyon'}
+{'statement': "I'm looking for a city with warm weather. Between Toamasina and Kuopio, I should visit Toamasina.", 'answer': 'Toamasina', 'candidate': 'Kuopio'}
+{'statement': "I'm looking for a city with warm weather. Between Ségou and London, I should visit Ségou.", 'answer': 'Ségou', 'candidate': 'London'}
+{'statement': "I'm looking for a city with warm weather. Between Johannesburg and Bamako, I should visit Bamako.", 'answer': 'Bamako', 'candidate': 'Johannesburg'}
+{'statement': "I'm looking for a city with warm weather. Between Malabo and Kansas City, I should visit Malabo.", 'answer': 'Malabo', 'candidate': 'Kansas City'}
+{'statement': "I'm looking for a city with warm weather. Between Brussels and Brasília, I should visit Brasília.", 'answer': 'Brasília', 'candidate': 'Brussels'}
+{'statement': "I'm looking for a city with warm weather. Between Bergen and Luanda, I should visit Luanda.", 'answer': 'Luanda', 'candidate': 'Bergen'}
+{'statement': "I'm looking for a city with warm weather. Between Ulaanbaatar and Nouakchott, I should visit Nouakchott.", 'answer': 'Nouakchott', 'candidate': 'Ulaanbaatar'}
+{'statement': "I'm looking for a city with warm weather. Between Saint Petersburg and Goiânia, I should visit Goiânia.", 'answer': 'Goiânia', 'candidate': 'Saint Petersburg'}
+{'statement': "I'm looking for a city with warm weather. Between Pittsburgh and Mahajanga, I should visit Mahajanga.", 'answer': 'Mahajanga', 'candidate': 'Pittsburgh'}
+{'statement': "I'm looking for a city with warm weather. Between Yinchuan and Kampala, I should visit Kampala.", 'answer': 'Kampala', 'candidate': 'Yinchuan'}
+{'statement': "I'm looking for a city with warm weather. Between Canberra and San Salvador, I should visit San Salvador.", 'answer': 'San Salvador', 'candidate': 'Canberra'}
+{'statement': "I'm looking for a city with warm weather. Between La Ceiba and Río Gallegos, I should visit La Ceiba.", 'answer': 'La Ceiba', 'candidate': 'Río Gallegos'}
+{'statement': "I'm looking for a city with warm weather. Between Podgorica and Mandalay, I should visit Mandalay.", 'answer': 'Mandalay', 'candidate': 'Podgorica'}
+{'statement': "I'm looking for a city with warm weather. Between Ségou and Changsha, I should visit Ségou.", 'answer': 'Ségou', 'candidate': 'Changsha'}
+{'statement': "I'm looking for a city with warm weather. Between Saint Petersburg and Phoenix, I should visit Phoenix.", 'answer': 'Phoenix', 'candidate': 'Saint Petersburg'}
+{'statement': "I'm looking for a city with warm weather. Between Wau and Quito, I should visit Wau.", 'answer': 'Wau', 'candidate': 'Quito'}
+{'statement': "I'm looking for a city with warm weather. Between Fairbanks and Rome, I should visit Rome.", 'answer': 'Rome', 'candidate': 'Fairbanks'}
+{'statement': "I'm looking for a city with warm weather. Between Córdoba and Oslo, I should visit Córdoba.", 'answer': 'Córdoba', 'candidate': 'Oslo'}
+{'statement': "I'm looking for a city with warm weather. Between Fairbanks and Manila, I should visit Manila.", 'answer': 'Manila', 'candidate': 'Fairbanks'}
+{'statement': "I'm looking for a city with warm weather. Between Bahía Blanca and Ho Chi Minh City, I should visit Ho Chi Minh City.", 'answer': 'Ho Chi Minh City', 'candidate': 'Bahía Blanca'}
+{'statement': "I'm looking for a city with warm weather. Between Paris and Jakarta, I should visit Jakarta.", 'answer': 'Jakarta', 'candidate': 'Paris'}
+{'statement': "I'm looking for a city with warm weather. Between Garissa and Zagreb, I should visit Garissa.", 'answer': 'Garissa', 'candidate': 'Zagreb'}
+{'statement': "I'm looking for a city with warm weather. Between Chicago and Riyadh, I should visit Riyadh.", 'answer': 'Riyadh', 'candidate': 'Chicago'}
+{'statement': "I'm looking for a city with warm weather. Between Ushuaia and Riyadh, I should visit Riyadh.", 'answer': 'Riyadh', 'candidate': 'Ushuaia'}
+{'statement': "I'm looking for a city with warm weather. Between Baltimore and Managua, I should visit Managua.", 'answer': 'Managua', 'candidate': 'Baltimore'}
+{'statement': "I'm looking for a city with warm weather. Between Palembang and Bogotá, I should visit Palembang.", 'answer': 'Palembang', 'candidate': 'Bogotá'}
+{'statement': "I'm looking for a city with warm weather. Between Vientiane and Yakutsk, I should visit Vientiane.", 'answer': 'Vientiane', 'candidate': 'Yakutsk'}
+{'statement': "I'm looking for a city with warm weather. Between Christchurch and Niamey, I should visit Niamey.", 'answer': 'Niamey', 'candidate': 'Christchurch'}
+{'statement': "I'm looking for a city with warm weather. Between Manaus and Omaha, I should visit Manaus.", 'answer': 'Manaus', 'candidate': 'Omaha'}
+{'statement': "I'm looking for a city with warm weather. Between Milwaukee and Surabaya, I should visit Surabaya.", 'answer': 'Surabaya', 'candidate': 'Milwaukee'}
+{'statement': "I'm looking for a city with warm weather. Between Bucharest and Yaoundé, I should visit Yaoundé.", 'answer': 'Yaoundé', 'candidate': 'Bucharest'}
+{'statement': "I'm looking for a city with warm weather. Between Conakry and Ushuaia, I should visit Conakry.", 'answer': 'Conakry', 'candidate': 'Ushuaia'}
+{'statement': "I'm looking for a city with warm weather. Between Copenhagen and Maputo, I should visit Maputo.", 'answer': 'Maputo', 'candidate': 'Copenhagen'}
+{'statement': "I'm looking for a city with warm weather. Between Cairo and Bergen, I should visit Cairo.", 'answer': 'Cairo', 'candidate': 'Bergen'}
+{'statement': "I'm looking for a city with warm weather. Between Honolulu and Minneapolis, I should visit Honolulu.", 'answer': 'Honolulu', 'candidate': 'Minneapolis'}
+{'statement': "I'm looking for a city with warm weather. Between Tucson and Pittsburgh, I should visit Tucson.", 'answer': 'Tucson', 'candidate': 'Pittsburgh'}
+{'statement': "I'm looking for a city with warm weather. Between Willemstad and Lyon, I should visit Willemstad.", 'answer': 'Willemstad', 'candidate': 'Lyon'}
+{'statement': "I'm looking for a city with warm weather. Between Ouahigouya and Kabul, I should visit Ouahigouya.", 'answer': 'Ouahigouya', 'candidate': 'Kabul'}
+{'statement': "I'm looking for a city with warm weather. Between San Juan and Rome, I should visit San Juan.", 'answer': 'San Juan', 'candidate': 'Rome'}
+{'statement': "I'm looking for a city with warm weather. Between Sokoto and Algiers, I should visit Sokoto.", 'answer': 'Sokoto', 'candidate': 'Algiers'}
+{'statement': "I'm looking for a city with warm weather. Between Frankfurt and Palembang, I should visit Palembang.", 'answer': 'Palembang', 'candidate': 'Frankfurt'}
+{'statement': "I'm looking for a city with warm weather. Between Yerevan and Yakutsk, I should visit Yerevan.", 'answer': 'Yerevan', 'candidate': 'Yakutsk'}
+{'statement': "I'm looking for a city with warm weather. Between Saskatoon and Monterrey, I should visit Monterrey.", 'answer': 'Monterrey', 'candidate': 'Saskatoon'}
+{'statement': "I'm looking for a city with warm weather. Between Almaty and La Ceiba, I should visit La Ceiba.", 'answer': 'La Ceiba', 'candidate': 'Almaty'}
+{'statement': "I'm looking for a city with warm weather. Between Surabaya and Bergen, I should visit Surabaya.", 'answer': 'Surabaya', 'candidate': 'Bergen'}
+{'statement': "I'm looking for a city with warm weather. Between Lhasa and Cotonou, I should visit Cotonou.", 'answer': 'Cotonou', 'candidate': 'Lhasa'}
+{'statement': "I'm looking for a city with warm weather. Between Campos do Jordão and Barranquilla, I should visit Barranquilla.", 'answer': 'Barranquilla', 'candidate': 'Campos do Jordão'}
+{'statement': "I'm looking for a city with warm weather. Between Bata and Novosibirsk, I should visit Bata.", 'answer': 'Bata', 'candidate': 'Novosibirsk'}
+{'statement': "I'm looking for a city with warm weather. Between Curitiba and Anchorage, I should visit Curitiba.", 'answer': 'Curitiba', 'candidate': 'Anchorage'}
+{'statement': "I'm looking for a city with warm weather. Between Bratislava and Honolulu, I should visit Honolulu.", 'answer': 'Honolulu', 'candidate': 'Bratislava'}
+{'statement': "I'm looking for a city with warm weather. Between Cabo San Lucas and Chicago, I should visit Cabo San Lucas.", 'answer': 'Cabo San Lucas', 'candidate': 'Chicago'}
+{'statement': "I'm looking for a city with warm weather. Between Toamasina and Zürich, I should visit Toamasina.", 'answer': 'Toamasina', 'candidate': 'Zürich'}
+{'statement': "I'm looking for a city with warm weather. Between Honolulu and Campos do Jordão, I should visit Honolulu.", 'answer': 'Honolulu', 'candidate': 'Campos do Jordão'}
+{'statement': "I'm looking for a city with warm weather. Between Lyon and Lake Havasu City, I should visit Lake Havasu City.", 'answer': 'Lake Havasu City', 'candidate': 'Lyon'}
+{'statement': "I'm looking for a city with warm weather. Between Palembang and Omaha, I should visit Palembang.", 'answer': 'Palembang', 'candidate': 'Omaha'}
+{'statement': "I'm looking for a city with warm weather. Between Valencia and Ouahigouya, I should visit Ouahigouya.", 'answer': 'Ouahigouya', 'candidate': 'Valencia'}
+{'statement': "I'm looking for a city with warm weather. Between Nur-Sultan and Hanoi, I should visit Hanoi.", 'answer': 'Hanoi', 'candidate': 'Nur-Sultan'}
+{'statement': "I'm looking for a city with warm weather. Between Murmansk and Kuwait City, I should visit Kuwait City.", 'answer': 'Kuwait City', 'candidate': 'Murmansk'}
+{'statement': "I'm looking for a city with warm weather. Between Omaha and La Paz, I should visit La Paz.", 'answer': 'La Paz', 'candidate': 'Omaha'}
+{'statement': "I'm looking for a city with warm weather. Between Brisbane and Ulaanbaatar, I should visit Brisbane.", 'answer': 'Brisbane', 'candidate': 'Ulaanbaatar'}
+{'statement': "I'm looking for a city with warm weather. Between Rome and Garissa, I should visit Garissa.", 'answer': 'Garissa', 'candidate': 'Rome'}
+{'statement': "I'm looking for a city with warm weather. Between Omaha and Lahore, I should visit Lahore.", 'answer': 'Lahore', 'candidate': 'Omaha'}
+{'statement': "I'm looking for a city with warm weather. Between Juba and Melbourne, I should visit Juba.", 'answer': 'Juba', 'candidate': 'Melbourne'}
+{'statement': "I'm looking for a city with warm weather. Between Caracas and Amsterdam, I should visit Caracas.", 'answer': 'Caracas', 'candidate': 'Amsterdam'}
+{'statement': "I'm looking for a city with warm weather. Between Reykjavík and Karachi, I should visit Karachi.", 'answer': 'Karachi', 'candidate': 'Reykjavík'}
+{'statement': "I'm looking for a city with warm weather. Between Moscow and La Paz, I should visit La Paz.", 'answer': 'La Paz', 'candidate': 'Moscow'}
+{'statement': "I'm looking for a city with warm weather. Between Toliara and Bishkek, I should visit Toliara.", 'answer': 'Toliara', 'candidate': 'Bishkek'}
+{'statement': "I'm looking for a city with warm weather. Between Copenhagen and Karachi, I should visit Karachi.", 'answer': 'Karachi', 'candidate': 'Copenhagen'}
+{'statement': "I'm looking for a city with warm weather. Between Zürich and Erbil, I should visit Erbil.", 'answer': 'Erbil', 'candidate': 'Zürich'}
+{'statement': "I'm looking for a city with warm weather. Between Toliara and Ankara, I should visit Toliara.", 'answer': 'Toliara', 'candidate': 'Ankara'}
+{'statement': "I'm looking for a city with warm weather. Between Río Gallegos and Harare, I should visit Harare.", 'answer': 'Harare', 'candidate': 'Río Gallegos'}
+{'statement': "I'm looking for a city with warm weather. Between Shanghai and Irkutsk, I should visit Shanghai.", 'answer': 'Shanghai', 'candidate': 'Irkutsk'}
+{'statement': "I'm looking for a city with warm weather. Between Yakutsk and Lviv, I should visit Lviv.", 'answer': 'Lviv', 'candidate': 'Yakutsk'}
+{'statement': "I'm looking for a city with warm weather. Between Bangkok and Córdoba, I should visit Bangkok.", 'answer': 'Bangkok', 'candidate': 'Córdoba'}
+{'statement': "I'm looking for a city with warm weather. Between Erzurum and Darwin, I should visit Darwin.", 'answer': 'Darwin', 'candidate': 'Erzurum'}
+{'statement': "I'm looking for a city with warm weather. Between Conakry and Calgary, I should visit Conakry.", 'answer': 'Conakry', 'candidate': 'Calgary'}
+{'statement': "I'm looking for a city with warm weather. Between Ljubljana and Mandalay, I should visit Mandalay.", 'answer': 'Mandalay', 'candidate': 'Ljubljana'}
+{'statement': "I'm looking for a city with warm weather. Between Karachi and Zagreb, I should visit Karachi.", 'answer': 'Karachi', 'candidate': 'Zagreb'}
+{'statement': "I'm looking for a city with warm weather. Between Darwin and Vladivostok, I should visit Darwin.", 'answer': 'Darwin', 'candidate': 'Vladivostok'}
+{'statement': "I'm looking for a city with warm weather. Between La Paz and Minsk, I should visit La Paz.", 'answer': 'La Paz', 'candidate': 'Minsk'}
+{'statement': "I'm looking for a city with warm weather. Between Nairobi and Bergen, I should visit Nairobi.", 'answer': 'Nairobi', 'candidate': 'Bergen'}
+{'statement': "I'm looking for a city with warm weather. Between Fairbanks and London, I should visit London.", 'answer': 'London', 'candidate': 'Fairbanks'}
+{'statement': "I'm looking for a city with warm weather. Between Moscow and Durban, I should visit Durban.", 'answer': 'Durban', 'candidate': 'Moscow'}
+{'statement': "I'm looking for a city with warm weather. Between Tabora and Ulaanbaatar, I should visit Tabora.", 'answer': 'Tabora', 'candidate': 'Ulaanbaatar'}
+{'statement': "I'm looking for a city with warm weather. Between San Juan and Novosibirsk, I should visit San Juan.", 'answer': 'San Juan', 'candidate': 'Novosibirsk'}
+{'statement': "I'm looking for a city with warm weather. Between Bogotá and Calgary, I should visit Bogotá.", 'answer': 'Bogotá', 'candidate': 'Calgary'}
+{'statement': "I'm looking for a city with warm weather. Between Belize City and Tashkent, I should visit Belize City.", 'answer': 'Belize City', 'candidate': 'Tashkent'}
+{'statement': "I'm looking for a city with warm weather. Between Albuquerque and Antsiranana, I should visit Antsiranana.", 'answer': 'Antsiranana', 'candidate': 'Albuquerque'}
+{'statement': "I'm looking for a city with warm weather. Between Bujumbura and Toronto, I should visit Bujumbura.", 'answer': 'Bujumbura', 'candidate': 'Toronto'}
+{'statement': "I'm looking for a city with warm weather. Between Nouakchott and Melbourne, I should visit Nouakchott.", 'answer': 'Nouakchott', 'candidate': 'Melbourne'}
+{'statement': "I'm looking for a city with warm weather. Between Mumbai and Hobart, I should visit Mumbai.", 'answer': 'Mumbai', 'candidate': 'Hobart'}
+{'statement': "I'm looking for a city with warm weather. Between Moscow and Buenos Aires, I should visit Buenos Aires.", 'answer': 'Buenos Aires', 'candidate': 'Moscow'}
+{'statement': "I'm looking for a city with warm weather. Between Ulaanbaatar and Yerevan, I should visit Yerevan.", 'answer': 'Yerevan', 'candidate': 'Ulaanbaatar'}
+{'statement': "I'm looking for a city with warm weather. Between San Juan and Melbourne, I should visit San Juan.", 'answer': 'San Juan', 'candidate': 'Melbourne'}
+{'statement': "I'm looking for a city with warm weather. Between Chihuahua and Vladivostok, I should visit Chihuahua.", 'answer': 'Chihuahua', 'candidate': 'Vladivostok'}
+{'statement': "I'm looking for a city with warm weather. Between Djibouti and Vladivostok, I should visit Djibouti.", 'answer': 'Djibouti', 'candidate': 'Vladivostok'}
+{'statement': "I'm looking for a city with warm weather. Between Lviv and Fairbanks, I should visit Lviv.", 'answer': 'Lviv', 'candidate': 'Fairbanks'}
+{'statement': "I'm looking for a city with warm weather. Between Pontianak and Amsterdam, I should visit Pontianak.", 'answer': 'Pontianak', 'candidate': 'Amsterdam'}
+{'statement': "I'm looking for a city with warm weather. Between Florianópolis and Saskatoon, I should visit Florianópolis.", 'answer': 'Florianópolis', 'candidate': 'Saskatoon'}
+{'statement': "I'm looking for a city with warm weather. Between London and Lagos, I should visit Lagos.", 'answer': 'Lagos', 'candidate': 'London'}
+{'statement': "I'm looking for a city with warm weather. Between Quito and Reykjavík, I should visit Quito.", 'answer': 'Quito', 'candidate': 'Reykjavík'}
+{'statement': "I'm looking for a city with warm weather. Between Cairo and Ürümqi, I should visit Cairo.", 'answer': 'Cairo', 'candidate': 'Ürümqi'}
+{'statement': "I'm looking for a city with warm weather. Between Christchurch and Barranquilla, I should visit Barranquilla.", 'answer': 'Barranquilla', 'candidate': 'Christchurch'}
+{'statement': "I'm looking for a city with warm weather. Between Yakutsk and Benghazi, I should visit Benghazi.", 'answer': 'Benghazi', 'candidate': 'Yakutsk'}
+{'statement': "I'm looking for a city with warm weather. Between Dodoma and Pittsburgh, I should visit Dodoma.", 'answer': 'Dodoma', 'candidate': 'Pittsburgh'}
+{'statement': "I'm looking for a city with warm weather. Between Sucre and Barranquilla, I should visit Barranquilla.", 'answer': 'Barranquilla', 'candidate': 'Sucre'}
+{'statement': "I'm looking for a city with warm weather. Between Bujumbura and Almaty, I should visit Bujumbura.", 'answer': 'Bujumbura', 'candidate': 'Almaty'}
+{'statement': "I'm looking for a city with warm weather. Between Bangui and Baltimore, I should visit Bangui.", 'answer': 'Bangui', 'candidate': 'Baltimore'}
+{'statement': "I'm looking for a city with warm weather. Between Monterrey and Brussels, I should visit Monterrey.", 'answer': 'Monterrey', 'candidate': 'Brussels'}
+{'statement': "I'm looking for a city with warm weather. Between Antofagasta and Willemstad, I should visit Willemstad.", 'answer': 'Willemstad', 'candidate': 'Antofagasta'}
+{'statement': "I'm looking for a city with warm weather. Between Lomé and Almaty, I should visit Lomé.", 'answer': 'Lomé', 'candidate': 'Almaty'}
+{'statement': "I'm looking for a city with warm weather. Between Palmerston North and Juba, I should visit Juba.", 'answer': 'Juba', 'candidate': 'Palmerston North'}
+{'statement': "I'm looking for a city with warm weather. Between San Salvador and Punta Arenas, I should visit San Salvador.", 'answer': 'San Salvador', 'candidate': 'Punta Arenas'}
+{'statement': "I'm looking for a city with warm weather. Between Garissa and Belgrade, I should visit Garissa.", 'answer': 'Garissa', 'candidate': 'Belgrade'}

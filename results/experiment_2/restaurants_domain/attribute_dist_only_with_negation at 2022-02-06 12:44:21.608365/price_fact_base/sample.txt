@@ -1,0 +1,200 @@
+{'statement': 'Between Adega Restaurante and Popeyes Louisiana Kitchen, the restaurant with higher price is Adega Restaurante.', 'answer': 'Adega Restaurante', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': 'Between Pizza Pizza and La Pupusa Loka, the restaurant with higher price is La Pupusa Loka.', 'answer': 'La Pupusa Loka', 'candidate': 'Pizza Pizza'}
+{'statement': "Between Tim Hortons and Harry's Char Broil & Dining Lounge, the restaurant with higher price is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Tim Hortons'}
+{'statement': 'Between Pizzeria Via Mercanti and Verona Restaurant, the restaurant with higher price is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "Between La Cocina De Dona Luz and Nutella Cafe by Pusateri's, the restaurant with higher price is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'La Cocina De Dona Luz'}
+{'statement': 'Between Eggspectation and Edible Arrangements, the restaurant with higher price is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Eggspectation'}
+{'statement': 'Between Branca and Mysteriously Yours Dinner Theatre, the restaurant with higher price is Mysteriously Yours Dinner Theatre.', 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': 'Branca'}
+{'statement': "Between Helena's Magic Kitchen and El Fogón, the restaurant with higher price is El Fogón.", 'answer': 'El Fogón', 'candidate': "Helena's Magic Kitchen"}
+{'statement': 'Between Villa Madina and Ardor Bistro, the restaurant with higher price is Ardor Bistro.', 'answer': 'Ardor Bistro', 'candidate': 'Villa Madina'}
+{'statement': 'Between Verona Restaurant and Breakfast Room, the restaurant with higher price is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Breakfast Room'}
+{'statement': 'Between Hapa Toronto and Solero Mediterranean Bakery, the restaurant with higher price is Hapa Toronto.', 'answer': 'Hapa Toronto', 'candidate': 'Solero Mediterranean Bakery'}
+{'statement': "Between Phil's Original BBQ and McDonald's, the restaurant with higher price is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': "McDonald's"}
+{'statement': 'Between Kibo Sushi House and Queen Pita, the restaurant with higher price is Kibo Sushi House.', 'answer': 'Kibo Sushi House', 'candidate': 'Queen Pita'}
+{'statement': 'Between St. Louis Bar & Grill and Verona Restaurant, the restaurant with higher price is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': 'Between Green Grotto and Queen Pita, the restaurant with higher price is Green Grotto.', 'answer': 'Green Grotto', 'candidate': 'Queen Pita'}
+{'statement': "Between Pho 88 and Joe Badali's Ristorante Italiano & Bar, the restaurant with higher price is Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': 'Pho 88'}
+{'statement': 'Between Sushi World and Maurya East Indian Roti, the restaurant with higher price is Maurya East Indian Roti.', 'answer': 'Maurya East Indian Roti', 'candidate': 'Sushi World'}
+{'statement': "Between Banjara Indian Cuisine and Milo's Pita, the restaurant with higher price is Banjara Indian Cuisine.", 'answer': 'Banjara Indian Cuisine', 'candidate': "Milo's Pita"}
+{'statement': 'Between Fitness Avenue and Milestones Restaurants, the restaurant with higher price is Milestones Restaurants.', 'answer': 'Milestones Restaurants', 'candidate': 'Fitness Avenue'}
+{'statement': 'Between Tortería San Cosme and Verona Restaurant, the restaurant with higher price is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between Thai 4 You Restaurant and Chick Fiesta, the restaurant with higher price is Thai 4 You Restaurant.', 'answer': 'Thai 4 You Restaurant', 'candidate': 'Chick Fiesta'}
+{'statement': "Between Topham Corner and Dinah's Cupboard, the restaurant with higher price is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Topham Corner'}
+{'statement': 'Between Edible Arrangements and JJ Bean, the restaurant with higher price is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'JJ Bean'}
+{'statement': "Between McDonald's and Capitol Trattoria Pizzeria, the restaurant with higher price is Capitol Trattoria Pizzeria.", 'answer': 'Capitol Trattoria Pizzeria', 'candidate': "McDonald's"}
+{'statement': 'Between Sweet Jesus and The Duke of Devon, the restaurant with higher price is The Duke of Devon.', 'answer': 'The Duke of Devon', 'candidate': 'Sweet Jesus'}
+{'statement': 'Between Edible Arrangements and Milestones Restaurants, the restaurant with higher price is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Milestones Restaurants'}
+{'statement': 'Between Mi Mi Restaurant and Amaya Express, the restaurant with higher price is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'Mi Mi Restaurant'}
+{'statement': 'Between Banjara Indian Cuisine and Falafel House, the restaurant with higher price is Banjara Indian Cuisine.', 'answer': 'Banjara Indian Cuisine', 'candidate': 'Falafel House'}
+{'statement': "Between Domino's Pizza and Green Room, the restaurant with higher price is Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': 'Green Room'}
+{'statement': "Between St. Clair Shawarma and Falafel and Harvey's, the restaurant with higher price is Harvey's.", 'answer': "Harvey's", 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': 'Between Sizzlers and Chipotle Mexican Grill, the restaurant with higher price is Chipotle Mexican Grill.', 'answer': 'Chipotle Mexican Grill', 'candidate': 'Sizzlers'}
+{'statement': 'Between The Coffee Pocket and Sichuan Landscape Chinese Restaurant, the restaurant with higher price is Sichuan Landscape Chinese Restaurant.', 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'The Coffee Pocket'}
+{'statement': 'Between Just Soups Take Out & Catering and Aroma Espresso Bar, the restaurant with higher price is Aroma Espresso Bar.', 'answer': 'Aroma Espresso Bar', 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': 'Between KFC and Viccino Pizzeria, the restaurant with higher price is Viccino Pizzeria.', 'answer': 'Viccino Pizzeria', 'candidate': 'KFC'}
+{'statement': 'Between Falafel Hut Village and Juice & Java Cafe, the restaurant with higher price is Juice & Java Cafe.', 'answer': 'Juice & Java Cafe', 'candidate': 'Falafel Hut Village'}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and Hawthorne Food and Drink, the restaurant with higher price is Sichuan Landscape Chinese Restaurant.', 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': 'Between El Fogón and Fitness Avenue, the restaurant with higher price is El Fogón.', 'answer': 'El Fogón', 'candidate': 'Fitness Avenue'}
+{'statement': "Between Milo's Pita and Farmacia Health Bar, the restaurant with higher price is Farmacia Health Bar.", 'answer': 'Farmacia Health Bar', 'candidate': "Milo's Pita"}
+{'statement': 'Between Breakfast Room and Mi Mi Restaurant, the restaurant with higher price is Breakfast Room.', 'answer': 'Breakfast Room', 'candidate': 'Mi Mi Restaurant'}
+{'statement': 'Between Nook and Just Soups Take Out & Catering, the restaurant with higher price is Nook.', 'answer': 'Nook', 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': 'Between Nook and Galata Cafe, the restaurant with higher price is Galata Cafe.', 'answer': 'Galata Cafe', 'candidate': 'Nook'}
+{'statement': "Between Madras Pantry and Nutella Cafe by Pusateri's, the restaurant with higher price is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Madras Pantry'}
+{'statement': 'Between To-ne Sushi and The Empire, the restaurant with higher price is To-ne Sushi.', 'answer': 'To-ne Sushi', 'candidate': 'The Empire'}
+{'statement': "Between Carole's Cheesecake Cafe and Hapa Toronto, the restaurant with higher price is Hapa Toronto.", 'answer': 'Hapa Toronto', 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': "Between McDonald's and Freshii, the restaurant with higher price is Freshii.", 'answer': 'Freshii', 'candidate': "McDonald's"}
+{'statement': "Between Druxy's Famous Deli and Itamae Ayce Sushi, the restaurant with higher price is Itamae Ayce Sushi.", 'answer': 'Itamae Ayce Sushi', 'candidate': "Druxy's Famous Deli"}
+{'statement': "Between Dinah's Cupboard and McDonald's, the restaurant with higher price is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': "McDonald's"}
+{'statement': "Between Harvey's and Aris Place, the restaurant with higher price is Harvey's.", 'answer': "Harvey's", 'candidate': 'Aris Place'}
+{'statement': 'Between Tian An Cuisine and Mirage Grill & Lounge, the restaurant with higher price is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'Tian An Cuisine'}
+{'statement': "Between Bagel Nash and Harry's Char Broil & Dining Lounge, the restaurant with higher price is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Bagel Nash'}
+{'statement': 'Between Sizzlers and El Fogón, the restaurant with higher price is El Fogón.', 'answer': 'El Fogón', 'candidate': 'Sizzlers'}
+{'statement': 'Between Fit For Life and Paradise Farms Prime Beef Bistro, the restaurant with higher price is Paradise Farms Prime Beef Bistro.', 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': 'Fit For Life'}
+{'statement': "Between Domino's Pizza and Galata Cafe, the restaurant with higher price is Galata Cafe.", 'answer': 'Galata Cafe', 'candidate': "Domino's Pizza"}
+{'statement': 'Between Tim Hortons and Marcello’s pizzeria, the restaurant with higher price is Marcello’s pizzeria.', 'answer': 'Marcello’s pizzeria', 'candidate': 'Tim Hortons'}
+{'statement': 'Between Aroma Espresso Bar and Verona Restaurant, the restaurant with higher price is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Aroma Espresso Bar'}
+{'statement': "Between Domino's Pizza and Mirage Grill & Lounge, the restaurant with higher price is Mirage Grill & Lounge.", 'answer': 'Mirage Grill & Lounge', 'candidate': "Domino's Pizza"}
+{'statement': "Between Green Grotto and Big Al's Diner, the restaurant with higher price is Green Grotto.", 'answer': 'Green Grotto', 'candidate': "Big Al's Diner"}
+{'statement': "Between Nutella Cafe by Pusateri's and Fit For Life, the restaurant with higher price is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Fit For Life'}
+{'statement': 'Between z-teca Gourmet Burritos and Green Room, the restaurant with higher price is z-teca Gourmet Burritos.', 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Green Room'}
+{'statement': 'Between Mirage Grill & Lounge and Tim Hortons, the restaurant with higher price is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'Tim Hortons'}
+{'statement': "Between McDonald's and Pasta Pantry, the restaurant with higher price is Pasta Pantry.", 'answer': 'Pasta Pantry', 'candidate': "McDonald's"}
+{'statement': 'Between Sushi Shop and Evoo Ristorante, the restaurant with higher price is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Sushi Shop'}
+{'statement': 'Between Just Soups Take Out & Catering and Ici Bistro, the restaurant with higher price is Ici Bistro.', 'answer': 'Ici Bistro', 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': "Between Assembly Chef's Hall and Cake Opera, the restaurant with higher price is Cake Opera.", 'answer': 'Cake Opera', 'candidate': "Assembly Chef's Hall"}
+{'statement': 'Between Verona Restaurant and Fitness Avenue, the restaurant with higher price is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Fitness Avenue'}
+{'statement': "Between Mi Mi Restaurant and Nutella Cafe by Pusateri's, the restaurant with higher price is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Mi Mi Restaurant'}
+{'statement': 'Between Lahore Grill & Fast Food and Branca, the restaurant with higher price is Branca.', 'answer': 'Branca', 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': 'Between Paradise Farms Prime Beef Bistro and Queen Pita, the restaurant with higher price is Paradise Farms Prime Beef Bistro.', 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': 'Queen Pita'}
+{'statement': 'Between Falafel Hut Village and Freshii, the restaurant with higher price is Freshii.', 'answer': 'Freshii', 'candidate': 'Falafel Hut Village'}
+{'statement': 'Between Popeyes Louisiana Kitchen and Evoo Ristorante, the restaurant with higher price is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': 'Between Cafe Jules and Galata Cafe, the restaurant with higher price is Galata Cafe.', 'answer': 'Galata Cafe', 'candidate': 'Cafe Jules'}
+{'statement': 'Between Kairali - Taste of Kerala and Galata Cafe, the restaurant with higher price is Galata Cafe.', 'answer': 'Galata Cafe', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': 'Between Cantine Bar & Grill and Top Sushi, the restaurant with higher price is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Top Sushi'}
+{'statement': 'Between Oxygen Restaurant & Lounge and The Duke of Devon, the restaurant with higher price is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'The Duke of Devon'}
+{'statement': "Between It's All Grk and The Coffee Pocket, the restaurant with higher price is It's All Grk.", 'answer': "It's All Grk", 'candidate': 'The Coffee Pocket'}
+{'statement': "Between McDonald's and Ardor Bistro, the restaurant with higher price is Ardor Bistro.", 'answer': 'Ardor Bistro', 'candidate': "McDonald's"}
+{'statement': 'Between Top Sushi and Thompson Rooftop, the restaurant with higher price is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'Top Sushi'}
+{'statement': 'Between Pizza Pizza and Adega Restaurante, the restaurant with higher price is Adega Restaurante.', 'answer': 'Adega Restaurante', 'candidate': 'Pizza Pizza'}
+{'statement': 'Between El Fogón and Goldstone Noodle Restaurant, the restaurant with higher price is El Fogón.', 'answer': 'El Fogón', 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': "Between Harry's Char Broil & Dining Lounge and Green Room, the restaurant with higher price is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Green Room'}
+{'statement': 'Between Mi Mi Restaurant and Branca, the restaurant with higher price is Branca.', 'answer': 'Branca', 'candidate': 'Mi Mi Restaurant'}
+{'statement': "Between Smoke's Weinerie and Pisco 1641, the restaurant with higher price is Pisco 1641.", 'answer': 'Pisco 1641', 'candidate': "Smoke's Weinerie"}
+{'statement': "Between Just Soups Take Out & Catering and Watson's, the restaurant with higher price is Watson's.", 'answer': "Watson's", 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': 'Between Chipotle Mexican Grill and Ici Bistro, the restaurant with higher price is Ici Bistro.', 'answer': 'Ici Bistro', 'candidate': 'Chipotle Mexican Grill'}
+{'statement': 'Between Mysteriously Yours Dinner Theatre and Cafe Jules, the restaurant with higher price is Mysteriously Yours Dinner Theatre.', 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': 'Cafe Jules'}
+{'statement': 'Between To-ne Sushi and Green Room, the restaurant with higher price is To-ne Sushi.', 'answer': 'To-ne Sushi', 'candidate': 'Green Room'}
+{'statement': 'Between Tim Hortons and Kim PO Vietnamese, the restaurant with higher price is Kim PO Vietnamese.', 'answer': 'Kim PO Vietnamese', 'candidate': 'Tim Hortons'}
+{'statement': "Between Carole's Cheesecake Cafe and Lahore Grill & Fast Food, the restaurant with higher price is Carole's Cheesecake Cafe.", 'answer': "Carole's Cheesecake Cafe", 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': 'Between Villa Madina and Lebanese Bakery, the restaurant with higher price is Lebanese Bakery.', 'answer': 'Lebanese Bakery', 'candidate': 'Villa Madina'}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and Amaya Express, the restaurant with higher price is Sichuan Landscape Chinese Restaurant.', 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'Amaya Express'}
+{'statement': "Between Watson's and Adega Restaurante, the restaurant with higher price is Adega Restaurante.", 'answer': 'Adega Restaurante', 'candidate': "Watson's"}
+{'statement': "Between Nutella Cafe by Pusateri's and Amaya Express, the restaurant with higher price is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Amaya Express'}
+{'statement': 'Between Viccino Pizzeria and The Empire, the restaurant with higher price is Viccino Pizzeria.', 'answer': 'Viccino Pizzeria', 'candidate': 'The Empire'}
+{'statement': "Between Sushi World and Harry's Char Broil & Dining Lounge, the restaurant with higher price is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Sushi World'}
+{'statement': "Between Druxy's Famous Deli and Amaya Express, the restaurant with higher price is Amaya Express.", 'answer': 'Amaya Express', 'candidate': "Druxy's Famous Deli"}
+{'statement': "Between Joe Badali's Ristorante Italiano & Bar and Top Sushi, the restaurant with higher price is Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': 'Top Sushi'}
+{'statement': "Between z-teca Gourmet Burritos and Helena's Magic Kitchen, the restaurant with higher price is z-teca Gourmet Burritos.", 'answer': 'z-teca Gourmet Burritos', 'candidate': "Helena's Magic Kitchen"}
+{'statement': 'Between Thompson Rooftop and Freshii, the restaurant with higher price is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'Freshii'}
+{'statement': 'Between Evoo Ristorante and Pasta Pantry, the restaurant with higher price is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Pasta Pantry'}
+{'statement': 'Between Delicious Paradise Kitchen and Cantine Bar & Grill, the restaurant with higher price is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': 'Between Bonne Journee and Pasta Pantry, the restaurant with higher price is Pasta Pantry.', 'answer': 'Pasta Pantry', 'candidate': 'Bonne Journee'}
+{'statement': "Between Helena's Magic Kitchen and Farmacia Health Bar, the restaurant with higher price is Farmacia Health Bar.", 'answer': 'Farmacia Health Bar', 'candidate': "Helena's Magic Kitchen"}
+{'statement': 'Between Marcello’s pizzeria and Branca, the restaurant with higher price is Branca.', 'answer': 'Branca', 'candidate': 'Marcello’s pizzeria'}
+{'statement': 'Between Hapa Toronto and Bonne Journee, the restaurant with higher price is Hapa Toronto.', 'answer': 'Hapa Toronto', 'candidate': 'Bonne Journee'}
+{'statement': 'Between Mt Everest Restaurant and Solero Mediterranean Bakery, the restaurant with higher price is Mt Everest Restaurant.', 'answer': 'Mt Everest Restaurant', 'candidate': 'Solero Mediterranean Bakery'}
+{'statement': "Between LCBO and Mamma's Pizza, the restaurant with higher price is LCBO.", 'answer': 'LCBO', 'candidate': "Mamma's Pizza"}
+{'statement': "Between Milo's Pita and Anatolia Restaurant, the restaurant with higher price is Anatolia Restaurant.", 'answer': 'Anatolia Restaurant', 'candidate': "Milo's Pita"}
+{'statement': "Between McDonald's and Adega Restaurante, the restaurant with higher price is Adega Restaurante.", 'answer': 'Adega Restaurante', 'candidate': "McDonald's"}
+{'statement': 'Between Fit For Life and Pisco 1641, the restaurant with higher price is Pisco 1641.', 'answer': 'Pisco 1641', 'candidate': 'Fit For Life'}
+{'statement': 'Between Edible Arrangements and Mi Mi Restaurant, the restaurant with higher price is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Mi Mi Restaurant'}
+{'statement': 'Between Edible Arrangements and Sky Dragon Chinese Restaurant, the restaurant with higher price is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Sky Dragon Chinese Restaurant'}
+{'statement': 'Between Goldstone Noodle Restaurant and Eggspectation, the restaurant with higher price is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': 'Between FreshCo and Cake Opera, the restaurant with higher price is Cake Opera.', 'answer': 'Cake Opera', 'candidate': 'FreshCo'}
+{'statement': 'Between Top Sushi and Itamae Ayce Sushi, the restaurant with higher price is Itamae Ayce Sushi.', 'answer': 'Itamae Ayce Sushi', 'candidate': 'Top Sushi'}
+{'statement': 'Between Thompson Rooftop and Mt Everest Restaurant, the restaurant with higher price is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'Mt Everest Restaurant'}
+{'statement': 'Between Milestones Restaurants and Eastern legend, the restaurant with higher price is Milestones Restaurants.', 'answer': 'Milestones Restaurants', 'candidate': 'Eastern legend'}
+{'statement': 'Between St. Clair Shawarma and Falafel and Daily Press Juicery, the restaurant with higher price is Daily Press Juicery.', 'answer': 'Daily Press Juicery', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': 'Between Ardor Bistro and Buk Chang Dong Soon Tofu, the restaurant with higher price is Ardor Bistro.', 'answer': 'Ardor Bistro', 'candidate': 'Buk Chang Dong Soon Tofu'}
+{'statement': 'Between Mirage Grill & Lounge and JJ Bean, the restaurant with higher price is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'JJ Bean'}
+{'statement': "Between McDonald's and Ici Bistro, the restaurant with higher price is Ici Bistro.", 'answer': 'Ici Bistro', 'candidate': "McDonald's"}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and Tierra Azteca, the restaurant with higher price is Sichuan Landscape Chinese Restaurant.', 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'Tierra Azteca'}
+{'statement': 'Between Just Soups Take Out & Catering and Sushi Time Japanese Restaurant, the restaurant with higher price is Sushi Time Japanese Restaurant.', 'answer': 'Sushi Time Japanese Restaurant', 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': 'Between Banjara Indian Cuisine and Sizzlers, the restaurant with higher price is Banjara Indian Cuisine.', 'answer': 'Banjara Indian Cuisine', 'candidate': 'Sizzlers'}
+{'statement': 'Between Galata Cafe and Milestones Restaurants, the restaurant with higher price is Galata Cafe.', 'answer': 'Galata Cafe', 'candidate': 'Milestones Restaurants'}
+{'statement': 'Between The Coffee Pocket and Basil Express Restaurant, the restaurant with higher price is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'The Coffee Pocket'}
+{'statement': "Between Thompson Rooftop and Roncy's Bean, the restaurant with higher price is Thompson Rooftop.", 'answer': 'Thompson Rooftop', 'candidate': "Roncy's Bean"}
+{'statement': 'Between Sky Dragon Chinese Restaurant and Fit For Life, the restaurant with higher price is Sky Dragon Chinese Restaurant.', 'answer': 'Sky Dragon Chinese Restaurant', 'candidate': 'Fit For Life'}
+{'statement': 'Between Eastern legend and LCBO, the restaurant with higher price is LCBO.', 'answer': 'LCBO', 'candidate': 'Eastern legend'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Hawthorne Food and Drink, the restaurant with higher price is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': 'Between Magic Oven and Villa Madina, the restaurant with higher price is Magic Oven.', 'answer': 'Magic Oven', 'candidate': 'Villa Madina'}
+{'statement': "Between Milo's Pita and Popeyes Louisiana Kitchen, the restaurant with higher price is Popeyes Louisiana Kitchen.", 'answer': 'Popeyes Louisiana Kitchen', 'candidate': "Milo's Pita"}
+{'statement': 'Between Branca and Hina Sushi, the restaurant with higher price is Branca.', 'answer': 'Branca', 'candidate': 'Hina Sushi'}
+{'statement': "Between Piper's Pub And Grill and Tim Hortons, the restaurant with higher price is Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Tim Hortons'}
+{'statement': 'Between Bagel Nash and Amaya Express, the restaurant with higher price is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'Bagel Nash'}
+{'statement': 'Between Cantine Bar & Grill and Sweet Jesus, the restaurant with higher price is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Sweet Jesus'}
+{'statement': 'Between Thompson Rooftop and Tim Hortons, the restaurant with higher price is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'Tim Hortons'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Kairali - Taste of Kerala, the restaurant with higher price is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': "Between Carole's Cheesecake Cafe and Adega Restaurante, the restaurant with higher price is Adega Restaurante.", 'answer': 'Adega Restaurante', 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': "Between Buk Chang Dong Soon Tofu and Piper's Pub And Grill, the restaurant with higher price is Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Buk Chang Dong Soon Tofu'}
+{'statement': 'Between Supermodel Pizza and Aroma Espresso Bar, the restaurant with higher price is Aroma Espresso Bar.', 'answer': 'Aroma Espresso Bar', 'candidate': 'Supermodel Pizza'}
+{'statement': 'Between Edible Arrangements and To-ne Sushi, the restaurant with higher price is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'To-ne Sushi'}
+{'statement': 'Between Le Papillon Park and Fitness Avenue, the restaurant with higher price is Le Papillon Park.', 'answer': 'Le Papillon Park', 'candidate': 'Fitness Avenue'}
+{'statement': 'Between Pizzeria Via Mercanti and Aris Place, the restaurant with higher price is Pizzeria Via Mercanti.', 'answer': 'Pizzeria Via Mercanti', 'candidate': 'Aris Place'}
+{'statement': "Between Druxy's Famous Deli and Dinah's Cupboard, the restaurant with higher price is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': "Druxy's Famous Deli"}
+{'statement': "Between Breakfast Room and McDonald's, the restaurant with higher price is Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': "McDonald's"}
+{'statement': 'Between Lahore Grill & Fast Food and Tortería San Cosme, the restaurant with higher price is Tortería San Cosme.', 'answer': 'Tortería San Cosme', 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': 'Between Top Sushi and Basil Express Restaurant, the restaurant with higher price is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'Top Sushi'}
+{'statement': 'Between Eggspectation and Sweet Jesus, the restaurant with higher price is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Sweet Jesus'}
+{'statement': "Between Harry's Char Broil & Dining Lounge and Bake Island, the restaurant with higher price is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Bake Island'}
+{'statement': "Between McDonald's and Modo Mio Italian Bistro, the restaurant with higher price is Modo Mio Italian Bistro.", 'answer': 'Modo Mio Italian Bistro', 'candidate': "McDonald's"}
+{'statement': 'Between Basil Express Restaurant and Sizzlers, the restaurant with higher price is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'Sizzlers'}
+{'statement': "Between Supermodel Pizza and Joe Badali's Ristorante Italiano & Bar, the restaurant with higher price is Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': 'Supermodel Pizza'}
+{'statement': 'Between Delicious Paradise Kitchen and JJ Bean, the restaurant with higher price is JJ Bean.', 'answer': 'JJ Bean', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': 'Between Green Grotto and Verona Restaurant, the restaurant with higher price is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Green Grotto'}
+{'statement': 'Between Mirage Grill & Lounge and Daily Press Juicery, the restaurant with higher price is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'Daily Press Juicery'}
+{'statement': "Between Kim PO Vietnamese and McDonald's, the restaurant with higher price is Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': "McDonald's"}
+{'statement': 'Between Evoo Ristorante and JJ Bean, the restaurant with higher price is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'JJ Bean'}
+{'statement': 'Between Fitness Avenue and Sky Dragon Chinese Restaurant, the restaurant with higher price is Sky Dragon Chinese Restaurant.', 'answer': 'Sky Dragon Chinese Restaurant', 'candidate': 'Fitness Avenue'}
+{'statement': 'Between Lebanese Bakery and Verona Restaurant, the restaurant with higher price is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Lebanese Bakery'}
+{'statement': 'Between Ardor Bistro and Evoo Ristorante, the restaurant with higher price is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Ardor Bistro'}
+{'statement': 'Between Hawthorne Food and Drink and Pho 88, the restaurant with higher price is Hawthorne Food and Drink.', 'answer': 'Hawthorne Food and Drink', 'candidate': 'Pho 88'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Lahore Grill & Fast Food, the restaurant with higher price is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': "Between Tik Talk Cafe and Helena's Magic Kitchen, the restaurant with higher price is Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': "Helena's Magic Kitchen"}
+{'statement': "Between Ciao Europa wine bar and McDonald's, the restaurant with higher price is Ciao Europa wine bar.", 'answer': 'Ciao Europa wine bar', 'candidate': "McDonald's"}
+{'statement': 'Between Pizza Pizza and Ardor Bistro, the restaurant with higher price is Ardor Bistro.', 'answer': 'Ardor Bistro', 'candidate': 'Pizza Pizza'}
+{'statement': "Between Big Al's Diner and Oxygen Restaurant & Lounge, the restaurant with higher price is Oxygen Restaurant & Lounge.", 'answer': 'Oxygen Restaurant & Lounge', 'candidate': "Big Al's Diner"}
+{'statement': 'Between Falafel House and Marcello’s pizzeria, the restaurant with higher price is Marcello’s pizzeria.', 'answer': 'Marcello’s pizzeria', 'candidate': 'Falafel House'}
+{'statement': 'Between Aris Place and Eggspectation, the restaurant with higher price is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Aris Place'}
+{'statement': "Between Mi Mi Restaurant and Beryl's Pepper Pot, the restaurant with higher price is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'Mi Mi Restaurant'}
+{'statement': 'Between Edible Arrangements and Delicious Paradise Kitchen, the restaurant with higher price is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': 'Between Hapa Toronto and To-ne Sushi, the restaurant with higher price is Hapa Toronto.', 'answer': 'Hapa Toronto', 'candidate': 'To-ne Sushi'}
+{'statement': 'Between El Fogón and Eastern legend, the restaurant with higher price is El Fogón.', 'answer': 'El Fogón', 'candidate': 'Eastern legend'}
+{'statement': 'Between Buk Chang Dong Soon Tofu and Breakfast Room, the restaurant with higher price is Breakfast Room.', 'answer': 'Breakfast Room', 'candidate': 'Buk Chang Dong Soon Tofu'}
+{'statement': 'Between Topham Corner and Oxygen Restaurant & Lounge, the restaurant with higher price is Oxygen Restaurant & Lounge.', 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Topham Corner'}
+{'statement': "Between Nutella Cafe by Pusateri's and Modo Mio Italian Bistro, the restaurant with higher price is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Modo Mio Italian Bistro'}
+{'statement': "Between Beryl's Pepper Pot and Dinah's Cupboard, the restaurant with higher price is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': "Beryl's Pepper Pot"}
+{'statement': 'Between Bake Island and Pasta Pantry, the restaurant with higher price is Pasta Pantry.', 'answer': 'Pasta Pantry', 'candidate': 'Bake Island'}
+{'statement': 'Between Farmacia Health Bar and Green Room, the restaurant with higher price is Farmacia Health Bar.', 'answer': 'Farmacia Health Bar', 'candidate': 'Green Room'}
+{'statement': 'Between The Coffee Pocket and Edible Arrangements, the restaurant with higher price is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'The Coffee Pocket'}
+{'statement': 'Between New Bilan Restaurant and Tik Talk Cafe, the restaurant with higher price is Tik Talk Cafe.', 'answer': 'Tik Talk Cafe', 'candidate': 'New Bilan Restaurant'}
+{'statement': 'Between Verona Restaurant and Itamae Ayce Sushi, the restaurant with higher price is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Itamae Ayce Sushi'}
+{'statement': 'Between Hina Sushi and Tim Hortons, the restaurant with higher price is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Tim Hortons'}
+{'statement': 'Between Lahore Grill & Fast Food and Paradise Farms Prime Beef Bistro, the restaurant with higher price is Paradise Farms Prime Beef Bistro.', 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': "Between Fitness Avenue and Dinah's Cupboard, the restaurant with higher price is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Fitness Avenue'}
+{'statement': 'Between Grappa Ristorante and Mt Everest Restaurant, the restaurant with higher price is Grappa Ristorante.', 'answer': 'Grappa Ristorante', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "Between Big Al's Diner and Phil's Original BBQ, the restaurant with higher price is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': "Big Al's Diner"}
+{'statement': 'Between Sushi Time Japanese Restaurant and Eastern legend, the restaurant with higher price is Sushi Time Japanese Restaurant.', 'answer': 'Sushi Time Japanese Restaurant', 'candidate': 'Eastern legend'}
+{'statement': 'Between Mt Everest Restaurant and Delicious Paradise Kitchen, the restaurant with higher price is Mt Everest Restaurant.', 'answer': 'Mt Everest Restaurant', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': 'Between Mysteriously Yours Dinner Theatre and Madras Pantry, the restaurant with higher price is Mysteriously Yours Dinner Theatre.', 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': 'Madras Pantry'}
+{'statement': 'Between Capitol Trattoria Pizzeria and Madras Pantry, the restaurant with higher price is Capitol Trattoria Pizzeria.', 'answer': 'Capitol Trattoria Pizzeria', 'candidate': 'Madras Pantry'}
+{'statement': 'Between New Bilan Restaurant and La Pupusa Loka, the restaurant with higher price is La Pupusa Loka.', 'answer': 'La Pupusa Loka', 'candidate': 'New Bilan Restaurant'}
+{'statement': 'Between Queen Slice and Pizzeria Via Mercanti, the restaurant with higher price is Pizzeria Via Mercanti.', 'answer': 'Pizzeria Via Mercanti', 'candidate': 'Queen Slice'}
+{'statement': 'Between Galata Cafe and Lebanese Bakery, the restaurant with higher price is Galata Cafe.', 'answer': 'Galata Cafe', 'candidate': 'Lebanese Bakery'}
+{'statement': "Between The Duke of Devon and Helena's Magic Kitchen, the restaurant with higher price is The Duke of Devon.", 'answer': 'The Duke of Devon', 'candidate': "Helena's Magic Kitchen"}
+{'statement': 'Between St. Louis Bar & Grill and Top Sushi, the restaurant with higher price is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Top Sushi'}
+{'statement': 'Between Kibo Sushi House and Bake Island, the restaurant with higher price is Kibo Sushi House.', 'answer': 'Kibo Sushi House', 'candidate': 'Bake Island'}
+{'statement': "Between Nutella Cafe by Pusateri's and Ici Bistro, the restaurant with higher price is Ici Bistro.", 'answer': 'Ici Bistro', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Daily Press Juicery and Branca, the restaurant with higher price is Branca.', 'answer': 'Branca', 'candidate': 'Daily Press Juicery'}
+{'statement': 'Between Cake Opera and Maurya East Indian Roti, the restaurant with higher price is Cake Opera.', 'answer': 'Cake Opera', 'candidate': 'Maurya East Indian Roti'}
+{'statement': "Between McDonald's and Galata Cafe, the restaurant with higher price is Galata Cafe.", 'answer': 'Galata Cafe', 'candidate': "McDonald's"}

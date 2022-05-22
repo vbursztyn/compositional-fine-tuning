@@ -1,0 +1,200 @@
+{'statement': "You don't like hot weather. Between Darwin and Fukuoka, you should visit Fukuoka.", 'answer': 'Fukuoka', 'candidate': 'Darwin'}
+{'statement': "You don't like hot weather. Between Viedma and Saskatoon, you should visit Saskatoon.", 'answer': 'Saskatoon', 'candidate': 'Viedma'}
+{'statement': "You don't like hot weather. Between Napier and Kuopio, you should visit Kuopio.", 'answer': 'Kuopio', 'candidate': 'Napier'}
+{'statement': "You don't like hot weather. Between Panama City and Mendoza, you should visit Mendoza.", 'answer': 'Mendoza', 'candidate': 'Panama City'}
+{'statement': "You don't like hot weather. Between San Juan and Sacramento, you should visit Sacramento.", 'answer': 'Sacramento', 'candidate': 'San Juan'}
+{'statement': "You don't like hot weather. Between Phnom Penh and Napier, you should visit Napier.", 'answer': 'Napier', 'candidate': 'Phnom Penh'}
+{'statement': "You don't like hot weather. Between Cabo San Lucas and Saint Petersburg, you should visit Saint Petersburg.", 'answer': 'Saint Petersburg', 'candidate': 'Cabo San Lucas'}
+{'statement': "You don't like hot weather. Between Abéché and Los Angeles, you should visit Los Angeles.", 'answer': 'Los Angeles', 'candidate': 'Abéché'}
+{'statement': "You don't like hot weather. Between Perth and Anchorage, you should visit Anchorage.", 'answer': 'Anchorage', 'candidate': 'Perth'}
+{'statement': "You don't like hot weather. Between Kuwait City and Indianapolis, you should visit Indianapolis.", 'answer': 'Indianapolis', 'candidate': 'Kuwait City'}
+{'statement': "You don't like hot weather. Between Caracas and Kuopio, you should visit Kuopio.", 'answer': 'Kuopio', 'candidate': 'Caracas'}
+{'statement': "You don't like hot weather. Between Hanoi and Wellington, you should visit Wellington.", 'answer': 'Wellington', 'candidate': 'Hanoi'}
+{'statement': "You don't like hot weather. Between Pretoria and Minneapolis, you should visit Minneapolis.", 'answer': 'Minneapolis', 'candidate': 'Pretoria'}
+{'statement': "You don't like hot weather. Between Barranquilla and Calgary, you should visit Calgary.", 'answer': 'Calgary', 'candidate': 'Barranquilla'}
+{'statement': "You don't like hot weather. Between Piura and Brussels, you should visit Brussels.", 'answer': 'Brussels', 'candidate': 'Piura'}
+{'statement': "You don't like hot weather. Between Karachi and Melbourne, you should visit Melbourne.", 'answer': 'Melbourne', 'candidate': 'Karachi'}
+{'statement': "You don't like hot weather. Between Yaoundé and Minsk, you should visit Minsk.", 'answer': 'Minsk', 'candidate': 'Yaoundé'}
+{'statement': "You don't like hot weather. Between Mumbai and Lyon, you should visit Lyon.", 'answer': 'Lyon', 'candidate': 'Mumbai'}
+{'statement': "You don't like hot weather. Between Hat Yai and Belgrade, you should visit Belgrade.", 'answer': 'Belgrade', 'candidate': 'Hat Yai'}
+{'statement': "You don't like hot weather. Between Garoua and Omaha, you should visit Omaha.", 'answer': 'Omaha', 'candidate': 'Garoua'}
+{'statement': "You don't like hot weather. Between Bangui and Podgorica, you should visit Podgorica.", 'answer': 'Podgorica', 'candidate': 'Bangui'}
+{'statement': "You don't like hot weather. Between Caracas and Ushuaia, you should visit Ushuaia.", 'answer': 'Ushuaia', 'candidate': 'Caracas'}
+{'statement': "You don't like hot weather. Between Brasília and Zürich, you should visit Zürich.", 'answer': 'Zürich', 'candidate': 'Brasília'}
+{'statement': "You don't like hot weather. Between Douala and Johannesburg, you should visit Johannesburg.", 'answer': 'Johannesburg', 'candidate': 'Douala'}
+{'statement': "You don't like hot weather. Between Paramaribo and Ljubljana, you should visit Ljubljana.", 'answer': 'Ljubljana', 'candidate': 'Paramaribo'}
+{'statement': "You don't like hot weather. Between Pittsburgh and Murmansk, you should visit Murmansk.", 'answer': 'Murmansk', 'candidate': 'Pittsburgh'}
+{'statement': "You don't like hot weather. Between Nouakchott and Chicago, you should visit Chicago.", 'answer': 'Chicago', 'candidate': 'Nouakchott'}
+{'statement': "You don't like hot weather. Between Neuquén and Reykjavík, you should visit Reykjavík.", 'answer': 'Reykjavík', 'candidate': 'Neuquén'}
+{'statement': "You don't like hot weather. Between Ségou and Sacramento, you should visit Sacramento.", 'answer': 'Sacramento', 'candidate': 'Ségou'}
+{'statement': "You don't like hot weather. Between Riyadh and Toluca, you should visit Toluca.", 'answer': 'Toluca', 'candidate': 'Riyadh'}
+{'statement': "You don't like hot weather. Between Tucson and Saskatoon, you should visit Saskatoon.", 'answer': 'Saskatoon', 'candidate': 'Tucson'}
+{'statement': "You don't like hot weather. Between Lima and Ushuaia, you should visit Ushuaia.", 'answer': 'Ushuaia', 'candidate': 'Lima'}
+{'statement': "You don't like hot weather. Between Pontianak and Curitiba, you should visit Curitiba.", 'answer': 'Curitiba', 'candidate': 'Pontianak'}
+{'statement': "You don't like hot weather. Between Paramaribo and Cape Town, you should visit Cape Town.", 'answer': 'Cape Town', 'candidate': 'Paramaribo'}
+{'statement': "You don't like hot weather. Between Managua and Melbourne, you should visit Melbourne.", 'answer': 'Melbourne', 'candidate': 'Managua'}
+{'statement': "You don't like hot weather. Between Hat Yai and Sacramento, you should visit Sacramento.", 'answer': 'Sacramento', 'candidate': 'Hat Yai'}
+{'statement': "You don't like hot weather. Between Hat Yai and Neuquén, you should visit Neuquén.", 'answer': 'Neuquén', 'candidate': 'Hat Yai'}
+{'statement': "You don't like hot weather. Between Jakarta and Fairbanks, you should visit Fairbanks.", 'answer': 'Fairbanks', 'candidate': 'Jakarta'}
+{'statement': "You don't like hot weather. Between Darwin and Rome, you should visit Rome.", 'answer': 'Rome', 'candidate': 'Darwin'}
+{'statement': "You don't like hot weather. Between Luanda and Oslo, you should visit Oslo.", 'answer': 'Oslo', 'candidate': 'Luanda'}
+{'statement': "You don't like hot weather. Between Hanoi and Vienna, you should visit Vienna.", 'answer': 'Vienna', 'candidate': 'Hanoi'}
+{'statement': "You don't like hot weather. Between Makassar and Belgrade, you should visit Belgrade.", 'answer': 'Belgrade', 'candidate': 'Makassar'}
+{'statement': "You don't like hot weather. Between Lima and Irkutsk, you should visit Irkutsk.", 'answer': 'Irkutsk', 'candidate': 'Lima'}
+{'statement': "You don't like hot weather. Between Ouahigouya and Ottawa, you should visit Ottawa.", 'answer': 'Ottawa', 'candidate': 'Ouahigouya'}
+{'statement': "You don't like hot weather. Between Managua and Toronto, you should visit Toronto.", 'answer': 'Toronto', 'candidate': 'Managua'}
+{'statement': "You don't like hot weather. Between Palermo and Irkutsk, you should visit Irkutsk.", 'answer': 'Irkutsk', 'candidate': 'Palermo'}
+{'statement': "You don't like hot weather. Between Aden and Palermo, you should visit Palermo.", 'answer': 'Palermo', 'candidate': 'Aden'}
+{'statement': "You don't like hot weather. Between Willemstad and Santiago, you should visit Santiago.", 'answer': 'Santiago', 'candidate': 'Willemstad'}
+{'statement': "You don't like hot weather. Between San José and Boise, you should visit Boise.", 'answer': 'Boise', 'candidate': 'San José'}
+{'statement': "You don't like hot weather. Between San José and Amsterdam, you should visit Amsterdam.", 'answer': 'Amsterdam', 'candidate': 'San José'}
+{'statement': "You don't like hot weather. Between Dodoma and Yinchuan, you should visit Yinchuan.", 'answer': 'Yinchuan', 'candidate': 'Dodoma'}
+{'statement': "You don't like hot weather. Between Mexico City and Halifax, you should visit Halifax.", 'answer': 'Halifax', 'candidate': 'Mexico City'}
+{'statement': "You don't like hot weather. Between Medellín and Suwałki, you should visit Suwałki.", 'answer': 'Suwałki', 'candidate': 'Medellín'}
+{'statement': "You don't like hot weather. Between Villahermosa and Minneapolis, you should visit Minneapolis.", 'answer': 'Minneapolis', 'candidate': 'Villahermosa'}
+{'statement': "You don't like hot weather. Between Nakhon Ratchasima and Zagreb, you should visit Zagreb.", 'answer': 'Zagreb', 'candidate': 'Nakhon Ratchasima'}
+{'statement': "You don't like hot weather. Between Kampala and Río Gallegos, you should visit Río Gallegos.", 'answer': 'Río Gallegos', 'candidate': 'Kampala'}
+{'statement': "You don't like hot weather. Between Conakry and Milwaukee, you should visit Milwaukee.", 'answer': 'Milwaukee', 'candidate': 'Conakry'}
+{'statement': "You don't like hot weather. Between Lake Havasu City and Vienna, you should visit Vienna.", 'answer': 'Vienna', 'candidate': 'Lake Havasu City'}
+{'statement': "You don't like hot weather. Between Aden and Calgary, you should visit Calgary.", 'answer': 'Calgary', 'candidate': 'Aden'}
+{'statement': "You don't like hot weather. Between Beirut and Bratislava, you should visit Bratislava.", 'answer': 'Bratislava', 'candidate': 'Beirut'}
+{'statement': "You don't like hot weather. Between Bata and Ulaanbaatar, you should visit Ulaanbaatar.", 'answer': 'Ulaanbaatar', 'candidate': 'Bata'}
+{'statement': "You don't like hot weather. Between Garoua and Johannesburg, you should visit Johannesburg.", 'answer': 'Johannesburg', 'candidate': 'Garoua'}
+{'statement': "You don't like hot weather. Between Makurdi and Rome, you should visit Rome.", 'answer': 'Rome', 'candidate': 'Makurdi'}
+{'statement': "You don't like hot weather. Between Port Sudan and Oslo, you should visit Oslo.", 'answer': 'Oslo', 'candidate': 'Port Sudan'}
+{'statement': "You don't like hot weather. Between Muscat and Novosibirsk, you should visit Novosibirsk.", 'answer': 'Novosibirsk', 'candidate': 'Muscat'}
+{'statement': "You don't like hot weather. Between Sokoto and Beijing, you should visit Beijing.", 'answer': 'Beijing', 'candidate': 'Sokoto'}
+{'statement': "You don't like hot weather. Between Jakarta and Bahía Blanca, you should visit Bahía Blanca.", 'answer': 'Bahía Blanca', 'candidate': 'Jakarta'}
+{'statement': "You don't like hot weather. Between Toliara and Ushuaia, you should visit Ushuaia.", 'answer': 'Ushuaia', 'candidate': 'Toliara'}
+{'statement': "You don't like hot weather. Between Brisbane and Murmansk, you should visit Murmansk.", 'answer': 'Murmansk', 'candidate': 'Brisbane'}
+{'statement': "You don't like hot weather. Between Bata and Amsterdam, you should visit Amsterdam.", 'answer': 'Amsterdam', 'candidate': 'Bata'}
+{'statement': "You don't like hot weather. Between Yaoundé and Baltimore, you should visit Baltimore.", 'answer': 'Baltimore', 'candidate': 'Yaoundé'}
+{'statement': "You don't like hot weather. Between Maputo and Vladivostok, you should visit Vladivostok.", 'answer': 'Vladivostok', 'candidate': 'Maputo'}
+{'statement': "You don't like hot weather. Between Toliara and Erzurum, you should visit Erzurum.", 'answer': 'Erzurum', 'candidate': 'Toliara'}
+{'statement': "You don't like hot weather. Between San Salvador and Lhasa, you should visit Lhasa.", 'answer': 'Lhasa', 'candidate': 'San Salvador'}
+{'statement': "You don't like hot weather. Between Maputo and Saskatoon, you should visit Saskatoon.", 'answer': 'Saskatoon', 'candidate': 'Maputo'}
+{'statement': "You don't like hot weather. Between Manaus and Albuquerque, you should visit Albuquerque.", 'answer': 'Albuquerque', 'candidate': 'Manaus'}
+{'statement': "You don't like hot weather. Between Djibouti and Palmerston North, you should visit Palmerston North.", 'answer': 'Palmerston North', 'candidate': 'Djibouti'}
+{'statement': "You don't like hot weather. Between Upington and Moscow, you should visit Moscow.", 'answer': 'Moscow', 'candidate': 'Upington'}
+{'statement': "You don't like hot weather. Between Auckland and Anchorage, you should visit Anchorage.", 'answer': 'Anchorage', 'candidate': 'Auckland'}
+{'statement': "You don't like hot weather. Between Djibouti and Irkutsk, you should visit Irkutsk.", 'answer': 'Irkutsk', 'candidate': 'Djibouti'}
+{'statement': "You don't like hot weather. Between Willemstad and Podgorica, you should visit Podgorica.", 'answer': 'Podgorica', 'candidate': 'Willemstad'}
+{'statement': "You don't like hot weather. Between Lahore and Kabul, you should visit Kabul.", 'answer': 'Kabul', 'candidate': 'Lahore'}
+{'statement': "You don't like hot weather. Between La Paz and Christchurch, you should visit Christchurch.", 'answer': 'Christchurch', 'candidate': 'La Paz'}
+{'statement': "You don't like hot weather. Between Denpasar and Fairbanks, you should visit Fairbanks.", 'answer': 'Fairbanks', 'candidate': 'Denpasar'}
+{'statement': "You don't like hot weather. Between Tabora and Yinchuan, you should visit Yinchuan.", 'answer': 'Yinchuan', 'candidate': 'Tabora'}
+{'statement': "You don't like hot weather. Between Rabat and Ulaanbaatar, you should visit Ulaanbaatar.", 'answer': 'Ulaanbaatar', 'candidate': 'Rabat'}
+{'statement': "You don't like hot weather. Between Phoenix and Oslo, you should visit Oslo.", 'answer': 'Oslo', 'candidate': 'Phoenix'}
+{'statement': "You don't like hot weather. Between Djibouti and Beijing, you should visit Beijing.", 'answer': 'Beijing', 'candidate': 'Djibouti'}
+{'statement': "You don't like hot weather. Between Jakarta and Irkutsk, you should visit Irkutsk.", 'answer': 'Irkutsk', 'candidate': 'Jakarta'}
+{'statement': "You don't like hot weather. Between Medellín and Toronto, you should visit Toronto.", 'answer': 'Toronto', 'candidate': 'Medellín'}
+{'statement': "You don't like hot weather. Between Paramaribo and Suwałki, you should visit Suwałki.", 'answer': 'Suwałki', 'candidate': 'Paramaribo'}
+{'statement': "You don't like hot weather. Between Ouahigouya and Moscow, you should visit Moscow.", 'answer': 'Moscow', 'candidate': 'Ouahigouya'}
+{'statement': "You don't like hot weather. Between Gabès and Ushuaia, you should visit Ushuaia.", 'answer': 'Ushuaia', 'candidate': 'Gabès'}
+{'statement': "You don't like hot weather. Between Beijing and Anchorage, you should visit Anchorage.", 'answer': 'Anchorage', 'candidate': 'Beijing'}
+{'statement': "You don't like hot weather. Between Tucson and Ürümqi, you should visit Ürümqi.", 'answer': 'Ürümqi', 'candidate': 'Tucson'}
+{'statement': "You don't like hot weather. Between Phnom Penh and Nur-Sultan, you should visit Nur-Sultan.", 'answer': 'Nur-Sultan', 'candidate': 'Phnom Penh'}
+{'statement': "You don't like hot weather. Between Phnom Penh and Río Gallegos, you should visit Río Gallegos.", 'answer': 'Río Gallegos', 'candidate': 'Phnom Penh'}
+{'statement': "You don't like hot weather. Between Mombasa and Bergen, you should visit Bergen.", 'answer': 'Bergen', 'candidate': 'Mombasa'}
+{'statement': "You don't like hot weather. Between Djibouti and Bishkek, you should visit Bishkek.", 'answer': 'Bishkek', 'candidate': 'Djibouti'}
+{'statement': "You don't like hot weather. Between Phnom Penh and Cape Town, you should visit Cape Town.", 'answer': 'Cape Town', 'candidate': 'Phnom Penh'}
+{'statement': "You don't like hot weather. Between Surabaya and Antofagasta, you should visit Antofagasta.", 'answer': 'Antofagasta', 'candidate': 'Surabaya'}
+{'statement': "You don't like hot weather. Between Rangpur and Moscow, you should visit Moscow.", 'answer': 'Moscow', 'candidate': 'Rangpur'}
+{'statement': "You don't like hot weather. Between San Juan and Melbourne, you should visit Melbourne.", 'answer': 'Melbourne', 'candidate': 'San Juan'}
+{'statement': "You don't like hot weather. Between Beirut and Calgary, you should visit Calgary.", 'answer': 'Calgary', 'candidate': 'Beirut'}
+{'statement': "You don't like hot weather. Between Kuwait City and Beijing, you should visit Beijing.", 'answer': 'Beijing', 'candidate': 'Kuwait City'}
+{'statement': "You don't like hot weather. Between Kuwait City and Anchorage, you should visit Anchorage.", 'answer': 'Anchorage', 'candidate': 'Kuwait City'}
+{'statement': "You don't like hot weather. Between San Juan and Copenhagen, you should visit Copenhagen.", 'answer': 'Copenhagen', 'candidate': 'San Juan'}
+{'statement': "You don't like hot weather. Between Luanda and Lviv, you should visit Lviv.", 'answer': 'Lviv', 'candidate': 'Luanda'}
+{'statement': "You don't like hot weather. Between Lake Havasu City and Dublin, you should visit Dublin.", 'answer': 'Dublin', 'candidate': 'Lake Havasu City'}
+{'statement': "You don't like hot weather. Between Honolulu and Napier, you should visit Napier.", 'answer': 'Napier', 'candidate': 'Honolulu'}
+{'statement': "You don't like hot weather. Between Barranquilla and Zürich, you should visit Zürich.", 'answer': 'Zürich', 'candidate': 'Barranquilla'}
+{'statement': "You don't like hot weather. Between San Juan and Asmara, you should visit Asmara.", 'answer': 'Asmara', 'candidate': 'San Juan'}
+{'statement': "You don't like hot weather. Between Beirut and Chicago, you should visit Chicago.", 'answer': 'Chicago', 'candidate': 'Beirut'}
+{'statement': "You don't like hot weather. Between Antsiranana and Novosibirsk, you should visit Novosibirsk.", 'answer': 'Novosibirsk', 'candidate': 'Antsiranana'}
+{'statement': "You don't like hot weather. Between Honolulu and Tirana, you should visit Tirana.", 'answer': 'Tirana', 'candidate': 'Honolulu'}
+{'statement': "You don't like hot weather. Between Muscat and Omaha, you should visit Omaha.", 'answer': 'Omaha', 'candidate': 'Muscat'}
+{'statement': "You don't like hot weather. Between Muscat and Sydney, you should visit Sydney.", 'answer': 'Sydney', 'candidate': 'Muscat'}
+{'statement': "You don't like hot weather. Between Porto Alegre and Moscow, you should visit Moscow.", 'answer': 'Moscow', 'candidate': 'Porto Alegre'}
+{'statement': "You don't like hot weather. Between Bangui and Ürümqi, you should visit Ürümqi.", 'answer': 'Ürümqi', 'candidate': 'Bangui'}
+{'statement': "You don't like hot weather. Between Ho Chi Minh City and Saskatoon, you should visit Saskatoon.", 'answer': 'Saskatoon', 'candidate': 'Ho Chi Minh City'}
+{'statement': "You don't like hot weather. Between Niamey and Santiago, you should visit Santiago.", 'answer': 'Santiago', 'candidate': 'Niamey'}
+{'statement': "You don't like hot weather. Between Piura and Toluca, you should visit Toluca.", 'answer': 'Toluca', 'candidate': 'Piura'}
+{'statement': "You don't like hot weather. Between Goiânia and Ljubljana, you should visit Ljubljana.", 'answer': 'Ljubljana', 'candidate': 'Goiânia'}
+{'statement': "You don't like hot weather. Between Toamasina and Indianapolis, you should visit Indianapolis.", 'answer': 'Indianapolis', 'candidate': 'Toamasina'}
+{'statement': "You don't like hot weather. Between Port Sudan and Calgary, you should visit Calgary.", 'answer': 'Calgary', 'candidate': 'Port Sudan'}
+{'statement': "You don't like hot weather. Between Lomé and Palmerston North, you should visit Palmerston North.", 'answer': 'Palmerston North', 'candidate': 'Lomé'}
+{'statement': "You don't like hot weather. Between Alexandria and Zürich, you should visit Zürich.", 'answer': 'Zürich', 'candidate': 'Alexandria'}
+{'statement': "You don't like hot weather. Between Beirut and Berlin, you should visit Berlin.", 'answer': 'Berlin', 'candidate': 'Beirut'}
+{'statement': "You don't like hot weather. Between Lagos and Skopje, you should visit Skopje.", 'answer': 'Skopje', 'candidate': 'Lagos'}
+{'statement': "You don't like hot weather. Between Mombasa and Asmara, you should visit Asmara.", 'answer': 'Asmara', 'candidate': 'Mombasa'}
+{'statement': "You don't like hot weather. Between Melbourne and Reykjavík, you should visit Reykjavík.", 'answer': 'Reykjavík', 'candidate': 'Melbourne'}
+{'statement': "You don't like hot weather. Between Pontianak and Chicago, you should visit Chicago.", 'answer': 'Chicago', 'candidate': 'Pontianak'}
+{'statement': "You don't like hot weather. Between Douala and Zürich, you should visit Zürich.", 'answer': 'Zürich', 'candidate': 'Douala'}
+{'statement': "You don't like hot weather. Between Mexico City and Saint Petersburg, you should visit Saint Petersburg.", 'answer': 'Saint Petersburg', 'candidate': 'Mexico City'}
+{'statement': "You don't like hot weather. Between Hanoi and Minneapolis, you should visit Minneapolis.", 'answer': 'Minneapolis', 'candidate': 'Hanoi'}
+{'statement': "You don't like hot weather. Between Villahermosa and Beijing, you should visit Beijing.", 'answer': 'Beijing', 'candidate': 'Villahermosa'}
+{'statement': "You don't like hot weather. Between Harare and Bergen, you should visit Bergen.", 'answer': 'Bergen', 'candidate': 'Harare'}
+{'statement': "You don't like hot weather. Between Panama City and Sydney, you should visit Sydney.", 'answer': 'Sydney', 'candidate': 'Panama City'}
+{'statement': "You don't like hot weather. Between Durban and Fairbanks, you should visit Fairbanks.", 'answer': 'Fairbanks', 'candidate': 'Durban'}
+{'statement': "You don't like hot weather. Between Lahore and Beijing, you should visit Beijing.", 'answer': 'Beijing', 'candidate': 'Lahore'}
+{'statement': "You don't like hot weather. Between Malabo and Christchurch, you should visit Christchurch.", 'answer': 'Christchurch', 'candidate': 'Malabo'}
+{'statement': "You don't like hot weather. Between Mexico City and Vladivostok, you should visit Vladivostok.", 'answer': 'Vladivostok', 'candidate': 'Mexico City'}
+{'statement': "You don't like hot weather. Between Bujumbura and Pittsburgh, you should visit Pittsburgh.", 'answer': 'Pittsburgh', 'candidate': 'Bujumbura'}
+{'statement': "You don't like hot weather. Between Karachi and Christchurch, you should visit Christchurch.", 'answer': 'Christchurch', 'candidate': 'Karachi'}
+{'statement': "You don't like hot weather. Between Mahajanga and Chicago, you should visit Chicago.", 'answer': 'Chicago', 'candidate': 'Mahajanga'}
+{'statement': "You don't like hot weather. Between Juba and Ljubljana, you should visit Ljubljana.", 'answer': 'Ljubljana', 'candidate': 'Juba'}
+{'statement': "You don't like hot weather. Between Lagos and Rome, you should visit Rome.", 'answer': 'Rome', 'candidate': 'Lagos'}
+{'statement': "You don't like hot weather. Between Managua and Copenhagen, you should visit Copenhagen.", 'answer': 'Copenhagen', 'candidate': 'Managua'}
+{'statement': "You don't like hot weather. Between Villahermosa and Lviv, you should visit Lviv.", 'answer': 'Lviv', 'candidate': 'Villahermosa'}
+{'statement': "You don't like hot weather. Between Port Sudan and Fairbanks, you should visit Fairbanks.", 'answer': 'Fairbanks', 'candidate': 'Port Sudan'}
+{'statement': "You don't like hot weather. Between Barranquilla and Novosibirsk, you should visit Novosibirsk.", 'answer': 'Novosibirsk', 'candidate': 'Barranquilla'}
+{'statement': "You don't like hot weather. Between Pontianak and Copenhagen, you should visit Copenhagen.", 'answer': 'Copenhagen', 'candidate': 'Pontianak'}
+{'statement': "You don't like hot weather. Between Honolulu and Erzurum, you should visit Erzurum.", 'answer': 'Erzurum', 'candidate': 'Honolulu'}
+{'statement': "You don't like hot weather. Between Ho Chi Minh City and Frankfurt, you should visit Frankfurt.", 'answer': 'Frankfurt', 'candidate': 'Ho Chi Minh City'}
+{'statement': "You don't like hot weather. Between Managua and Cape Town, you should visit Cape Town.", 'answer': 'Cape Town', 'candidate': 'Managua'}
+{'statement': "You don't like hot weather. Between La Paz and Skopje, you should visit Skopje.", 'answer': 'Skopje', 'candidate': 'La Paz'}
+{'statement': "You don't like hot weather. Between Nouakchott and Fairbanks, you should visit Fairbanks.", 'answer': 'Fairbanks', 'candidate': 'Nouakchott'}
+{'statement': "You don't like hot weather. Between Dodoma and Ljubljana, you should visit Ljubljana.", 'answer': 'Ljubljana', 'candidate': 'Dodoma'}
+{'statement': "You don't like hot weather. Between Surabaya and Hobart, you should visit Hobart.", 'answer': 'Hobart', 'candidate': 'Surabaya'}
+{'statement': "You don't like hot weather. Between Rangpur and Chicago, you should visit Chicago.", 'answer': 'Chicago', 'candidate': 'Rangpur'}
+{'statement': "You don't like hot weather. Between Abéché and San Diego, you should visit San Diego.", 'answer': 'San Diego', 'candidate': 'Abéché'}
+{'statement': "You don't like hot weather. Between Bujumbura and Dublin, you should visit Dublin.", 'answer': 'Dublin', 'candidate': 'Bujumbura'}
+{'statement': "You don't like hot weather. Between San Salvador and Ljubljana, you should visit Ljubljana.", 'answer': 'Ljubljana', 'candidate': 'San Salvador'}
+{'statement': "You don't like hot weather. Between Niamey and Toluca, you should visit Toluca.", 'answer': 'Toluca', 'candidate': 'Niamey'}
+{'statement': "You don't like hot weather. Between La Paz and Chicago, you should visit Chicago.", 'answer': 'Chicago', 'candidate': 'La Paz'}
+{'statement': "You don't like hot weather. Between Valencia and Halifax, you should visit Halifax.", 'answer': 'Halifax', 'candidate': 'Valencia'}
+{'statement': "You don't like hot weather. Between Panama City and Fukuoka, you should visit Fukuoka.", 'answer': 'Fukuoka', 'candidate': 'Panama City'}
+{'statement': "You don't like hot weather. Between San Juan and Kansas City, you should visit Kansas City.", 'answer': 'Kansas City', 'candidate': 'San Juan'}
+{'statement': "You don't like hot weather. Between Mombasa and Denver, you should visit Denver.", 'answer': 'Denver', 'candidate': 'Mombasa'}
+{'statement': "You don't like hot weather. Between Medellín and Almaty, you should visit Almaty.", 'answer': 'Almaty', 'candidate': 'Medellín'}
+{'statement': "You don't like hot weather. Between Makurdi and Zagreb, you should visit Zagreb.", 'answer': 'Zagreb', 'candidate': 'Makurdi'}
+{'statement': "You don't like hot weather. Between Bangkok and Buenos Aires, you should visit Buenos Aires.", 'answer': 'Buenos Aires', 'candidate': 'Bangkok'}
+{'statement': "You don't like hot weather. Between Toluca and Ulaanbaatar, you should visit Ulaanbaatar.", 'answer': 'Ulaanbaatar', 'candidate': 'Toluca'}
+{'statement': "You don't like hot weather. Between Bucharest and Murmansk, you should visit Murmansk.", 'answer': 'Murmansk', 'candidate': 'Bucharest'}
+{'statement': "You don't like hot weather. Between Hanoi and Kansas City, you should visit Kansas City.", 'answer': 'Kansas City', 'candidate': 'Hanoi'}
+{'statement': "You don't like hot weather. Between Wau and Zagreb, you should visit Zagreb.", 'answer': 'Zagreb', 'candidate': 'Wau'}
+{'statement': "You don't like hot weather. Between Tabora and Yakutsk, you should visit Yakutsk.", 'answer': 'Yakutsk', 'candidate': 'Tabora'}
+{'statement': "You don't like hot weather. Between Valencia and Reykjavík, you should visit Reykjavík.", 'answer': 'Reykjavík', 'candidate': 'Valencia'}
+{'statement': "You don't like hot weather. Between Mandalay and Canberra, you should visit Canberra.", 'answer': 'Canberra', 'candidate': 'Mandalay'}
+{'statement': "You don't like hot weather. Between Luanda and Toronto, you should visit Toronto.", 'answer': 'Toronto', 'candidate': 'Luanda'}
+{'statement': "You don't like hot weather. Between Belize City and Addis Ababa, you should visit Addis Ababa.", 'answer': 'Addis Ababa', 'candidate': 'Belize City'}
+{'statement': "You don't like hot weather. Between Tauranga and Anchorage, you should visit Anchorage.", 'answer': 'Anchorage', 'candidate': 'Tauranga'}
+{'statement': "You don't like hot weather. Between Medellín and Ljubljana, you should visit Ljubljana.", 'answer': 'Ljubljana', 'candidate': 'Medellín'}
+{'statement': "You don't like hot weather. Between Willemstad and Wellington, you should visit Wellington.", 'answer': 'Wellington', 'candidate': 'Willemstad'}
+{'statement': "You don't like hot weather. Between Niamey and Almaty, you should visit Almaty.", 'answer': 'Almaty', 'candidate': 'Niamey'}
+{'statement': "You don't like hot weather. Between Malabo and Palmerston North, you should visit Palmerston North.", 'answer': 'Palmerston North', 'candidate': 'Malabo'}
+{'statement': "You don't like hot weather. Between Makassar and Shanghai, you should visit Shanghai.", 'answer': 'Shanghai', 'candidate': 'Makassar'}
+{'statement': "You don't like hot weather. Between Kingston and Halifax, you should visit Halifax.", 'answer': 'Halifax', 'candidate': 'Kingston'}
+{'statement': "You don't like hot weather. Between Phoenix and Omaha, you should visit Omaha.", 'answer': 'Omaha', 'candidate': 'Phoenix'}
+{'statement': "You don't like hot weather. Between Denpasar and Vladivostok, you should visit Vladivostok.", 'answer': 'Vladivostok', 'candidate': 'Denpasar'}
+{'statement': "You don't like hot weather. Between Tabora and Frankfurt, you should visit Frankfurt.", 'answer': 'Frankfurt', 'candidate': 'Tabora'}
+{'statement': "You don't like hot weather. Between Toamasina and Canberra, you should visit Canberra.", 'answer': 'Canberra', 'candidate': 'Toamasina'}
+{'statement': "You don't like hot weather. Between Mombasa and Reykjavík, you should visit Reykjavík.", 'answer': 'Reykjavík', 'candidate': 'Mombasa'}
+{'statement': "You don't like hot weather. Between Niamey and Hobart, you should visit Hobart.", 'answer': 'Hobart', 'candidate': 'Niamey'}
+{'statement': "You don't like hot weather. Between Caracas and Milwaukee, you should visit Milwaukee.", 'answer': 'Milwaukee', 'candidate': 'Caracas'}
+{'statement': "You don't like hot weather. Between Surabaya and Campos do Jordão, you should visit Campos do Jordão.", 'answer': 'Campos do Jordão', 'candidate': 'Surabaya'}
+{'statement': "You don't like hot weather. Between Sokoto and Halifax, you should visit Halifax.", 'answer': 'Halifax', 'candidate': 'Sokoto'}
+{'statement': "You don't like hot weather. Between Ouahigouya and Suwałki, you should visit Suwałki.", 'answer': 'Suwałki', 'candidate': 'Ouahigouya'}
+{'statement': "You don't like hot weather. Between San José and Novosibirsk, you should visit Novosibirsk.", 'answer': 'Novosibirsk', 'candidate': 'San José'}
+{'statement': "You don't like hot weather. Between Douala and Lhasa, you should visit Lhasa.", 'answer': 'Lhasa', 'candidate': 'Douala'}

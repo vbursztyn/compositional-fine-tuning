@@ -1,0 +1,200 @@
+{'statement': "I'm looking for restaurants nearby. Between Amaya Express and Hina Sushi, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'Hina Sushi'}
+{'statement': "I'm looking for restaurants nearby. Between Tortería San Cosme and Falafel House, I should go to Tortería San Cosme.", 'answer': 'Tortería San Cosme', 'candidate': 'Falafel House'}
+{'statement': "I'm looking for restaurants nearby. Between Domino's Pizza and Pho 88, I should go to Pho 88.", 'answer': 'Pho 88', 'candidate': "Domino's Pizza"}
+{'statement': "I'm looking for restaurants nearby. Between Domino's Pizza and Thai 4 You Restaurant, I should go to Thai 4 You Restaurant.", 'answer': 'Thai 4 You Restaurant', 'candidate': "Domino's Pizza"}
+{'statement': "I'm looking for restaurants nearby. Between Branca and Nutella Cafe by Pusateri's, I should go to Branca.", 'answer': 'Branca', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "I'm looking for restaurants nearby. Between Topham Corner and Pasta Pantry, I should go to Pasta Pantry.", 'answer': 'Pasta Pantry', 'candidate': 'Topham Corner'}
+{'statement': "I'm looking for restaurants nearby. Between Tian An Cuisine and St. Clair Shawarma and Falafel, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I'm looking for restaurants nearby. Between Eggspectation and El Fogón, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between Viccino Pizzeria and Milestones Restaurants, I should go to Milestones Restaurants.", 'answer': 'Milestones Restaurants', 'candidate': 'Viccino Pizzeria'}
+{'statement': "I'm looking for restaurants nearby. Between Aroma Espresso Bar and Sheriff Broaster Chicken, I should go to Sheriff Broaster Chicken.", 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Aroma Espresso Bar'}
+{'statement': "I'm looking for restaurants nearby. Between Sushi Time Japanese Restaurant and Tik Talk Cafe, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': 'Sushi Time Japanese Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Supermodel Pizza and Falafel House, I should go to Supermodel Pizza.", 'answer': 'Supermodel Pizza', 'candidate': 'Falafel House'}
+{'statement': "I'm looking for restaurants nearby. Between FreshCo and Freshii, I should go to FreshCo.", 'answer': 'FreshCo', 'candidate': 'Freshii'}
+{'statement': "I'm looking for restaurants nearby. Between Fitness Avenue and Watson's, I should go to Watson's.", 'answer': "Watson's", 'candidate': 'Fitness Avenue'}
+{'statement': "I'm looking for restaurants nearby. Between The Duke of Devon and Eggspectation, I should go to The Duke of Devon.", 'answer': 'The Duke of Devon', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between Anatolia Restaurant and Amaya Express, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'Anatolia Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Grappa Ristorante and Scaddabush Italian Kitchen & Bar, I should go to Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Grappa Ristorante'}
+{'statement': "I'm looking for restaurants nearby. Between Sichuan Landscape Chinese Restaurant and Ciao Europa wine bar, I should go to Sichuan Landscape Chinese Restaurant.", 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'Ciao Europa wine bar'}
+{'statement': "I'm looking for restaurants nearby. Between Ciao Europa wine bar and Sushi Shop, I should go to Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': 'Ciao Europa wine bar'}
+{'statement': "I'm looking for restaurants nearby. Between Freshii and Sushi Shop, I should go to Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': 'Freshii'}
+{'statement': "I'm looking for restaurants nearby. Between Sweet Jesus and The Coffee Pocket, I should go to Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': 'The Coffee Pocket'}
+{'statement': "I'm looking for restaurants nearby. Between Sushi Shop and Big Al's Diner, I should go to Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': "Big Al's Diner"}
+{'statement': "I'm looking for restaurants nearby. Between Watson's and Mi Mi Restaurant, I should go to Watson's.", 'answer': "Watson's", 'candidate': 'Mi Mi Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Harvey's and Basha Middle Eastern Grill, I should go to Basha Middle Eastern Grill.", 'answer': 'Basha Middle Eastern Grill', 'candidate': "Harvey's"}
+{'statement': "I'm looking for restaurants nearby. Between Dinah's Cupboard and Beryl's Pepper Pot, I should go to Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': "Beryl's Pepper Pot"}
+{'statement': "I'm looking for restaurants nearby. Between Tian An Cuisine and Chick Fiesta, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': 'Chick Fiesta'}
+{'statement': "I'm looking for restaurants nearby. Between Fitness Avenue and La Pupusa Loka, I should go to La Pupusa Loka.", 'answer': 'La Pupusa Loka', 'candidate': 'Fitness Avenue'}
+{'statement': "I'm looking for restaurants nearby. Between z-teca Gourmet Burritos and Tian An Cuisine, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I'm looking for restaurants nearby. Between Kim PO Vietnamese and Carole's Cheesecake Cafe, I should go to Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': "I'm looking for restaurants nearby. Between Grappa Ristorante and Pasta Pantry, I should go to Pasta Pantry.", 'answer': 'Pasta Pantry', 'candidate': 'Grappa Ristorante'}
+{'statement': "I'm looking for restaurants nearby. Between La Pupusa Loka and Cafe Jules, I should go to La Pupusa Loka.", 'answer': 'La Pupusa Loka', 'candidate': 'Cafe Jules'}
+{'statement': "I'm looking for restaurants nearby. Between Madras Pantry and Sizzlers, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': 'Sizzlers'}
+{'statement': "I'm looking for restaurants nearby. Between Aris Place and Tian An Cuisine, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': 'Aris Place'}
+{'statement': "I'm looking for restaurants nearby. Between Big Al's Diner and Basil Express Restaurant, I should go to Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': "Big Al's Diner"}
+{'statement': "I'm looking for restaurants nearby. Between Smoke's Weinerie and Sushi Shop, I should go to Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': "Smoke's Weinerie"}
+{'statement': "I'm looking for restaurants nearby. Between 9 Restaurant and Nutella Cafe by Pusateri's, I should go to 9 Restaurant.", 'answer': '9 Restaurant', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "I'm looking for restaurants nearby. Between Pizza Pizza and Cantine Bar & Grill, I should go to Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': 'Pizza Pizza'}
+{'statement': "I'm looking for restaurants nearby. Between Cantine Bar & Grill and Pho 88, I should go to Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': 'Pho 88'}
+{'statement': "I'm looking for restaurants nearby. Between Evoo Ristorante and Queen Pita, I should go to Evoo Ristorante.", 'answer': 'Evoo Ristorante', 'candidate': 'Queen Pita'}
+{'statement': "I'm looking for restaurants nearby. Between Mt Everest Restaurant and Chick Fiesta, I should go to Chick Fiesta.", 'answer': 'Chick Fiesta', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Fit For Life and Capitol Trattoria Pizzeria, I should go to Fit For Life.", 'answer': 'Fit For Life', 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': "I'm looking for restaurants nearby. Between Shawarma Twist and Basha Middle Eastern Grill, I should go to Basha Middle Eastern Grill.", 'answer': 'Basha Middle Eastern Grill', 'candidate': 'Shawarma Twist'}
+{'statement': "I'm looking for restaurants nearby. Between Grappa Ristorante and Tian An Cuisine, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': 'Grappa Ristorante'}
+{'statement': "I'm looking for restaurants nearby. Between Verona Restaurant and Kairali - Taste of Kerala, I should go to Kairali - Taste of Kerala.", 'answer': 'Kairali - Taste of Kerala', 'candidate': 'Verona Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Popeyes Louisiana Kitchen and Eggspectation, I should go to Popeyes Louisiana Kitchen.", 'answer': 'Popeyes Louisiana Kitchen', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between Freshii and Oxygen Restaurant & Lounge, I should go to Oxygen Restaurant & Lounge.", 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Freshii'}
+{'statement': "I'm looking for restaurants nearby. Between Freshii and Popeyes Louisiana Kitchen, I should go to Popeyes Louisiana Kitchen.", 'answer': 'Popeyes Louisiana Kitchen', 'candidate': 'Freshii'}
+{'statement': "I'm looking for restaurants nearby. Between McDonald's and Galata Cafe, I should go to McDonald's.", 'answer': "McDonald's", 'candidate': 'Galata Cafe'}
+{'statement': "I'm looking for restaurants nearby. Between Thompson Rooftop and Fit For Life, I should go to Fit For Life.", 'answer': 'Fit For Life', 'candidate': 'Thompson Rooftop'}
+{'statement': "I'm looking for restaurants nearby. Between Kim PO Vietnamese and Sweet Jesus, I should go to Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': 'Sweet Jesus'}
+{'statement': "I'm looking for restaurants nearby. Between Pho 88 and Tian An Cuisine, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': 'Pho 88'}
+{'statement': "I'm looking for restaurants nearby. Between Phil's Original BBQ and Watson's, I should go to Watson's.", 'answer': "Watson's", 'candidate': "Phil's Original BBQ"}
+{'statement': "I'm looking for restaurants nearby. Between JJ Bean and Tortería San Cosme, I should go to Tortería San Cosme.", 'answer': 'Tortería San Cosme', 'candidate': 'JJ Bean'}
+{'statement': "I'm looking for restaurants nearby. Between Ciao Europa wine bar and Kim PO Vietnamese, I should go to Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': 'Ciao Europa wine bar'}
+{'statement': "I'm looking for restaurants nearby. Between Supermodel Pizza and Edible Arrangements, I should go to Supermodel Pizza.", 'answer': 'Supermodel Pizza', 'candidate': 'Edible Arrangements'}
+{'statement': "I'm looking for restaurants nearby. Between Pizzeria Via Mercanti and Sweet Jesus, I should go to Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "I'm looking for restaurants nearby. Between Shawarma Twist and Sheriff Broaster Chicken, I should go to Sheriff Broaster Chicken.", 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Shawarma Twist'}
+{'statement': "I'm looking for restaurants nearby. Between JJ Bean and Pisco 1641, I should go to Pisco 1641.", 'answer': 'Pisco 1641', 'candidate': 'JJ Bean'}
+{'statement': "I'm looking for restaurants nearby. Between Adega Restaurante and Just Soups Take Out & Catering, I should go to Just Soups Take Out & Catering.", 'answer': 'Just Soups Take Out & Catering', 'candidate': 'Adega Restaurante'}
+{'statement': "I'm looking for restaurants nearby. Between LCBO and Basil Express Restaurant, I should go to Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': 'LCBO'}
+{'statement': "I'm looking for restaurants nearby. Between Just Soups Take Out & Catering and Roncy's Bean, I should go to Just Soups Take Out & Catering.", 'answer': 'Just Soups Take Out & Catering', 'candidate': "Roncy's Bean"}
+{'statement': "I'm looking for restaurants nearby. Between Amaya Express and Pizzeria Via Mercanti, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "I'm looking for restaurants nearby. Between Itamae Ayce Sushi and Eggspectation, I should go to Itamae Ayce Sushi.", 'answer': 'Itamae Ayce Sushi', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between Adega Restaurante and Tik Talk Cafe, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': 'Adega Restaurante'}
+{'statement': "I'm looking for restaurants nearby. Between Pizzeria Via Mercanti and Milo's Pita, I should go to Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "I'm looking for restaurants nearby. Between Cafe Jules and Supermodel Pizza, I should go to Supermodel Pizza.", 'answer': 'Supermodel Pizza', 'candidate': 'Cafe Jules'}
+{'statement': "I'm looking for restaurants nearby. Between Domino's Pizza and Chipotle Mexican Grill, I should go to Chipotle Mexican Grill.", 'answer': 'Chipotle Mexican Grill', 'candidate': "Domino's Pizza"}
+{'statement': "I'm looking for restaurants nearby. Between Modo Mio Italian Bistro and Milestones Restaurants, I should go to Milestones Restaurants.", 'answer': 'Milestones Restaurants', 'candidate': 'Modo Mio Italian Bistro'}
+{'statement': "I'm looking for restaurants nearby. Between Madras Pantry and Hawthorne Food and Drink, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': "I'm looking for restaurants nearby. Between Just Soups Take Out & Catering and Phil's Original BBQ, I should go to Just Soups Take Out & Catering.", 'answer': 'Just Soups Take Out & Catering', 'candidate': "Phil's Original BBQ"}
+{'statement': "I'm looking for restaurants nearby. Between Farmacia Health Bar and Eggspectation, I should go to Farmacia Health Bar.", 'answer': 'Farmacia Health Bar', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between Ici Bistro and Lebanese Bakery, I should go to Lebanese Bakery.", 'answer': 'Lebanese Bakery', 'candidate': 'Ici Bistro'}
+{'statement': "I'm looking for restaurants nearby. Between Sushi World and Pizzeria Via Mercanti, I should go to Sushi World.", 'answer': 'Sushi World', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "I'm looking for restaurants nearby. Between Queen Slice and Cantine Bar & Grill, I should go to Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': 'Queen Slice'}
+{'statement': "I'm looking for restaurants nearby. Between Galata Cafe and Madras Pantry, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': 'Galata Cafe'}
+{'statement': "I'm looking for restaurants nearby. Between Pizzeria Via Mercanti and Kim PO Vietnamese, I should go to Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "I'm looking for restaurants nearby. Between z-teca Gourmet Burritos and Tortería San Cosme, I should go to Tortería San Cosme.", 'answer': 'Tortería San Cosme', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I'm looking for restaurants nearby. Between Tik Talk Cafe and Ici Bistro, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': 'Ici Bistro'}
+{'statement': "I'm looking for restaurants nearby. Between Chipotle Mexican Grill and Eggspectation, I should go to Chipotle Mexican Grill.", 'answer': 'Chipotle Mexican Grill', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between St. Clair Shawarma and Falafel and Sichuan Landscape Chinese Restaurant, I should go to Sichuan Landscape Chinese Restaurant.", 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I'm looking for restaurants nearby. Between Kibo Sushi House and Eggspectation, I should go to Kibo Sushi House.", 'answer': 'Kibo Sushi House', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between Nook and Supermodel Pizza, I should go to Supermodel Pizza.", 'answer': 'Supermodel Pizza', 'candidate': 'Nook'}
+{'statement': "I'm looking for restaurants nearby. Between Nutella Cafe by Pusateri's and Amaya Express, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "I'm looking for restaurants nearby. Between Joe Badali's Ristorante Italiano & Bar and Mamma's Pizza, I should go to Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': "I'm looking for restaurants nearby. Between Ici Bistro and Chick Fiesta, I should go to Chick Fiesta.", 'answer': 'Chick Fiesta', 'candidate': 'Ici Bistro'}
+{'statement': "I'm looking for restaurants nearby. Between Verona Restaurant and La Pupusa Loka, I should go to La Pupusa Loka.", 'answer': 'La Pupusa Loka', 'candidate': 'Verona Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Marcello’s pizzeria and The Coffee Pocket, I should go to Marcello’s pizzeria.", 'answer': 'Marcello’s pizzeria', 'candidate': 'The Coffee Pocket'}
+{'statement': "I'm looking for restaurants nearby. Between The Empire and Big Al's Diner, I should go to The Empire.", 'answer': 'The Empire', 'candidate': "Big Al's Diner"}
+{'statement': "I'm looking for restaurants nearby. Between Cafe Jules and Delicious Paradise Kitchen, I should go to Delicious Paradise Kitchen.", 'answer': 'Delicious Paradise Kitchen', 'candidate': 'Cafe Jules'}
+{'statement': "I'm looking for restaurants nearby. Between Smoke's Weinerie and Bao Bao Plus Dim Sum, I should go to Bao Bao Plus Dim Sum.", 'answer': 'Bao Bao Plus Dim Sum', 'candidate': "Smoke's Weinerie"}
+{'statement': "I'm looking for restaurants nearby. Between It's All Grk and Hina Sushi, I should go to It's All Grk.", 'answer': "It's All Grk", 'candidate': 'Hina Sushi'}
+{'statement': "I'm looking for restaurants nearby. Between St. Clair Shawarma and Falafel and Daily Press Juicery, I should go to Daily Press Juicery.", 'answer': 'Daily Press Juicery', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I'm looking for restaurants nearby. Between Fitness Avenue and Paradise Farms Prime Beef Bistro, I should go to Paradise Farms Prime Beef Bistro.", 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': 'Fitness Avenue'}
+{'statement': "I'm looking for restaurants nearby. Between Freshii and Sweet Jesus, I should go to Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': 'Freshii'}
+{'statement': "I'm looking for restaurants nearby. Between Modo Mio Italian Bistro and St. Louis Bar & Grill, I should go to St. Louis Bar & Grill.", 'answer': 'St. Louis Bar & Grill', 'candidate': 'Modo Mio Italian Bistro'}
+{'statement': "I'm looking for restaurants nearby. Between Sheriff Broaster Chicken and Galata Cafe, I should go to Sheriff Broaster Chicken.", 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Galata Cafe'}
+{'statement': "I'm looking for restaurants nearby. Between Hina Sushi and El Fogón, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': 'Hina Sushi'}
+{'statement': "I'm looking for restaurants nearby. Between Banjara Indian Cuisine and Chipotle Mexican Grill, I should go to Chipotle Mexican Grill.", 'answer': 'Chipotle Mexican Grill', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': "I'm looking for restaurants nearby. Between Solero Mediterranean Bakery and Nutella Cafe by Pusateri's, I should go to Solero Mediterranean Bakery.", 'answer': 'Solero Mediterranean Bakery', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "I'm looking for restaurants nearby. Between Warung Indonesia D'Eglinton and Queen Slice, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Queen Slice'}
+{'statement': "I'm looking for restaurants nearby. Between Aris Place and Breakfast Room, I should go to Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': 'Aris Place'}
+{'statement': "I'm looking for restaurants nearby. Between Lebanese Bakery and Mt Everest Restaurant, I should go to Lebanese Bakery.", 'answer': 'Lebanese Bakery', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Piper's Pub And Grill and Beryl's Pepper Pot, I should go to Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': "Beryl's Pepper Pot"}
+{'statement': "I'm looking for restaurants nearby. Between Tortería San Cosme and Green Room, I should go to Tortería San Cosme.", 'answer': 'Tortería San Cosme', 'candidate': 'Green Room'}
+{'statement': "I'm looking for restaurants nearby. Between La Pupusa Loka and Eggspectation, I should go to La Pupusa Loka.", 'answer': 'La Pupusa Loka', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between New Bilan Restaurant and Basha Middle Eastern Grill, I should go to Basha Middle Eastern Grill.", 'answer': 'Basha Middle Eastern Grill', 'candidate': 'New Bilan Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Le Papillon Park and Eggspectation, I should go to Le Papillon Park.", 'answer': 'Le Papillon Park', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between Topham Corner and Fit For Life, I should go to Fit For Life.", 'answer': 'Fit For Life', 'candidate': 'Topham Corner'}
+{'statement': "I'm looking for restaurants nearby. Between Maurya East Indian Roti and Cafe Jules, I should go to Maurya East Indian Roti.", 'answer': 'Maurya East Indian Roti', 'candidate': 'Cafe Jules'}
+{'statement': "I'm looking for restaurants nearby. Between Ici Bistro and It's All Grk, I should go to It's All Grk.", 'answer': "It's All Grk", 'candidate': 'Ici Bistro'}
+{'statement': "I'm looking for restaurants nearby. Between Big Al's Diner and Druxy's Famous Deli, I should go to Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': "Big Al's Diner"}
+{'statement': "I'm looking for restaurants nearby. Between Watson's and Big Al's Diner, I should go to Watson's.", 'answer': "Watson's", 'candidate': "Big Al's Diner"}
+{'statement': "I'm looking for restaurants nearby. Between Smoke's Weinerie and Fit For Life, I should go to Fit For Life.", 'answer': 'Fit For Life', 'candidate': "Smoke's Weinerie"}
+{'statement': "I'm looking for restaurants nearby. Between The Empire and Helena's Magic Kitchen, I should go to The Empire.", 'answer': 'The Empire', 'candidate': "Helena's Magic Kitchen"}
+{'statement': "I'm looking for restaurants nearby. Between Domino's Pizza and Paradise Farms Prime Beef Bistro, I should go to Paradise Farms Prime Beef Bistro.", 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': "Domino's Pizza"}
+{'statement': "I'm looking for restaurants nearby. Between Shawarma Twist and Mysteriously Yours Dinner Theatre, I should go to Mysteriously Yours Dinner Theatre.", 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': 'Shawarma Twist'}
+{'statement': "I'm looking for restaurants nearby. Between Carole's Cheesecake Cafe and Lahore Grill & Fast Food, I should go to Lahore Grill & Fast Food.", 'answer': 'Lahore Grill & Fast Food', 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': "I'm looking for restaurants nearby. Between Madras Pantry and Milestones Restaurants, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': 'Milestones Restaurants'}
+{'statement': "I'm looking for restaurants nearby. Between EJ Sushi and Milo's Pita, I should go to Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'EJ Sushi'}
+{'statement': "I'm looking for restaurants nearby. Between Oxygen Restaurant & Lounge and Piper's Pub And Grill, I should go to Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': "I'm looking for restaurants nearby. Between Kim PO Vietnamese and Tierra Azteca, I should go to Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': 'Tierra Azteca'}
+{'statement': "I'm looking for restaurants nearby. Between Thompson Rooftop and Warung Indonesia D'Eglinton, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Thompson Rooftop'}
+{'statement': "I'm looking for restaurants nearby. Between Pasta Pantry and Tik Talk Cafe, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': 'Pasta Pantry'}
+{'statement': "I'm looking for restaurants nearby. Between Shawarma Twist and Tik Talk Cafe, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': 'Shawarma Twist'}
+{'statement': "I'm looking for restaurants nearby. Between Lahore Grill & Fast Food and Taste of Greek Cuisine, I should go to Lahore Grill & Fast Food.", 'answer': 'Lahore Grill & Fast Food', 'candidate': 'Taste of Greek Cuisine'}
+{'statement': "I'm looking for restaurants nearby. Between Harvey's and Madras Pantry, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': "Harvey's"}
+{'statement': "I'm looking for restaurants nearby. Between Tik Talk Cafe and Eggspectation, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between 9 Restaurant and Madras Pantry, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': '9 Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Ciao Europa wine bar and Basha Middle Eastern Grill, I should go to Basha Middle Eastern Grill.", 'answer': 'Basha Middle Eastern Grill', 'candidate': 'Ciao Europa wine bar'}
+{'statement': "I'm looking for restaurants nearby. Between Milestones Restaurants and Cafe Jules, I should go to Milestones Restaurants.", 'answer': 'Milestones Restaurants', 'candidate': 'Cafe Jules'}
+{'statement': "I'm looking for restaurants nearby. Between Aris Place and Supermodel Pizza, I should go to Supermodel Pizza.", 'answer': 'Supermodel Pizza', 'candidate': 'Aris Place'}
+{'statement': "I'm looking for restaurants nearby. Between Mamma's Pizza and Thompson Rooftop, I should go to Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'Thompson Rooftop'}
+{'statement': "I'm looking for restaurants nearby. Between Green Room and Sushi Shop, I should go to Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': 'Green Room'}
+{'statement': "I'm looking for restaurants nearby. Between Smoke's Weinerie and Amaya Express, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': "Smoke's Weinerie"}
+{'statement': "I'm looking for restaurants nearby. Between Mysteriously Yours Dinner Theatre and Bagel Nash, I should go to Mysteriously Yours Dinner Theatre.", 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': 'Bagel Nash'}
+{'statement': "I'm looking for restaurants nearby. Between Nutella Cafe by Pusateri's and It's All Grk, I should go to It's All Grk.", 'answer': "It's All Grk", 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "I'm looking for restaurants nearby. Between Bonne Journee and Aroma Espresso Bar, I should go to Aroma Espresso Bar.", 'answer': 'Aroma Espresso Bar', 'candidate': 'Bonne Journee'}
+{'statement': "I'm looking for restaurants nearby. Between Tian An Cuisine and Edible Arrangements, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': 'Edible Arrangements'}
+{'statement': "I'm looking for restaurants nearby. Between Bagel Nash and Goldstone Noodle Restaurant, I should go to Goldstone Noodle Restaurant.", 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'Bagel Nash'}
+{'statement': "I'm looking for restaurants nearby. Between Sushi Shop and Verona Restaurant, I should go to Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': 'Verona Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Eggspectation and Mövenpick Café, I should go to Mövenpick Café.", 'answer': 'Mövenpick Café', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between Milo's Pita and Cake Opera, I should go to Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Cake Opera'}
+{'statement': "I'm looking for restaurants nearby. Between Freshii and St. Louis Bar & Grill, I should go to St. Louis Bar & Grill.", 'answer': 'St. Louis Bar & Grill', 'candidate': 'Freshii'}
+{'statement': "I'm looking for restaurants nearby. Between Eastern legend and The Coffee Pocket, I should go to Eastern legend.", 'answer': 'Eastern legend', 'candidate': 'The Coffee Pocket'}
+{'statement': "I'm looking for restaurants nearby. Between 9 Restaurant and New Bilan Restaurant, I should go to 9 Restaurant.", 'answer': '9 Restaurant', 'candidate': 'New Bilan Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between The Coffee Pocket and Harry's Char Broil & Dining Lounge, I should go to Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'The Coffee Pocket'}
+{'statement': "I'm looking for restaurants nearby. Between Hina Sushi and LCBO, I should go to LCBO.", 'answer': 'LCBO', 'candidate': 'Hina Sushi'}
+{'statement': "I'm looking for restaurants nearby. Between Mt Everest Restaurant and Kibo Sushi House, I should go to Kibo Sushi House.", 'answer': 'Kibo Sushi House', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Breakfast Room and McDonald's, I should go to Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': "McDonald's"}
+{'statement': "I'm looking for restaurants nearby. Between Juice & Java Cafe and Aroma Espresso Bar, I should go to Juice & Java Cafe.", 'answer': 'Juice & Java Cafe', 'candidate': 'Aroma Espresso Bar'}
+{'statement': "I'm looking for restaurants nearby. Between Kim PO Vietnamese and Eggspectation, I should go to Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between Galata Cafe and Basil Express Restaurant, I should go to Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': 'Galata Cafe'}
+{'statement': "I'm looking for restaurants nearby. Between Cantine Bar & Grill and Freshii, I should go to Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': 'Freshii'}
+{'statement': "I'm looking for restaurants nearby. Between Ardor Bistro and Warung Indonesia D'Eglinton, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Ardor Bistro'}
+{'statement': "I'm looking for restaurants nearby. Between Cantine Bar & Grill and Falafel House, I should go to Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': 'Falafel House'}
+{'statement': "I'm looking for restaurants nearby. Between Tortería San Cosme and Smoke's Weinerie, I should go to Tortería San Cosme.", 'answer': 'Tortería San Cosme', 'candidate': "Smoke's Weinerie"}
+{'statement': "I'm looking for restaurants nearby. Between Solero Mediterranean Bakery and z-teca Gourmet Burritos, I should go to Solero Mediterranean Bakery.", 'answer': 'Solero Mediterranean Bakery', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I'm looking for restaurants nearby. Between LCBO and Kairali - Taste of Kerala, I should go to Kairali - Taste of Kerala.", 'answer': 'Kairali - Taste of Kerala', 'candidate': 'LCBO'}
+{'statement': "I'm looking for restaurants nearby. Between Hapa Toronto and z-teca Gourmet Burritos, I should go to Hapa Toronto.", 'answer': 'Hapa Toronto', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I'm looking for restaurants nearby. Between Bagel Nash and Green Grotto, I should go to Green Grotto.", 'answer': 'Green Grotto', 'candidate': 'Bagel Nash'}
+{'statement': "I'm looking for restaurants nearby. Between McDonald's and Cafe Jules, I should go to McDonald's.", 'answer': "McDonald's", 'candidate': 'Cafe Jules'}
+{'statement': "I'm looking for restaurants nearby. Between El Fogón and Beryl's Pepper Pot, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': "Beryl's Pepper Pot"}
+{'statement': "I'm looking for restaurants nearby. Between Basil Express Restaurant and Hina Sushi, I should go to Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': 'Hina Sushi'}
+{'statement': "I'm looking for restaurants nearby. Between Maurya East Indian Roti and Falafel House, I should go to Maurya East Indian Roti.", 'answer': 'Maurya East Indian Roti', 'candidate': 'Falafel House'}
+{'statement': "I'm looking for restaurants nearby. Between Eggspectation and Tian An Cuisine, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between FreshCo and Pisco 1641, I should go to Pisco 1641.", 'answer': 'Pisco 1641', 'candidate': 'FreshCo'}
+{'statement': "I'm looking for restaurants nearby. Between Fitness Avenue and Milestones Restaurants, I should go to Milestones Restaurants.", 'answer': 'Milestones Restaurants', 'candidate': 'Fitness Avenue'}
+{'statement': "I'm looking for restaurants nearby. Between Kibo Sushi House and LCBO, I should go to Kibo Sushi House.", 'answer': 'Kibo Sushi House', 'candidate': 'LCBO'}
+{'statement': "I'm looking for restaurants nearby. Between Adega Restaurante and Madras Pantry, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': 'Adega Restaurante'}
+{'statement': "I'm looking for restaurants nearby. Between FreshCo and Amaya Express, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'FreshCo'}
+{'statement': "I'm looking for restaurants nearby. Between Farmacia Health Bar and Domino's Pizza, I should go to Farmacia Health Bar.", 'answer': 'Farmacia Health Bar', 'candidate': "Domino's Pizza"}
+{'statement': "I'm looking for restaurants nearby. Between Phil's Original BBQ and Goldstone Noodle Restaurant, I should go to Goldstone Noodle Restaurant.", 'answer': 'Goldstone Noodle Restaurant', 'candidate': "Phil's Original BBQ"}
+{'statement': "I'm looking for restaurants nearby. Between Sky Dragon Chinese Restaurant and Mirage Grill & Lounge, I should go to Sky Dragon Chinese Restaurant.", 'answer': 'Sky Dragon Chinese Restaurant', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': "I'm looking for restaurants nearby. Between St. Louis Bar & Grill and Eastern legend, I should go to St. Louis Bar & Grill.", 'answer': 'St. Louis Bar & Grill', 'candidate': 'Eastern legend'}
+{'statement': "I'm looking for restaurants nearby. Between Popeyes Louisiana Kitchen and Bonne Journee, I should go to Popeyes Louisiana Kitchen.", 'answer': 'Popeyes Louisiana Kitchen', 'candidate': 'Bonne Journee'}
+{'statement': "I'm looking for restaurants nearby. Between Solero Mediterranean Bakery and Eggspectation, I should go to Solero Mediterranean Bakery.", 'answer': 'Solero Mediterranean Bakery', 'candidate': 'Eggspectation'}
+{'statement': "I'm looking for restaurants nearby. Between Cake Opera and Sushi Shop, I should go to Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': 'Cake Opera'}
+{'statement': "I'm looking for restaurants nearby. Between Hawthorne Food and Drink and Fit For Life, I should go to Fit For Life.", 'answer': 'Fit For Life', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': "I'm looking for restaurants nearby. Between New Bilan Restaurant and Milestones Restaurants, I should go to Milestones Restaurants.", 'answer': 'Milestones Restaurants', 'candidate': 'New Bilan Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between St. Clair Shawarma and Falafel and Ardor Bistro, I should go to Ardor Bistro.", 'answer': 'Ardor Bistro', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I'm looking for restaurants nearby. Between Big Al's Diner and Pisco 1641, I should go to Pisco 1641.", 'answer': 'Pisco 1641', 'candidate': "Big Al's Diner"}
+{'statement': "I'm looking for restaurants nearby. Between Hapa Toronto and Magic Oven, I should go to Hapa Toronto.", 'answer': 'Hapa Toronto', 'candidate': 'Magic Oven'}
+{'statement': "I'm looking for restaurants nearby. Between Hina Sushi and Tim Hortons, I should go to Tim Hortons.", 'answer': 'Tim Hortons', 'candidate': 'Hina Sushi'}
+{'statement': "I'm looking for restaurants nearby. Between Breakfast Room and Mövenpick Café, I should go to Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': 'Mövenpick Café'}
+{'statement': "I'm looking for restaurants nearby. Between Watson's and z-teca Gourmet Burritos, I should go to Watson's.", 'answer': "Watson's", 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I'm looking for restaurants nearby. Between Villa Madina and Hina Sushi, I should go to Villa Madina.", 'answer': 'Villa Madina', 'candidate': 'Hina Sushi'}
+{'statement': "I'm looking for restaurants nearby. Between Paradise Farms Prime Beef Bistro and Beryl's Pepper Pot, I should go to Paradise Farms Prime Beef Bistro.", 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': "Beryl's Pepper Pot"}
+{'statement': "I'm looking for restaurants nearby. Between Mi Mi Restaurant and Piper's Pub And Grill, I should go to Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Mi Mi Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Grappa Ristorante and KFC, I should go to KFC.", 'answer': 'KFC', 'candidate': 'Grappa Ristorante'}
+{'statement': "I'm looking for restaurants nearby. Between Tian An Cuisine and 9 Restaurant, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': '9 Restaurant'}
+{'statement': "I'm looking for restaurants nearby. Between Hawthorne Food and Drink and The Empire, I should go to The Empire.", 'answer': 'The Empire', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': "I'm looking for restaurants nearby. Between Hina Sushi and Dangerous Dan's Diner, I should go to Dangerous Dan's Diner.", 'answer': "Dangerous Dan's Diner", 'candidate': 'Hina Sushi'}
+{'statement': "I'm looking for restaurants nearby. Between Piper's Pub And Grill and FreshCo, I should go to Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'FreshCo'}
+{'statement': "I'm looking for restaurants nearby. Between Supermodel Pizza and Grappa Ristorante, I should go to Supermodel Pizza.", 'answer': 'Supermodel Pizza', 'candidate': 'Grappa Ristorante'}
+{'statement': "I'm looking for restaurants nearby. Between Assembly Chef's Hall and The Duke of Devon, I should go to The Duke of Devon.", 'answer': 'The Duke of Devon', 'candidate': "Assembly Chef's Hall"}
+{'statement': "I'm looking for restaurants nearby. Between Bagel Nash and Thai 4 You Restaurant, I should go to Thai 4 You Restaurant.", 'answer': 'Thai 4 You Restaurant', 'candidate': 'Bagel Nash'}
+{'statement': "I'm looking for restaurants nearby. Between Druxy's Famous Deli and Mysteriously Yours Dinner Theatre, I should go to Mysteriously Yours Dinner Theatre.", 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': "Druxy's Famous Deli"}
+{'statement': "I'm looking for restaurants nearby. Between Bake Island and Juice & Java Cafe, I should go to Juice & Java Cafe.", 'answer': 'Juice & Java Cafe', 'candidate': 'Bake Island'}
+{'statement': "I'm looking for restaurants nearby. Between Phil's Original BBQ and Breakfast Room, I should go to Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': "Phil's Original BBQ"}
+{'statement': "I'm looking for restaurants nearby. Between Le Papillon Park and New Bilan Restaurant, I should go to Le Papillon Park.", 'answer': 'Le Papillon Park', 'candidate': 'New Bilan Restaurant'}

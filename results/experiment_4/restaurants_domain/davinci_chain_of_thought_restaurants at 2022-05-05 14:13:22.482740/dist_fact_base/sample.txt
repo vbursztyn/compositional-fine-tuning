@@ -1,0 +1,100 @@
+{'statement': 'Between Thai 4 You Restaurant and Queen Slice, the restaurant at a smaller distance is Thai 4 You Restaurant.', 'answer': 'Thai 4 You Restaurant', 'candidate': 'Queen Slice'}
+{'statement': 'Between Tortería San Cosme and Modo Mio Italian Bistro, the restaurant at a smaller distance is Tortería San Cosme.', 'answer': 'Tortería San Cosme', 'candidate': 'Modo Mio Italian Bistro'}
+{'statement': 'Between Falafel House and La Cocina De Dona Luz, the restaurant at a smaller distance is La Cocina De Dona Luz.', 'answer': 'La Cocina De Dona Luz', 'candidate': 'Falafel House'}
+{'statement': 'Between Goldstone Noodle Restaurant and Topham Corner, the restaurant at a smaller distance is Goldstone Noodle Restaurant.', 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'Topham Corner'}
+{'statement': 'Between To-ne Sushi and Chick Fiesta, the restaurant at a smaller distance is Chick Fiesta.', 'answer': 'Chick Fiesta', 'candidate': 'To-ne Sushi'}
+{'statement': "Between Falafel Hut Village and Roncy's Bean, the restaurant at a smaller distance is Falafel Hut Village.", 'answer': 'Falafel Hut Village', 'candidate': "Roncy's Bean"}
+{'statement': 'Between St. Louis Bar & Grill and Marcello’s pizzeria, the restaurant at a smaller distance is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Marcello’s pizzeria'}
+{'statement': 'Between Tian An Cuisine and The Coffee Pocket, the restaurant at a smaller distance is Tian An Cuisine.', 'answer': 'Tian An Cuisine', 'candidate': 'The Coffee Pocket'}
+{'statement': 'Between Edible Arrangements and Fit For Life, the restaurant at a smaller distance is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'Edible Arrangements'}
+{'statement': 'Between Capitol Trattoria Pizzeria and Sheriff Broaster Chicken, the restaurant at a smaller distance is Sheriff Broaster Chicken.', 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': "Between Just Soups Take Out & Catering and Assembly Chef's Hall, the restaurant at a smaller distance is Just Soups Take Out & Catering.", 'answer': 'Just Soups Take Out & Catering', 'candidate': "Assembly Chef's Hall"}
+{'statement': "Between Eggspectation and It's All Grk, the restaurant at a smaller distance is It's All Grk.", 'answer': "It's All Grk", 'candidate': 'Eggspectation'}
+{'statement': 'Between Bao Bao Plus Dim Sum and Kibo Sushi House, the restaurant at a smaller distance is Kibo Sushi House.', 'answer': 'Kibo Sushi House', 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': "Between Smoke's Weinerie and Dinah's Cupboard, the restaurant at a smaller distance is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': "Smoke's Weinerie"}
+{'statement': "Between Kairali - Taste of Kerala and Helena's Magic Kitchen, the restaurant at a smaller distance is Kairali - Taste of Kerala.", 'answer': 'Kairali - Taste of Kerala', 'candidate': "Helena's Magic Kitchen"}
+{'statement': 'Between Evoo Ristorante and Pizzeria Via Mercanti, the restaurant at a smaller distance is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': 'Between New Bilan Restaurant and Just Soups Take Out & Catering, the restaurant at a smaller distance is Just Soups Take Out & Catering.', 'answer': 'Just Soups Take Out & Catering', 'candidate': 'New Bilan Restaurant'}
+{'statement': "Between Harry's Char Broil & Dining Lounge and Shawarma Twist, the restaurant at a smaller distance is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Shawarma Twist'}
+{'statement': 'Between Banjara Indian Cuisine and St. Louis Bar & Grill, the restaurant at a smaller distance is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': 'Between Buk Chang Dong Soon Tofu and To-ne Sushi, the restaurant at a smaller distance is Buk Chang Dong Soon Tofu.', 'answer': 'Buk Chang Dong Soon Tofu', 'candidate': 'To-ne Sushi'}
+{'statement': 'Between Juice & Java Cafe and Mi Mi Restaurant, the restaurant at a smaller distance is Juice & Java Cafe.', 'answer': 'Juice & Java Cafe', 'candidate': 'Mi Mi Restaurant'}
+{'statement': "Between To-ne Sushi and It's All Grk, the restaurant at a smaller distance is It's All Grk.", 'answer': "It's All Grk", 'candidate': 'To-ne Sushi'}
+{'statement': 'Between Tian An Cuisine and Falafel House, the restaurant at a smaller distance is Tian An Cuisine.', 'answer': 'Tian An Cuisine', 'candidate': 'Falafel House'}
+{'statement': "Between Mamma's Pizza and Fitness Avenue, the restaurant at a smaller distance is Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'Fitness Avenue'}
+{'statement': 'Between Kairali - Taste of Kerala and Adega Restaurante, the restaurant at a smaller distance is Kairali - Taste of Kerala.', 'answer': 'Kairali - Taste of Kerala', 'candidate': 'Adega Restaurante'}
+{'statement': 'Between Eastern legend and Bonne Journee, the restaurant at a smaller distance is Eastern legend.', 'answer': 'Eastern legend', 'candidate': 'Bonne Journee'}
+{'statement': "Between It's All Grk and Bagel Nash, the restaurant at a smaller distance is It's All Grk.", 'answer': "It's All Grk", 'candidate': 'Bagel Nash'}
+{'statement': 'Between Tian An Cuisine and EJ Sushi, the restaurant at a smaller distance is Tian An Cuisine.', 'answer': 'Tian An Cuisine', 'candidate': 'EJ Sushi'}
+{'statement': "Between Assembly Chef's Hall and Amaya Express, the restaurant at a smaller distance is Amaya Express.", 'answer': 'Amaya Express', 'candidate': "Assembly Chef's Hall"}
+{'statement': 'Between Freshii and Lahore Grill & Fast Food, the restaurant at a smaller distance is Lahore Grill & Fast Food.', 'answer': 'Lahore Grill & Fast Food', 'candidate': 'Freshii'}
+{'statement': 'Between Aroma Espresso Bar and Madras Pantry, the restaurant at a smaller distance is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'Aroma Espresso Bar'}
+{'statement': 'Between Shawarma Twist and Branca, the restaurant at a smaller distance is Branca.', 'answer': 'Branca', 'candidate': 'Shawarma Twist'}
+{'statement': 'Between Top Sushi and Kairali - Taste of Kerala, the restaurant at a smaller distance is Kairali - Taste of Kerala.', 'answer': 'Kairali - Taste of Kerala', 'candidate': 'Top Sushi'}
+{'statement': 'Between Daily Press Juicery and Queen Pita, the restaurant at a smaller distance is Daily Press Juicery.', 'answer': 'Daily Press Juicery', 'candidate': 'Queen Pita'}
+{'statement': 'Between Basil Express Restaurant and Mirage Grill & Lounge, the restaurant at a smaller distance is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': 'Between Nook and 9 Restaurant, the restaurant at a smaller distance is 9 Restaurant.', 'answer': '9 Restaurant', 'candidate': 'Nook'}
+{'statement': 'Between Green Grotto and Tierra Azteca, the restaurant at a smaller distance is Green Grotto.', 'answer': 'Green Grotto', 'candidate': 'Tierra Azteca'}
+{'statement': "Between Warung Indonesia D'Eglinton and 9 Restaurant, the restaurant at a smaller distance is Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': '9 Restaurant'}
+{'statement': 'Between St. Louis Bar & Grill and Green Room, the restaurant at a smaller distance is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Green Room'}
+{'statement': "Between The Coffee Pocket and McDonald's, the restaurant at a smaller distance is McDonald's.", 'answer': "McDonald's", 'candidate': 'The Coffee Pocket'}
+{'statement': "Between Magic Oven and Piper's Pub And Grill, the restaurant at a smaller distance is Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Magic Oven'}
+{'statement': 'Between St. Louis Bar & Grill and Aroma Espresso Bar, the restaurant at a smaller distance is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Aroma Espresso Bar'}
+{'statement': 'Between Verona Restaurant and To-ne Sushi, the restaurant at a smaller distance is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'To-ne Sushi'}
+{'statement': "Between Assembly Chef's Hall and Bake Island, the restaurant at a smaller distance is Bake Island.", 'answer': 'Bake Island', 'candidate': "Assembly Chef's Hall"}
+{'statement': 'Between Daily Press Juicery and Shawarma Twist, the restaurant at a smaller distance is Daily Press Juicery.', 'answer': 'Daily Press Juicery', 'candidate': 'Shawarma Twist'}
+{'statement': "Between Falafel Hut Village and Smoke's Weinerie, the restaurant at a smaller distance is Falafel Hut Village.", 'answer': 'Falafel Hut Village', 'candidate': "Smoke's Weinerie"}
+{'statement': 'Between Ici Bistro and Scaddabush Italian Kitchen & Bar, the restaurant at a smaller distance is Scaddabush Italian Kitchen & Bar.', 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Ici Bistro'}
+{'statement': "Between Roncy's Bean and Maurya East Indian Roti, the restaurant at a smaller distance is Maurya East Indian Roti.", 'answer': 'Maurya East Indian Roti', 'candidate': "Roncy's Bean"}
+{'statement': 'Between St. Louis Bar & Grill and Edible Arrangements, the restaurant at a smaller distance is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Edible Arrangements'}
+{'statement': "Between Madras Pantry and Harvey's, the restaurant at a smaller distance is Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': "Harvey's"}
+{'statement': "Between Green Grotto and Assembly Chef's Hall, the restaurant at a smaller distance is Green Grotto.", 'answer': 'Green Grotto', 'candidate': "Assembly Chef's Hall"}
+{'statement': 'Between Tik Talk Cafe and Bonne Journee, the restaurant at a smaller distance is Tik Talk Cafe.', 'answer': 'Tik Talk Cafe', 'candidate': 'Bonne Journee'}
+{'statement': 'Between Hina Sushi and Daily Press Juicery, the restaurant at a smaller distance is Daily Press Juicery.', 'answer': 'Daily Press Juicery', 'candidate': 'Hina Sushi'}
+{'statement': 'Between New Bilan Restaurant and Tim Hortons, the restaurant at a smaller distance is Tim Hortons.', 'answer': 'Tim Hortons', 'candidate': 'New Bilan Restaurant'}
+{'statement': 'Between Scaddabush Italian Kitchen & Bar and Hina Sushi, the restaurant at a smaller distance is Scaddabush Italian Kitchen & Bar.', 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Hina Sushi'}
+{'statement': 'Between Topham Corner and Maurya East Indian Roti, the restaurant at a smaller distance is Maurya East Indian Roti.', 'answer': 'Maurya East Indian Roti', 'candidate': 'Topham Corner'}
+{'statement': 'Between Falafel Hut Village and Cafe Jules, the restaurant at a smaller distance is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'Cafe Jules'}
+{'statement': 'Between Mövenpick Café and Eggspectation, the restaurant at a smaller distance is Mövenpick Café.', 'answer': 'Mövenpick Café', 'candidate': 'Eggspectation'}
+{'statement': 'Between LCBO and Kim PO Vietnamese, the restaurant at a smaller distance is Kim PO Vietnamese.', 'answer': 'Kim PO Vietnamese', 'candidate': 'LCBO'}
+{'statement': "Between Smoke's Weinerie and Kim PO Vietnamese, the restaurant at a smaller distance is Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': "Smoke's Weinerie"}
+{'statement': 'Between Mt Everest Restaurant and Amaya Express, the restaurant at a smaller distance is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'Mt Everest Restaurant'}
+{'statement': 'Between KFC and Adega Restaurante, the restaurant at a smaller distance is KFC.', 'answer': 'KFC', 'candidate': 'Adega Restaurante'}
+{'statement': 'Between Magic Oven and Tian An Cuisine, the restaurant at a smaller distance is Tian An Cuisine.', 'answer': 'Tian An Cuisine', 'candidate': 'Magic Oven'}
+{'statement': 'Between Topham Corner and La Pupusa Loka, the restaurant at a smaller distance is La Pupusa Loka.', 'answer': 'La Pupusa Loka', 'candidate': 'Topham Corner'}
+{'statement': 'Between Hina Sushi and Tik Talk Cafe, the restaurant at a smaller distance is Tik Talk Cafe.', 'answer': 'Tik Talk Cafe', 'candidate': 'Hina Sushi'}
+{'statement': 'Between Tierra Azteca and KFC, the restaurant at a smaller distance is KFC.', 'answer': 'KFC', 'candidate': 'Tierra Azteca'}
+{'statement': 'Between Sheriff Broaster Chicken and Banjara Indian Cuisine, the restaurant at a smaller distance is Sheriff Broaster Chicken.', 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': "Between It's All Grk and Viccino Pizzeria, the restaurant at a smaller distance is It's All Grk.", 'answer': "It's All Grk", 'candidate': 'Viccino Pizzeria'}
+{'statement': "Between Pasta Pantry and Domino's Pizza, the restaurant at a smaller distance is Pasta Pantry.", 'answer': 'Pasta Pantry', 'candidate': "Domino's Pizza"}
+{'statement': "Between McDonald's and Hina Sushi, the restaurant at a smaller distance is McDonald's.", 'answer': "McDonald's", 'candidate': 'Hina Sushi'}
+{'statement': 'Between Fit For Life and 9 Restaurant, the restaurant at a smaller distance is Fit For Life.', 'answer': 'Fit For Life', 'candidate': '9 Restaurant'}
+{'statement': 'Between Taste of Greek Cuisine and Cafe Jules, the restaurant at a smaller distance is Taste of Greek Cuisine.', 'answer': 'Taste of Greek Cuisine', 'candidate': 'Cafe Jules'}
+{'statement': 'Between Basil Express Restaurant and To-ne Sushi, the restaurant at a smaller distance is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'To-ne Sushi'}
+{'statement': "Between Warung Indonesia D'Eglinton and Queen Slice, the restaurant at a smaller distance is Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Queen Slice'}
+{'statement': "Between Bao Bao Plus Dim Sum and Assembly Chef's Hall, the restaurant at a smaller distance is Bao Bao Plus Dim Sum.", 'answer': 'Bao Bao Plus Dim Sum', 'candidate': "Assembly Chef's Hall"}
+{'statement': "Between Aroma Espresso Bar and Big Al's Diner, the restaurant at a smaller distance is Aroma Espresso Bar.", 'answer': 'Aroma Espresso Bar', 'candidate': "Big Al's Diner"}
+{'statement': 'Between Cantine Bar & Grill and Banjara Indian Cuisine, the restaurant at a smaller distance is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': 'Between Pisco 1641 and Green Room, the restaurant at a smaller distance is Pisco 1641.', 'answer': 'Pisco 1641', 'candidate': 'Green Room'}
+{'statement': "Between St. Clair Shawarma and Falafel and McDonald's, the restaurant at a smaller distance is McDonald's.", 'answer': "McDonald's", 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "Between Goldstone Noodle Restaurant and Roncy's Bean, the restaurant at a smaller distance is Goldstone Noodle Restaurant.", 'answer': 'Goldstone Noodle Restaurant', 'candidate': "Roncy's Bean"}
+{'statement': 'Between Basha Middle Eastern Grill and Ciao Europa wine bar, the restaurant at a smaller distance is Basha Middle Eastern Grill.', 'answer': 'Basha Middle Eastern Grill', 'candidate': 'Ciao Europa wine bar'}
+{'statement': "Between Assembly Chef's Hall and McDonald's, the restaurant at a smaller distance is McDonald's.", 'answer': "McDonald's", 'candidate': "Assembly Chef's Hall"}
+{'statement': 'Between Daily Press Juicery and Adega Restaurante, the restaurant at a smaller distance is Daily Press Juicery.', 'answer': 'Daily Press Juicery', 'candidate': 'Adega Restaurante'}
+{'statement': "Between Chipotle Mexican Grill and Nutella Cafe by Pusateri's, the restaurant at a smaller distance is Chipotle Mexican Grill.", 'answer': 'Chipotle Mexican Grill', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between JJ Bean and Evoo Ristorante, the restaurant at a smaller distance is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'JJ Bean'}
+{'statement': 'Between Just Soups Take Out & Catering and Aris Place, the restaurant at a smaller distance is Just Soups Take Out & Catering.', 'answer': 'Just Soups Take Out & Catering', 'candidate': 'Aris Place'}
+{'statement': "Between Dinah's Cupboard and The Duke of Devon, the restaurant at a smaller distance is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'The Duke of Devon'}
+{'statement': 'Between Bagel Nash and Fit For Life, the restaurant at a smaller distance is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'Bagel Nash'}
+{'statement': "Between Capitol Trattoria Pizzeria and Dinah's Cupboard, the restaurant at a smaller distance is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': 'Between Ici Bistro and Tortería San Cosme, the restaurant at a smaller distance is Tortería San Cosme.', 'answer': 'Tortería San Cosme', 'candidate': 'Ici Bistro'}
+{'statement': 'Between Sizzlers and Lebanese Bakery, the restaurant at a smaller distance is Lebanese Bakery.', 'answer': 'Lebanese Bakery', 'candidate': 'Sizzlers'}
+{'statement': 'Between Evoo Ristorante and Ciao Europa wine bar, the restaurant at a smaller distance is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Ciao Europa wine bar'}
+{'statement': 'Between Evoo Ristorante and Edible Arrangements, the restaurant at a smaller distance is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Edible Arrangements'}
+{'statement': 'Between Bake Island and Capitol Trattoria Pizzeria, the restaurant at a smaller distance is Bake Island.', 'answer': 'Bake Island', 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': "Between St. Louis Bar & Grill and Nutella Cafe by Pusateri's, the restaurant at a smaller distance is St. Louis Bar & Grill.", 'answer': 'St. Louis Bar & Grill', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "Between Fitness Avenue and Piper's Pub And Grill, the restaurant at a smaller distance is Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Fitness Avenue'}
+{'statement': "Between Eggspectation and McDonald's, the restaurant at a smaller distance is McDonald's.", 'answer': "McDonald's", 'candidate': 'Eggspectation'}
+{'statement': "Between Domino's Pizza and Marcello’s pizzeria, the restaurant at a smaller distance is Marcello’s pizzeria.", 'answer': 'Marcello’s pizzeria', 'candidate': "Domino's Pizza"}
+{'statement': "Between Milo's Pita and Ciao Europa wine bar, the restaurant at a smaller distance is Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Ciao Europa wine bar'}
+{'statement': 'Between Freshii and Evoo Ristorante, the restaurant at a smaller distance is Evoo Ristorante.', 'answer': 'Evoo Ristorante', 'candidate': 'Freshii'}

@@ -1,0 +1,200 @@
+{'statement': 'Between Managua and Amsterdam, the city with colder weather is Amsterdam.', 'answer': 'Amsterdam', 'candidate': 'Managua'}
+{'statement': 'Between Bujumbura and London, the city with colder weather is London.', 'answer': 'London', 'candidate': 'Bujumbura'}
+{'statement': 'Between Nairobi and Minneapolis, the city with colder weather is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Nairobi'}
+{'statement': 'Between Karachi and Viedma, the city with colder weather is Viedma.', 'answer': 'Viedma', 'candidate': 'Karachi'}
+{'statement': 'Between Managua and Suwałki, the city with colder weather is Suwałki.', 'answer': 'Suwałki', 'candidate': 'Managua'}
+{'statement': 'Between Bangui and Viedma, the city with colder weather is Viedma.', 'answer': 'Viedma', 'candidate': 'Bangui'}
+{'statement': 'Between Bujumbura and Ulaanbaatar, the city with colder weather is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Bujumbura'}
+{'statement': 'Between Lisbon and Ushuaia, the city with colder weather is Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'Lisbon'}
+{'statement': 'Between Abéché and Milan, the city with colder weather is Milan.', 'answer': 'Milan', 'candidate': 'Abéché'}
+{'statement': 'Between Piura and Reykjavík, the city with colder weather is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Piura'}
+{'statement': 'Between Douala and Shanghai, the city with colder weather is Shanghai.', 'answer': 'Shanghai', 'candidate': 'Douala'}
+{'statement': 'Between Mumbai and Lviv, the city with colder weather is Lviv.', 'answer': 'Lviv', 'candidate': 'Mumbai'}
+{'statement': 'Between Djibouti and Toronto, the city with colder weather is Toronto.', 'answer': 'Toronto', 'candidate': 'Djibouti'}
+{'statement': 'Between Kano and Minneapolis, the city with colder weather is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Kano'}
+{'statement': 'Between Pontianak and Frankfurt, the city with colder weather is Frankfurt.', 'answer': 'Frankfurt', 'candidate': 'Pontianak'}
+{'statement': 'Between Tampa and Zagreb, the city with colder weather is Zagreb.', 'answer': 'Zagreb', 'candidate': 'Tampa'}
+{'statement': 'Between Aden and Dublin, the city with colder weather is Dublin.', 'answer': 'Dublin', 'candidate': 'Aden'}
+{'statement': 'Between Malabo and Beijing, the city with colder weather is Beijing.', 'answer': 'Beijing', 'candidate': 'Malabo'}
+{'statement': 'Between Brasília and Anchorage, the city with colder weather is Anchorage.', 'answer': 'Anchorage', 'candidate': 'Brasília'}
+{'statement': 'Between Manila and Dublin, the city with colder weather is Dublin.', 'answer': 'Dublin', 'candidate': 'Manila'}
+{'statement': 'Between Lagos and Murmansk, the city with colder weather is Murmansk.', 'answer': 'Murmansk', 'candidate': 'Lagos'}
+{'statement': 'Between Tripoli and Minneapolis, the city with colder weather is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Tripoli'}
+{'statement': 'Between Alexandria and Nur-Sultan, the city with colder weather is Nur-Sultan.', 'answer': 'Nur-Sultan', 'candidate': 'Alexandria'}
+{'statement': 'Between Aden and Vienna, the city with colder weather is Vienna.', 'answer': 'Vienna', 'candidate': 'Aden'}
+{'statement': 'Between Hat Yai and Toronto, the city with colder weather is Toronto.', 'answer': 'Toronto', 'candidate': 'Hat Yai'}
+{'statement': 'Between Port Sudan and Ulaanbaatar, the city with colder weather is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Port Sudan'}
+{'statement': 'Between Douala and Denver, the city with colder weather is Denver.', 'answer': 'Denver', 'candidate': 'Douala'}
+{'statement': 'Between Hat Yai and Vladivostok, the city with colder weather is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Hat Yai'}
+{'statement': 'Between Chicago and Ulaanbaatar, the city with colder weather is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Chicago'}
+{'statement': 'Between Nakhon Ratchasima and Kunming, the city with colder weather is Kunming.', 'answer': 'Kunming', 'candidate': 'Nakhon Ratchasima'}
+{'statement': 'Between Port-Gentil and Melbourne, the city with colder weather is Melbourne.', 'answer': 'Melbourne', 'candidate': 'Port-Gentil'}
+{'statement': 'Between Durban and Nur-Sultan, the city with colder weather is Nur-Sultan.', 'answer': 'Nur-Sultan', 'candidate': 'Durban'}
+{'statement': 'Between Hat Yai and Saskatoon, the city with colder weather is Saskatoon.', 'answer': 'Saskatoon', 'candidate': 'Hat Yai'}
+{'statement': 'Between Kano and Erzurum, the city with colder weather is Erzurum.', 'answer': 'Erzurum', 'candidate': 'Kano'}
+{'statement': 'Between Aden and Kabul, the city with colder weather is Kabul.', 'answer': 'Kabul', 'candidate': 'Aden'}
+{'statement': 'Between Villahermosa and Irkutsk, the city with colder weather is Irkutsk.', 'answer': 'Irkutsk', 'candidate': 'Villahermosa'}
+{'statement': 'Between Ndola and Suwałki, the city with colder weather is Suwałki.', 'answer': 'Suwałki', 'candidate': 'Ndola'}
+{'statement': 'Between Lomé and Toluca, the city with colder weather is Toluca.', 'answer': 'Toluca', 'candidate': 'Lomé'}
+{'statement': 'Between Tabora and Milwaukee, the city with colder weather is Milwaukee.', 'answer': 'Milwaukee', 'candidate': 'Tabora'}
+{'statement': 'Between San Juan and Tashkent, the city with colder weather is Tashkent.', 'answer': 'Tashkent', 'candidate': 'San Juan'}
+{'statement': 'Between Phnom Penh and Mexico City, the city with colder weather is Mexico City.', 'answer': 'Mexico City', 'candidate': 'Phnom Penh'}
+{'statement': 'Between Mumbai and Rome, the city with colder weather is Rome.', 'answer': 'Rome', 'candidate': 'Mumbai'}
+{'statement': 'Between Nakhon Ratchasima and Ljubljana, the city with colder weather is Ljubljana.', 'answer': 'Ljubljana', 'candidate': 'Nakhon Ratchasima'}
+{'statement': 'Between Antsiranana and Santiago, the city with colder weather is Santiago.', 'answer': 'Santiago', 'candidate': 'Antsiranana'}
+{'statement': 'Between Dar es Salaam and Napier, the city with colder weather is Napier.', 'answer': 'Napier', 'candidate': 'Dar es Salaam'}
+{'statement': 'Between Phoenix and Punta Arenas, the city with colder weather is Punta Arenas.', 'answer': 'Punta Arenas', 'candidate': 'Phoenix'}
+{'statement': 'Between Garoua and Boise, the city with colder weather is Boise.', 'answer': 'Boise', 'candidate': 'Garoua'}
+{'statement': 'Between Nouakchott and Tauranga, the city with colder weather is Tauranga.', 'answer': 'Tauranga', 'candidate': 'Nouakchott'}
+{'statement': 'Between Lagos and Cape Town, the city with colder weather is Cape Town.', 'answer': 'Cape Town', 'candidate': 'Lagos'}
+{'statement': 'Between Darwin and Tauranga, the city with colder weather is Tauranga.', 'answer': 'Tauranga', 'candidate': 'Darwin'}
+{'statement': 'Between Manaus and Neuquén, the city with colder weather is Neuquén.', 'answer': 'Neuquén', 'candidate': 'Manaus'}
+{'statement': 'Between La Paz and Berlin, the city with colder weather is Berlin.', 'answer': 'Berlin', 'candidate': 'La Paz'}
+{'statement': 'Between La Paz and Bucharest, the city with colder weather is Bucharest.', 'answer': 'Bucharest', 'candidate': 'La Paz'}
+{'statement': 'Between Cayenne and London, the city with colder weather is London.', 'answer': 'London', 'candidate': 'Cayenne'}
+{'statement': 'Between Antsiranana and Erzurum, the city with colder weather is Erzurum.', 'answer': 'Erzurum', 'candidate': 'Antsiranana'}
+{'statement': 'Between Mumbai and Anchorage, the city with colder weather is Anchorage.', 'answer': 'Anchorage', 'candidate': 'Mumbai'}
+{'statement': 'Between Aden and Ulaanbaatar, the city with colder weather is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Aden'}
+{'statement': 'Between Toamasina and Ottawa, the city with colder weather is Ottawa.', 'answer': 'Ottawa', 'candidate': 'Toamasina'}
+{'statement': 'Between Belgrade and Irkutsk, the city with colder weather is Irkutsk.', 'answer': 'Irkutsk', 'candidate': 'Belgrade'}
+{'statement': 'Between Benghazi and Zürich, the city with colder weather is Zürich.', 'answer': 'Zürich', 'candidate': 'Benghazi'}
+{'statement': 'Between La Paz and Hobart, the city with colder weather is Hobart.', 'answer': 'Hobart', 'candidate': 'La Paz'}
+{'statement': 'Between Kathmandu and Punta Arenas, the city with colder weather is Punta Arenas.', 'answer': 'Punta Arenas', 'candidate': 'Kathmandu'}
+{'statement': 'Between Tirana and Fairbanks, the city with colder weather is Fairbanks.', 'answer': 'Fairbanks', 'candidate': 'Tirana'}
+{'statement': 'Between Mombasa and Santiago, the city with colder weather is Santiago.', 'answer': 'Santiago', 'candidate': 'Mombasa'}
+{'statement': 'Between Bujumbura and Ushuaia, the city with colder weather is Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'Bujumbura'}
+{'statement': 'Between Darwin and Sacramento, the city with colder weather is Sacramento.', 'answer': 'Sacramento', 'candidate': 'Darwin'}
+{'statement': 'Between Mexicali and Sapporo, the city with colder weather is Sapporo.', 'answer': 'Sapporo', 'candidate': 'Mexicali'}
+{'statement': 'Between Bujumbura and Ottawa, the city with colder weather is Ottawa.', 'answer': 'Ottawa', 'candidate': 'Bujumbura'}
+{'statement': 'Between Ho Chi Minh City and Paris, the city with colder weather is Paris.', 'answer': 'Paris', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Between Dodoma and Minsk, the city with colder weather is Minsk.', 'answer': 'Minsk', 'candidate': 'Dodoma'}
+{'statement': 'Between Phnom Penh and Kansas City, the city with colder weather is Kansas City.', 'answer': 'Kansas City', 'candidate': 'Phnom Penh'}
+{'statement': 'Between Algiers and Novosibirsk, the city with colder weather is Novosibirsk.', 'answer': 'Novosibirsk', 'candidate': 'Algiers'}
+{'statement': 'Between Mahajanga and Ljubljana, the city with colder weather is Ljubljana.', 'answer': 'Ljubljana', 'candidate': 'Mahajanga'}
+{'statement': 'Between Kuwait City and Zagreb, the city with colder weather is Zagreb.', 'answer': 'Zagreb', 'candidate': 'Kuwait City'}
+{'statement': 'Between Bangkok and Neuquén, the city with colder weather is Neuquén.', 'answer': 'Neuquén', 'candidate': 'Bangkok'}
+{'statement': 'Between Mumbai and Denver, the city with colder weather is Denver.', 'answer': 'Denver', 'candidate': 'Mumbai'}
+{'statement': 'Between San Juan and Boise, the city with colder weather is Boise.', 'answer': 'Boise', 'candidate': 'San Juan'}
+{'statement': 'Between Kingston and Lviv, the city with colder weather is Lviv.', 'answer': 'Lviv', 'candidate': 'Kingston'}
+{'statement': 'Between Hat Yai and Punta Arenas, the city with colder weather is Punta Arenas.', 'answer': 'Punta Arenas', 'candidate': 'Hat Yai'}
+{'statement': 'Between Fukuoka and Kuopio, the city with colder weather is Kuopio.', 'answer': 'Kuopio', 'candidate': 'Fukuoka'}
+{'statement': 'Between Tampa and Brussels, the city with colder weather is Brussels.', 'answer': 'Brussels', 'candidate': 'Tampa'}
+{'statement': 'Between Lima and Ulaanbaatar, the city with colder weather is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Lima'}
+{'statement': 'Between Durban and Chicago, the city with colder weather is Chicago.', 'answer': 'Chicago', 'candidate': 'Durban'}
+{'statement': 'Between Alexandria and Sapporo, the city with colder weather is Sapporo.', 'answer': 'Sapporo', 'candidate': 'Alexandria'}
+{'statement': 'Between Sydney and Reykjavík, the city with colder weather is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Sydney'}
+{'statement': 'Between Kingston and Curitiba, the city with colder weather is Curitiba.', 'answer': 'Curitiba', 'candidate': 'Kingston'}
+{'statement': 'Between Bamako and Kunming, the city with colder weather is Kunming.', 'answer': 'Kunming', 'candidate': 'Bamako'}
+{'statement': 'Between Erbil and Yinchuan, the city with colder weather is Yinchuan.', 'answer': 'Yinchuan', 'candidate': 'Erbil'}
+{'statement': 'Between Mombasa and Paris, the city with colder weather is Paris.', 'answer': 'Paris', 'candidate': 'Mombasa'}
+{'statement': 'Between Pontianak and Rome, the city with colder weather is Rome.', 'answer': 'Rome', 'candidate': 'Pontianak'}
+{'statement': 'Between Kuwait City and Podgorica, the city with colder weather is Podgorica.', 'answer': 'Podgorica', 'candidate': 'Kuwait City'}
+{'statement': 'Between San Juan and Bahía Blanca, the city with colder weather is Bahía Blanca.', 'answer': 'Bahía Blanca', 'candidate': 'San Juan'}
+{'statement': 'Between Phnom Penh and Zagreb, the city with colder weather is Zagreb.', 'answer': 'Zagreb', 'candidate': 'Phnom Penh'}
+{'statement': 'Between Toamasina and Ljubljana, the city with colder weather is Ljubljana.', 'answer': 'Ljubljana', 'candidate': 'Toamasina'}
+{'statement': 'Between Florianópolis and Kuopio, the city with colder weather is Kuopio.', 'answer': 'Kuopio', 'candidate': 'Florianópolis'}
+{'statement': 'Between Paramaribo and Ottawa, the city with colder weather is Ottawa.', 'answer': 'Ottawa', 'candidate': 'Paramaribo'}
+{'statement': 'Between Malabo and Indianapolis, the city with colder weather is Indianapolis.', 'answer': 'Indianapolis', 'candidate': 'Malabo'}
+{'statement': 'Between Mexicali and Oslo, the city with colder weather is Oslo.', 'answer': 'Oslo', 'candidate': 'Mexicali'}
+{'statement': 'Between Kampala and Lviv, the city with colder weather is Lviv.', 'answer': 'Lviv', 'candidate': 'Kampala'}
+{'statement': 'Between Belize City and Erzurum, the city with colder weather is Erzurum.', 'answer': 'Erzurum', 'candidate': 'Belize City'}
+{'statement': 'Between Phoenix and Bishkek, the city with colder weather is Bishkek.', 'answer': 'Bishkek', 'candidate': 'Phoenix'}
+{'statement': 'Between Tampa and Yakutsk, the city with colder weather is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Tampa'}
+{'statement': 'Between Suva and Ottawa, the city with colder weather is Ottawa.', 'answer': 'Ottawa', 'candidate': 'Suva'}
+{'statement': 'Between Riyadh and Anchorage, the city with colder weather is Anchorage.', 'answer': 'Anchorage', 'candidate': 'Riyadh'}
+{'statement': 'Between Malabo and Moscow, the city with colder weather is Moscow.', 'answer': 'Moscow', 'candidate': 'Malabo'}
+{'statement': 'Between Cape Town and Erzurum, the city with colder weather is Erzurum.', 'answer': 'Erzurum', 'candidate': 'Cape Town'}
+{'statement': 'Between Caracas and Reykjavík, the city with colder weather is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Caracas'}
+{'statement': 'Between Garissa and Minneapolis, the city with colder weather is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Garissa'}
+{'statement': 'Between Vientiane and Suwałki, the city with colder weather is Suwałki.', 'answer': 'Suwałki', 'candidate': 'Vientiane'}
+{'statement': 'Between Tamanrasset and Yakutsk, the city with colder weather is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Tamanrasset'}
+{'statement': 'Between Dodoma and Minneapolis, the city with colder weather is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Dodoma'}
+{'statement': 'Between San José and Chicago, the city with colder weather is Chicago.', 'answer': 'Chicago', 'candidate': 'San José'}
+{'statement': 'Between San José and Saint Petersburg, the city with colder weather is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'San José'}
+{'statement': 'Between Rangpur and Berlin, the city with colder weather is Berlin.', 'answer': 'Berlin', 'candidate': 'Rangpur'}
+{'statement': 'Between Palembang and Toronto, the city with colder weather is Toronto.', 'answer': 'Toronto', 'candidate': 'Palembang'}
+{'statement': 'Between Mumbai and Albuquerque, the city with colder weather is Albuquerque.', 'answer': 'Albuquerque', 'candidate': 'Mumbai'}
+{'statement': 'Between Djibouti and Milwaukee, the city with colder weather is Milwaukee.', 'answer': 'Milwaukee', 'candidate': 'Djibouti'}
+{'statement': 'Between Villahermosa and Bogotá, the city with colder weather is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Villahermosa'}
+{'statement': 'Between La Paz and Milwaukee, the city with colder weather is Milwaukee.', 'answer': 'Milwaukee', 'candidate': 'La Paz'}
+{'statement': 'Between Malabo and Berlin, the city with colder weather is Berlin.', 'answer': 'Berlin', 'candidate': 'Malabo'}
+{'statement': 'Between Belize City and Nur-Sultan, the city with colder weather is Nur-Sultan.', 'answer': 'Nur-Sultan', 'candidate': 'Belize City'}
+{'statement': 'Between Belize City and Zürich, the city with colder weather is Zürich.', 'answer': 'Zürich', 'candidate': 'Belize City'}
+{'statement': 'Between La Paz and Bergen, the city with colder weather is Bergen.', 'answer': 'Bergen', 'candidate': 'La Paz'}
+{'statement': 'Between Brisbane and Almaty, the city with colder weather is Almaty.', 'answer': 'Almaty', 'candidate': 'Brisbane'}
+{'statement': 'Between Toliara and Reykjavík, the city with colder weather is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Toliara'}
+{'statement': 'Between Willemstad and Frankfurt, the city with colder weather is Frankfurt.', 'answer': 'Frankfurt', 'candidate': 'Willemstad'}
+{'statement': 'Between Skopje and Yakutsk, the city with colder weather is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Skopje'}
+{'statement': 'Between Córdoba and Ürümqi, the city with colder weather is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'Córdoba'}
+{'statement': 'Between Managua and Yakutsk, the city with colder weather is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Managua'}
+{'statement': 'Between Rangpur and Saint Petersburg, the city with colder weather is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Rangpur'}
+{'statement': 'Between Bata and Tauranga, the city with colder weather is Tauranga.', 'answer': 'Tauranga', 'candidate': 'Bata'}
+{'statement': 'Between Kano and Zagreb, the city with colder weather is Zagreb.', 'answer': 'Zagreb', 'candidate': 'Kano'}
+{'statement': 'Between Tamanrasset and Halifax, the city with colder weather is Halifax.', 'answer': 'Halifax', 'candidate': 'Tamanrasset'}
+{'statement': 'Between Bangui and Auckland, the city with colder weather is Auckland.', 'answer': 'Auckland', 'candidate': 'Bangui'}
+{'statement': 'Between Port Sudan and Kunming, the city with colder weather is Kunming.', 'answer': 'Kunming', 'candidate': 'Port Sudan'}
+{'statement': 'Between Nouadhibou and Moscow, the city with colder weather is Moscow.', 'answer': 'Moscow', 'candidate': 'Nouadhibou'}
+{'statement': 'Between Phoenix and Wellington, the city with colder weather is Wellington.', 'answer': 'Wellington', 'candidate': 'Phoenix'}
+{'statement': 'Between Erbil and Toronto, the city with colder weather is Toronto.', 'answer': 'Toronto', 'candidate': 'Erbil'}
+{'statement': 'Between Palermo and Nur-Sultan, the city with colder weather is Nur-Sultan.', 'answer': 'Nur-Sultan', 'candidate': 'Palermo'}
+{'statement': 'Between Maputo and Irkutsk, the city with colder weather is Irkutsk.', 'answer': 'Irkutsk', 'candidate': 'Maputo'}
+{'statement': 'Between Karachi and Bahía Blanca, the city with colder weather is Bahía Blanca.', 'answer': 'Bahía Blanca', 'candidate': 'Karachi'}
+{'statement': 'Between Djibouti and Saskatoon, the city with colder weather is Saskatoon.', 'answer': 'Saskatoon', 'candidate': 'Djibouti'}
+{'statement': 'Between Tampa and Minneapolis, the city with colder weather is Minneapolis.', 'answer': 'Minneapolis', 'candidate': 'Tampa'}
+{'statement': 'Between Vientiane and Albuquerque, the city with colder weather is Albuquerque.', 'answer': 'Albuquerque', 'candidate': 'Vientiane'}
+{'statement': 'Between Parakou and Copenhagen, the city with colder weather is Copenhagen.', 'answer': 'Copenhagen', 'candidate': 'Parakou'}
+{'statement': 'Between Port Sudan and Amsterdam, the city with colder weather is Amsterdam.', 'answer': 'Amsterdam', 'candidate': 'Port Sudan'}
+{'statement': 'Between Djibouti and Brussels, the city with colder weather is Brussels.', 'answer': 'Brussels', 'candidate': 'Djibouti'}
+{'statement': 'Between Niamey and Fukuoka, the city with colder weather is Fukuoka.', 'answer': 'Fukuoka', 'candidate': 'Niamey'}
+{'statement': 'Between Ho Chi Minh City and Reykjavík, the city with colder weather is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Ho Chi Minh City'}
+{'statement': 'Between Kuwait City and Vladivostok, the city with colder weather is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Kuwait City'}
+{'statement': 'Between Kano and Yakutsk, the city with colder weather is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Kano'}
+{'statement': 'Between Port-Gentil and Kuopio, the city with colder weather is Kuopio.', 'answer': 'Kuopio', 'candidate': 'Port-Gentil'}
+{'statement': 'Between Douala and Bratislava, the city with colder weather is Bratislava.', 'answer': 'Bratislava', 'candidate': 'Douala'}
+{'statement': 'Between Panama City and Changsha, the city with colder weather is Changsha.', 'answer': 'Changsha', 'candidate': 'Panama City'}
+{'statement': 'Between Port Sudan and Skopje, the city with colder weather is Skopje.', 'answer': 'Skopje', 'candidate': 'Port Sudan'}
+{'statement': 'Between Kuwait City and Bogotá, the city with colder weather is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Kuwait City'}
+{'statement': 'Between Douala and Ulaanbaatar, the city with colder weather is Ulaanbaatar.', 'answer': 'Ulaanbaatar', 'candidate': 'Douala'}
+{'statement': 'Between Pontianak and Mexico City, the city with colder weather is Mexico City.', 'answer': 'Mexico City', 'candidate': 'Pontianak'}
+{'statement': 'Between Maputo and Chicago, the city with colder weather is Chicago.', 'answer': 'Chicago', 'candidate': 'Maputo'}
+{'statement': 'Between Córdoba and Ushuaia, the city with colder weather is Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'Córdoba'}
+{'statement': 'Between Fianarantsoa and Reykjavík, the city with colder weather is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Fianarantsoa'}
+{'statement': 'Between Cayenne and Bucharest, the city with colder weather is Bucharest.', 'answer': 'Bucharest', 'candidate': 'Cayenne'}
+{'statement': 'Between Antsiranana and Belgrade, the city with colder weather is Belgrade.', 'answer': 'Belgrade', 'candidate': 'Antsiranana'}
+{'statement': 'Between La Paz and Paris, the city with colder weather is Paris.', 'answer': 'Paris', 'candidate': 'La Paz'}
+{'statement': 'Between Denpasar and Berlin, the city with colder weather is Berlin.', 'answer': 'Berlin', 'candidate': 'Denpasar'}
+{'statement': 'Between Panama City and Sucre, the city with colder weather is Sucre.', 'answer': 'Sucre', 'candidate': 'Panama City'}
+{'statement': 'Between Nouadhibou and Ürümqi, the city with colder weather is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'Nouadhibou'}
+{'statement': 'Between Guangzhou and Irkutsk, the city with colder weather is Irkutsk.', 'answer': 'Irkutsk', 'candidate': 'Guangzhou'}
+{'statement': 'Between Yaoundé and Milan, the city with colder weather is Milan.', 'answer': 'Milan', 'candidate': 'Yaoundé'}
+{'statement': 'Between Denpasar and Erzurum, the city with colder weather is Erzurum.', 'answer': 'Erzurum', 'candidate': 'Denpasar'}
+{'statement': 'Between Ouahigouya and Vladivostok, the city with colder weather is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Ouahigouya'}
+{'statement': 'Between Houston and Murmansk, the city with colder weather is Murmansk.', 'answer': 'Murmansk', 'candidate': 'Houston'}
+{'statement': 'Between La Serena and Saskatoon, the city with colder weather is Saskatoon.', 'answer': 'Saskatoon', 'candidate': 'La Serena'}
+{'statement': 'Between Lusaka and Oslo, the city with colder weather is Oslo.', 'answer': 'Oslo', 'candidate': 'Lusaka'}
+{'statement': 'Between Tampa and London, the city with colder weather is London.', 'answer': 'London', 'candidate': 'Tampa'}
+{'statement': 'Between Dar es Salaam and Yinchuan, the city with colder weather is Yinchuan.', 'answer': 'Yinchuan', 'candidate': 'Dar es Salaam'}
+{'statement': 'Between Asmara and Reykjavík, the city with colder weather is Reykjavík.', 'answer': 'Reykjavík', 'candidate': 'Asmara'}
+{'statement': 'Between Auckland and Vladivostok, the city with colder weather is Vladivostok.', 'answer': 'Vladivostok', 'candidate': 'Auckland'}
+{'statement': 'Between Willemstad and Tirana, the city with colder weather is Tirana.', 'answer': 'Tirana', 'candidate': 'Willemstad'}
+{'statement': 'Between Yaoundé and Almaty, the city with colder weather is Almaty.', 'answer': 'Almaty', 'candidate': 'Yaoundé'}
+{'statement': 'Between Garoua and Antofagasta, the city with colder weather is Antofagasta.', 'answer': 'Antofagasta', 'candidate': 'Garoua'}
+{'statement': 'Between Cotonou and Sucre, the city with colder weather is Sucre.', 'answer': 'Sucre', 'candidate': 'Cotonou'}
+{'statement': 'Between San José and Novosibirsk, the city with colder weather is Novosibirsk.', 'answer': 'Novosibirsk', 'candidate': 'San José'}
+{'statement': 'Between San Antonio and Irkutsk, the city with colder weather is Irkutsk.', 'answer': 'Irkutsk', 'candidate': 'San Antonio'}
+{'statement': 'Between La Ceiba and Yakutsk, the city with colder weather is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'La Ceiba'}
+{'statement': 'Between Cotonou and Albuquerque, the city with colder weather is Albuquerque.', 'answer': 'Albuquerque', 'candidate': 'Cotonou'}
+{'statement': 'Between Cotonou and Toluca, the city with colder weather is Toluca.', 'answer': 'Toluca', 'candidate': 'Cotonou'}
+{'statement': 'Between Nairobi and Anchorage, the city with colder weather is Anchorage.', 'answer': 'Anchorage', 'candidate': 'Nairobi'}
+{'statement': 'Between Ouahigouya and Fukuoka, the city with colder weather is Fukuoka.', 'answer': 'Fukuoka', 'candidate': 'Ouahigouya'}
+{'statement': 'Between Managua and Brussels, the city with colder weather is Brussels.', 'answer': 'Brussels', 'candidate': 'Managua'}
+{'statement': 'Between Belize City and Irkutsk, the city with colder weather is Irkutsk.', 'answer': 'Irkutsk', 'candidate': 'Belize City'}
+{'statement': 'Between Luanda and Dublin, the city with colder weather is Dublin.', 'answer': 'Dublin', 'candidate': 'Luanda'}
+{'statement': 'Between Mandalay and Bratislava, the city with colder weather is Bratislava.', 'answer': 'Bratislava', 'candidate': 'Mandalay'}
+{'statement': 'Between Port Sudan and Valencia, the city with colder weather is Valencia.', 'answer': 'Valencia', 'candidate': 'Port Sudan'}
+{'statement': 'Between Thiès and Ushuaia, the city with colder weather is Ushuaia.', 'answer': 'Ushuaia', 'candidate': 'Thiès'}
+{'statement': 'Between Nakhon Ratchasima and Murmansk, the city with colder weather is Murmansk.', 'answer': 'Murmansk', 'candidate': 'Nakhon Ratchasima'}
+{'statement': 'Between Surabaya and Quito, the city with colder weather is Quito.', 'answer': 'Quito', 'candidate': 'Surabaya'}
+{'statement': 'Between Niamey and Nairobi, the city with colder weather is Nairobi.', 'answer': 'Nairobi', 'candidate': 'Niamey'}
+{'statement': 'Between Luanda and Bishkek, the city with colder weather is Bishkek.', 'answer': 'Bishkek', 'candidate': 'Luanda'}
+{'statement': 'Between Lisbon and Kuopio, the city with colder weather is Kuopio.', 'answer': 'Kuopio', 'candidate': 'Lisbon'}

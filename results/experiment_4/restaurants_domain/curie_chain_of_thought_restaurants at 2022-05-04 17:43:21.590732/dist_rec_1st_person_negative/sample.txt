@@ -1,0 +1,100 @@
+{'statement': "I don't like the restaurants nearby. Between Sushi Shop and Mi Mi Restaurant, I should go to Mi Mi Restaurant.", 'answer': 'Mi Mi Restaurant', 'candidate': 'Sushi Shop'}
+{'statement': "I don't like the restaurants nearby. Between The Empire and Cafe Jules, I should go to Cafe Jules.", 'answer': 'Cafe Jules', 'candidate': 'The Empire'}
+{'statement': "I don't like the restaurants nearby. Between Roncy's Bean and Milo's Pita, I should go to Roncy's Bean.", 'answer': "Roncy's Bean", 'candidate': "Milo's Pita"}
+{'statement': "I don't like the restaurants nearby. Between z-teca Gourmet Burritos and Solero Mediterranean Bakery, I should go to z-teca Gourmet Burritos.", 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Solero Mediterranean Bakery'}
+{'statement': "I don't like the restaurants nearby. Between Ardor Bistro and Green Grotto, I should go to Ardor Bistro.", 'answer': 'Ardor Bistro', 'candidate': 'Green Grotto'}
+{'statement': "I don't like the restaurants nearby. Between Oxygen Restaurant & Lounge and Tian An Cuisine, I should go to Oxygen Restaurant & Lounge.", 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Tian An Cuisine'}
+{'statement': "I don't like the restaurants nearby. Between El Fogón and JJ Bean, I should go to JJ Bean.", 'answer': 'JJ Bean', 'candidate': 'El Fogón'}
+{'statement': "I don't like the restaurants nearby. Between Galata Cafe and Goldstone Noodle Restaurant, I should go to Galata Cafe.", 'answer': 'Galata Cafe', 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': "I don't like the restaurants nearby. Between Madras Pantry and Druxy's Famous Deli, I should go to Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': 'Madras Pantry'}
+{'statement': "I don't like the restaurants nearby. Between Green Grotto and Anatolia Restaurant, I should go to Anatolia Restaurant.", 'answer': 'Anatolia Restaurant', 'candidate': 'Green Grotto'}
+{'statement': "I don't like the restaurants nearby. Between Aroma Espresso Bar and Evoo Ristorante, I should go to Aroma Espresso Bar.", 'answer': 'Aroma Espresso Bar', 'candidate': 'Evoo Ristorante'}
+{'statement': "I don't like the restaurants nearby. Between Mirage Grill & Lounge and Watson's, I should go to Mirage Grill & Lounge.", 'answer': 'Mirage Grill & Lounge', 'candidate': "Watson's"}
+{'statement': "I don't like the restaurants nearby. Between Bagel Nash and Tik Talk Cafe, I should go to Bagel Nash.", 'answer': 'Bagel Nash', 'candidate': 'Tik Talk Cafe'}
+{'statement': "I don't like the restaurants nearby. Between Mamma's Pizza and Ardor Bistro, I should go to Ardor Bistro.", 'answer': 'Ardor Bistro', 'candidate': "Mamma's Pizza"}
+{'statement': "I don't like the restaurants nearby. Between St. Clair Shawarma and Falafel and Sushi World, I should go to St. Clair Shawarma and Falafel.", 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Sushi World'}
+{'statement': "I don't like the restaurants nearby. Between Kairali - Taste of Kerala and Tierra Azteca, I should go to Tierra Azteca.", 'answer': 'Tierra Azteca', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': "I don't like the restaurants nearby. Between Basil Express Restaurant and Modo Mio Italian Bistro, I should go to Modo Mio Italian Bistro.", 'answer': 'Modo Mio Italian Bistro', 'candidate': 'Basil Express Restaurant'}
+{'statement': "I don't like the restaurants nearby. Between KFC and Bagel Nash, I should go to Bagel Nash.", 'answer': 'Bagel Nash', 'candidate': 'KFC'}
+{'statement': "I don't like the restaurants nearby. Between Cake Opera and Tortería San Cosme, I should go to Cake Opera.", 'answer': 'Cake Opera', 'candidate': 'Tortería San Cosme'}
+{'statement': "I don't like the restaurants nearby. Between Fit For Life and Carole's Cheesecake Cafe, I should go to Carole's Cheesecake Cafe.", 'answer': "Carole's Cheesecake Cafe", 'candidate': 'Fit For Life'}
+{'statement': "I don't like the restaurants nearby. Between Eggspectation and St. Louis Bar & Grill, I should go to Eggspectation.", 'answer': 'Eggspectation', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': "I don't like the restaurants nearby. Between Eggspectation and Chipotle Mexican Grill, I should go to Eggspectation.", 'answer': 'Eggspectation', 'candidate': 'Chipotle Mexican Grill'}
+{'statement': "I don't like the restaurants nearby. Between Tierra Azteca and Branca, I should go to Tierra Azteca.", 'answer': 'Tierra Azteca', 'candidate': 'Branca'}
+{'statement': "I don't like the restaurants nearby. Between Ici Bistro and Kibo Sushi House, I should go to Ici Bistro.", 'answer': 'Ici Bistro', 'candidate': 'Kibo Sushi House'}
+{'statement': "I don't like the restaurants nearby. Between Ici Bistro and Adega Restaurante, I should go to Ici Bistro.", 'answer': 'Ici Bistro', 'candidate': 'Adega Restaurante'}
+{'statement': "I don't like the restaurants nearby. Between Topham Corner and Le Papillon Park, I should go to Topham Corner.", 'answer': 'Topham Corner', 'candidate': 'Le Papillon Park'}
+{'statement': "I don't like the restaurants nearby. Between St. Louis Bar & Grill and Ici Bistro, I should go to Ici Bistro.", 'answer': 'Ici Bistro', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': "I don't like the restaurants nearby. Between Assembly Chef's Hall and Beryl's Pepper Pot, I should go to Assembly Chef's Hall.", 'answer': "Assembly Chef's Hall", 'candidate': "Beryl's Pepper Pot"}
+{'statement': "I don't like the restaurants nearby. Between Tik Talk Cafe and St. Clair Shawarma and Falafel, I should go to St. Clair Shawarma and Falafel.", 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Tik Talk Cafe'}
+{'statement': "I don't like the restaurants nearby. Between Tian An Cuisine and EJ Sushi, I should go to EJ Sushi.", 'answer': 'EJ Sushi', 'candidate': 'Tian An Cuisine'}
+{'statement': "I don't like the restaurants nearby. Between Milo's Pita and Shawarma Twist, I should go to Shawarma Twist.", 'answer': 'Shawarma Twist', 'candidate': "Milo's Pita"}
+{'statement': "I don't like the restaurants nearby. Between Warung Indonesia D'Eglinton and Phil's Original BBQ, I should go to Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': "I don't like the restaurants nearby. Between Thompson Rooftop and Magic Oven, I should go to Magic Oven.", 'answer': 'Magic Oven', 'candidate': 'Thompson Rooftop'}
+{'statement': "I don't like the restaurants nearby. Between Queen Pita and Cake Opera, I should go to Queen Pita.", 'answer': 'Queen Pita', 'candidate': 'Cake Opera'}
+{'statement': "I don't like the restaurants nearby. Between La Pupusa Loka and Druxy's Famous Deli, I should go to Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': 'La Pupusa Loka'}
+{'statement': "I don't like the restaurants nearby. Between Topham Corner and Breakfast Room, I should go to Topham Corner.", 'answer': 'Topham Corner', 'candidate': 'Breakfast Room'}
+{'statement': "I don't like the restaurants nearby. Between Chipotle Mexican Grill and EJ Sushi, I should go to EJ Sushi.", 'answer': 'EJ Sushi', 'candidate': 'Chipotle Mexican Grill'}
+{'statement': "I don't like the restaurants nearby. Between Joe Badali's Ristorante Italiano & Bar and Piper's Pub And Grill, I should go to Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': "Piper's Pub And Grill"}
+{'statement': "I don't like the restaurants nearby. Between Edible Arrangements and St. Louis Bar & Grill, I should go to Edible Arrangements.", 'answer': 'Edible Arrangements', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': "I don't like the restaurants nearby. Between Ici Bistro and Goldstone Noodle Restaurant, I should go to Ici Bistro.", 'answer': 'Ici Bistro', 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': "I don't like the restaurants nearby. Between Joe Badali's Ristorante Italiano & Bar and Fit For Life, I should go to Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': 'Fit For Life'}
+{'statement': "I don't like the restaurants nearby. Between La Pupusa Loka and Falafel House, I should go to Falafel House.", 'answer': 'Falafel House', 'candidate': 'La Pupusa Loka'}
+{'statement': "I don't like the restaurants nearby. Between Piper's Pub And Grill and Mt Everest Restaurant, I should go to Mt Everest Restaurant.", 'answer': 'Mt Everest Restaurant', 'candidate': "Piper's Pub And Grill"}
+{'statement': "I don't like the restaurants nearby. Between Lahore Grill & Fast Food and Freshii, I should go to Freshii.", 'answer': 'Freshii', 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': "I don't like the restaurants nearby. Between Tik Talk Cafe and Verona Restaurant, I should go to Verona Restaurant.", 'answer': 'Verona Restaurant', 'candidate': 'Tik Talk Cafe'}
+{'statement': "I don't like the restaurants nearby. Between Mt Everest Restaurant and Mamma's Pizza, I should go to Mt Everest Restaurant.", 'answer': 'Mt Everest Restaurant', 'candidate': "Mamma's Pizza"}
+{'statement': "I don't like the restaurants nearby. Between Grappa Ristorante and McDonald's, I should go to Grappa Ristorante.", 'answer': 'Grappa Ristorante', 'candidate': "McDonald's"}
+{'statement': "I don't like the restaurants nearby. Between Galata Cafe and Sichuan Landscape Chinese Restaurant, I should go to Galata Cafe.", 'answer': 'Galata Cafe', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': "I don't like the restaurants nearby. Between Delicious Paradise Kitchen and New Bilan Restaurant, I should go to New Bilan Restaurant.", 'answer': 'New Bilan Restaurant', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': "I don't like the restaurants nearby. Between Kairali - Taste of Kerala and New Bilan Restaurant, I should go to New Bilan Restaurant.", 'answer': 'New Bilan Restaurant', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': "I don't like the restaurants nearby. Between Sushi Time Japanese Restaurant and Pisco 1641, I should go to Sushi Time Japanese Restaurant.", 'answer': 'Sushi Time Japanese Restaurant', 'candidate': 'Pisco 1641'}
+{'statement': "I don't like the restaurants nearby. Between Thompson Rooftop and The Coffee Pocket, I should go to The Coffee Pocket.", 'answer': 'The Coffee Pocket', 'candidate': 'Thompson Rooftop'}
+{'statement': "I don't like the restaurants nearby. Between Bonne Journee and Green Grotto, I should go to Bonne Journee.", 'answer': 'Bonne Journee', 'candidate': 'Green Grotto'}
+{'statement': "I don't like the restaurants nearby. Between The Coffee Pocket and Tik Talk Cafe, I should go to The Coffee Pocket.", 'answer': 'The Coffee Pocket', 'candidate': 'Tik Talk Cafe'}
+{'statement': "I don't like the restaurants nearby. Between Pizzeria Via Mercanti and Chipotle Mexican Grill, I should go to Pizzeria Via Mercanti.", 'answer': 'Pizzeria Via Mercanti', 'candidate': 'Chipotle Mexican Grill'}
+{'statement': "I don't like the restaurants nearby. Between Pizza Pizza and Big Al's Diner, I should go to Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Pizza Pizza'}
+{'statement': "I don't like the restaurants nearby. Between Sheriff Broaster Chicken and Verona Restaurant, I should go to Verona Restaurant.", 'answer': 'Verona Restaurant', 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': "I don't like the restaurants nearby. Between Edible Arrangements and Goldstone Noodle Restaurant, I should go to Edible Arrangements.", 'answer': 'Edible Arrangements', 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': "I don't like the restaurants nearby. Between New Bilan Restaurant and Sushi World, I should go to New Bilan Restaurant.", 'answer': 'New Bilan Restaurant', 'candidate': 'Sushi World'}
+{'statement': "I don't like the restaurants nearby. Between Sweet Jesus and Amaya Express, I should go to Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': 'Amaya Express'}
+{'statement': "I don't like the restaurants nearby. Between Big Al's Diner and Goldstone Noodle Restaurant, I should go to Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': "I don't like the restaurants nearby. Between Cantine Bar & Grill and Phil's Original BBQ, I should go to Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': 'Cantine Bar & Grill'}
+{'statement': "I don't like the restaurants nearby. Between The Coffee Pocket and Piper's Pub And Grill, I should go to The Coffee Pocket.", 'answer': 'The Coffee Pocket', 'candidate': "Piper's Pub And Grill"}
+{'statement': "I don't like the restaurants nearby. Between Shawarma Twist and Warung Indonesia D'Eglinton, I should go to Shawarma Twist.", 'answer': 'Shawarma Twist', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': "I don't like the restaurants nearby. Between St. Clair Shawarma and Falafel and Dinah's Cupboard, I should go to St. Clair Shawarma and Falafel.", 'answer': 'St. Clair Shawarma and Falafel', 'candidate': "Dinah's Cupboard"}
+{'statement': "I don't like the restaurants nearby. Between Breakfast Room and Bonne Journee, I should go to Bonne Journee.", 'answer': 'Bonne Journee', 'candidate': 'Breakfast Room'}
+{'statement': "I don't like the restaurants nearby. Between Magic Oven and Daily Press Juicery, I should go to Magic Oven.", 'answer': 'Magic Oven', 'candidate': 'Daily Press Juicery'}
+{'statement': "I don't like the restaurants nearby. Between Mt Everest Restaurant and Basil Express Restaurant, I should go to Mt Everest Restaurant.", 'answer': 'Mt Everest Restaurant', 'candidate': 'Basil Express Restaurant'}
+{'statement': "I don't like the restaurants nearby. Between Sushi Shop and Fitness Avenue, I should go to Fitness Avenue.", 'answer': 'Fitness Avenue', 'candidate': 'Sushi Shop'}
+{'statement': "I don't like the restaurants nearby. Between Bake Island and The Coffee Pocket, I should go to The Coffee Pocket.", 'answer': 'The Coffee Pocket', 'candidate': 'Bake Island'}
+{'statement': "I don't like the restaurants nearby. Between Edible Arrangements and El Fogón, I should go to Edible Arrangements.", 'answer': 'Edible Arrangements', 'candidate': 'El Fogón'}
+{'statement': "I don't like the restaurants nearby. Between The Empire and Phil's Original BBQ, I should go to Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': 'The Empire'}
+{'statement': "I don't like the restaurants nearby. Between It's All Grk and Shawarma Twist, I should go to Shawarma Twist.", 'answer': 'Shawarma Twist', 'candidate': "It's All Grk"}
+{'statement': "I don't like the restaurants nearby. Between St. Louis Bar & Grill and Magic Oven, I should go to Magic Oven.", 'answer': 'Magic Oven', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': "I don't like the restaurants nearby. Between Top Sushi and z-teca Gourmet Burritos, I should go to z-teca Gourmet Burritos.", 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Top Sushi'}
+{'statement': "I don't like the restaurants nearby. Between Shawarma Twist and Chipotle Mexican Grill, I should go to Shawarma Twist.", 'answer': 'Shawarma Twist', 'candidate': 'Chipotle Mexican Grill'}
+{'statement': "I don't like the restaurants nearby. Between 9 Restaurant and Queen Slice, I should go to Queen Slice.", 'answer': 'Queen Slice', 'candidate': '9 Restaurant'}
+{'statement': "I don't like the restaurants nearby. Between Kibo Sushi House and Viccino Pizzeria, I should go to Viccino Pizzeria.", 'answer': 'Viccino Pizzeria', 'candidate': 'Kibo Sushi House'}
+{'statement': "I don't like the restaurants nearby. Between Chipotle Mexican Grill and Smoke's Weinerie, I should go to Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Chipotle Mexican Grill'}
+{'statement': "I don't like the restaurants nearby. Between Bagel Nash and El Fogón, I should go to Bagel Nash.", 'answer': 'Bagel Nash', 'candidate': 'El Fogón'}
+{'statement': "I don't like the restaurants nearby. Between Hawthorne Food and Drink and The Coffee Pocket, I should go to The Coffee Pocket.", 'answer': 'The Coffee Pocket', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': "I don't like the restaurants nearby. Between Sky Dragon Chinese Restaurant and New Bilan Restaurant, I should go to New Bilan Restaurant.", 'answer': 'New Bilan Restaurant', 'candidate': 'Sky Dragon Chinese Restaurant'}
+{'statement': "I don't like the restaurants nearby. Between Piper's Pub And Grill and Top Sushi, I should go to Top Sushi.", 'answer': 'Top Sushi', 'candidate': "Piper's Pub And Grill"}
+{'statement': "I don't like the restaurants nearby. Between Top Sushi and La Pupusa Loka, I should go to Top Sushi.", 'answer': 'Top Sushi', 'candidate': 'La Pupusa Loka'}
+{'statement': "I don't like the restaurants nearby. Between McDonald's and Cafe Jules, I should go to Cafe Jules.", 'answer': 'Cafe Jules', 'candidate': "McDonald's"}
+{'statement': "I don't like the restaurants nearby. Between Paradise Farms Prime Beef Bistro and St. Clair Shawarma and Falafel, I should go to St. Clair Shawarma and Falafel.", 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Paradise Farms Prime Beef Bistro'}
+{'statement': "I don't like the restaurants nearby. Between Kibo Sushi House and Freshii, I should go to Freshii.", 'answer': 'Freshii', 'candidate': 'Kibo Sushi House'}
+{'statement': "I don't like the restaurants nearby. Between KFC and z-teca Gourmet Burritos, I should go to z-teca Gourmet Burritos.", 'answer': 'z-teca Gourmet Burritos', 'candidate': 'KFC'}
+{'statement': "I don't like the restaurants nearby. Between Bagel Nash and Dangerous Dan's Diner, I should go to Bagel Nash.", 'answer': 'Bagel Nash', 'candidate': "Dangerous Dan's Diner"}
+{'statement': "I don't like the restaurants nearby. Between Sizzlers and Goldstone Noodle Restaurant, I should go to Sizzlers.", 'answer': 'Sizzlers', 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': "I don't like the restaurants nearby. Between Mamma's Pizza and Hina Sushi, I should go to Hina Sushi.", 'answer': 'Hina Sushi', 'candidate': "Mamma's Pizza"}
+{'statement': "I don't like the restaurants nearby. Between z-teca Gourmet Burritos and Breakfast Room, I should go to z-teca Gourmet Burritos.", 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Breakfast Room'}
+{'statement': "I don't like the restaurants nearby. Between Tierra Azteca and Fit For Life, I should go to Tierra Azteca.", 'answer': 'Tierra Azteca', 'candidate': 'Fit For Life'}
+{'statement': "I don't like the restaurants nearby. Between Warung Indonesia D'Eglinton and Bagel Nash, I should go to Bagel Nash.", 'answer': 'Bagel Nash', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': "I don't like the restaurants nearby. Between McDonald's and Cafe Jules, I should go to Cafe Jules.", 'answer': 'Cafe Jules', 'candidate': "McDonald's"}
+{'statement': "I don't like the restaurants nearby. Between Carole's Cheesecake Cafe and Milo's Pita, I should go to Carole's Cheesecake Cafe.", 'answer': "Carole's Cheesecake Cafe", 'candidate': "Milo's Pita"}
+{'statement': "I don't like the restaurants nearby. Between Watson's and The Coffee Pocket, I should go to The Coffee Pocket.", 'answer': 'The Coffee Pocket', 'candidate': "Watson's"}
+{'statement': "I don't like the restaurants nearby. Between Fit For Life and Nutella Cafe by Pusateri's, I should go to Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Fit For Life'}
+{'statement': "I don't like the restaurants nearby. Between Milo's Pita and Edible Arrangements, I should go to Edible Arrangements.", 'answer': 'Edible Arrangements', 'candidate': "Milo's Pita"}
+{'statement': "I don't like the restaurants nearby. Between Falafel House and Green Grotto, I should go to Falafel House.", 'answer': 'Falafel House', 'candidate': 'Green Grotto'}

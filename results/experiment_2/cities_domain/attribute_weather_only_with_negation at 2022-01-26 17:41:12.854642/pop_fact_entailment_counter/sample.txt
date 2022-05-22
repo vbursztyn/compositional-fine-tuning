@@ -1,0 +1,200 @@
+{'statement': 'Between Manila and Mexicali, the bigger city is Manila.', 'answer': 'Manila', 'candidate': 'Mexicali'}
+{'statement': 'Between Buenos Aires and Zürich, the bigger city is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Zürich'}
+{'statement': 'Between Saint Petersburg and Barranquilla, the bigger city is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Barranquilla'}
+{'statement': 'Between Luanda and Bratislava, the bigger city is Luanda.', 'answer': 'Luanda', 'candidate': 'Bratislava'}
+{'statement': 'Between Los Angeles and Nairobi, the bigger city is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Nairobi'}
+{'statement': 'Between Ürümqi and Garissa, the bigger city is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'Garissa'}
+{'statement': 'Between Ho Chi Minh City and Santiago, the bigger city is Ho Chi Minh City.', 'answer': 'Ho Chi Minh City', 'candidate': 'Santiago'}
+{'statement': 'Between San Diego and Gabès, the bigger city is San Diego.', 'answer': 'San Diego', 'candidate': 'Gabès'}
+{'statement': 'Between Lahore and Mandalay, the bigger city is Lahore.', 'answer': 'Lahore', 'candidate': 'Mandalay'}
+{'statement': 'Between Baghdad and Fairbanks, the bigger city is Baghdad.', 'answer': 'Baghdad', 'candidate': 'Fairbanks'}
+{'statement': 'Between Mexico City and Bangkok, the bigger city is Mexico City.', 'answer': 'Mexico City', 'candidate': 'Bangkok'}
+{'statement': 'Between Mumbai and Mexicali, the bigger city is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Mexicali'}
+{'statement': 'Between Ankara and Kuopio, the bigger city is Ankara.', 'answer': 'Ankara', 'candidate': 'Kuopio'}
+{'statement': 'Between Brasília and Garoua, the bigger city is Brasília.', 'answer': 'Brasília', 'candidate': 'Garoua'}
+{'statement': 'Between Lima and Ankara, the bigger city is Lima.', 'answer': 'Lima', 'candidate': 'Ankara'}
+{'statement': 'Between Johannesburg and Paramaribo, the bigger city is Johannesburg.', 'answer': 'Johannesburg', 'candidate': 'Paramaribo'}
+{'statement': 'Between Douala and Ljubljana, the bigger city is Douala.', 'answer': 'Douala', 'candidate': 'Ljubljana'}
+{'statement': 'Between Alexandria and Malabo, the bigger city is Alexandria.', 'answer': 'Alexandria', 'candidate': 'Malabo'}
+{'statement': 'Between Ho Chi Minh City and Anchorage, the bigger city is Ho Chi Minh City.', 'answer': 'Ho Chi Minh City', 'candidate': 'Anchorage'}
+{'statement': 'Between San Diego and Tucson, the bigger city is San Diego.', 'answer': 'San Diego', 'candidate': 'Tucson'}
+{'statement': 'Between Paris and Berlin, the bigger city is Paris.', 'answer': 'Paris', 'candidate': 'Berlin'}
+{'statement': 'Between Toronto and Panama City, the bigger city is Toronto.', 'answer': 'Toronto', 'candidate': 'Panama City'}
+{'statement': 'Between Paris and Milwaukee, the bigger city is Paris.', 'answer': 'Paris', 'candidate': 'Milwaukee'}
+{'statement': 'Between Jakarta and Ushuaia, the bigger city is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Ushuaia'}
+{'statement': 'Between London and Tirana, the bigger city is London.', 'answer': 'London', 'candidate': 'Tirana'}
+{'statement': 'Between Brasília and Kathmandu, the bigger city is Brasília.', 'answer': 'Brasília', 'candidate': 'Kathmandu'}
+{'statement': 'Between Lahore and Hobart, the bigger city is Lahore.', 'answer': 'Lahore', 'candidate': 'Hobart'}
+{'statement': 'Between Jakarta and Kano, the bigger city is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Kano'}
+{'statement': 'Between Algiers and Dublin, the bigger city is Algiers.', 'answer': 'Algiers', 'candidate': 'Dublin'}
+{'statement': 'Between Houston and Punta Arenas, the bigger city is Houston.', 'answer': 'Houston', 'candidate': 'Punta Arenas'}
+{'statement': 'Between Jakarta and Monterrey, the bigger city is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Monterrey'}
+{'statement': 'Between Los Angeles and Nouakchott, the bigger city is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Nouakchott'}
+{'statement': 'Between Cairo and Pittsburgh, the bigger city is Cairo.', 'answer': 'Cairo', 'candidate': 'Pittsburgh'}
+{'statement': 'Between Ankara and Neuquén, the bigger city is Ankara.', 'answer': 'Ankara', 'candidate': 'Neuquén'}
+{'statement': 'Between Kuwait City and La Ceiba, the bigger city is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'La Ceiba'}
+{'statement': 'Between Bogotá and Harare, the bigger city is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Harare'}
+{'statement': 'Between Lahore and Cabo San Lucas, the bigger city is Lahore.', 'answer': 'Lahore', 'candidate': 'Cabo San Lucas'}
+{'statement': 'Between Hanoi and Surabaya, the bigger city is Hanoi.', 'answer': 'Hanoi', 'candidate': 'Surabaya'}
+{'statement': 'Between Ankara and Tauranga, the bigger city is Ankara.', 'answer': 'Ankara', 'candidate': 'Tauranga'}
+{'statement': 'Between Manila and Willemstad, the bigger city is Manila.', 'answer': 'Manila', 'candidate': 'Willemstad'}
+{'statement': 'Between Santiago and Zürich, the bigger city is Santiago.', 'answer': 'Santiago', 'candidate': 'Zürich'}
+{'statement': 'Between Kunming and El Paso, the bigger city is Kunming.', 'answer': 'Kunming', 'candidate': 'El Paso'}
+{'statement': 'Between Buenos Aires and San Salvador, the bigger city is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'San Salvador'}
+{'statement': 'Between Guangzhou and Tripoli, the bigger city is Guangzhou.', 'answer': 'Guangzhou', 'candidate': 'Tripoli'}
+{'statement': 'Between Baghdad and San Antonio, the bigger city is Baghdad.', 'answer': 'Baghdad', 'candidate': 'San Antonio'}
+{'statement': 'Between Berlin and Kingston, the bigger city is Berlin.', 'answer': 'Berlin', 'candidate': 'Kingston'}
+{'statement': 'Between Ürümqi and Toluca, the bigger city is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'Toluca'}
+{'statement': 'Between Jakarta and Phoenix, the bigger city is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Phoenix'}
+{'statement': 'Between Shanghai and Wau, the bigger city is Shanghai.', 'answer': 'Shanghai', 'candidate': 'Wau'}
+{'statement': 'Between Toronto and Bata, the bigger city is Toronto.', 'answer': 'Toronto', 'candidate': 'Bata'}
+{'statement': 'Between Ankara and Kuwait City, the bigger city is Ankara.', 'answer': 'Ankara', 'candidate': 'Kuwait City'}
+{'statement': 'Between Guadalajara and Dublin, the bigger city is Guadalajara.', 'answer': 'Guadalajara', 'candidate': 'Dublin'}
+{'statement': 'Between Los Angeles and Cape Town, the bigger city is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Cape Town'}
+{'statement': 'Between Yaoundé and Saskatoon, the bigger city is Yaoundé.', 'answer': 'Yaoundé', 'candidate': 'Saskatoon'}
+{'statement': 'Between Kano and Mahajanga, the bigger city is Kano.', 'answer': 'Kano', 'candidate': 'Mahajanga'}
+{'statement': 'Between Saint Petersburg and Cabo San Lucas, the bigger city is Saint Petersburg.', 'answer': 'Saint Petersburg', 'candidate': 'Cabo San Lucas'}
+{'statement': 'Between Shanghai and Tirana, the bigger city is Shanghai.', 'answer': 'Shanghai', 'candidate': 'Tirana'}
+{'statement': 'Between Shanghai and San Salvador, the bigger city is Shanghai.', 'answer': 'Shanghai', 'candidate': 'San Salvador'}
+{'statement': 'Between Surabaya and Cabo San Lucas, the bigger city is Surabaya.', 'answer': 'Surabaya', 'candidate': 'Cabo San Lucas'}
+{'statement': 'Between Berlin and Río Gallegos, the bigger city is Berlin.', 'answer': 'Berlin', 'candidate': 'Río Gallegos'}
+{'statement': 'Between Luanda and Omaha, the bigger city is Luanda.', 'answer': 'Luanda', 'candidate': 'Omaha'}
+{'statement': 'Between Houston and Erbil, the bigger city is Houston.', 'answer': 'Houston', 'candidate': 'Erbil'}
+{'statement': 'Between Brasília and Lomé, the bigger city is Brasília.', 'answer': 'Brasília', 'candidate': 'Lomé'}
+{'statement': 'Between Bogotá and Conakry, the bigger city is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Conakry'}
+{'statement': 'Between Los Angeles and Yinchuan, the bigger city is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Yinchuan'}
+{'statement': 'Between Lagos and Pretoria, the bigger city is Lagos.', 'answer': 'Lagos', 'candidate': 'Pretoria'}
+{'statement': 'Between Perth and Gabès, the bigger city is Perth.', 'answer': 'Perth', 'candidate': 'Gabès'}
+{'statement': 'Between Beijing and Ljubljana, the bigger city is Beijing.', 'answer': 'Beijing', 'candidate': 'Ljubljana'}
+{'statement': 'Between Jakarta and Bucharest, the bigger city is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Bucharest'}
+{'statement': 'Between Denver and Viedma, the bigger city is Denver.', 'answer': 'Denver', 'candidate': 'Viedma'}
+{'statement': 'Between Monterrey and Fairbanks, the bigger city is Monterrey.', 'answer': 'Monterrey', 'candidate': 'Fairbanks'}
+{'statement': 'Between London and Bergen, the bigger city is London.', 'answer': 'London', 'candidate': 'Bergen'}
+{'statement': 'Between Perth and Campos do Jordão, the bigger city is Perth.', 'answer': 'Perth', 'candidate': 'Campos do Jordão'}
+{'statement': 'Between Tampa and Santiago del Estero, the bigger city is Tampa.', 'answer': 'Tampa', 'candidate': 'Santiago del Estero'}
+{'statement': 'Between Toronto and San Juan, the bigger city is Toronto.', 'answer': 'Toronto', 'candidate': 'San Juan'}
+{'statement': 'Between Toronto and Bratislava, the bigger city is Toronto.', 'answer': 'Toronto', 'candidate': 'Bratislava'}
+{'statement': 'Between Houston and Nouakchott, the bigger city is Houston.', 'answer': 'Houston', 'candidate': 'Nouakchott'}
+{'statement': 'Between Karachi and Paramaribo, the bigger city is Karachi.', 'answer': 'Karachi', 'candidate': 'Paramaribo'}
+{'statement': 'Between San Diego and Ljubljana, the bigger city is San Diego.', 'answer': 'San Diego', 'candidate': 'Ljubljana'}
+{'statement': 'Between Nairobi and Palembang, the bigger city is Nairobi.', 'answer': 'Nairobi', 'candidate': 'Palembang'}
+{'statement': 'Between Moscow and Vladivostok, the bigger city is Moscow.', 'answer': 'Moscow', 'candidate': 'Vladivostok'}
+{'statement': 'Between Buenos Aires and Willemstad, the bigger city is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Willemstad'}
+{'statement': 'Between Luanda and Phoenix, the bigger city is Luanda.', 'answer': 'Luanda', 'candidate': 'Phoenix'}
+{'statement': 'Between Toronto and Sapporo, the bigger city is Toronto.', 'answer': 'Toronto', 'candidate': 'Sapporo'}
+{'statement': 'Between Buenos Aires and Ürümqi, the bigger city is Buenos Aires.', 'answer': 'Buenos Aires', 'candidate': 'Ürümqi'}
+{'statement': 'Between Paris and Kampala, the bigger city is Paris.', 'answer': 'Paris', 'candidate': 'Kampala'}
+{'statement': 'Between Shanghai and Abéché, the bigger city is Shanghai.', 'answer': 'Shanghai', 'candidate': 'Abéché'}
+{'statement': 'Between Cairo and Ndola, the bigger city is Cairo.', 'answer': 'Cairo', 'candidate': 'Ndola'}
+{'statement': 'Between Paris and Vientiane, the bigger city is Paris.', 'answer': 'Paris', 'candidate': 'Vientiane'}
+{'statement': 'Between Mumbai and Saskatoon, the bigger city is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Saskatoon'}
+{'statement': 'Between Mexico City and Bogotá, the bigger city is Mexico City.', 'answer': 'Mexico City', 'candidate': 'Bogotá'}
+{'statement': 'Between Jakarta and Melbourne, the bigger city is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Melbourne'}
+{'statement': 'Between Kuwait City and Chihuahua, the bigger city is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Chihuahua'}
+{'statement': 'Between Moscow and Pittsburgh, the bigger city is Moscow.', 'answer': 'Moscow', 'candidate': 'Pittsburgh'}
+{'statement': 'Between Brasília and Villahermosa, the bigger city is Brasília.', 'answer': 'Brasília', 'candidate': 'Villahermosa'}
+{'statement': 'Between Melbourne and Mexicali, the bigger city is Melbourne.', 'answer': 'Melbourne', 'candidate': 'Mexicali'}
+{'statement': 'Between Dar es Salaam and Kansas City, the bigger city is Dar es Salaam.', 'answer': 'Dar es Salaam', 'candidate': 'Kansas City'}
+{'statement': 'Between Luanda and Tucson, the bigger city is Luanda.', 'answer': 'Luanda', 'candidate': 'Tucson'}
+{'statement': 'Between Dar es Salaam and Vientiane, the bigger city is Dar es Salaam.', 'answer': 'Dar es Salaam', 'candidate': 'Vientiane'}
+{'statement': 'Between Moscow and Calgary, the bigger city is Moscow.', 'answer': 'Moscow', 'candidate': 'Calgary'}
+{'statement': 'Between Johannesburg and Kansas City, the bigger city is Johannesburg.', 'answer': 'Johannesburg', 'candidate': 'Kansas City'}
+{'statement': 'Between Phoenix and La Paz, the bigger city is Phoenix.', 'answer': 'Phoenix', 'candidate': 'La Paz'}
+{'statement': 'Between Hanoi and Brisbane, the bigger city is Hanoi.', 'answer': 'Hanoi', 'candidate': 'Brisbane'}
+{'statement': 'Between Riyadh and Yaoundé, the bigger city is Riyadh.', 'answer': 'Riyadh', 'candidate': 'Yaoundé'}
+{'statement': 'Between Ho Chi Minh City and Rosario, the bigger city is Ho Chi Minh City.', 'answer': 'Ho Chi Minh City', 'candidate': 'Rosario'}
+{'statement': 'Between Douala and Upington, the bigger city is Douala.', 'answer': 'Douala', 'candidate': 'Upington'}
+{'statement': 'Between Kano and Punta Arenas, the bigger city is Kano.', 'answer': 'Kano', 'candidate': 'Punta Arenas'}
+{'statement': 'Between Chicago and Malabo, the bigger city is Chicago.', 'answer': 'Chicago', 'candidate': 'Malabo'}
+{'statement': 'Between Bangkok and Cape Town, the bigger city is Bangkok.', 'answer': 'Bangkok', 'candidate': 'Cape Town'}
+{'statement': 'Between Santiago and Río Gallegos, the bigger city is Santiago.', 'answer': 'Santiago', 'candidate': 'Río Gallegos'}
+{'statement': 'Between Douala and Neuquén, the bigger city is Douala.', 'answer': 'Douala', 'candidate': 'Neuquén'}
+{'statement': 'Between Chicago and Kansas City, the bigger city is Chicago.', 'answer': 'Chicago', 'candidate': 'Kansas City'}
+{'statement': 'Between Addis Ababa and Toluca, the bigger city is Addis Ababa.', 'answer': 'Addis Ababa', 'candidate': 'Toluca'}
+{'statement': 'Between Shanghai and Milwaukee, the bigger city is Shanghai.', 'answer': 'Shanghai', 'candidate': 'Milwaukee'}
+{'statement': 'Between Kuwait City and Albuquerque, the bigger city is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Albuquerque'}
+{'statement': 'Between Kunming and Mendoza, the bigger city is Kunming.', 'answer': 'Kunming', 'candidate': 'Mendoza'}
+{'statement': 'Between Chicago and Frankfurt, the bigger city is Chicago.', 'answer': 'Chicago', 'candidate': 'Frankfurt'}
+{'statement': 'Between Kunming and Goiânia, the bigger city is Kunming.', 'answer': 'Kunming', 'candidate': 'Goiânia'}
+{'statement': 'Between Bogotá and Parakou, the bigger city is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Parakou'}
+{'statement': 'Between Guangzhou and Amsterdam, the bigger city is Guangzhou.', 'answer': 'Guangzhou', 'candidate': 'Amsterdam'}
+{'statement': 'Between Ho Chi Minh City and Kampala, the bigger city is Ho Chi Minh City.', 'answer': 'Ho Chi Minh City', 'candidate': 'Kampala'}
+{'statement': 'Between Hanoi and Juba, the bigger city is Hanoi.', 'answer': 'Hanoi', 'candidate': 'Juba'}
+{'statement': 'Between Beijing and Tampa, the bigger city is Beijing.', 'answer': 'Beijing', 'candidate': 'Tampa'}
+{'statement': 'Between Karachi and Bahía Blanca, the bigger city is Karachi.', 'answer': 'Karachi', 'candidate': 'Bahía Blanca'}
+{'statement': 'Between Toronto and Omaha, the bigger city is Toronto.', 'answer': 'Toronto', 'candidate': 'Omaha'}
+{'statement': 'Between Berlin and Calgary, the bigger city is Berlin.', 'answer': 'Berlin', 'candidate': 'Calgary'}
+{'statement': 'Between Houston and Brasília, the bigger city is Houston.', 'answer': 'Houston', 'candidate': 'Brasília'}
+{'statement': 'Between Kuwait City and Benghazi, the bigger city is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Benghazi'}
+{'statement': 'Between London and Boise, the bigger city is London.', 'answer': 'London', 'candidate': 'Boise'}
+{'statement': 'Between Manila and Denpasar, the bigger city is Manila.', 'answer': 'Manila', 'candidate': 'Denpasar'}
+{'statement': 'Between Guangzhou and Goiânia, the bigger city is Guangzhou.', 'answer': 'Guangzhou', 'candidate': 'Goiânia'}
+{'statement': 'Between Shanghai and Maputo, the bigger city is Shanghai.', 'answer': 'Shanghai', 'candidate': 'Maputo'}
+{'statement': 'Between Cairo and Boise, the bigger city is Cairo.', 'answer': 'Cairo', 'candidate': 'Boise'}
+{'statement': 'Between Shanghai and Toliara, the bigger city is Shanghai.', 'answer': 'Shanghai', 'candidate': 'Toliara'}
+{'statement': 'Between Bangkok and Dublin, the bigger city is Bangkok.', 'answer': 'Bangkok', 'candidate': 'Dublin'}
+{'statement': 'Between Alexandria and Mexicali, the bigger city is Alexandria.', 'answer': 'Alexandria', 'candidate': 'Mexicali'}
+{'statement': 'Between Baghdad and Brussels, the bigger city is Baghdad.', 'answer': 'Baghdad', 'candidate': 'Brussels'}
+{'statement': 'Between Riyadh and Abéché, the bigger city is Riyadh.', 'answer': 'Riyadh', 'candidate': 'Abéché'}
+{'statement': 'Between Kuwait City and Rabat, the bigger city is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Rabat'}
+{'statement': 'Between Ürümqi and La Ceiba, the bigger city is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'La Ceiba'}
+{'statement': 'Between Bogotá and Malabo, the bigger city is Bogotá.', 'answer': 'Bogotá', 'candidate': 'Malabo'}
+{'statement': 'Between Luanda and Changsha, the bigger city is Luanda.', 'answer': 'Luanda', 'candidate': 'Changsha'}
+{'statement': 'Between Melbourne and Zürich, the bigger city is Melbourne.', 'answer': 'Melbourne', 'candidate': 'Zürich'}
+{'statement': 'Between Addis Ababa and Honolulu, the bigger city is Addis Ababa.', 'answer': 'Addis Ababa', 'candidate': 'Honolulu'}
+{'statement': 'Between Los Angeles and Brisbane, the bigger city is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Brisbane'}
+{'statement': 'Between Tampa and Kingston, the bigger city is Tampa.', 'answer': 'Tampa', 'candidate': 'Kingston'}
+{'statement': 'Between Moscow and Erbil, the bigger city is Moscow.', 'answer': 'Moscow', 'candidate': 'Erbil'}
+{'statement': 'Between Rome and Mendoza, the bigger city is Rome.', 'answer': 'Rome', 'candidate': 'Mendoza'}
+{'statement': 'Between Paris and Sokoto, the bigger city is Paris.', 'answer': 'Paris', 'candidate': 'Sokoto'}
+{'statement': 'Between Fukuoka and Tamanrasset, the bigger city is Fukuoka.', 'answer': 'Fukuoka', 'candidate': 'Tamanrasset'}
+{'statement': 'Between Ankara and Rabat, the bigger city is Ankara.', 'answer': 'Ankara', 'candidate': 'Rabat'}
+{'statement': 'Between Kunming and Tirana, the bigger city is Kunming.', 'answer': 'Kunming', 'candidate': 'Tirana'}
+{'statement': 'Between Alexandria and Suwałki, the bigger city is Alexandria.', 'answer': 'Alexandria', 'candidate': 'Suwałki'}
+{'statement': 'Between Karachi and Neuquén, the bigger city is Karachi.', 'answer': 'Karachi', 'candidate': 'Neuquén'}
+{'statement': 'Between Lahore and Indianapolis, the bigger city is Lahore.', 'answer': 'Lahore', 'candidate': 'Indianapolis'}
+{'statement': 'Between Nairobi and Almaty, the bigger city is Nairobi.', 'answer': 'Nairobi', 'candidate': 'Almaty'}
+{'statement': 'Between Kabul and Mandalay, the bigger city is Kabul.', 'answer': 'Kabul', 'candidate': 'Mandalay'}
+{'statement': 'Between Mumbai and Wau, the bigger city is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Wau'}
+{'statement': 'Between Guadalajara and Honolulu, the bigger city is Guadalajara.', 'answer': 'Guadalajara', 'candidate': 'Honolulu'}
+{'statement': 'Between Tampa and Tamanrasset, the bigger city is Tampa.', 'answer': 'Tampa', 'candidate': 'Tamanrasset'}
+{'statement': 'Between Surabaya and Podgorica, the bigger city is Surabaya.', 'answer': 'Surabaya', 'candidate': 'Podgorica'}
+{'statement': 'Between Mumbai and Nakhon Ratchasima, the bigger city is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Nakhon Ratchasima'}
+{'statement': 'Between Fukuoka and Punta Arenas, the bigger city is Fukuoka.', 'answer': 'Fukuoka', 'candidate': 'Punta Arenas'}
+{'statement': 'Between Mumbai and Guadalajara, the bigger city is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Guadalajara'}
+{'statement': 'Between Ürümqi and Gabès, the bigger city is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'Gabès'}
+{'statement': 'Between Phoenix and Hat Yai, the bigger city is Phoenix.', 'answer': 'Phoenix', 'candidate': 'Hat Yai'}
+{'statement': 'Between Yaoundé and Ségou, the bigger city is Yaoundé.', 'answer': 'Yaoundé', 'candidate': 'Ségou'}
+{'statement': 'Between Phoenix and Phnom Penh, the bigger city is Phoenix.', 'answer': 'Phoenix', 'candidate': 'Phnom Penh'}
+{'statement': 'Between Ürümqi and Thiès, the bigger city is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'Thiès'}
+{'statement': 'Between Lagos and Skopje, the bigger city is Lagos.', 'answer': 'Lagos', 'candidate': 'Skopje'}
+{'statement': 'Between Kunming and Garissa, the bigger city is Kunming.', 'answer': 'Kunming', 'candidate': 'Garissa'}
+{'statement': 'Between Mumbai and Lviv, the bigger city is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Lviv'}
+{'statement': 'Between Moscow and Upington, the bigger city is Moscow.', 'answer': 'Moscow', 'candidate': 'Upington'}
+{'statement': 'Between Guadalajara and La Serena, the bigger city is Guadalajara.', 'answer': 'Guadalajara', 'candidate': 'La Serena'}
+{'statement': 'Between Kunming and Abéché, the bigger city is Kunming.', 'answer': 'Kunming', 'candidate': 'Abéché'}
+{'statement': 'Between Jakarta and Lahore, the bigger city is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Lahore'}
+{'statement': 'Between Paris and Dublin, the bigger city is Paris.', 'answer': 'Paris', 'candidate': 'Dublin'}
+{'statement': 'Between Algiers and Belgrade, the bigger city is Algiers.', 'answer': 'Algiers', 'candidate': 'Belgrade'}
+{'statement': 'Between Douala and Fairbanks, the bigger city is Douala.', 'answer': 'Douala', 'candidate': 'Fairbanks'}
+{'statement': 'Between Melbourne and Ljubljana, the bigger city is Melbourne.', 'answer': 'Melbourne', 'candidate': 'Ljubljana'}
+{'statement': 'Between Lahore and Ottawa, the bigger city is Lahore.', 'answer': 'Lahore', 'candidate': 'Ottawa'}
+{'statement': 'Between Paris and Willemstad, the bigger city is Paris.', 'answer': 'Paris', 'candidate': 'Willemstad'}
+{'statement': 'Between Lahore and Milan, the bigger city is Lahore.', 'answer': 'Lahore', 'candidate': 'Milan'}
+{'statement': 'Between Tampa and Benghazi, the bigger city is Tampa.', 'answer': 'Tampa', 'candidate': 'Benghazi'}
+{'statement': 'Between Hanoi and Medellín, the bigger city is Hanoi.', 'answer': 'Hanoi', 'candidate': 'Medellín'}
+{'statement': 'Between Moscow and Houston, the bigger city is Moscow.', 'answer': 'Moscow', 'candidate': 'Houston'}
+{'statement': 'Between Cairo and Harare, the bigger city is Cairo.', 'answer': 'Cairo', 'candidate': 'Harare'}
+{'statement': 'Between Riyadh and Anchorage, the bigger city is Riyadh.', 'answer': 'Riyadh', 'candidate': 'Anchorage'}
+{'statement': 'Between Ankara and Vladivostok, the bigger city is Ankara.', 'answer': 'Ankara', 'candidate': 'Vladivostok'}
+{'statement': 'Between Berlin and San Juan, the bigger city is Berlin.', 'answer': 'Berlin', 'candidate': 'San Juan'}
+{'statement': 'Between Phnom Penh and Napier, the bigger city is Phnom Penh.', 'answer': 'Phnom Penh', 'candidate': 'Napier'}
+{'statement': 'Between Bangkok and Manaus, the bigger city is Bangkok.', 'answer': 'Bangkok', 'candidate': 'Manaus'}
+{'statement': 'Between Chicago and Bucharest, the bigger city is Chicago.', 'answer': 'Chicago', 'candidate': 'Bucharest'}
+{'statement': 'Between Kunming and Dublin, the bigger city is Kunming.', 'answer': 'Kunming', 'candidate': 'Dublin'}
+{'statement': 'Between Lagos and Kunming, the bigger city is Lagos.', 'answer': 'Lagos', 'candidate': 'Kunming'}
+{'statement': 'Between Cairo and Conakry, the bigger city is Cairo.', 'answer': 'Cairo', 'candidate': 'Conakry'}
+{'statement': 'Between Shanghai and Zürich, the bigger city is Shanghai.', 'answer': 'Shanghai', 'candidate': 'Zürich'}
+{'statement': 'Between Kabul and Makurdi, the bigger city is Kabul.', 'answer': 'Kabul', 'candidate': 'Makurdi'}
+{'statement': 'Between Surabaya and Florianópolis, the bigger city is Surabaya.', 'answer': 'Surabaya', 'candidate': 'Florianópolis'}
+{'statement': 'Between Melbourne and Kathmandu, the bigger city is Melbourne.', 'answer': 'Melbourne', 'candidate': 'Kathmandu'}

@@ -1,0 +1,975 @@
+{"prompt":"Joao Moutinho is a ->","completion":" soccer player."}
+{"prompt":"Bryce Harper is a ->","completion":" baseball player."}
+{"prompt":"Freddie Freeman is a ->","completion":" baseball player."}
+{"prompt":"Malcolm Brogdon is a ->","completion":" basketball player."}
+{"prompt":"Tuukka Rask is a ->","completion":" hockey player."}
+{"prompt":"Jacob Markstrom is a ->","completion":" hockey player."}
+{"prompt":"Tristan Jarry is a ->","completion":" hockey player."}
+{"prompt":"Clayton Kershaw is a ->","completion":" baseball player."}
+{"prompt":"Jose Ramirez is a ->","completion":" baseball player."}
+{"prompt":"Elias Lindholm is a ->","completion":" hockey player."}
+{"prompt":"Robin Lehner is a ->","completion":" hockey player."}
+{"prompt":"Paulinho is a ->","completion":" soccer player."}
+{"prompt":"Norman Powell is a ->","completion":" basketball player."}
+{"prompt":"Jayson Tatum is a ->","completion":" basketball player."}
+{"prompt":"Darcy Kuemper is a ->","completion":" hockey player."}
+{"prompt":"Jarrett Allen is a ->","completion":" basketball player."}
+{"prompt":"Leon Draisaitl is a ->","completion":" hockey player."}
+{"prompt":"Paul Goldschmidt is a ->","completion":" baseball player."}
+{"prompt":"Kyle Anderson is a ->","completion":" basketball player."}
+{"prompt":"Keenan Allen is a ->","completion":" football player."}
+{"prompt":"Mapou Yanga-M'Biwa is a ->","completion":" soccer player."}
+{"prompt":"Juan Soto is a ->","completion":" baseball player."}
+{"prompt":"Santi Cazorla is a ->","completion":" soccer player."}
+{"prompt":"Trevor Bauer is a ->","completion":" baseball player."}
+{"prompt":"Michael Porter Jr. is a ->","completion":" basketball player."}
+{"prompt":"Radamel Falcao is a ->","completion":" soccer player."}
+{"prompt":"Christian Yelich is a ->","completion":" baseball player."}
+{"prompt":"Calvin Ridley is a ->","completion":" football player."}
+{"prompt":"Patrice Bergeron is a ->","completion":" hockey player."}
+{"prompt":"Javi Martinez is a ->","completion":" soccer player."}
+{"prompt":"Caris LeVert is a ->","completion":" basketball player."}
+{"prompt":"Neymar is a ->","completion":" soccer player."}
+{"prompt":"Maradona is a ->","completion":" soccer player."}
+{"prompt":"Jaylen Brown is a ->","completion":" basketball player."}
+{"prompt":"Nelson Cruz is a ->","completion":" baseball player."}
+{"prompt":"Nathan MacKinnon is a ->","completion":" hockey player."}
+{"prompt":"Tyler Boyd is a ->","completion":" football player."}
+{"prompt":"Tom Wilson is a ->","completion":" hockey player."}
+{"prompt":"Kailer Yamamoto is a ->","completion":" hockey player."}
+{"prompt":"Deshaun Watson is a ->","completion":" American football player."}
+{"prompt":"Diego Forlan is a ->","completion":" soccer player."}
+{"prompt":"Brendan Gallagher is a ->","completion":" hockey player."}
+{"prompt":"Trae Young is a ->","completion":" basketball player."}
+{"prompt":"Walker Buehler is a ->","completion":" baseball player."}
+{"prompt":"DK Metcalf is a ->","completion":" football player."}
+{"prompt":"Carlos Tevez is a ->","completion":" soccer player."}
+{"prompt":"Thomas Muller is a ->","completion":" soccer player."}
+{"prompt":"Vincent Kompany is a ->","completion":" soccer player."}
+{"prompt":"Luka Doncic is a ->","completion":" basketball player."}
+{"prompt":"Didier Drogba is a ->","completion":" soccer player."}
+{"prompt":"Cale Makar is a ->","completion":" hockey player."}
+{"prompt":"Manny Machado is a ->","completion":" baseball player."}
+{"prompt":"Golden Tate is a ->","completion":" football player."}
+{"prompt":"Dani Alves is a ->","completion":" soccer player."}
+{"prompt":"Anthony Rizzo is a ->","completion":" baseball player."}
+{"prompt":"Shai Gilgeous-Alexander is a ->","completion":" basketball player."}
+{"prompt":"Derek Carr is a ->","completion":" n American football player."}
+{"prompt":"Cam Newton is a ->","completion":" football player."}
+{"prompt":"Arjen Robben is a ->","completion":" soccer player."}
+{"prompt":"Carles Puyol is a ->","completion":" soccer player."}
+{"prompt":"Jaren Jackson Jr. is a ->","completion":" basketball player."}
+{"prompt":"Logan Couture is a ->","completion":" hockey player."}
+{"prompt":"Chris Godwin is a ->","completion":" baseball player."}
+{"prompt":"Mitchell Marner is a ->","completion":" hockey player."}
+{"prompt":"Jack Flaherty is a ->","completion":" baseball player."}
+{"prompt":"Victor Wanyama is a ->","completion":" soccer player."}
+{"prompt":"Taylor Hall is a ->","completion":" hockey player."}
+{"prompt":"Sergio Ramos is a ->","completion":" soccer player."}
+{"prompt":"Will Fuller is a ->","completion":" football player."}
+{"prompt":"Jamal Murray is a ->","completion":" basketball player."}
+{"prompt":"Patrice Evra is a ->","completion":" soccer player."}
+{"prompt":"Klaas Jan Huntelaar is a ->","completion":" soccer player."}
+{"prompt":"Matt Ryan is a ->","completion":" soccer player."}
+{"prompt":"Marek Hamsik is a ->","completion":" soccer player."}
+{"prompt":"Deandre Ayton is a ->","completion":" basketball player."}
+{"prompt":"Jerami Grant is a ->","completion":" basketball player."}
+{"prompt":"Luke Voit is a ->","completion":" baseball player."}
+{"prompt":"Brent Burns is a ->","completion":" hockey player."}
+{"prompt":"Dejounte Murray is a ->","completion":" basketball player."}
+{"prompt":"Matthew Stafford is a ->","completion":" American football player."}
+{"prompt":"Trevor Story is a ->","completion":" baseball player."}
+{"prompt":"Mookie Betts is a ->","completion":" baseball player."}
+{"prompt":"Evgeni Malkin is a ->","completion":" hockey player."}
+{"prompt":"Henrikh Mkhitaryan is a ->","completion":" soccer player."}
+{"prompt":"Sam Darnold is a ->","completion":" American football player."}
+{"prompt":"Darius Slayton is a ->","completion":" football player."}
+{"prompt":"Miro Heiskanen is a ->","completion":" hockey player."}
+{"prompt":"Tobias Harris is a ->","completion":" basketball player."}
+{"prompt":"Trent Grisham is a ->","completion":" baseball player."}
+{"prompt":"Malik Beasley is a ->","completion":" basketball player."}
+{"prompt":"Mark Stone is a ->","completion":" hockey player."}
+{"prompt":"Charlie Blackmon is a ->","completion":" baseball player."}
+{"prompt":"Darijo Srna is a ->","completion":" soccer player."}
+{"prompt":"Jacob deGrom is a ->","completion":" baseball player."}
+{"prompt":"Corbin Burnes is a ->","completion":" baseball player."}
+{"prompt":"John Tavares is a ->","completion":" hockey player."}
+{"prompt":"Nikola Vucevic is a ->","completion":" basketball player."}
+{"prompt":"Yoan Moncada is a ->","completion":" baseball player."}
+{"prompt":"Seth Jones is a ->","completion":" hockey player."}
+{"prompt":"Mike Trout is a ->","completion":" baseball player."}
+{"prompt":"Sterling Shepard is a ->","completion":" football player."}
+{"prompt":"Eden Hazard is a ->","completion":" soccer player."}
+{"prompt":"Domantas Sabonis is a ->","completion":" basketball player."}
+{"prompt":"Brandin Cooks is a ->","completion":" football player."}
+{"prompt":"Rhys Hoskins is a ->","completion":" baseball player."}
+{"prompt":"Zach LaVine is a ->","completion":" basketball player."}
+{"prompt":"Gerard Pique is a ->","completion":" soccer player."}
+{"prompt":"Max Pacioretty is a ->","completion":" hockey player."}
+{"prompt":"John Carlson is a ->","completion":" hockey player."}
+{"prompt":"Matthew Tkachuk is a ->","completion":" hockey player."}
+{"prompt":"Jordi Alba is a ->","completion":" soccer player."}
+{"prompt":"A.J. Green is a ->","completion":" baseball player."}
+{"prompt":"Sonny Gray is a ->","completion":" baseball player."}
+{"prompt":"Gleyber Torres is a ->","completion":" baseball player."}
+{"prompt":"Luis Suarez is a ->","completion":" soccer player."}
+{"prompt":"Diontae Johnson is a ->","completion":" football player."}
+{"prompt":"Joey Gallo is a ->","completion":" baseball player."}
+{"prompt":"Andrew Wiggins is a ->","completion":" basketball player."}
+{"prompt":"Mika Zibanejad is a ->","completion":" hockey player."}
+{"prompt":"Kyle Lowry is a ->","completion":" basketball player."}
+{"prompt":"Gordon Hayward is a ->","completion":" basketball player."}
+{"prompt":"Nemanja Vidic is a ->","completion":" soccer player."}
+{"prompt":"Daniel Jones is a ->","completion":" soccer player."}
+{"prompt":"J.T. Miller is a ->","completion":" hockey player."}
+{"prompt":"Eugenio Suarez is a ->","completion":" baseball player."}
+{"prompt":"Javier Zanetti is a ->","completion":" soccer player."}
+{"prompt":"Luka Modric is a ->","completion":" soccer player."}
+{"prompt":"Max Scherzer is a ->","completion":" baseball player."}
+{"prompt":"Mikko Rantanen is a ->","completion":" hockey player."}
+{"prompt":"Philip Rivers is a ->","completion":" baseball player."}
+{"prompt":"James Karinchak is a ->","completion":" baseball player."}
+{"prompt":"Mathew Barzal is a ->","completion":" hockey player."}
+{"prompt":"John Terry is a ->","completion":" soccer player."}
+{"prompt":"Mika Zibanejad is a ->","completion":" soccer player."}
+{"prompt":"Zack Greinke is a ->","completion":" baseball player."}
+{"prompt":"William Nylander is a ->","completion":" hockey player."}
+{"prompt":"Nicklas Backstrom is a ->","completion":" hockey player."}
+{"prompt":"Mitchell Trubisky is a ->","completion":" n American football player."}
+{"prompt":"Kwadwo Asamoah is a ->","completion":" soccer player."}
+{"prompt":"Andres Iniesta is a ->","completion":" soccer player."}
+{"prompt":"DJ Chark is a ->","completion":" football player."}
+{"prompt":"Pierre-Emerick Aubameyang is a ->","completion":" soccer player."}
+{"prompt":"Mecole Hardman is a ->","completion":" football player."}
+{"prompt":"Samir Nasri is a ->","completion":" soccer player."}
+{"prompt":"Khris Middleton is a ->","completion":" basketball player."}
+{"prompt":"Philipp Lahm is a ->","completion":" soccer player."}
+{"prompt":"Patrick Kane is a ->","completion":" hockey player."}
+{"prompt":"Mikal Bridges is a ->","completion":" basketball player."}
+{"prompt":"Allen Robinson is a ->","completion":" football player."}
+{"prompt":"Jakub Vrana is a ->","completion":" hockey player."}
+{"prompt":"Jimmy Butler is a ->","completion":" basketball player."}
+{"prompt":"Pascal Siakam is a ->","completion":" basketball player."}
+{"prompt":"Mitchell Robinson is a ->","completion":" basketball player."}
+{"prompt":"Mike Hoffman is a ->","completion":" hockey player."}
+{"prompt":"Alex Bregman is a ->","completion":" baseball player."}
+{"prompt":"Marcell Ozuna is a ->","completion":" baseball player."}
+{"prompt":"Donovan Mitchell is a ->","completion":" basketball player."}
+{"prompt":"DeMar DeRozan is a ->","completion":" basketball player."}
+{"prompt":"De'Aaron Fox is a ->","completion":" basketball player."}
+{"prompt":"Brad Hand is a ->","completion":" baseball player."}
+{"prompt":"Kyle Tucker is a ->","completion":" baseball player."}
+{"prompt":"Terry McLaurin is a ->","completion":" football player."}
+{"prompt":"Tyler Glasnow is a ->","completion":" baseball player."}
+{"prompt":"Mark Scheifele is a ->","completion":" hockey player."}
+{"prompt":"Ryan O'Reilly is a ->","completion":" hockey player."}
+{"prompt":"Angel Di Maria is a ->","completion":" soccer player."}
+{"prompt":"Andrei Svechnikov is a ->","completion":" hockey player."}
+{"prompt":"Baker Mayfield is a ->","completion":" football player."}
+{"prompt":"Tim Anderson is a ->","completion":" soccer player."}
+{"prompt":"Adam Thielen is a ->","completion":" football player."}
+{"prompt":"Travis Konecny is a ->","completion":" hockey player."}
+{"prompt":"Iker Casillas is a ->","completion":" soccer player."}
+{"prompt":"Kyle Connor is a ->","completion":" hockey player."}
+{"prompt":"Luis Robert is a ->","completion":" baseball player."}
+{"prompt":"Javier Mascherano is a ->","completion":" soccer player."}
+{"prompt":"Chris Boucher is a ->","completion":" basketball player."}
+{"prompt":"Ryan Nugent-Hopkins is a ->","completion":" hockey player."}
+{"prompt":"Michael Thomas is a ->","completion":" basketball player."}
+{"prompt":"Karim Benzema is a ->","completion":" soccer player."}
+{"prompt":"Tyrese Haliburton is a ->","completion":" basketball player."}
+{"prompt":"Wayne Rooney is a ->","completion":" soccer player."}
+{"prompt":"Marouane Fellaini is a ->","completion":" soccer player."}
+{"prompt":"Gerrit Cole is a ->","completion":" baseball player."}
+{"prompt":"Neal Pionk is a ->","completion":" hockey player."}
+{"prompt":"Mike Williams is a ->","completion":" football player."}
+{"prompt":"Timo Meier is a ->","completion":" hockey player."}
+{"prompt":"Franmil Reyes is a ->","completion":" baseball player."}
+{"prompt":"Chris Godwin is a ->","completion":" football player."}
+{"prompt":"Bastian Schweinsteiger is a ->","completion":" soccer player."}
+{"prompt":"Jonathan Marchessault is a ->","completion":" hockey player."}
+{"prompt":"Patrik Laine is a ->","completion":" hockey player."}
+{"prompt":"Daniel Jones is a ->","completion":" American football player."}
+{"prompt":"Javier Pastore is a ->","completion":" soccer player."}
+{"prompt":"Amari Cooper is a ->","completion":" football player."}
+{"prompt":"Ben Simmons is a ->","completion":" basketball player."}
+{"prompt":"Blake Snell is a ->","completion":" baseball player."}
+{"prompt":"Brady Tkachuk is a ->","completion":" hockey player."}
+{"prompt":"Jerry Jeudy is a ->","completion":" football player."}
+{"prompt":"James Harden is a ->","completion":" basketball player."}
+{"prompt":"Toni Kroos is a ->","completion":" soccer player."}
+{"prompt":"Tyler Lockett is a ->","completion":" football player."}
+{"prompt":"Yaya Toure is a ->","completion":" soccer player."}
+{"prompt":"Damian Lillard is a ->","completion":" basketball player."}
+{"prompt":"Jordan Binnington is a ->","completion":" hockey player."}
+{"prompt":"Ozzie Albies is a ->","completion":" baseball player."}
+{"prompt":"Robert Lewandowski is a ->","completion":" soccer player."}
+{"prompt":"David Luiz is a ->","completion":" soccer player."}
+{"prompt":"Marcus Smart is a ->","completion":" basketball player."}
+{"prompt":"Jonas Valanciunas is a ->","completion":" basketball player."}
+{"prompt":"Javier Baez is a ->","completion":" baseball player."}
+{"prompt":"Roman Josi is a ->","completion":" hockey player."}
+{"prompt":"Bo Bichette is a ->","completion":" baseball player."}
+{"prompt":"Jack Eichel is a ->","completion":" hockey player."}
+{"prompt":"Khyri Thomas is a ->","completion":" basketball player."}
+{"prompt":"Ben Roethlisberger is a ->","completion":" football player."}
+{"prompt":"Pete Alonso is a ->","completion":" baseball player."}
+{"prompt":"Jose Altuve is a ->","completion":" baseball player."}
+{"prompt":"Connor McDavid is a ->","completion":" hockey player."}
+{"prompt":"Stephen Strasburg is a ->","completion":" baseball player."}
+{"prompt":"LeBron James is a ->","completion":" basketball player."}
+{"prompt":"Collin Sexton is a ->","completion":" basketball player."}
+{"prompt":"Zach Plesac is a ->","completion":" baseball player."}
+{"prompt":"Christian Eriksen is a ->","completion":" soccer player."}
+{"prompt":"Lamar Jackson is a ->","completion":" football player."}
+{"prompt":"Petr Cech is a ->","completion":" soccer player."}
+{"prompt":"Michael Thomas is a ->","completion":" football player."}
+{"prompt":"Terry Rozier is a ->","completion":" basketball player."}
+{"prompt":"Aaron Nola is a ->","completion":" baseball player."}
+{"prompt":"Adalberto Mondesi is a ->","completion":" baseball player."}
+{"prompt":"Willian is a ->","completion":" soccer player."}
+{"prompt":"Nerlens Noel is a ->","completion":" basketball player."}
+{"prompt":"Al Horford is a ->","completion":" basketball player."}
+{"prompt":"Kenta Maeda is a ->","completion":" baseball player."}
+{"prompt":"George Springer is a ->","completion":" baseball player."}
+{"prompt":"Julio Jones is a ->","completion":" football player."}
+{"prompt":"Kawhi Leonard is a ->","completion":" basketball player."}
+{"prompt":"Mats Hummels is a ->","completion":" soccer player."}
+{"prompt":"Stephan El Shaarawy is a ->","completion":" soccer player."}
+{"prompt":"Kristaps Porzingis is a ->","completion":" basketball player."}
+{"prompt":"A.J. Green is a ->","completion":" football player."}
+{"prompt":"Kyle Palmieri is a ->","completion":" hockey player."}
+{"prompt":"Sean Couturier is a ->","completion":" hockey player."}
+{"prompt":"Juan Mata is a ->","completion":" soccer player."}
+{"prompt":"T.Y. Hilton is a ->","completion":" football player."}
+{"prompt":"Jesus Luzardo is a ->","completion":" baseball player."}
+{"prompt":"Franck Ribery is a ->","completion":" soccer player."}
+{"prompt":"Jonathan Toews is a ->","completion":" hockey player."}
+{"prompt":"Marcelo is a ->","completion":" soccer player."}
+{"prompt":"Delon Wright is a ->","completion":" basketball player."}
+{"prompt":"Moussa Dembele is a ->","completion":" soccer player."}
+{"prompt":"Carlos Correa is a ->","completion":" baseball player."}
+{"prompt":"Henry Ruggs is a ->","completion":" football player."}
+{"prompt":"Miles Bridges is a ->","completion":" basketball player."}
+{"prompt":"Alex Pietrangelo is a ->","completion":" hockey player."}
+{"prompt":"Marquise Brown is a ->","completion":" football player."}
+{"prompt":"Thiago Silva is a ->","completion":" soccer player."}
+{"prompt":"Mike Williams is a ->","completion":" soccer player."}
+{"prompt":"Cristiano Ronaldo is a ->","completion":" soccer player."}
+{"prompt":"Frederik Andersen is a ->","completion":" hockey player."}
+{"prompt":"Joe Burrow is a ->","completion":" American football player."}
+{"prompt":"Bam Adebayo is a ->","completion":" basketball player."}
+{"prompt":"Claude Giroux is a ->","completion":" hockey player."}
+{"prompt":"Tua Tagovailoa is a ->","completion":" football player."}
+{"prompt":"Julian Edelman is a ->","completion":" football player."}
+{"prompt":"J.D. Martinez is a ->","completion":" baseball player."}
+{"prompt":"Kevin Durant is a ->","completion":" basketball player."}
+{"prompt":"Edinson Cavani is a ->","completion":" soccer player."}
+{"prompt":"Fred VanVleet is a ->","completion":" basketball player."}
+{"prompt":"John Collins is a ->","completion":" basketball player."}
+{"prompt":"P.J. Washington is a ->","completion":" basketball player."}
+{"prompt":"AJ Pollock is a ->","completion":" baseball player."}
+{"prompt":"Zach Werenski is a ->","completion":" hockey player."}
+{"prompt":"Nick Castellanos is a ->","completion":" baseball player."}
+{"prompt":"Mathieu Valbuena is a ->","completion":" soccer player."}
+{"prompt":"Hulk is a ->","completion":" soccer player."}
+{"prompt":"Raisel Iglesias is a ->","completion":" baseball player."}
+{"prompt":"Brandon Ingram is a ->","completion":" basketball player."}
+{"prompt":"Morgan Rielly is a ->","completion":" hockey player."}
+{"prompt":"Cooper Kupp is a ->","completion":" football player."}
+{"prompt":"Aaron Judge is a ->","completion":" baseball player."}
+{"prompt":"Kenny Golladay is a ->","completion":" football player."}
+{"prompt":"Brayden Schenn is a ->","completion":" hockey player."}
+{"prompt":"Karl-Anthony Towns is a ->","completion":" basketball player."}
+{"prompt":"Andrea Pirlo is a ->","completion":" soccer player."}
+{"prompt":"Lonzo Ball is a ->","completion":" basketball player."}
+{"prompt":"Fernando Tatis Jr. is a ->","completion":" baseball player."}
+{"prompt":"Mike Conley is a ->","completion":" basketball player."}
+{"prompt":"Matt Chapman is a ->","completion":" baseball player."}
+{"prompt":"Stephen Curry is a ->","completion":" basketball player."}
+{"prompt":"Vladimir Guerrero Jr. is a ->","completion":" baseball player."}
+{"prompt":"Nick Foles is a ->","completion":" American football player."}
+{"prompt":"John Brown is a ->","completion":" football player."}
+{"prompt":"Ben Roethlisberger is a ->","completion":" American football player."}
+{"prompt":"Hyun Jin Ryu is a ->","completion":" baseball player."}
+{"prompt":"Marcus Semien is a ->","completion":" baseball player."}
+{"prompt":"Andrei Vasilevskiy is a ->","completion":" hockey player."}
+{"prompt":"Evander Kane is a ->","completion":" hockey player."}
+{"prompt":"Kris Bryant is a ->","completion":" baseball player."}
+{"prompt":"Ketel Marte is a ->","completion":" baseball player."}
+{"prompt":"T.J. McConnell is a ->","completion":" basketball player."}
+{"prompt":"Daniele De Rossi is a ->","completion":" soccer player."}
+{"prompt":"Ramires is a ->","completion":" soccer player."}
+{"prompt":"Anders Lee is a ->","completion":" hockey player."}
+{"prompt":"Sergio Aguero is a ->","completion":" soccer player."}
+{"prompt":"Darius Garland is a ->","completion":" basketball player."}
+{"prompt":"Devin Booker is a ->","completion":" basketball player."}
+{"prompt":"Pierre-Luc Dubois is a ->","completion":" hockey player."}
+{"prompt":"Yordan Alvarez is a ->","completion":" baseball player."}
+{"prompt":"J.T. Realmuto is a ->","completion":" baseball player."}
+{"prompt":"Ezequiel Lavezzi is a ->","completion":" soccer player."}
+{"prompt":"Kyrie Irving is a ->","completion":" basketball player."}
+{"prompt":"Mike Evans is a ->","completion":" football player."}
+{"prompt":"Robert Woods is a ->","completion":" football player."}
+{"prompt":"Courtland Sutton is a ->","completion":" football player."}
+{"prompt":"Kendrick Nunn is a ->","completion":" basketball player."}
+{"prompt":"Hernanes is a ->","completion":" soccer player."}
+{"prompt":"Pepe is a ->","completion":" soccer player."}
+{"prompt":"Pedro is a ->","completion":" soccer player."}
+{"prompt":"Philip Rivers is a ->","completion":" football player."}
+{"prompt":"Gardner Minshew is a ->","completion":" football player."}
+{"prompt":"Chris Paul is a ->","completion":" basketball player."}
+{"prompt":"Jonathan Huberdeau is a ->","completion":" hockey player."}
+{"prompt":"Johnny Gaudreau is a ->","completion":" hockey player."}
+{"prompt":"Nikola Jokic is a ->","completion":" basketball player."}
+{"prompt":"Justin Herbert is a ->","completion":" football player."}
+{"prompt":"Wesley Sneijder is a ->","completion":" soccer player."}
+{"prompt":"Clint Capela is a ->","completion":" basketball player."}
+{"prompt":"Brandon Woodruff is a ->","completion":" baseball player."}
+{"prompt":"Mason Plumlee is a ->","completion":" basketball player."}
+{"prompt":"David Silva is a ->","completion":" soccer player."}
+{"prompt":"Carter Hart is a ->","completion":" hockey player."}
+{"prompt":"Blake Wheeler is a ->","completion":" hockey player."}
+{"prompt":"David Villa is a ->","completion":" soccer player."}
+{"prompt":"Marco Reus is a ->","completion":" soccer player."}
+{"prompt":"Aleksander Barkov is a ->","completion":" hockey player."}
+{"prompt":"Shinji Kagawa is a ->","completion":" soccer player."}
+{"prompt":"Joe Ingles is a ->","completion":" basketball player."}
+{"prompt":"Xavi is a ->","completion":" soccer player."}
+{"prompt":"Josh Hader is a ->","completion":" baseball player."}
+{"prompt":"Zion Williamson is a ->","completion":" basketball player."}
+{"prompt":"Mario Balotelli is a ->","completion":" soccer player."}
+{"prompt":"Whit Merrifield is a ->","completion":" baseball player."}
+{"prompt":"Lionel Messi is a ->","completion":" soccer player."}
+{"prompt":"Joe Hart is a ->","completion":" soccer player."}
+{"prompt":"Zlatan Ibrahimovic is a ->","completion":" soccer player."}
+{"prompt":"Sergio Busquets is a ->","completion":" soccer player."}
+{"prompt":"Yu Darvish is a ->","completion":" baseball player."}
+{"prompt":"Igor Shesterkin is a ->","completion":" hockey player."}
+{"prompt":"Cesc Fabregas is a ->","completion":" soccer player."}
+{"prompt":"Francisco Lindor is a ->","completion":" baseball player."}
+{"prompt":"Jimmy Garoppolo is a ->","completion":" football player."}
+{"prompt":"Cavan Biggio is a ->","completion":" baseball player."}
+{"prompt":"LaMelo Ball is a ->","completion":" basketball player."}
+{"prompt":"Sebastian Aho is a ->","completion":" hockey player."}
+{"prompt":"Evan Fournier is a ->","completion":" basketball player."}
+{"prompt":"Jarvis Landry is a ->","completion":" football player."}
+{"prompt":"David Pastrnak is a ->","completion":" hockey player."}
+{"prompt":"Fred VanVleet is a ->","completion":" soccer player."}
+{"prompt":"Zach LaVine is a ->","completion":" baseball player."}
+{"prompt":"Anthony Davis is a ->","completion":" basketball player."}
+{"prompt":"Sean Monahan is a ->","completion":" hockey player."}
+{"prompt":"Jared Goff is a ->","completion":" American football player."}
+{"prompt":"Teddy Bridgewater is a ->","completion":" football player."}
+{"prompt":"Myles Turner is a ->","completion":" basketball player."}
+{"prompt":"Aaron Rodgers is a ->","completion":" football player."}
+{"prompt":"Draymond Green is a ->","completion":" basketball player."}
+{"prompt":"Mike Moustakas is a ->","completion":" baseball player."}
+{"prompt":"Mario Gomez is a ->","completion":" soccer player."}
+{"prompt":"Marvin Jones is a ->","completion":" football player."}
+{"prompt":"Drew Brees is a ->","completion":" American football player."}
+{"prompt":"Gareth Bale is a ->","completion":" soccer player."}
+{"prompt":"Ryan Tannehill is a ->","completion":" American football player."}
+{"prompt":"Xander Bogaerts is a ->","completion":" baseball player."}
+{"prompt":"Derek Carr is a ->","completion":" American football player."}
+{"prompt":"Fernandinho is a ->","completion":" soccer player."}
+{"prompt":"Aaron Rodgers is a ->","completion":" American football player."}
+{"prompt":"Mesut Ozil is a ->","completion":" soccer player."}
+{"prompt":"Nazem Kadri is a ->","completion":" hockey player."}
+{"prompt":"Kris Letang is a ->","completion":" hockey player."}
+{"prompt":"Ashley Cole is a ->","completion":" soccer player."}
+{"prompt":"Connor Hellebuyck is a ->","completion":" hockey player."}
+{"prompt":"Giannis Antetokounmpo is a ->","completion":" basketball player."}
+{"prompt":"Russell Westbrook is a ->","completion":" basketball player."}
+{"prompt":"CJ McCollum is a ->","completion":" basketball player."}
+{"prompt":"Chris Kreider is a ->","completion":" hockey player."}
+{"prompt":"Carson Wentz is a ->","completion":" n American football player."}
+{"prompt":"Oscar is a ->","completion":" basketball player."}
+{"prompt":"Teuvo Teravainen is a ->","completion":" hockey player."}
+{"prompt":"Dwayne Haskins is a ->","completion":" American football player."}
+{"prompt":"Tyreek Hill is a ->","completion":" football player."}
+{"prompt":"Being safe at first is part of ->","completion":" baseball."}
+{"prompt":"Scoring a freekick in is part of ->","completion":" soccer."}
+{"prompt":"Scoring a touchdown is part of ->","completion":" football."}
+{"prompt":"Skating behind the net is part of ->","completion":" hockey."}
+{"prompt":"Flying out to center is part of ->","completion":" baseball."}
+{"prompt":"Slant pass is part of ->","completion":" football."}
+{"prompt":"Beating the shot clock is part of ->","completion":" basketball."}
+{"prompt":"Working a full count is part of ->","completion":" baseball."}
+{"prompt":"Hitting a triple is part of ->","completion":" basketball."}
+{"prompt":"Shooting from the six yard line is part of ->","completion":" football."}
+{"prompt":"Taking a left footed shot is part of ->","completion":" soccer."}
+{"prompt":"Striking out the side is part of ->","completion":" baseball."}
+{"prompt":"Catching the back shoulder fade is part of ->","completion":" football."}
+{"prompt":"Changing direction in the backfield is part of ->","completion":" football."}
+{"prompt":"Taking a backhand shot in the Stanley Cup is part of ->","completion":" hockey."}
+{"prompt":"Bricking the three pointer is part of ->","completion":" basketball."}
+{"prompt":"Taking the snap is part of ->","completion":" football."}
+{"prompt":"Screen pass is part of ->","completion":" hockey."}
+{"prompt":"Going one for two from the line is part of ->","completion":" basketball."}
+{"prompt":"Taking a backhand shot in is part of ->","completion":" hockey."}
+{"prompt":"Shooting the puck is part of ->","completion":" hockey."}
+{"prompt":"Going in studs up is part of ->","completion":" soccer."}
+{"prompt":"Three second violations are part of ->","completion":" basketball."}
+{"prompt":"Champions League is part of ->","completion":" soccer."}
+{"prompt":"Being safe at home is part of ->","completion":" baseball."}
+{"prompt":"Being called for the goal tend is part of ->","completion":" basketball."}
+{"prompt":"Hitting the slant pass in is part of ->","completion":" football."}
+{"prompt":"Scoring a freekick is part of ->","completion":" soccer."}
+{"prompt":"Doing a maradona on the defender is part of ->","completion":" soccer."}
+{"prompt":"Committing a three second violation is part of ->","completion":" basketball."}
+{"prompt":"Getting on the end of a through ball is part of ->","completion":" soccer."}
+{"prompt":"Getting a base hit is part of ->","completion":" baseball."}
+{"prompt":"Icing is part of ->","completion":" hockey."}
+{"prompt":"Setting the hard screen is part of ->","completion":" basketball."}
+{"prompt":"Banking the shot in is part of ->","completion":" basketball."}
+{"prompt":"Taking a left footed shot in is part of ->","completion":" soccer."}
+{"prompt":"Studs up is part of ->","completion":" football."}
+{"prompt":"Screen pass is part of ->","completion":" American football."}
+{"prompt":"Throwing a touchdown is part of ->","completion":" football."}
+{"prompt":"Going five hole is part of ->","completion":" hockey."}
+{"prompt":"Backhanding a shot in is part of ->","completion":" hockey."}
+{"prompt":"Scoring a windmill dunk in is part of ->","completion":" basketball."}
+{"prompt":"Being called for icing is part of ->","completion":" hockey."}
+{"prompt":"Shooting with the left foot is part of ->","completion":" soccer."}
+{"prompt":"Scoring a windmill dunk is part of ->","completion":" basketball."}
+{"prompt":"Spending time in the penalty box is part of ->","completion":" hockey."}
+{"prompt":"Scoring a corner kick is part of ->","completion":" soccer."}
+{"prompt":"Goal tending is part of ->","completion":" basketball."}
+{"prompt":"Scoring a bicycle kick in is part of ->","completion":" soccer."}
+{"prompt":"Entering the attacking zone is part of ->","completion":" hockey."}
+{"prompt":"Walking to first base is part of ->","completion":" baseball."}
+{"prompt":"Taking a corner three is part of ->","completion":" basketball."}
+{"prompt":"Scoring a corner kick in is part of ->","completion":" soccer."}
+{"prompt":"Maradona'd is part of ->","completion":" soccer."}
+{"prompt":"Banking the shot in is part of ->","completion":" hockey."}
+{"prompt":"Drawing a flag on the play is part of ->","completion":" football."}
+{"prompt":"Backhanding a shot is part of ->","completion":" hockey."}
+{"prompt":"Committing an offensive foul is part of ->","completion":" basketball."}
+{"prompt":"Driving into the restricted area is part of ->","completion":" basketball."}
+{"prompt":"Performing a slide tackle is part of ->","completion":" soccer."}
+{"prompt":"Safe at home is part of ->","completion":" baseball."}
+{"prompt":"Give and go is part of ->","completion":" basketball."}
+{"prompt":"Taking to the ice is part of ->","completion":" hockey."}
+{"prompt":"Being out at third is part of ->","completion":" baseball."}
+{"prompt":"Being perfect from the line is part of ->","completion":" basketball."}
+{"prompt":"Hitting the back shoulder fade is part of ->","completion":" football."}
+{"prompt":"Committing a blocking foul is part of ->","completion":" basketball."}
+{"prompt":"Killing the powerplay is part of ->","completion":" hockey."}
+{"prompt":"Taking a throw in is part of ->","completion":" soccer."}
+{"prompt":"Hail mary is part of ->","completion":" football."}
+{"prompt":"Hitting into a double play is part of ->","completion":" baseball."}
+{"prompt":"Going for it on fourth down is part of ->","completion":" American football."}
+{"prompt":"Hitting nothing but net is part of ->","completion":" basketball."}
+{"prompt":"Gaining five yards is part of ->","completion":" football."}
+{"prompt":"Studs up is part of ->","completion":" soccer."}
+{"prompt":"Beating the buzzer is part of ->","completion":" basketball."}
+{"prompt":"Earning a red card is part of ->","completion":" soccer."}
+{"prompt":"Hitting a walkoff homer is part of ->","completion":" baseball."}
+{"prompt":"Going five hole in the Stanley Cup is part of ->","completion":" hockey."}
+{"prompt":"Slant pass is part of ->","completion":" American football."}
+{"prompt":"Hitting a double is part of ->","completion":" baseball."}
+{"prompt":"Catching the screen pass is part of ->","completion":" football."}
+{"prompt":"Scoring in the third period is part of ->","completion":" hockey."}
+{"prompt":"Doing a double stepover is part of ->","completion":" soccer."}
+{"prompt":"Scoring the easy layup is part of ->","completion":" basketball."}
+{"prompt":"Hitting the back shoulder fade in is part of ->","completion":" football."}
+{"prompt":"Out at third is part of ->","completion":" baseball."}
+{"prompt":"Eurostepping is part of ->","completion":" basketball."}
+{"prompt":"Passing the puck is part of ->","completion":" hockey."}
+{"prompt":"Getting into the endzone is part of ->","completion":" football."}
+{"prompt":"Taking ball four is part of ->","completion":" baseball."}
+{"prompt":"Blocking foul is part of ->","completion":" basketball."}
+{"prompt":"Being out at second is part of ->","completion":" baseball."}
+{"prompt":"Earning a yellow card is part of ->","completion":" soccer."}
+{"prompt":"Eurostepping to the basket is part of ->","completion":" basketball."}
+{"prompt":"Being caught offsides is part of ->","completion":" soccer."}
+{"prompt":"Handball is part of ->","completion":" soccer."}
+{"prompt":"Earning an indirect kick in is part of ->","completion":" soccer."}
+{"prompt":"Taking the snap in is part of ->","completion":" football."}
+{"prompt":"Taking a charge is part of ->","completion":" hockey."}
+{"prompt":"Driving into the paint is part of ->","completion":" basketball."}
+{"prompt":"Scoring a bicycle kick is part of ->","completion":" soccer."}
+{"prompt":"Beating the buzzer in the NBA Championship is part of ->","completion":" basketball."}
+{"prompt":"Watching the pitch go by is part of ->","completion":" baseball."}
+{"prompt":"Converting the first down is part of ->","completion":" American football."}
+{"prompt":"Converting the double play is part of ->","completion":" baseball."}
+{"prompt":"Throwing to first base is part of ->","completion":" baseball."}
+{"prompt":"The American League Championship Series is part of ->","completion":" baseball."}
+{"prompt":"Scoring in the shootout is part of ->","completion":" hockey."}
+{"prompt":"Nutmegging the defender is part of ->","completion":" soccer."}
+{"prompt":"Earning a direct kick is part of ->","completion":" soccer."}
+{"prompt":"Dunking the ball is part of ->","completion":" basketball."}
+{"prompt":"Scoring a freekick in the World Cup is part of ->","completion":" soccer."}
+{"prompt":"Crossing the blue line is part of ->","completion":" hockey."}
+{"prompt":"Being out at first is part of ->","completion":" baseball."}
+{"prompt":"Launching a triple is part of ->","completion":" basketball."}
+{"prompt":"Committing a handball is part of ->","completion":" soccer."}
+{"prompt":"Safe at first is part of ->","completion":" baseball."}
+{"prompt":"Earning an indirect kick is part of ->","completion":" soccer."}
+{"prompt":"Heading back to the dugout is part of ->","completion":" baseball."}
+{"prompt":"Hitting the buzzer beater is part of ->","completion":" basketball."}
+{"prompt":"Performing a cruyff turn is part of ->","completion":" soccer."}
+{"prompt":"Being flagged on the play is part of ->","completion":" football."}
+{"prompt":"Hitting the back of the rim is part of ->","completion":" basketball."}
+{"prompt":"Pick and roll is part of ->","completion":" basketball."}
+{"prompt":"Stepping on first base is part of ->","completion":" baseball."}
+{"prompt":"Fumbling the ball is part of ->","completion":" football."}
+{"prompt":"Scoring in added time is part of ->","completion":" soccer."}
+{"prompt":"Scoring a penalty kick is part of ->","completion":" soccer."}
+{"prompt":"Being out at home is part of ->","completion":" baseball."}
+{"prompt":"Hitting the wheel route is part of ->","completion":" football."}
+{"prompt":"Swinging to protect the runner is part of ->","completion":" baseball."}
+{"prompt":"Grounding out to second base is part of ->","completion":" baseball."}
+{"prompt":"Scoring a reverse dunk is part of ->","completion":" basketball."}
+{"prompt":"Scoring in extra time is part of ->","completion":" soccer."}
+{"prompt":"Being caught in a rundown is part of ->","completion":" baseball."}
+{"prompt":"Hitting a triple is part of ->","completion":" baseball."}
+{"prompt":"Taking a long two is part of ->","completion":" basketball."}
+{"prompt":"Taking the snap is part of ->","completion":" American football."}
+{"prompt":"Scoring a bicycle kick in the Champions League Final is part of ->","completion":" soccer."}
+{"prompt":"Getting on base is part of ->","completion":" baseball."}
+{"prompt":"Taking a corner kick is part of ->","completion":" soccer."}
+{"prompt":"Screen pass is part of ->","completion":" football."}
+{"prompt":"Skating backwards is part of ->","completion":" hockey."}
+{"prompt":"Taking a three is part of ->","completion":" basketball."}
+{"prompt":"Going for it on fourth down is part of ->","completion":" football."}
+{"prompt":"Shooting from outside the eighteen is part of ->","completion":" soccer."}
+{"prompt":"Wristing a shot is part of ->","completion":" hockey."}
+{"prompt":"Taking a backhand shot is part of ->","completion":" hockey."}
+{"prompt":"Being called for slashing is part of ->","completion":" hockey."}
+{"prompt":"Taking an elbow jumper is part of ->","completion":" basketball."}
+{"prompt":"Shooting from beyond the arc is part of ->","completion":" basketball."}
+{"prompt":"Launching a hail mary is part of ->","completion":" football."}
+{"prompt":"Running out of bounds is part of ->","completion":" football."}
+{"prompt":"Launching the half court shot in is part of ->","completion":" basketball."}
+{"prompt":"Taking a turnaround jumper is part of ->","completion":" basketball."}
+{"prompt":"Pitching a shutout is part of ->","completion":" baseball."}
+{"prompt":"Walking on ball four is part of ->","completion":" baseball."}
+{"prompt":"Throw in is part of ->","completion":" soccer."}
+{"prompt":"Calling for the screen is part of ->","completion":" basketball."}
+{"prompt":"Launching a half court shot in is part of ->","completion":" basketball."}
+{"prompt":"Scoring a bicycle kick in the FA Cup is part of ->","completion":" soccer."}
+{"prompt":"Taking a side-step three is part of ->","completion":" basketball."}
+{"prompt":"Scoring a reverse layup is part of ->","completion":" basketball."}
+{"prompt":"Pitching a complete game is part of ->","completion":" baseball."}
+{"prompt":"Taking a charge is part of ->","completion":" basketball."}
+{"prompt":"Striking out is part of ->","completion":" baseball."}
+{"prompt":"Passing the puck in is part of ->","completion":" hockey."}
+{"prompt":"Launching the desperation heave is part of ->","completion":" basketball."}
+{"prompt":"Earning a trip to the penalty box is part of ->","completion":" hockey."}
+{"prompt":"Losing control of the puck is part of ->","completion":" hockey."}
+{"prompt":"Scoring on the power play is part of ->","completion":" hockey."}
+{"prompt":"Airballing the shot is part of ->","completion":" basketball."}
+{"prompt":"Taking a heat check three is part of ->","completion":" basketball."}
+{"prompt":"Performing a give and go is part of ->","completion":" soccer."}
+{"prompt":"Converting the first down is part of ->","completion":" football."}
+{"prompt":"Scoring a header goal is part of ->","completion":" soccer."}
+{"prompt":"Hitting a homerun is part of ->","completion":" baseball."}
+{"prompt":"Shooting a free throw is part of ->","completion":" basketball."}
+{"prompt":"Hitting a single is part of ->","completion":" baseball."}
+{"prompt":"Setting the hard screen in is part of ->","completion":" basketball."}
+{"prompt":"Q: Is the following sentence plausible? \"William Nylander crossed the blue line.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Nikola Vucevic lost control of the puck.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Anthony Rizzo skated backwards in the Stanley Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Draymond Green took a three.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Neymar took a throw in in the Champions League Final.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Ryan O\\'Reilly wristed a shot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Khyri Thomas\\xc2\\xa0 hit nothing but net.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Marquise Brown hit the wheel route.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Aaron Rodgers scored a freekick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"George Springer committed a blocking foul.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Khris Middleton went one for two from the line in the NBA Championship.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Kristaps Porzingis launched a hail mary.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Kevin Durant hit a walkoff homer.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Tuukka Rask hit a double.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Deshaun Watson was flagged on the play.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Juan Soto spent time in the penalty box.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Manny Machado comitted an offensive foul in the Eastern Conference Finals.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Mario Balotelli hit the wheel route.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Yordan Alvarez was safe at first.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Xander Bogaerts shot the puck.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Daniele De Rossi got a base hit.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Luka Doncic\\xc2\\xa0 scored a reverse layup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Stephen Curry took an elbow jumper.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mike Williams fumbled the ball in the Superbowl.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Freddie Freeman watched the pitch go by.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Bastian Schweinsteiger earned a direct kick.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"George Springer drew a flag on the play.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Terry McLaurin took a long two.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Javier Mascherano wristed a shot.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Mitchell Marner was out at second.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jamal Murray went five hole.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Philip Rivers launched a hail mary.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Seth Jones earned a trip to the penalty box.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mason Plumlee did a maradona on the defender.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Golden Tate was flagged on the play in the NFC championship.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Jayson Tatum was caught offsides in the Champions Leage Semifinal.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Brandon Ingram shot the puck.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Alex Bregman earned an indirect kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Stephen Strasburg performed a cruyff turn.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Gardner Minshew was safe at home.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Donovan Mitchell took a turnaround jumper.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Tyler Boyd hit the screen pass in the NFC divisional round.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mario Gomez scored a reverse layup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Khyri Thomas\\xc2\\xa0 committed a three second violation in the NBA Championship.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"John Carlson fumbled the ball.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jack Eichel got into the endzone.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Kawhi Leonard hit the slant pass.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Marek Hamsik skated behind the net.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Carles Puyol banked the shot in.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Courtland Sutton hit a triple.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"J.T. Miller took a three.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Evgeni Malkin hit a single.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Sam Darnold scored on the power play in the Stanley Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jack Flaherty pitched a shutout in the National League Championship Series.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Tyler Lockett caught the back shoulder fade.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Gardner Minshew was out at second.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Arjen Robben crossed the blue line in the Stanley Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Deandre Ayton shot from beyond the arc.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Radamel Falcao earned an indirect kick.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mookie Betts took a side-step three.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Michael Thomas took the snap.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Jose Altuve was out at first.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Gleyber Torres got a base hit.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"De\\'Aaron Fox airballed the shot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Teuvo Teravainen shot the puck.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Fernandinho converted the first down.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Javier Pastore went five hole.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Eugenio Suarez hit a walkoff homer in the National League Championship Series.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Miro Heiskanen earned a trip to the penalty box.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Claude Giroux killed the powerplay in the Stanley Cup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Michael Porter Jr. called for the screen.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Miles Bridges hit the slant pass in the AFC divisional round.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"David Pastrnak skated backwards.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Wayne Rooney threw a touchdown in the Superbowl.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Mesut Ozil wristed a shot.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Patrice Bergeron converted the first down.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Kwadwo Asamoah was flagged on the play.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Yu Darvish threw to first base.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Chris Kreider got on the end of a through ball.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Pete Alonso hit a homerun.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Adam Thielen got on base.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Yordan Alvarez grounded out to second base.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Whit Merrifield watched the pitch go by in the National League Championship Series.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Luis Suarez got on the end of a through ball.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Bam Adebayo took a turnaround jumper.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Marcell Ozuna shot from the six yard line.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jimmy Butler eurostepped to the basket.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Javi Martinez comitted a three second violation.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Thiago Silva took a backhand shot in the Stanley Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Fernando Tatis Jr. hit a walkoff homer.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Will Fuller hit a walkoff homer.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Carlos Correa headed back to the dugout.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Tyler Boyd airballed the shot.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Nerlens Noel went for it on fourth down.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Philip Rivers hit a triple.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Angel Di Maria got on the end of a through ball in the Champions League Final.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Diego Forlan hit the back shoulder fade in the Superbowl.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Tom Wilson scored a penalty kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Kyle Lowry dunked the ball.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Al Horford scored in the shootout.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Radamel Falcao airballed the shot in the Eastern Conference Finals.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Connor McDavid wristed a shot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Bastian Schweinsteiger scored in added time.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Jonas Valanciunas comitted an offensive foul.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Nikola Jokic passed the puck.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"J.T. Realmuto hit a homerun in the American League Championship Series.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Joey Gallo nutmegged the defender.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Christian Yelich went in studs up in the World Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Trevor Story hit the wheel route in the AFC divisional round.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Yaya Toure scored a freekick.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Sergio Ramos hit nothing but net.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Alex Bregman flew out to center.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Sergio Ramos took a corner three in the Eastern Conference Finals.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Patrice Evra scored in the shootout.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Fred VanVleet was called for the goal tend.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Neymar did a maradona on the defender in the Champions Leage Semifinal.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Vincent Kompany committed a handball.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Jacob Markstrom entered the attacking zone in the Stanley Cup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Luis Suarez fumbled the ball.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Calvin Ridley drove into the paint.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Adam Thielen performed a slide tackle.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Marcell Ozuna took a backhand shot in the Stanley Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Ketel Marte was out at second.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Matt Ryan scored a penalty kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Wayne Rooney beat the buzzer.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Thomas Muller did a double stepover.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Amari Cooper scored a penalty kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Mitchell Marner wristed a shot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Max Pacioretty spent time in the penalty box.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Moussa Dembele gained five yards.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Domantas Sabonis gained five yards in the AFC championship.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Drew Brees was flagged on the play.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Jaylen Brown comitted a three second violation.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Darius Slayton gained five yards.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Jayson Tatum took a side-step three in the NBA Championship.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Freddie Freeman worked a full count.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Sterling Shepard changed direction in the backfield.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Robin Lehner launched a hail mary.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Tuukka Rask killed the powerplay.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Travis Konecny did a maradona on the defender.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jacob Markstrom backhanded a shot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Freddie Freeman scored a bicycle kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jared Goff scored in added time.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Javier Zanetti watched the pitch go by in the National League Championship Series.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Tim Anderson went in studs up in the European Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Caris LeVert scored a reverse layup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Juan Soto scored in the third period.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Brad Hand hit a double.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Carter Hart eurostepped to the basket.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Connor Hellebuyck hit a triple.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jerry Jeudy scored on the power play.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Aleksander Barkov took to the ice.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mark Scheifele skated backwards.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Ben Simmons banked the shot in.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Neymar did a double stepover.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mike Moustakas watched the pitch go by.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Leon Draisaitl grounded out to second base in the National League Championship Series.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Chris Boucher comitted a three second violation.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Didier Drogba earned an indirect kick.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Hulk hit a triple.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jack Flaherty walked to first base in the National League Championship Series.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Dejounte Murray took a left footed shot.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Darijo Srna eurostepped to the basket.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"William Nylander skated behind the net.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"John Carlson entered the attacking zone.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Eugenio Suarez pitched a complete game.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Kyle Tucker pitched a shutout.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Aaron Rodgers was flagged on the play.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Timo Meier nutmegged the defender in the FA Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Josh Hader scored a touchdown.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Malik Beasley\\xc2\\xa0 comitted a three second violation.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Eden Hazard took a corner kick.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"J.D. Martinez hit a homerun.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Anders Lee went in studs up in the Champions League Final.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Matt Chapman hit a walkoff homer.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Samir Nasri performed a cruyff turn.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Jarrett Allen fumbled the ball.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jerry Jeudy caught the back shoulder fade.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Stephen Curry comitted a three second violation.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mike Trout hit a double.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Vladimir Guerrero Jr. walked to first base.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mike Evans ran out of bounds.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Xavi caught the back shoulder fade.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Robert Woods hit a triple.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jamal Murray went one for two from the line in the Eastern Conference Finals.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Manny Machado hit a homerun.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Trae Young committed a blocking foul in the NBA Championship.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mike Trout passed the puck.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Tyler Glasnow threw to first base.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Brady Tkachuk scored a header goal.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jacob deGrom took a corner kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Joey Gallo fumbled the ball.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Mario Balotelli was out at second.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jacob deGrom was flagged on the play.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Carlos Tevez converted the first down.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"AJ Pollock walked to first base in the World Series.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Tyler Glasnow scored a penalty kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"John Carlson scored in the third period.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"George Springer went five hole in the Stanley Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Calvin Ridley skated behind the net.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Tyler Glasnow scored on the power play.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Zack Greinke struck out.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Joao Moutinho was out at third.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Trae Young got into the endzone.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"DK Metcalf launched a hail mary.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Chris Boucher was called for the goal tend.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"David Silva took a throw in.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Julio Jones passed the puck.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Darijo Srna earned a red card.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Sonny Gray flew out to center.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mika Zibanejad passed the puck in the Stanley Cup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Raisel Iglesias drove into the paint.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Miro Heiskanen took to the ice in the Stanley Cup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Adam Thielen hit the screen pass.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Klaas Jan Huntelaar shot with the left foot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Bastian Schweinsteiger did a double stepover.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Francisco Lindor hit a single.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Brandin Cooks caught the screen pass.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mike Moustakas scored a touchdown.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Kris Bryant stepped on first base.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Chris Godwin converted the first down in the AFC divisional round.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Yaya Toure struck out.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Calvin Ridley ran out of bounds in the NFC divisional round.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"John Carlson entered the attacking zone in the Stanley Cup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Sergio Aguero hit the buzzer beater in the NBA Championship.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Calvin Ridley committed a handball.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Joe Burrow was flagged on the play.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Jarvis Landry gained five yards.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Nathan MacKinnon bricked the three pointer in the Eastern Conference Finals.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jamal Murray walked on ball four.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Morgan Rielly swung to protect the runner.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Joe Ingles took a long two.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mitchell Robinson airballed the shot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Connor McDavid scored a penalty kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Patrik Laine skated backwards.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Sean Couturier passed the puck in the Stanley Cup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Franmil Reyes scored a reverse layup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Kyle Palmieri went in studs up.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jaren Jackson Jr. eurostepped to the basket in the NBA Championship.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Hernanes performed a cruyff turn.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Golden Tate set the pick and roll.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Caris LeVert scored a corner kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Eden Hazard walked to first base.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Sebastian Aho scored a touchdown.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Donovan Mitchell fumbled the ball in the AFC championship.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Mike Hoffman launched the half court shot in the Western Conference Finals.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Mike Trout hit a walkoff homer.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Teddy Bridgewater scored on the power play.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Malcolm Brogdon took a charge.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Lonzo Ball took a long two.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Zach LaVine\\xc2\\xa0 airballed the shot in the Western Conference Finals.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Chris Boucher took a side-step three.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Kris Letang lost control of the puck.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Gerrit Cole converted the double play.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Franmil Reyes got on base.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Julio Jones was called for the goal tend.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jesus Luzardo headed back to the dugout.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Kendrick Nunn committed a three second violation.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Kenny Golladay took the snap.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Luke Voit watched the pitch go by in the National League Championship Series.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Javier Zanetti caught the screen pass.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"LaMelo Ball launched the half court shot in the Western Conference Finals.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Corbin Burnes earned an indirect kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Giannis Antetokounmpo threw a touchdown.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Brandon Woodruff walked to first base in the American League Championship Series.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Sean Couturier maradona\\'d the defender.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Yoan Moncada fumbled the ball in the Superbowl.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Michael Thomas hit a double.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Nelson Cruz earned a red card.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Bryce Harper hit the back shoulder fade.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"DeMar DeRozan was called for the goal tend.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Blake Wheeler was called for icing.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Paul Goldschmidt banked the shot in.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Diontae Johnson went for it on fourth down.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"DeMar DeRozan was perfect from the line.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Tristan Jarry dunked the ball.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Norman Powell took a turnaround jumper.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Christian Eriksen scored in extra time.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Collin Sexton took a throw in.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Cesc Fabregas earned a direct kick.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Eugenio Suarez watched the pitch go by.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Ryan Tannehill was flagged on the play.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Robin Lehner took to the ice.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Joey Gallo was perfect from the line.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jordi Alba scored a reverse layup in the Western Conference Finals.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Marcell Ozuna hit a single.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Deandre Ayton was perfect from the line in the Eastern Conference Finals.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Delon Wright went for it on fourth down.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Logan Couture went for it on fourth down.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Max Pacioretty skated backwards.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mike Trout hit the buzzer beater.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Joe Hart eurostepped to the basket.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Kenta Maeda caught the screen pass.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jonathan Marchessault scored on the power play in the Stanley Cup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Nick Castellanos hit nothing but net.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Karl-Anthony Towns took a corner kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Amari Cooper scored a touchdown.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Malcolm Brogdon took a turnaround jumper in the NBA Championship.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Sergio Aguero maradona\\'d the defender.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Ezequiel Lavezzi was out at home in the American League Championship Series.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Arjen Robben earned a direct kick.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Luis Robert was out at second.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Neymar took a backhand shot in the Stanley Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jaylen Brown was called for the goal tend.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Evgeni Malkin passed the puck.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Trevor Bauer stepped on first base.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Victor Wanyama took a left footed shot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Xander Bogaerts eurostepped to the basket.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"DK Metcalf got into the endzone.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Angel Di Maria scored in extra time.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Kailer Yamamoto crossed the blue line.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Zion Williamson scored the easy layup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Brad Hand hit the wheel route.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Neymar went for it on fourth down.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Thiago Silva hit a single.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Adam Thielen scored in added time.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Kyle Lowry was called for slashing.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Marcelo earned a yellow card in the FA Cup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Sam Darnold struck out.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Pierre-Luc Dubois scored in the shootout.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Ben Simmons called for the screen.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Blake Wheeler took a three.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Dejounte Murray took a side-step three.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Karl-Anthony Towns committed a blocking foul.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Santi Cazorla scored a touchdown.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"P.J. Washington pitched a shutout.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Willian took a left footed shot in the Champions League Final.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Ben Simmons set the hard screen in the Western Conference Finals.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mecole Hardman swung to protect the runner in the American League Championship Series.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Nicklas Backstrom earned a trip to the penalty box.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Robert Lewandowski killed the powerplay in the Stanley Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Connor McDavid earned a red card.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Darcy Kuemper scored a bicycle kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Marquise Brown fumbled the ball in the AFC championship.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Edinson Cavani hit nothing but net.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Deandre Ayton set the hard screen in the NBA Championship.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Juan Soto took ball four.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mikal Bridges got into the endzone.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Cristiano Ronaldo converted the first down in the Superbowl.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Javier Mascherano took a left footed shot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Klaas Jan Huntelaar shot the puck.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Marcelo was out at third.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Elias Lindholm took the snap.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Brady Tkachuk was called for slashing.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Freddie Freeman banked the shot in.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Daniel Jones fumbled the ball.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Jack Eichel dunked the ball.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Stephan El Shaarawy shot with the left foot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Terry Rozier\\xc2\\xa0 shot from beyond the arc in the Western Conference Finals.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Javi Martinez earned a red card.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Marouane Fellaini scored in extra time.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"CJ McCollum shot from the six yard line.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Jerami Grant did a double stepover.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Didier Drogba hit nothing but net.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Shinji Kagawa went in studs up.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Alex Bregman hit a triple.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mookie Betts scored on the power play.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Mitchell Trubisky set the pick and roll.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Devin Booker took to the ice.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Petr Cech was safe at first.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Robin Lehner was called for icing.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"John Tavares went five hole.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Brandon Woodruff set the hard screen in the Eastern Conference Finals.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Damian Lillard called for the screen in the Eastern Conference Finals.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Andres Iniesta was called for icing in the Stanley Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Andrew Wiggins airballed the shot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mika Zibanejad went for it on fourth down.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Kevin Durant walked to first base.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Nick Castellanos hit the wheel route.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Keenan Allen drew a flag on the play in the NFC championship.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"David Villa shot a free throw.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Timo Meier took a backhand shot in the Stanley Cup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Caris LeVert scored a reverse dunk.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Anthony Davis beat the buzzer.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Zach Werenski shot the puck.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Evgeni Malkin took a three.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Patrice Bergeron took to the ice.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Aaron Nola converted the first down.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Mike Conley called for the screen.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Wesley Sneijder got on base in the American League Championship Series.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Tom Wilson hit the back shoulder fade.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Franmil Reyes was caught in a rundown.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Brayden Schenn scored a corner kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Kevin Durant scored the easy layup.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Jayson Tatum nutmegged the defender.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Trent Grisham scored a touchdown.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Philipp Lahm threw a touchdown.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"LeBron James took a corner kick.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Blake Wheeler maradona\\'d the defender in the Champions Leage Semifinal.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Marvin Jones lost control of the puck.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Philip Rivers headed back to the dugout.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Pedro was perfect from the line in the Eastern Conference Finals.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Petr Cech bricked the three pointer.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Darius Garland\\xc2\\xa0 shot from beyond the arc.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Connor McDavid threw a touchdown in the NFC divisional round.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Yoan Moncada flew out to center.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Kailer Yamamoto performed a slide tackle in the European Cup.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Shai Gilgeous-Alexander hit nothing but net.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Santi Cazorla called for the screen.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Alex Pietrangelo backhanded a shot.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Mikal Bridges scored a windmill dunk.\"\nA: The answer is ->","completion":" yes."}
+{"prompt":"Q: Is the following sentence plausible? \"Andrei Svechnikov took ball four.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Cale Makar hit into a double play.\"\nA: The answer is ->","completion":" no."}
+{"prompt":"Q: Is the following sentence plausible? \"Myles Turner committed a blocking foul.\"\nA: The answer is ->","completion":" yes."}

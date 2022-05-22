@@ -1,0 +1,200 @@
+{'statement': 'Between Hina Sushi and Amaya Express, the farthest restaurant is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Amaya Express'}
+{'statement': 'Between Tortería San Cosme and Falafel House, the farthest restaurant is Falafel House.', 'answer': 'Falafel House', 'candidate': 'Tortería San Cosme'}
+{'statement': "Between Domino's Pizza and Pho 88, the farthest restaurant is Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': 'Pho 88'}
+{'statement': "Between Thai 4 You Restaurant and Domino's Pizza, the farthest restaurant is Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': 'Thai 4 You Restaurant'}
+{'statement': "Between Nutella Cafe by Pusateri's and Branca, the farthest restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Branca'}
+{'statement': 'Between Pasta Pantry and Topham Corner, the farthest restaurant is Topham Corner.', 'answer': 'Topham Corner', 'candidate': 'Pasta Pantry'}
+{'statement': 'Between St. Clair Shawarma and Falafel and Tian An Cuisine, the farthest restaurant is St. Clair Shawarma and Falafel.', 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Tian An Cuisine'}
+{'statement': 'Between Eggspectation and El Fogón, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'El Fogón'}
+{'statement': 'Between Milestones Restaurants and Viccino Pizzeria, the farthest restaurant is Viccino Pizzeria.', 'answer': 'Viccino Pizzeria', 'candidate': 'Milestones Restaurants'}
+{'statement': 'Between Aroma Espresso Bar and Sheriff Broaster Chicken, the farthest restaurant is Aroma Espresso Bar.', 'answer': 'Aroma Espresso Bar', 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': 'Between Sushi Time Japanese Restaurant and Tik Talk Cafe, the farthest restaurant is Sushi Time Japanese Restaurant.', 'answer': 'Sushi Time Japanese Restaurant', 'candidate': 'Tik Talk Cafe'}
+{'statement': 'Between Falafel House and Supermodel Pizza, the farthest restaurant is Falafel House.', 'answer': 'Falafel House', 'candidate': 'Supermodel Pizza'}
+{'statement': 'Between Freshii and FreshCo, the farthest restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'FreshCo'}
+{'statement': "Between Watson's and Fitness Avenue, the farthest restaurant is Fitness Avenue.", 'answer': 'Fitness Avenue', 'candidate': "Watson's"}
+{'statement': 'Between Eggspectation and The Duke of Devon, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'The Duke of Devon'}
+{'statement': 'Between Amaya Express and Anatolia Restaurant, the farthest restaurant is Anatolia Restaurant.', 'answer': 'Anatolia Restaurant', 'candidate': 'Amaya Express'}
+{'statement': 'Between Grappa Ristorante and Scaddabush Italian Kitchen & Bar, the farthest restaurant is Grappa Ristorante.', 'answer': 'Grappa Ristorante', 'candidate': 'Scaddabush Italian Kitchen & Bar'}
+{'statement': 'Between Ciao Europa wine bar and Sichuan Landscape Chinese Restaurant, the farthest restaurant is Ciao Europa wine bar.', 'answer': 'Ciao Europa wine bar', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': 'Between Ciao Europa wine bar and Sushi Shop, the farthest restaurant is Ciao Europa wine bar.', 'answer': 'Ciao Europa wine bar', 'candidate': 'Sushi Shop'}
+{'statement': 'Between Freshii and Sushi Shop, the farthest restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'Sushi Shop'}
+{'statement': 'Between The Coffee Pocket and Sweet Jesus, the farthest restaurant is The Coffee Pocket.', 'answer': 'The Coffee Pocket', 'candidate': 'Sweet Jesus'}
+{'statement': "Between Sushi Shop and Big Al's Diner, the farthest restaurant is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Sushi Shop'}
+{'statement': "Between Watson's and Mi Mi Restaurant, the farthest restaurant is Mi Mi Restaurant.", 'answer': 'Mi Mi Restaurant', 'candidate': "Watson's"}
+{'statement': "Between Basha Middle Eastern Grill and Harvey's, the farthest restaurant is Harvey's.", 'answer': "Harvey's", 'candidate': 'Basha Middle Eastern Grill'}
+{'statement': "Between Beryl's Pepper Pot and Dinah's Cupboard, the farthest restaurant is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': "Dinah's Cupboard"}
+{'statement': 'Between Tian An Cuisine and Chick Fiesta, the farthest restaurant is Chick Fiesta.', 'answer': 'Chick Fiesta', 'candidate': 'Tian An Cuisine'}
+{'statement': 'Between La Pupusa Loka and Fitness Avenue, the farthest restaurant is Fitness Avenue.', 'answer': 'Fitness Avenue', 'candidate': 'La Pupusa Loka'}
+{'statement': 'Between Tian An Cuisine and z-teca Gourmet Burritos, the farthest restaurant is z-teca Gourmet Burritos.', 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Tian An Cuisine'}
+{'statement': "Between Kim PO Vietnamese and Carole's Cheesecake Cafe, the farthest restaurant is Carole's Cheesecake Cafe.", 'answer': "Carole's Cheesecake Cafe", 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Pasta Pantry and Grappa Ristorante, the farthest restaurant is Grappa Ristorante.', 'answer': 'Grappa Ristorante', 'candidate': 'Pasta Pantry'}
+{'statement': 'Between La Pupusa Loka and Cafe Jules, the farthest restaurant is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'La Pupusa Loka'}
+{'statement': 'Between Sizzlers and Madras Pantry, the farthest restaurant is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'Madras Pantry'}
+{'statement': 'Between Aris Place and Tian An Cuisine, the farthest restaurant is Aris Place.', 'answer': 'Aris Place', 'candidate': 'Tian An Cuisine'}
+{'statement': "Between Big Al's Diner and Basil Express Restaurant, the farthest restaurant is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Basil Express Restaurant'}
+{'statement': "Between Sushi Shop and Smoke's Weinerie, the farthest restaurant is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Sushi Shop'}
+{'statement': "Between 9 Restaurant and Nutella Cafe by Pusateri's, the farthest restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': '9 Restaurant'}
+{'statement': 'Between Cantine Bar & Grill and Pizza Pizza, the farthest restaurant is Pizza Pizza.', 'answer': 'Pizza Pizza', 'candidate': 'Cantine Bar & Grill'}
+{'statement': 'Between Cantine Bar & Grill and Pho 88, the farthest restaurant is Pho 88.', 'answer': 'Pho 88', 'candidate': 'Cantine Bar & Grill'}
+{'statement': 'Between Queen Pita and Evoo Ristorante, the farthest restaurant is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'Evoo Ristorante'}
+{'statement': 'Between Mt Everest Restaurant and Chick Fiesta, the farthest restaurant is Mt Everest Restaurant.', 'answer': 'Mt Everest Restaurant', 'candidate': 'Chick Fiesta'}
+{'statement': 'Between Fit For Life and Capitol Trattoria Pizzeria, the farthest restaurant is Capitol Trattoria Pizzeria.', 'answer': 'Capitol Trattoria Pizzeria', 'candidate': 'Fit For Life'}
+{'statement': 'Between Shawarma Twist and Basha Middle Eastern Grill, the farthest restaurant is Shawarma Twist.', 'answer': 'Shawarma Twist', 'candidate': 'Basha Middle Eastern Grill'}
+{'statement': 'Between Tian An Cuisine and Grappa Ristorante, the farthest restaurant is Grappa Ristorante.', 'answer': 'Grappa Ristorante', 'candidate': 'Tian An Cuisine'}
+{'statement': 'Between Kairali - Taste of Kerala and Verona Restaurant, the farthest restaurant is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': 'Between Popeyes Louisiana Kitchen and Eggspectation, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': 'Between Freshii and Oxygen Restaurant & Lounge, the farthest restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': 'Between Popeyes Louisiana Kitchen and Freshii, the farthest restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': "Between Galata Cafe and McDonald's, the farthest restaurant is Galata Cafe.", 'answer': 'Galata Cafe', 'candidate': "McDonald's"}
+{'statement': 'Between Fit For Life and Thompson Rooftop, the farthest restaurant is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'Fit For Life'}
+{'statement': 'Between Kim PO Vietnamese and Sweet Jesus, the farthest restaurant is Sweet Jesus.', 'answer': 'Sweet Jesus', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Pho 88 and Tian An Cuisine, the farthest restaurant is Pho 88.', 'answer': 'Pho 88', 'candidate': 'Tian An Cuisine'}
+{'statement': "Between Phil's Original BBQ and Watson's, the farthest restaurant is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': "Watson's"}
+{'statement': 'Between JJ Bean and Tortería San Cosme, the farthest restaurant is JJ Bean.', 'answer': 'JJ Bean', 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between Kim PO Vietnamese and Ciao Europa wine bar, the farthest restaurant is Ciao Europa wine bar.', 'answer': 'Ciao Europa wine bar', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Edible Arrangements and Supermodel Pizza, the farthest restaurant is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Supermodel Pizza'}
+{'statement': 'Between Pizzeria Via Mercanti and Sweet Jesus, the farthest restaurant is Pizzeria Via Mercanti.', 'answer': 'Pizzeria Via Mercanti', 'candidate': 'Sweet Jesus'}
+{'statement': 'Between Sheriff Broaster Chicken and Shawarma Twist, the farthest restaurant is Shawarma Twist.', 'answer': 'Shawarma Twist', 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': 'Between Pisco 1641 and JJ Bean, the farthest restaurant is JJ Bean.', 'answer': 'JJ Bean', 'candidate': 'Pisco 1641'}
+{'statement': 'Between Just Soups Take Out & Catering and Adega Restaurante, the farthest restaurant is Adega Restaurante.', 'answer': 'Adega Restaurante', 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': 'Between LCBO and Basil Express Restaurant, the farthest restaurant is LCBO.', 'answer': 'LCBO', 'candidate': 'Basil Express Restaurant'}
+{'statement': "Between Roncy's Bean and Just Soups Take Out & Catering, the farthest restaurant is Roncy's Bean.", 'answer': "Roncy's Bean", 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': 'Between Pizzeria Via Mercanti and Amaya Express, the farthest restaurant is Pizzeria Via Mercanti.', 'answer': 'Pizzeria Via Mercanti', 'candidate': 'Amaya Express'}
+{'statement': 'Between Itamae Ayce Sushi and Eggspectation, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Itamae Ayce Sushi'}
+{'statement': 'Between Adega Restaurante and Tik Talk Cafe, the farthest restaurant is Adega Restaurante.', 'answer': 'Adega Restaurante', 'candidate': 'Tik Talk Cafe'}
+{'statement': "Between Milo's Pita and Pizzeria Via Mercanti, the farthest restaurant is Pizzeria Via Mercanti.", 'answer': 'Pizzeria Via Mercanti', 'candidate': "Milo's Pita"}
+{'statement': 'Between Supermodel Pizza and Cafe Jules, the farthest restaurant is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Supermodel Pizza'}
+{'statement': "Between Chipotle Mexican Grill and Domino's Pizza, the farthest restaurant is Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': 'Chipotle Mexican Grill'}
+{'statement': 'Between Milestones Restaurants and Modo Mio Italian Bistro, the farthest restaurant is Modo Mio Italian Bistro.', 'answer': 'Modo Mio Italian Bistro', 'candidate': 'Milestones Restaurants'}
+{'statement': 'Between Hawthorne Food and Drink and Madras Pantry, the farthest restaurant is Hawthorne Food and Drink.', 'answer': 'Hawthorne Food and Drink', 'candidate': 'Madras Pantry'}
+{'statement': "Between Just Soups Take Out & Catering and Phil's Original BBQ, the farthest restaurant is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': 'Just Soups Take Out & Catering'}
+{'statement': 'Between Eggspectation and Farmacia Health Bar, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Farmacia Health Bar'}
+{'statement': 'Between Ici Bistro and Lebanese Bakery, the farthest restaurant is Ici Bistro.', 'answer': 'Ici Bistro', 'candidate': 'Lebanese Bakery'}
+{'statement': 'Between Pizzeria Via Mercanti and Sushi World, the farthest restaurant is Pizzeria Via Mercanti.', 'answer': 'Pizzeria Via Mercanti', 'candidate': 'Sushi World'}
+{'statement': 'Between Cantine Bar & Grill and Queen Slice, the farthest restaurant is Queen Slice.', 'answer': 'Queen Slice', 'candidate': 'Cantine Bar & Grill'}
+{'statement': 'Between Galata Cafe and Madras Pantry, the farthest restaurant is Galata Cafe.', 'answer': 'Galata Cafe', 'candidate': 'Madras Pantry'}
+{'statement': 'Between Pizzeria Via Mercanti and Kim PO Vietnamese, the farthest restaurant is Pizzeria Via Mercanti.', 'answer': 'Pizzeria Via Mercanti', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Tortería San Cosme and z-teca Gourmet Burritos, the farthest restaurant is z-teca Gourmet Burritos.', 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between Tik Talk Cafe and Ici Bistro, the farthest restaurant is Ici Bistro.', 'answer': 'Ici Bistro', 'candidate': 'Tik Talk Cafe'}
+{'statement': 'Between Eggspectation and Chipotle Mexican Grill, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Chipotle Mexican Grill'}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and St. Clair Shawarma and Falafel, the farthest restaurant is St. Clair Shawarma and Falafel.', 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': 'Between Kibo Sushi House and Eggspectation, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between Nook and Supermodel Pizza, the farthest restaurant is Nook.', 'answer': 'Nook', 'candidate': 'Supermodel Pizza'}
+{'statement': "Between Nutella Cafe by Pusateri's and Amaya Express, the farthest restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Amaya Express'}
+{'statement': "Between Joe Badali's Ristorante Italiano & Bar and Mamma's Pizza, the farthest restaurant is Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': "Mamma's Pizza"}
+{'statement': 'Between Ici Bistro and Chick Fiesta, the farthest restaurant is Ici Bistro.', 'answer': 'Ici Bistro', 'candidate': 'Chick Fiesta'}
+{'statement': 'Between La Pupusa Loka and Verona Restaurant, the farthest restaurant is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'La Pupusa Loka'}
+{'statement': 'Between Marcello’s pizzeria and The Coffee Pocket, the farthest restaurant is The Coffee Pocket.', 'answer': 'The Coffee Pocket', 'candidate': 'Marcello’s pizzeria'}
+{'statement': "Between Big Al's Diner and The Empire, the farthest restaurant is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'The Empire'}
+{'statement': 'Between Cafe Jules and Delicious Paradise Kitchen, the farthest restaurant is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Delicious Paradise Kitchen'}
+{'statement': "Between Bao Bao Plus Dim Sum and Smoke's Weinerie, the farthest restaurant is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': "Between Hina Sushi and It's All Grk, the farthest restaurant is Hina Sushi.", 'answer': 'Hina Sushi', 'candidate': "It's All Grk"}
+{'statement': 'Between Daily Press Juicery and St. Clair Shawarma and Falafel, the farthest restaurant is St. Clair Shawarma and Falafel.', 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Daily Press Juicery'}
+{'statement': 'Between Paradise Farms Prime Beef Bistro and Fitness Avenue, the farthest restaurant is Fitness Avenue.', 'answer': 'Fitness Avenue', 'candidate': 'Paradise Farms Prime Beef Bistro'}
+{'statement': 'Between Sweet Jesus and Freshii, the farthest restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'Sweet Jesus'}
+{'statement': 'Between Modo Mio Italian Bistro and St. Louis Bar & Grill, the farthest restaurant is Modo Mio Italian Bistro.', 'answer': 'Modo Mio Italian Bistro', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': 'Between Sheriff Broaster Chicken and Galata Cafe, the farthest restaurant is Galata Cafe.', 'answer': 'Galata Cafe', 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': 'Between Hina Sushi and El Fogón, the farthest restaurant is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'El Fogón'}
+{'statement': 'Between Banjara Indian Cuisine and Chipotle Mexican Grill, the farthest restaurant is Banjara Indian Cuisine.', 'answer': 'Banjara Indian Cuisine', 'candidate': 'Chipotle Mexican Grill'}
+{'statement': "Between Nutella Cafe by Pusateri's and Solero Mediterranean Bakery, the farthest restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Solero Mediterranean Bakery'}
+{'statement': "Between Warung Indonesia D'Eglinton and Queen Slice, the farthest restaurant is Queen Slice.", 'answer': 'Queen Slice', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': 'Between Aris Place and Breakfast Room, the farthest restaurant is Aris Place.', 'answer': 'Aris Place', 'candidate': 'Breakfast Room'}
+{'statement': 'Between Lebanese Bakery and Mt Everest Restaurant, the farthest restaurant is Mt Everest Restaurant.', 'answer': 'Mt Everest Restaurant', 'candidate': 'Lebanese Bakery'}
+{'statement': "Between Piper's Pub And Grill and Beryl's Pepper Pot, the farthest restaurant is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': "Piper's Pub And Grill"}
+{'statement': 'Between Green Room and Tortería San Cosme, the farthest restaurant is Green Room.', 'answer': 'Green Room', 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between La Pupusa Loka and Eggspectation, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'La Pupusa Loka'}
+{'statement': 'Between Basha Middle Eastern Grill and New Bilan Restaurant, the farthest restaurant is New Bilan Restaurant.', 'answer': 'New Bilan Restaurant', 'candidate': 'Basha Middle Eastern Grill'}
+{'statement': 'Between Eggspectation and Le Papillon Park, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Le Papillon Park'}
+{'statement': 'Between Fit For Life and Topham Corner, the farthest restaurant is Topham Corner.', 'answer': 'Topham Corner', 'candidate': 'Fit For Life'}
+{'statement': 'Between Cafe Jules and Maurya East Indian Roti, the farthest restaurant is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Maurya East Indian Roti'}
+{'statement': "Between It's All Grk and Ici Bistro, the farthest restaurant is Ici Bistro.", 'answer': 'Ici Bistro', 'candidate': "It's All Grk"}
+{'statement': "Between Big Al's Diner and Druxy's Famous Deli, the farthest restaurant is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': "Druxy's Famous Deli"}
+{'statement': "Between Big Al's Diner and Watson's, the farthest restaurant is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': "Watson's"}
+{'statement': "Between Smoke's Weinerie and Fit For Life, the farthest restaurant is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Fit For Life'}
+{'statement': "Between Helena's Magic Kitchen and The Empire, the farthest restaurant is Helena's Magic Kitchen.", 'answer': "Helena's Magic Kitchen", 'candidate': 'The Empire'}
+{'statement': "Between Paradise Farms Prime Beef Bistro and Domino's Pizza, the farthest restaurant is Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': 'Paradise Farms Prime Beef Bistro'}
+{'statement': 'Between Mysteriously Yours Dinner Theatre and Shawarma Twist, the farthest restaurant is Shawarma Twist.', 'answer': 'Shawarma Twist', 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': "Between Carole's Cheesecake Cafe and Lahore Grill & Fast Food, the farthest restaurant is Carole's Cheesecake Cafe.", 'answer': "Carole's Cheesecake Cafe", 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': 'Between Madras Pantry and Milestones Restaurants, the farthest restaurant is Milestones Restaurants.', 'answer': 'Milestones Restaurants', 'candidate': 'Madras Pantry'}
+{'statement': "Between EJ Sushi and Milo's Pita, the farthest restaurant is EJ Sushi.", 'answer': 'EJ Sushi', 'candidate': "Milo's Pita"}
+{'statement': "Between Oxygen Restaurant & Lounge and Piper's Pub And Grill, the farthest restaurant is Oxygen Restaurant & Lounge.", 'answer': 'Oxygen Restaurant & Lounge', 'candidate': "Piper's Pub And Grill"}
+{'statement': 'Between Tierra Azteca and Kim PO Vietnamese, the farthest restaurant is Tierra Azteca.', 'answer': 'Tierra Azteca', 'candidate': 'Kim PO Vietnamese'}
+{'statement': "Between Thompson Rooftop and Warung Indonesia D'Eglinton, the farthest restaurant is Thompson Rooftop.", 'answer': 'Thompson Rooftop', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': 'Between Pasta Pantry and Tik Talk Cafe, the farthest restaurant is Pasta Pantry.', 'answer': 'Pasta Pantry', 'candidate': 'Tik Talk Cafe'}
+{'statement': 'Between Shawarma Twist and Tik Talk Cafe, the farthest restaurant is Shawarma Twist.', 'answer': 'Shawarma Twist', 'candidate': 'Tik Talk Cafe'}
+{'statement': 'Between Taste of Greek Cuisine and Lahore Grill & Fast Food, the farthest restaurant is Taste of Greek Cuisine.', 'answer': 'Taste of Greek Cuisine', 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': "Between Harvey's and Madras Pantry, the farthest restaurant is Harvey's.", 'answer': "Harvey's", 'candidate': 'Madras Pantry'}
+{'statement': 'Between Eggspectation and Tik Talk Cafe, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Tik Talk Cafe'}
+{'statement': 'Between 9 Restaurant and Madras Pantry, the farthest restaurant is 9 Restaurant.', 'answer': '9 Restaurant', 'candidate': 'Madras Pantry'}
+{'statement': 'Between Basha Middle Eastern Grill and Ciao Europa wine bar, the farthest restaurant is Ciao Europa wine bar.', 'answer': 'Ciao Europa wine bar', 'candidate': 'Basha Middle Eastern Grill'}
+{'statement': 'Between Cafe Jules and Milestones Restaurants, the farthest restaurant is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Milestones Restaurants'}
+{'statement': 'Between Aris Place and Supermodel Pizza, the farthest restaurant is Aris Place.', 'answer': 'Aris Place', 'candidate': 'Supermodel Pizza'}
+{'statement': "Between Thompson Rooftop and Mamma's Pizza, the farthest restaurant is Thompson Rooftop.", 'answer': 'Thompson Rooftop', 'candidate': "Mamma's Pizza"}
+{'statement': 'Between Green Room and Sushi Shop, the farthest restaurant is Green Room.', 'answer': 'Green Room', 'candidate': 'Sushi Shop'}
+{'statement': "Between Smoke's Weinerie and Amaya Express, the farthest restaurant is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Amaya Express'}
+{'statement': 'Between Bagel Nash and Mysteriously Yours Dinner Theatre, the farthest restaurant is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': "Between It's All Grk and Nutella Cafe by Pusateri's, the farthest restaurant is Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': "It's All Grk"}
+{'statement': 'Between Aroma Espresso Bar and Bonne Journee, the farthest restaurant is Bonne Journee.', 'answer': 'Bonne Journee', 'candidate': 'Aroma Espresso Bar'}
+{'statement': 'Between Edible Arrangements and Tian An Cuisine, the farthest restaurant is Edible Arrangements.', 'answer': 'Edible Arrangements', 'candidate': 'Tian An Cuisine'}
+{'statement': 'Between Bagel Nash and Goldstone Noodle Restaurant, the farthest restaurant is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': 'Between Verona Restaurant and Sushi Shop, the farthest restaurant is Verona Restaurant.', 'answer': 'Verona Restaurant', 'candidate': 'Sushi Shop'}
+{'statement': 'Between Mövenpick Café and Eggspectation, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Mövenpick Café'}
+{'statement': "Between Milo's Pita and Cake Opera, the farthest restaurant is Cake Opera.", 'answer': 'Cake Opera', 'candidate': "Milo's Pita"}
+{'statement': 'Between Freshii and St. Louis Bar & Grill, the farthest restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': 'Between The Coffee Pocket and Eastern legend, the farthest restaurant is The Coffee Pocket.', 'answer': 'The Coffee Pocket', 'candidate': 'Eastern legend'}
+{'statement': 'Between New Bilan Restaurant and 9 Restaurant, the farthest restaurant is New Bilan Restaurant.', 'answer': 'New Bilan Restaurant', 'candidate': '9 Restaurant'}
+{'statement': "Between The Coffee Pocket and Harry's Char Broil & Dining Lounge, the farthest restaurant is The Coffee Pocket.", 'answer': 'The Coffee Pocket', 'candidate': "Harry's Char Broil & Dining Lounge"}
+{'statement': 'Between Hina Sushi and LCBO, the farthest restaurant is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'LCBO'}
+{'statement': 'Between Kibo Sushi House and Mt Everest Restaurant, the farthest restaurant is Mt Everest Restaurant.', 'answer': 'Mt Everest Restaurant', 'candidate': 'Kibo Sushi House'}
+{'statement': "Between Breakfast Room and McDonald's, the farthest restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'Breakfast Room'}
+{'statement': 'Between Juice & Java Cafe and Aroma Espresso Bar, the farthest restaurant is Aroma Espresso Bar.', 'answer': 'Aroma Espresso Bar', 'candidate': 'Juice & Java Cafe'}
+{'statement': 'Between Kim PO Vietnamese and Eggspectation, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Galata Cafe and Basil Express Restaurant, the farthest restaurant is Galata Cafe.', 'answer': 'Galata Cafe', 'candidate': 'Basil Express Restaurant'}
+{'statement': 'Between Freshii and Cantine Bar & Grill, the farthest restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'Cantine Bar & Grill'}
+{'statement': "Between Ardor Bistro and Warung Indonesia D'Eglinton, the farthest restaurant is Ardor Bistro.", 'answer': 'Ardor Bistro', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': 'Between Cantine Bar & Grill and Falafel House, the farthest restaurant is Falafel House.', 'answer': 'Falafel House', 'candidate': 'Cantine Bar & Grill'}
+{'statement': "Between Smoke's Weinerie and Tortería San Cosme, the farthest restaurant is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between Solero Mediterranean Bakery and z-teca Gourmet Burritos, the farthest restaurant is z-teca Gourmet Burritos.', 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Solero Mediterranean Bakery'}
+{'statement': 'Between LCBO and Kairali - Taste of Kerala, the farthest restaurant is LCBO.', 'answer': 'LCBO', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': 'Between Hapa Toronto and z-teca Gourmet Burritos, the farthest restaurant is z-teca Gourmet Burritos.', 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Hapa Toronto'}
+{'statement': 'Between Bagel Nash and Green Grotto, the farthest restaurant is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Green Grotto'}
+{'statement': "Between McDonald's and Cafe Jules, the farthest restaurant is Cafe Jules.", 'answer': 'Cafe Jules', 'candidate': "McDonald's"}
+{'statement': "Between Beryl's Pepper Pot and El Fogón, the farthest restaurant is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'El Fogón'}
+{'statement': 'Between Basil Express Restaurant and Hina Sushi, the farthest restaurant is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Basil Express Restaurant'}
+{'statement': 'Between Maurya East Indian Roti and Falafel House, the farthest restaurant is Falafel House.', 'answer': 'Falafel House', 'candidate': 'Maurya East Indian Roti'}
+{'statement': 'Between Eggspectation and Tian An Cuisine, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Tian An Cuisine'}
+{'statement': 'Between Pisco 1641 and FreshCo, the farthest restaurant is FreshCo.', 'answer': 'FreshCo', 'candidate': 'Pisco 1641'}
+{'statement': 'Between Milestones Restaurants and Fitness Avenue, the farthest restaurant is Fitness Avenue.', 'answer': 'Fitness Avenue', 'candidate': 'Milestones Restaurants'}
+{'statement': 'Between Kibo Sushi House and LCBO, the farthest restaurant is LCBO.', 'answer': 'LCBO', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between Madras Pantry and Adega Restaurante, the farthest restaurant is Adega Restaurante.', 'answer': 'Adega Restaurante', 'candidate': 'Madras Pantry'}
+{'statement': 'Between FreshCo and Amaya Express, the farthest restaurant is FreshCo.', 'answer': 'FreshCo', 'candidate': 'Amaya Express'}
+{'statement': "Between Farmacia Health Bar and Domino's Pizza, the farthest restaurant is Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': 'Farmacia Health Bar'}
+{'statement': "Between Phil's Original BBQ and Goldstone Noodle Restaurant, the farthest restaurant is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': 'Between Mirage Grill & Lounge and Sky Dragon Chinese Restaurant, the farthest restaurant is Mirage Grill & Lounge.', 'answer': 'Mirage Grill & Lounge', 'candidate': 'Sky Dragon Chinese Restaurant'}
+{'statement': 'Between St. Louis Bar & Grill and Eastern legend, the farthest restaurant is Eastern legend.', 'answer': 'Eastern legend', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': 'Between Bonne Journee and Popeyes Louisiana Kitchen, the farthest restaurant is Bonne Journee.', 'answer': 'Bonne Journee', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': 'Between Eggspectation and Solero Mediterranean Bakery, the farthest restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Solero Mediterranean Bakery'}
+{'statement': 'Between Cake Opera and Sushi Shop, the farthest restaurant is Cake Opera.', 'answer': 'Cake Opera', 'candidate': 'Sushi Shop'}
+{'statement': 'Between Hawthorne Food and Drink and Fit For Life, the farthest restaurant is Hawthorne Food and Drink.', 'answer': 'Hawthorne Food and Drink', 'candidate': 'Fit For Life'}
+{'statement': 'Between Milestones Restaurants and New Bilan Restaurant, the farthest restaurant is New Bilan Restaurant.', 'answer': 'New Bilan Restaurant', 'candidate': 'Milestones Restaurants'}
+{'statement': 'Between St. Clair Shawarma and Falafel and Ardor Bistro, the farthest restaurant is St. Clair Shawarma and Falafel.', 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Ardor Bistro'}
+{'statement': "Between Pisco 1641 and Big Al's Diner, the farthest restaurant is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Pisco 1641'}
+{'statement': 'Between Magic Oven and Hapa Toronto, the farthest restaurant is Magic Oven.', 'answer': 'Magic Oven', 'candidate': 'Hapa Toronto'}
+{'statement': 'Between Tim Hortons and Hina Sushi, the farthest restaurant is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Tim Hortons'}
+{'statement': 'Between Mövenpick Café and Breakfast Room, the farthest restaurant is Mövenpick Café.', 'answer': 'Mövenpick Café', 'candidate': 'Breakfast Room'}
+{'statement': "Between z-teca Gourmet Burritos and Watson's, the farthest restaurant is z-teca Gourmet Burritos.", 'answer': 'z-teca Gourmet Burritos', 'candidate': "Watson's"}
+{'statement': 'Between Hina Sushi and Villa Madina, the farthest restaurant is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Villa Madina'}
+{'statement': "Between Beryl's Pepper Pot and Paradise Farms Prime Beef Bistro, the farthest restaurant is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'Paradise Farms Prime Beef Bistro'}
+{'statement': "Between Mi Mi Restaurant and Piper's Pub And Grill, the farthest restaurant is Mi Mi Restaurant.", 'answer': 'Mi Mi Restaurant', 'candidate': "Piper's Pub And Grill"}
+{'statement': 'Between Grappa Ristorante and KFC, the farthest restaurant is Grappa Ristorante.', 'answer': 'Grappa Ristorante', 'candidate': 'KFC'}
+{'statement': 'Between 9 Restaurant and Tian An Cuisine, the farthest restaurant is 9 Restaurant.', 'answer': '9 Restaurant', 'candidate': 'Tian An Cuisine'}
+{'statement': 'Between The Empire and Hawthorne Food and Drink, the farthest restaurant is Hawthorne Food and Drink.', 'answer': 'Hawthorne Food and Drink', 'candidate': 'The Empire'}
+{'statement': "Between Hina Sushi and Dangerous Dan's Diner, the farthest restaurant is Hina Sushi.", 'answer': 'Hina Sushi', 'candidate': "Dangerous Dan's Diner"}
+{'statement': "Between Piper's Pub And Grill and FreshCo, the farthest restaurant is FreshCo.", 'answer': 'FreshCo', 'candidate': "Piper's Pub And Grill"}
+{'statement': 'Between Grappa Ristorante and Supermodel Pizza, the farthest restaurant is Grappa Ristorante.', 'answer': 'Grappa Ristorante', 'candidate': 'Supermodel Pizza'}
+{'statement': "Between Assembly Chef's Hall and The Duke of Devon, the farthest restaurant is Assembly Chef's Hall.", 'answer': "Assembly Chef's Hall", 'candidate': 'The Duke of Devon'}
+{'statement': 'Between Bagel Nash and Thai 4 You Restaurant, the farthest restaurant is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Thai 4 You Restaurant'}
+{'statement': "Between Druxy's Famous Deli and Mysteriously Yours Dinner Theatre, the farthest restaurant is Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': 'Between Juice & Java Cafe and Bake Island, the farthest restaurant is Bake Island.', 'answer': 'Bake Island', 'candidate': 'Juice & Java Cafe'}
+{'statement': "Between Phil's Original BBQ and Breakfast Room, the farthest restaurant is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': 'Breakfast Room'}
+{'statement': 'Between New Bilan Restaurant and Le Papillon Park, the farthest restaurant is New Bilan Restaurant.', 'answer': 'New Bilan Restaurant', 'candidate': 'Le Papillon Park'}

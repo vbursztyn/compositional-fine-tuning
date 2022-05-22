@@ -1,0 +1,200 @@
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and Cake Opera, the restaurant with lower price is Sichuan Landscape Chinese Restaurant.', 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'Cake Opera'}
+{'statement': 'Between Green Room and Chipotle Mexican Grill, the restaurant with lower price is Green Room.', 'answer': 'Green Room', 'candidate': 'Chipotle Mexican Grill'}
+{'statement': 'Between Adega Restaurante and Pizzeria Via Mercanti, the restaurant with lower price is Pizzeria Via Mercanti.', 'answer': 'Pizzeria Via Mercanti', 'candidate': 'Adega Restaurante'}
+{'statement': 'Between Itamae Ayce Sushi and Sizzlers, the restaurant with lower price is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'Itamae Ayce Sushi'}
+{'statement': 'Between Amaya Express and Oxygen Restaurant & Lounge, the restaurant with lower price is Amaya Express.', 'answer': 'Amaya Express', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': 'Between Eggspectation and Fitness Avenue, the restaurant with lower price is Fitness Avenue.', 'answer': 'Fitness Avenue', 'candidate': 'Eggspectation'}
+{'statement': 'Between Evoo Ristorante and 9 Restaurant, the restaurant with lower price is 9 Restaurant.', 'answer': '9 Restaurant', 'candidate': 'Evoo Ristorante'}
+{'statement': "Between Banjara Indian Cuisine and Smoke's Weinerie, the restaurant with lower price is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Banjara Indian Cuisine'}
+{'statement': "Between EJ Sushi and Druxy's Famous Deli, the restaurant with lower price is Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': 'EJ Sushi'}
+{'statement': 'Between Branca and FreshCo, the restaurant with lower price is FreshCo.', 'answer': 'FreshCo', 'candidate': 'Branca'}
+{'statement': 'Between Bagel Nash and Ciao Europa wine bar, the restaurant with lower price is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Ciao Europa wine bar'}
+{'statement': "Between Falafel House and Carole's Cheesecake Cafe, the restaurant with lower price is Falafel House.", 'answer': 'Falafel House', 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': "Between Phil's Original BBQ and Nutella Cafe by Pusateri's, the restaurant with lower price is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Magic Oven and Solero Mediterranean Bakery, the restaurant with lower price is Solero Mediterranean Bakery.', 'answer': 'Solero Mediterranean Bakery', 'candidate': 'Magic Oven'}
+{'statement': 'Between Sushi Time Japanese Restaurant and Madras Pantry, the restaurant with lower price is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'Sushi Time Japanese Restaurant'}
+{'statement': 'Between Kibo Sushi House and Galata Cafe, the restaurant with lower price is Kibo Sushi House.', 'answer': 'Kibo Sushi House', 'candidate': 'Galata Cafe'}
+{'statement': 'Between Branca and Kairali - Taste of Kerala, the restaurant with lower price is Kairali - Taste of Kerala.', 'answer': 'Kairali - Taste of Kerala', 'candidate': 'Branca'}
+{'statement': 'Between Mirage Grill & Lounge and Maurya East Indian Roti, the restaurant with lower price is Maurya East Indian Roti.', 'answer': 'Maurya East Indian Roti', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': 'Between Aroma Espresso Bar and Fit For Life, the restaurant with lower price is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'Aroma Espresso Bar'}
+{'statement': 'Between Solero Mediterranean Bakery and Kairali - Taste of Kerala, the restaurant with lower price is Solero Mediterranean Bakery.', 'answer': 'Solero Mediterranean Bakery', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': "Between Dinah's Cupboard and Domino's Pizza, the restaurant with lower price is Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': "Dinah's Cupboard"}
+{'statement': "Between EJ Sushi and Smoke's Weinerie, the restaurant with lower price is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'EJ Sushi'}
+{'statement': 'Between Chipotle Mexican Grill and Cafe Jules, the restaurant with lower price is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Chipotle Mexican Grill'}
+{'statement': 'Between Goldstone Noodle Restaurant and Mirage Grill & Lounge, the restaurant with lower price is Goldstone Noodle Restaurant.', 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': 'Between Thai 4 You Restaurant and Goldstone Noodle Restaurant, the restaurant with lower price is Goldstone Noodle Restaurant.', 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'Thai 4 You Restaurant'}
+{'statement': 'Between Viccino Pizzeria and KFC, the restaurant with lower price is KFC.', 'answer': 'KFC', 'candidate': 'Viccino Pizzeria'}
+{'statement': 'Between Chipotle Mexican Grill and Ici Bistro, the restaurant with lower price is Chipotle Mexican Grill.', 'answer': 'Chipotle Mexican Grill', 'candidate': 'Ici Bistro'}
+{'statement': 'Between Viccino Pizzeria and Queen Pita, the restaurant with lower price is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'Viccino Pizzeria'}
+{'statement': 'Between Paradise Farms Prime Beef Bistro and Shawarma Twist, the restaurant with lower price is Shawarma Twist.', 'answer': 'Shawarma Twist', 'candidate': 'Paradise Farms Prime Beef Bistro'}
+{'statement': "Between McDonald's and Harvey's, the restaurant with lower price is McDonald's.", 'answer': "McDonald's", 'candidate': "Harvey's"}
+{'statement': 'Between z-teca Gourmet Burritos and Lahore Grill & Fast Food, the restaurant with lower price is Lahore Grill & Fast Food.', 'answer': 'Lahore Grill & Fast Food', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': 'Between Cantine Bar & Grill and Branca, the restaurant with lower price is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Branca'}
+{'statement': 'Between Sizzlers and Kairali - Taste of Kerala, the restaurant with lower price is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': 'Between Thai 4 You Restaurant and Aris Place, the restaurant with lower price is Aris Place.', 'answer': 'Aris Place', 'candidate': 'Thai 4 You Restaurant'}
+{'statement': "Between Le Papillon Park and Big Al's Diner, the restaurant with lower price is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Le Papillon Park'}
+{'statement': 'Between Thai 4 You Restaurant and Cake Opera, the restaurant with lower price is Thai 4 You Restaurant.', 'answer': 'Thai 4 You Restaurant', 'candidate': 'Cake Opera'}
+{'statement': 'Between Grappa Ristorante and Kairali - Taste of Kerala, the restaurant with lower price is Kairali - Taste of Kerala.', 'answer': 'Kairali - Taste of Kerala', 'candidate': 'Grappa Ristorante'}
+{'statement': 'Between Pho 88 and El Fogón, the restaurant with lower price is Pho 88.', 'answer': 'Pho 88', 'candidate': 'El Fogón'}
+{'statement': 'Between Cantine Bar & Grill and Mysteriously Yours Dinner Theatre, the restaurant with lower price is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': 'Between The Coffee Pocket and Hapa Toronto, the restaurant with lower price is The Coffee Pocket.', 'answer': 'The Coffee Pocket', 'candidate': 'Hapa Toronto'}
+{'statement': 'Between Galata Cafe and To-ne Sushi, the restaurant with lower price is To-ne Sushi.', 'answer': 'To-ne Sushi', 'candidate': 'Galata Cafe'}
+{'statement': "Between Harry's Char Broil & Dining Lounge and Sizzlers, the restaurant with lower price is Sizzlers.", 'answer': 'Sizzlers', 'candidate': "Harry's Char Broil & Dining Lounge"}
+{'statement': 'Between Sushi Shop and Green Room, the restaurant with lower price is Green Room.', 'answer': 'Green Room', 'candidate': 'Sushi Shop'}
+{'statement': 'Between Falafel Hut Village and Farmacia Health Bar, the restaurant with lower price is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'Farmacia Health Bar'}
+{'statement': 'Between Cake Opera and Aris Place, the restaurant with lower price is Aris Place.', 'answer': 'Aris Place', 'candidate': 'Cake Opera'}
+{'statement': 'Between Buk Chang Dong Soon Tofu and Pisco 1641, the restaurant with lower price is Buk Chang Dong Soon Tofu.', 'answer': 'Buk Chang Dong Soon Tofu', 'candidate': 'Pisco 1641'}
+{'statement': 'Between Aris Place and Ardor Bistro, the restaurant with lower price is Aris Place.', 'answer': 'Aris Place', 'candidate': 'Ardor Bistro'}
+{'statement': 'Between Pizza Pizza and Pisco 1641, the restaurant with lower price is Pizza Pizza.', 'answer': 'Pizza Pizza', 'candidate': 'Pisco 1641'}
+{'statement': "Between New Bilan Restaurant and Assembly Chef's Hall, the restaurant with lower price is New Bilan Restaurant.", 'answer': 'New Bilan Restaurant', 'candidate': "Assembly Chef's Hall"}
+{'statement': 'Between Tim Hortons and St. Louis Bar & Grill, the restaurant with lower price is Tim Hortons.', 'answer': 'Tim Hortons', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': "Between McDonald's and Anatolia Restaurant, the restaurant with lower price is McDonald's.", 'answer': "McDonald's", 'candidate': 'Anatolia Restaurant'}
+{'statement': "Between Nutella Cafe by Pusateri's and Tik Talk Cafe, the restaurant with lower price is Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Fit For Life and Mirage Grill & Lounge, the restaurant with lower price is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': "Between Dangerous Dan's Diner and Druxy's Famous Deli, the restaurant with lower price is Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': "Dangerous Dan's Diner"}
+{'statement': 'Between The Coffee Pocket and Verona Restaurant, the restaurant with lower price is The Coffee Pocket.', 'answer': 'The Coffee Pocket', 'candidate': 'Verona Restaurant'}
+{'statement': "Between Mysteriously Yours Dinner Theatre and Smoke's Weinerie, the restaurant with lower price is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': "Between Pizzeria Via Mercanti and Milo's Pita, the restaurant with lower price is Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and Anatolia Restaurant, the restaurant with lower price is Anatolia Restaurant.', 'answer': 'Anatolia Restaurant', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': 'Between Hina Sushi and Verona Restaurant, the restaurant with lower price is Hina Sushi.', 'answer': 'Hina Sushi', 'candidate': 'Verona Restaurant'}
+{'statement': 'Between Fit For Life and Ici Bistro, the restaurant with lower price is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'Ici Bistro'}
+{'statement': 'Between Fit For Life and LCBO, the restaurant with lower price is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'LCBO'}
+{'statement': "Between Cake Opera and Dangerous Dan's Diner, the restaurant with lower price is Dangerous Dan's Diner.", 'answer': "Dangerous Dan's Diner", 'candidate': 'Cake Opera'}
+{'statement': 'Between Cafe Jules and Cantine Bar & Grill, the restaurant with lower price is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Cantine Bar & Grill'}
+{'statement': "Between Helena's Magic Kitchen and Dangerous Dan's Diner, the restaurant with lower price is Helena's Magic Kitchen.", 'answer': "Helena's Magic Kitchen", 'candidate': "Dangerous Dan's Diner"}
+{'statement': "Between Hapa Toronto and Big Al's Diner, the restaurant with lower price is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Hapa Toronto'}
+{'statement': "Between Lebanese Bakery and Dinah's Cupboard, the restaurant with lower price is Lebanese Bakery.", 'answer': 'Lebanese Bakery', 'candidate': "Dinah's Cupboard"}
+{'statement': 'Between Top Sushi and EJ Sushi, the restaurant with lower price is Top Sushi.', 'answer': 'Top Sushi', 'candidate': 'EJ Sushi'}
+{'statement': 'Between Ardor Bistro and Mirage Grill & Lounge, the restaurant with lower price is Ardor Bistro.', 'answer': 'Ardor Bistro', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': 'Between To-ne Sushi and Buk Chang Dong Soon Tofu, the restaurant with lower price is Buk Chang Dong Soon Tofu.', 'answer': 'Buk Chang Dong Soon Tofu', 'candidate': 'To-ne Sushi'}
+{'statement': 'Between Banjara Indian Cuisine and Solero Mediterranean Bakery, the restaurant with lower price is Solero Mediterranean Bakery.', 'answer': 'Solero Mediterranean Bakery', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': "Between It's All Grk and Green Room, the restaurant with lower price is Green Room.", 'answer': 'Green Room', 'candidate': "It's All Grk"}
+{'statement': 'Between Top Sushi and Hina Sushi, the restaurant with lower price is Top Sushi.', 'answer': 'Top Sushi', 'candidate': 'Hina Sushi'}
+{'statement': 'Between El Fogón and Mi Mi Restaurant, the restaurant with lower price is Mi Mi Restaurant.', 'answer': 'Mi Mi Restaurant', 'candidate': 'El Fogón'}
+{'statement': 'Between The Coffee Pocket and Anatolia Restaurant, the restaurant with lower price is The Coffee Pocket.', 'answer': 'The Coffee Pocket', 'candidate': 'Anatolia Restaurant'}
+{'statement': 'Between Shawarma Twist and Tierra Azteca, the restaurant with lower price is Shawarma Twist.', 'answer': 'Shawarma Twist', 'candidate': 'Tierra Azteca'}
+{'statement': "Between Warung Indonesia D'Eglinton and Lahore Grill & Fast Food, the restaurant with lower price is Lahore Grill & Fast Food.", 'answer': 'Lahore Grill & Fast Food', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': "Between Sichuan Landscape Chinese Restaurant and Milo's Pita, the restaurant with lower price is Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': 'Between Sushi World and Branca, the restaurant with lower price is Sushi World.', 'answer': 'Sushi World', 'candidate': 'Branca'}
+{'statement': "Between McDonald's and Thai 4 You Restaurant, the restaurant with lower price is McDonald's.", 'answer': "McDonald's", 'candidate': 'Thai 4 You Restaurant'}
+{'statement': 'Between Queen Pita and Pisco 1641, the restaurant with lower price is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'Pisco 1641'}
+{'statement': 'Between Eggspectation and Supermodel Pizza, the restaurant with lower price is Supermodel Pizza.', 'answer': 'Supermodel Pizza', 'candidate': 'Eggspectation'}
+{'statement': "Between Pizza Pizza and Warung Indonesia D'Eglinton, the restaurant with lower price is Pizza Pizza.", 'answer': 'Pizza Pizza', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': 'Between Edible Arrangements and Tim Hortons, the restaurant with lower price is Tim Hortons.', 'answer': 'Tim Hortons', 'candidate': 'Edible Arrangements'}
+{'statement': 'Between Tim Hortons and Lebanese Bakery, the restaurant with lower price is Tim Hortons.', 'answer': 'Tim Hortons', 'candidate': 'Lebanese Bakery'}
+{'statement': 'Between Falafel House and Pisco 1641, the restaurant with lower price is Falafel House.', 'answer': 'Falafel House', 'candidate': 'Pisco 1641'}
+{'statement': 'Between Mysteriously Yours Dinner Theatre and Magic Oven, the restaurant with lower price is Magic Oven.', 'answer': 'Magic Oven', 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': 'Between Lahore Grill & Fast Food and LCBO, the restaurant with lower price is Lahore Grill & Fast Food.', 'answer': 'Lahore Grill & Fast Food', 'candidate': 'LCBO'}
+{'statement': 'Between Tortería San Cosme and Madras Pantry, the restaurant with lower price is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between Le Papillon Park and Hapa Toronto, the restaurant with lower price is Le Papillon Park.', 'answer': 'Le Papillon Park', 'candidate': 'Hapa Toronto'}
+{'statement': 'Between Freshii and The Empire, the restaurant with lower price is The Empire.', 'answer': 'The Empire', 'candidate': 'Freshii'}
+{'statement': "Between The Duke of Devon and Druxy's Famous Deli, the restaurant with lower price is Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': 'The Duke of Devon'}
+{'statement': "Between Druxy's Famous Deli and Piper's Pub And Grill, the restaurant with lower price is Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': "Piper's Pub And Grill"}
+{'statement': 'Between Sky Dragon Chinese Restaurant and Thompson Rooftop, the restaurant with lower price is Sky Dragon Chinese Restaurant.', 'answer': 'Sky Dragon Chinese Restaurant', 'candidate': 'Thompson Rooftop'}
+{'statement': "Between Milo's Pita and Sky Dragon Chinese Restaurant, the restaurant with lower price is Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Sky Dragon Chinese Restaurant'}
+{'statement': 'Between Thompson Rooftop and The Empire, the restaurant with lower price is The Empire.', 'answer': 'The Empire', 'candidate': 'Thompson Rooftop'}
+{'statement': 'Between Juice & Java Cafe and Bonne Journee, the restaurant with lower price is Bonne Journee.', 'answer': 'Bonne Journee', 'candidate': 'Juice & Java Cafe'}
+{'statement': "Between Smoke's Weinerie and Maurya East Indian Roti, the restaurant with lower price is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Maurya East Indian Roti'}
+{'statement': 'Between Sky Dragon Chinese Restaurant and Adega Restaurante, the restaurant with lower price is Sky Dragon Chinese Restaurant.', 'answer': 'Sky Dragon Chinese Restaurant', 'candidate': 'Adega Restaurante'}
+{'statement': "Between Big Al's Diner and Sichuan Landscape Chinese Restaurant, the restaurant with lower price is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': 'Between The Duke of Devon and Fitness Avenue, the restaurant with lower price is Fitness Avenue.', 'answer': 'Fitness Avenue', 'candidate': 'The Duke of Devon'}
+{'statement': 'Between The Empire and Taste of Greek Cuisine, the restaurant with lower price is The Empire.', 'answer': 'The Empire', 'candidate': 'Taste of Greek Cuisine'}
+{'statement': 'Between Top Sushi and Taste of Greek Cuisine, the restaurant with lower price is Top Sushi.', 'answer': 'Top Sushi', 'candidate': 'Taste of Greek Cuisine'}
+{'statement': 'Between Tierra Azteca and Sweet Jesus, the restaurant with lower price is Sweet Jesus.', 'answer': 'Sweet Jesus', 'candidate': 'Tierra Azteca'}
+{'statement': "Between Ici Bistro and Phil's Original BBQ, the restaurant with lower price is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': 'Ici Bistro'}
+{'statement': 'Between Chick Fiesta and Milestones Restaurants, the restaurant with lower price is Chick Fiesta.', 'answer': 'Chick Fiesta', 'candidate': 'Milestones Restaurants'}
+{'statement': "Between Helena's Magic Kitchen and Bao Bao Plus Dim Sum, the restaurant with lower price is Helena's Magic Kitchen.", 'answer': "Helena's Magic Kitchen", 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': 'Between Adega Restaurante and Kairali - Taste of Kerala, the restaurant with lower price is Kairali - Taste of Kerala.', 'answer': 'Kairali - Taste of Kerala', 'candidate': 'Adega Restaurante'}
+{'statement': "Between It's All Grk and Shawarma Twist, the restaurant with lower price is Shawarma Twist.", 'answer': 'Shawarma Twist', 'candidate': "It's All Grk"}
+{'statement': 'Between Scaddabush Italian Kitchen & Bar and Mirage Grill & Lounge, the restaurant with lower price is Scaddabush Italian Kitchen & Bar.', 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': "Between Dangerous Dan's Diner and Just Soups Take Out & Catering, the restaurant with lower price is Just Soups Take Out & Catering.", 'answer': 'Just Soups Take Out & Catering', 'candidate': "Dangerous Dan's Diner"}
+{'statement': 'Between Solero Mediterranean Bakery and Paradise Farms Prime Beef Bistro, the restaurant with lower price is Solero Mediterranean Bakery.', 'answer': 'Solero Mediterranean Bakery', 'candidate': 'Paradise Farms Prime Beef Bistro'}
+{'statement': "Between Joe Badali's Ristorante Italiano & Bar and Sweet Jesus, the restaurant with lower price is Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': 'Between Grappa Ristorante and Basil Express Restaurant, the restaurant with lower price is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'Grappa Ristorante'}
+{'statement': 'Between Delicious Paradise Kitchen and Viccino Pizzeria, the restaurant with lower price is Delicious Paradise Kitchen.', 'answer': 'Delicious Paradise Kitchen', 'candidate': 'Viccino Pizzeria'}
+{'statement': 'Between Mysteriously Yours Dinner Theatre and Hapa Toronto, the restaurant with lower price is Hapa Toronto.', 'answer': 'Hapa Toronto', 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': 'Between To-ne Sushi and Pizza Pizza, the restaurant with lower price is Pizza Pizza.', 'answer': 'Pizza Pizza', 'candidate': 'To-ne Sushi'}
+{'statement': 'Between Madras Pantry and Kibo Sushi House, the restaurant with lower price is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between Adega Restaurante and Tortería San Cosme, the restaurant with lower price is Tortería San Cosme.', 'answer': 'Tortería San Cosme', 'candidate': 'Adega Restaurante'}
+{'statement': 'Between Tik Talk Cafe and Oxygen Restaurant & Lounge, the restaurant with lower price is Tik Talk Cafe.', 'answer': 'Tik Talk Cafe', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': 'Between Ici Bistro and Mövenpick Café, the restaurant with lower price is Mövenpick Café.', 'answer': 'Mövenpick Café', 'candidate': 'Ici Bistro'}
+{'statement': "Between Nutella Cafe by Pusateri's and Basil Express Restaurant, the restaurant with lower price is Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Lahore Grill & Fast Food and Sushi Shop, the restaurant with lower price is Lahore Grill & Fast Food.', 'answer': 'Lahore Grill & Fast Food', 'candidate': 'Sushi Shop'}
+{'statement': 'Between Sushi World and Kairali - Taste of Kerala, the restaurant with lower price is Sushi World.', 'answer': 'Sushi World', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': 'Between Adega Restaurante and Ciao Europa wine bar, the restaurant with lower price is Ciao Europa wine bar.', 'answer': 'Ciao Europa wine bar', 'candidate': 'Adega Restaurante'}
+{'statement': 'Between Queen Slice and Farmacia Health Bar, the restaurant with lower price is Queen Slice.', 'answer': 'Queen Slice', 'candidate': 'Farmacia Health Bar'}
+{'statement': 'Between Goldstone Noodle Restaurant and The Duke of Devon, the restaurant with lower price is Goldstone Noodle Restaurant.', 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'The Duke of Devon'}
+{'statement': 'Between Tim Hortons and Galata Cafe, the restaurant with lower price is Tim Hortons.', 'answer': 'Tim Hortons', 'candidate': 'Galata Cafe'}
+{'statement': "Between Falafel House and Nutella Cafe by Pusateri's, the restaurant with lower price is Falafel House.", 'answer': 'Falafel House', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Bagel Nash and Cantine Bar & Grill, the restaurant with lower price is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Cantine Bar & Grill'}
+{'statement': 'Between Itamae Ayce Sushi and Mysteriously Yours Dinner Theatre, the restaurant with lower price is Itamae Ayce Sushi.', 'answer': 'Itamae Ayce Sushi', 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': 'Between Juice & Java Cafe and Falafel Hut Village, the restaurant with lower price is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'Juice & Java Cafe'}
+{'statement': 'Between Mövenpick Café and Mi Mi Restaurant, the restaurant with lower price is Mi Mi Restaurant.', 'answer': 'Mi Mi Restaurant', 'candidate': 'Mövenpick Café'}
+{'statement': 'Between Delicious Paradise Kitchen and Freshii, the restaurant with lower price is Delicious Paradise Kitchen.', 'answer': 'Delicious Paradise Kitchen', 'candidate': 'Freshii'}
+{'statement': 'Between JJ Bean and Fit For Life, the restaurant with lower price is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'JJ Bean'}
+{'statement': 'Between The Empire and La Pupusa Loka, the restaurant with lower price is The Empire.', 'answer': 'The Empire', 'candidate': 'La Pupusa Loka'}
+{'statement': 'Between Bao Bao Plus Dim Sum and Falafel Hut Village, the restaurant with lower price is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': 'Between Anatolia Restaurant and Cafe Jules, the restaurant with lower price is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Anatolia Restaurant'}
+{'statement': 'Between Verona Restaurant and New Bilan Restaurant, the restaurant with lower price is New Bilan Restaurant.', 'answer': 'New Bilan Restaurant', 'candidate': 'Verona Restaurant'}
+{'statement': "Between Carole's Cheesecake Cafe and Thompson Rooftop, the restaurant with lower price is Carole's Cheesecake Cafe.", 'answer': "Carole's Cheesecake Cafe", 'candidate': 'Thompson Rooftop'}
+{'statement': 'Between Queen Pita and Sichuan Landscape Chinese Restaurant, the restaurant with lower price is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': 'Between Sweet Jesus and Farmacia Health Bar, the restaurant with lower price is Sweet Jesus.', 'answer': 'Sweet Jesus', 'candidate': 'Farmacia Health Bar'}
+{'statement': "Between Buk Chang Dong Soon Tofu and Domino's Pizza, the restaurant with lower price is Buk Chang Dong Soon Tofu.", 'answer': 'Buk Chang Dong Soon Tofu', 'candidate': "Domino's Pizza"}
+{'statement': 'Between KFC and Nook, the restaurant with lower price is KFC.', 'answer': 'KFC', 'candidate': 'Nook'}
+{'statement': 'Between St. Louis Bar & Grill and Verona Restaurant, the restaurant with lower price is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Verona Restaurant'}
+{'statement': 'Between EJ Sushi and Sweet Jesus, the restaurant with lower price is Sweet Jesus.', 'answer': 'Sweet Jesus', 'candidate': 'EJ Sushi'}
+{'statement': 'Between Top Sushi and Cantine Bar & Grill, the restaurant with lower price is Top Sushi.', 'answer': 'Top Sushi', 'candidate': 'Cantine Bar & Grill'}
+{'statement': 'Between Falafel House and JJ Bean, the restaurant with lower price is Falafel House.', 'answer': 'Falafel House', 'candidate': 'JJ Bean'}
+{'statement': "Between Aris Place and Nutella Cafe by Pusateri's, the restaurant with lower price is Aris Place.", 'answer': 'Aris Place', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "Between Basha Middle Eastern Grill and McDonald's, the restaurant with lower price is McDonald's.", 'answer': "McDonald's", 'candidate': 'Basha Middle Eastern Grill'}
+{'statement': 'Between Villa Madina and Pasta Pantry, the restaurant with lower price is Villa Madina.', 'answer': 'Villa Madina', 'candidate': 'Pasta Pantry'}
+{'statement': 'Between Ici Bistro and Kairali - Taste of Kerala, the restaurant with lower price is Kairali - Taste of Kerala.', 'answer': 'Kairali - Taste of Kerala', 'candidate': 'Ici Bistro'}
+{'statement': 'Between Pasta Pantry and Pizza Pizza, the restaurant with lower price is Pizza Pizza.', 'answer': 'Pizza Pizza', 'candidate': 'Pasta Pantry'}
+{'statement': "Between Dinah's Cupboard and Mysteriously Yours Dinner Theatre, the restaurant with lower price is Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': "Between Big Al's Diner and Beryl's Pepper Pot, the restaurant with lower price is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': "Beryl's Pepper Pot"}
+{'statement': 'Between Queen Slice and Daily Press Juicery, the restaurant with lower price is Queen Slice.', 'answer': 'Queen Slice', 'candidate': 'Daily Press Juicery'}
+{'statement': 'Between z-teca Gourmet Burritos and Edible Arrangements, the restaurant with lower price is z-teca Gourmet Burritos.', 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Edible Arrangements'}
+{'statement': "Between La Pupusa Loka and Big Al's Diner, the restaurant with lower price is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'La Pupusa Loka'}
+{'statement': "Between Mysteriously Yours Dinner Theatre and Phil's Original BBQ, the restaurant with lower price is Phil's Original BBQ.", 'answer': "Phil's Original BBQ", 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': 'Between The Coffee Pocket and Juice & Java Cafe, the restaurant with lower price is The Coffee Pocket.', 'answer': 'The Coffee Pocket', 'candidate': 'Juice & Java Cafe'}
+{'statement': 'Between Cafe Jules and Grappa Ristorante, the restaurant with lower price is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Grappa Ristorante'}
+{'statement': "Between Dinah's Cupboard and Sushi World, the restaurant with lower price is Sushi World.", 'answer': 'Sushi World', 'candidate': "Dinah's Cupboard"}
+{'statement': 'Between Eggspectation and Chick Fiesta, the restaurant with lower price is Chick Fiesta.', 'answer': 'Chick Fiesta', 'candidate': 'Eggspectation'}
+{'statement': 'Between Madras Pantry and Eggspectation, the restaurant with lower price is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'Eggspectation'}
+{'statement': "Between Dangerous Dan's Diner and The Empire, the restaurant with lower price is The Empire.", 'answer': 'The Empire', 'candidate': "Dangerous Dan's Diner"}
+{'statement': "Between Grappa Ristorante and Assembly Chef's Hall, the restaurant with lower price is Assembly Chef's Hall.", 'answer': "Assembly Chef's Hall", 'candidate': 'Grappa Ristorante'}
+{'statement': 'Between Bao Bao Plus Dim Sum and Ici Bistro, the restaurant with lower price is Bao Bao Plus Dim Sum.', 'answer': 'Bao Bao Plus Dim Sum', 'candidate': 'Ici Bistro'}
+{'statement': "Between Milo's Pita and Warung Indonesia D'Eglinton, the restaurant with lower price is Milo's Pita.", 'answer': "Milo's Pita", 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': 'Between Topham Corner and Thompson Rooftop, the restaurant with lower price is Topham Corner.', 'answer': 'Topham Corner', 'candidate': 'Thompson Rooftop'}
+{'statement': 'Between Falafel Hut Village and Eggspectation, the restaurant with lower price is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'Eggspectation'}
+{'statement': 'Between Eastern legend and 9 Restaurant, the restaurant with lower price is Eastern legend.', 'answer': 'Eastern legend', 'candidate': '9 Restaurant'}
+{'statement': 'Between Bagel Nash and Ici Bistro, the restaurant with lower price is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Ici Bistro'}
+{'statement': 'Between Banjara Indian Cuisine and Sushi World, the restaurant with lower price is Sushi World.', 'answer': 'Sushi World', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': 'Between Mt Everest Restaurant and Oxygen Restaurant & Lounge, the restaurant with lower price is Mt Everest Restaurant.', 'answer': 'Mt Everest Restaurant', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': "Between Shawarma Twist and Joe Badali's Ristorante Italiano & Bar, the restaurant with lower price is Shawarma Twist.", 'answer': 'Shawarma Twist', 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': 'Between Bagel Nash and 9 Restaurant, the restaurant with lower price is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': '9 Restaurant'}
+{'statement': "Between Mamma's Pizza and Hina Sushi, the restaurant with lower price is Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'Hina Sushi'}
+{'statement': 'Between Cafe Jules and St. Louis Bar & Grill, the restaurant with lower price is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': 'Between Queen Pita and LCBO, the restaurant with lower price is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'LCBO'}
+{'statement': 'Between Fitness Avenue and Ici Bistro, the restaurant with lower price is Fitness Avenue.', 'answer': 'Fitness Avenue', 'candidate': 'Ici Bistro'}
+{'statement': 'Between Hina Sushi and Bonne Journee, the restaurant with lower price is Bonne Journee.', 'answer': 'Bonne Journee', 'candidate': 'Hina Sushi'}
+{'statement': 'Between The Empire and Ici Bistro, the restaurant with lower price is The Empire.', 'answer': 'The Empire', 'candidate': 'Ici Bistro'}
+{'statement': 'Between Popeyes Louisiana Kitchen and Oxygen Restaurant & Lounge, the restaurant with lower price is Popeyes Louisiana Kitchen.', 'answer': 'Popeyes Louisiana Kitchen', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': 'Between Maurya East Indian Roti and Green Room, the restaurant with lower price is Green Room.', 'answer': 'Green Room', 'candidate': 'Maurya East Indian Roti'}
+{'statement': 'Between Hapa Toronto and LCBO, the restaurant with lower price is LCBO.', 'answer': 'LCBO', 'candidate': 'Hapa Toronto'}
+{'statement': "Between The Duke of Devon and Big Al's Diner, the restaurant with lower price is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'The Duke of Devon'}
+{'statement': 'Between Pizza Pizza and Anatolia Restaurant, the restaurant with lower price is Pizza Pizza.', 'answer': 'Pizza Pizza', 'candidate': 'Anatolia Restaurant'}
+{'statement': 'Between Milestones Restaurants and Top Sushi, the restaurant with lower price is Top Sushi.', 'answer': 'Top Sushi', 'candidate': 'Milestones Restaurants'}
+{'statement': 'Between Thompson Rooftop and Itamae Ayce Sushi, the restaurant with lower price is Itamae Ayce Sushi.', 'answer': 'Itamae Ayce Sushi', 'candidate': 'Thompson Rooftop'}
+{'statement': "Between Delicious Paradise Kitchen and It's All Grk, the restaurant with lower price is Delicious Paradise Kitchen.", 'answer': 'Delicious Paradise Kitchen', 'candidate': "It's All Grk"}
+{'statement': 'Between Queen Pita and Cantine Bar & Grill, the restaurant with lower price is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'Cantine Bar & Grill'}
+{'statement': 'Between Sushi World and Pasta Pantry, the restaurant with lower price is Sushi World.', 'answer': 'Sushi World', 'candidate': 'Pasta Pantry'}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and Marcello’s pizzeria, the restaurant with lower price is Marcello’s pizzeria.', 'answer': 'Marcello’s pizzeria', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': 'Between Basha Middle Eastern Grill and Bake Island, the restaurant with lower price is Bake Island.', 'answer': 'Bake Island', 'candidate': 'Basha Middle Eastern Grill'}
+{'statement': 'Between Paradise Farms Prime Beef Bistro and Ici Bistro, the restaurant with lower price is Paradise Farms Prime Beef Bistro.', 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': 'Ici Bistro'}
+{'statement': 'Between EJ Sushi and Sizzlers, the restaurant with lower price is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'EJ Sushi'}
+{'statement': 'Between Goldstone Noodle Restaurant and Tortería San Cosme, the restaurant with lower price is Goldstone Noodle Restaurant.', 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between Eggspectation and Hapa Toronto, the restaurant with lower price is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Hapa Toronto'}
+{'statement': "Between Delicious Paradise Kitchen and Piper's Pub And Grill, the restaurant with lower price is Delicious Paradise Kitchen.", 'answer': 'Delicious Paradise Kitchen', 'candidate': "Piper's Pub And Grill"}
+{'statement': 'Between Green Room and Freshii, the restaurant with lower price is Green Room.', 'answer': 'Green Room', 'candidate': 'Freshii'}
+{'statement': 'Between Pizza Pizza and Adega Restaurante, the restaurant with lower price is Pizza Pizza.', 'answer': 'Pizza Pizza', 'candidate': 'Adega Restaurante'}

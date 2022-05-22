@@ -1,0 +1,100 @@
+{'statement': 'Between Hobart and Lagos, the city with higher average temperature is Lagos.', 'answer': 'Lagos', 'candidate': 'Hobart'}
+{'statement': 'Between Zagreb and Phnom Penh, the city with higher average temperature is Phnom Penh.', 'answer': 'Phnom Penh', 'candidate': 'Zagreb'}
+{'statement': 'Between Darwin and Moscow, the city with higher average temperature is Darwin.', 'answer': 'Darwin', 'candidate': 'Moscow'}
+{'statement': 'Between Kabul and Honolulu, the city with higher average temperature is Honolulu.', 'answer': 'Honolulu', 'candidate': 'Kabul'}
+{'statement': 'Between San Juan and Ushuaia, the city with higher average temperature is San Juan.', 'answer': 'San Juan', 'candidate': 'Ushuaia'}
+{'statement': 'Between Omaha and Juba, the city with higher average temperature is Juba.', 'answer': 'Juba', 'candidate': 'Omaha'}
+{'statement': 'Between Addis Ababa and Juba, the city with higher average temperature is Juba.', 'answer': 'Juba', 'candidate': 'Addis Ababa'}
+{'statement': 'Between Auckland and Murmansk, the city with higher average temperature is Auckland.', 'answer': 'Auckland', 'candidate': 'Murmansk'}
+{'statement': 'Between Halifax and Porto Alegre, the city with higher average temperature is Porto Alegre.', 'answer': 'Porto Alegre', 'candidate': 'Halifax'}
+{'statement': 'Between Suwałki and Sydney, the city with higher average temperature is Sydney.', 'answer': 'Sydney', 'candidate': 'Suwałki'}
+{'statement': 'Between Wellington and Jakarta, the city with higher average temperature is Jakarta.', 'answer': 'Jakarta', 'candidate': 'Wellington'}
+{'statement': 'Between Ürümqi and Harare, the city with higher average temperature is Harare.', 'answer': 'Harare', 'candidate': 'Ürümqi'}
+{'statement': 'Between San Diego and Muscat, the city with higher average temperature is Muscat.', 'answer': 'Muscat', 'candidate': 'San Diego'}
+{'statement': 'Between Suva and Oslo, the city with higher average temperature is Suva.', 'answer': 'Suva', 'candidate': 'Oslo'}
+{'statement': 'Between Palembang and Bratislava, the city with higher average temperature is Palembang.', 'answer': 'Palembang', 'candidate': 'Bratislava'}
+{'statement': 'Between Oslo and Valencia, the city with higher average temperature is Valencia.', 'answer': 'Valencia', 'candidate': 'Oslo'}
+{'statement': 'Between Oslo and Los Angeles, the city with higher average temperature is Los Angeles.', 'answer': 'Los Angeles', 'candidate': 'Oslo'}
+{'statement': 'Between Djibouti and Baltimore, the city with higher average temperature is Djibouti.', 'answer': 'Djibouti', 'candidate': 'Baltimore'}
+{'statement': 'Between Luanda and Omaha, the city with higher average temperature is Luanda.', 'answer': 'Luanda', 'candidate': 'Omaha'}
+{'statement': 'Between Houston and Minsk, the city with higher average temperature is Houston.', 'answer': 'Houston', 'candidate': 'Minsk'}
+{'statement': 'Between Saint Petersburg and Baghdad, the city with higher average temperature is Baghdad.', 'answer': 'Baghdad', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Sucre and Irkutsk, the city with higher average temperature is Sucre.', 'answer': 'Sucre', 'candidate': 'Irkutsk'}
+{'statement': 'Between Napier and Irkutsk, the city with higher average temperature is Napier.', 'answer': 'Napier', 'candidate': 'Irkutsk'}
+{'statement': 'Between Santiago del Estero and Zürich, the city with higher average temperature is Santiago del Estero.', 'answer': 'Santiago del Estero', 'candidate': 'Zürich'}
+{'statement': 'Between Zürich and Monterrey, the city with higher average temperature is Monterrey.', 'answer': 'Monterrey', 'candidate': 'Zürich'}
+{'statement': 'Between Thiès and Brussels, the city with higher average temperature is Thiès.', 'answer': 'Thiès', 'candidate': 'Brussels'}
+{'statement': 'Between Malabo and Kansas City, the city with higher average temperature is Malabo.', 'answer': 'Malabo', 'candidate': 'Kansas City'}
+{'statement': 'Between Punta Arenas and Rosario, the city with higher average temperature is Rosario.', 'answer': 'Rosario', 'candidate': 'Punta Arenas'}
+{'statement': 'Between Vladivostok and Mumbai, the city with higher average temperature is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Vladivostok'}
+{'statement': 'Between Muscat and Auckland, the city with higher average temperature is Muscat.', 'answer': 'Muscat', 'candidate': 'Auckland'}
+{'statement': 'Between Santiago and Port-Gentil, the city with higher average temperature is Port-Gentil.', 'answer': 'Port-Gentil', 'candidate': 'Santiago'}
+{'statement': 'Between Phnom Penh and Copenhagen, the city with higher average temperature is Phnom Penh.', 'answer': 'Phnom Penh', 'candidate': 'Copenhagen'}
+{'statement': 'Between Pontianak and Irkutsk, the city with higher average temperature is Pontianak.', 'answer': 'Pontianak', 'candidate': 'Irkutsk'}
+{'statement': 'Between Erbil and Nur-Sultan, the city with higher average temperature is Erbil.', 'answer': 'Erbil', 'candidate': 'Nur-Sultan'}
+{'statement': 'Between Vladivostok and San Diego, the city with higher average temperature is San Diego.', 'answer': 'San Diego', 'candidate': 'Vladivostok'}
+{'statement': 'Between Tabora and Copenhagen, the city with higher average temperature is Tabora.', 'answer': 'Tabora', 'candidate': 'Copenhagen'}
+{'statement': 'Between Changsha and Bangkok, the city with higher average temperature is Bangkok.', 'answer': 'Bangkok', 'candidate': 'Changsha'}
+{'statement': 'Between Wau and Toronto, the city with higher average temperature is Wau.', 'answer': 'Wau', 'candidate': 'Toronto'}
+{'statement': 'Between Minneapolis and Managua, the city with higher average temperature is Managua.', 'answer': 'Managua', 'candidate': 'Minneapolis'}
+{'statement': 'Between Indianapolis and Willemstad, the city with higher average temperature is Willemstad.', 'answer': 'Willemstad', 'candidate': 'Indianapolis'}
+{'statement': 'Between Mexicali and Dublin, the city with higher average temperature is Mexicali.', 'answer': 'Mexicali', 'candidate': 'Dublin'}
+{'statement': 'Between Benghazi and Oslo, the city with higher average temperature is Benghazi.', 'answer': 'Benghazi', 'candidate': 'Oslo'}
+{'statement': 'Between Yinchuan and Douala, the city with higher average temperature is Douala.', 'answer': 'Douala', 'candidate': 'Yinchuan'}
+{'statement': 'Between Río Gallegos and Córdoba, the city with higher average temperature is Córdoba.', 'answer': 'Córdoba', 'candidate': 'Río Gallegos'}
+{'statement': 'Between Dodoma and Berlin, the city with higher average temperature is Dodoma.', 'answer': 'Dodoma', 'candidate': 'Berlin'}
+{'statement': 'Between Niamey and Fukuoka, the city with higher average temperature is Niamey.', 'answer': 'Niamey', 'candidate': 'Fukuoka'}
+{'statement': 'Between Palmerston North and Kuwait City, the city with higher average temperature is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Palmerston North'}
+{'statement': 'Between Bratislava and Tamanrasset, the city with higher average temperature is Tamanrasset.', 'answer': 'Tamanrasset', 'candidate': 'Bratislava'}
+{'statement': 'Between Moscow and Kingston, the city with higher average temperature is Kingston.', 'answer': 'Kingston', 'candidate': 'Moscow'}
+{'statement': 'Between Willemstad and Buenos Aires, the city with higher average temperature is Willemstad.', 'answer': 'Willemstad', 'candidate': 'Buenos Aires'}
+{'statement': 'Between Douala and Saskatoon, the city with higher average temperature is Douala.', 'answer': 'Douala', 'candidate': 'Saskatoon'}
+{'statement': 'Between Irkutsk and Bishkek, the city with higher average temperature is Bishkek.', 'answer': 'Bishkek', 'candidate': 'Irkutsk'}
+{'statement': 'Between Dodoma and Río Gallegos, the city with higher average temperature is Dodoma.', 'answer': 'Dodoma', 'candidate': 'Río Gallegos'}
+{'statement': 'Between Bata and Berlin, the city with higher average temperature is Bata.', 'answer': 'Bata', 'candidate': 'Berlin'}
+{'statement': 'Between Berlin and Douala, the city with higher average temperature is Douala.', 'answer': 'Douala', 'candidate': 'Berlin'}
+{'statement': 'Between Reykjavík and Mumbai, the city with higher average temperature is Mumbai.', 'answer': 'Mumbai', 'candidate': 'Reykjavík'}
+{'statement': 'Between Skopje and Djibouti, the city with higher average temperature is Djibouti.', 'answer': 'Djibouti', 'candidate': 'Skopje'}
+{'statement': 'Between Barranquilla and Kuopio, the city with higher average temperature is Barranquilla.', 'answer': 'Barranquilla', 'candidate': 'Kuopio'}
+{'statement': 'Between Lyon and Kuwait City, the city with higher average temperature is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Lyon'}
+{'statement': 'Between Harare and Ottawa, the city with higher average temperature is Harare.', 'answer': 'Harare', 'candidate': 'Ottawa'}
+{'statement': 'Between Ndola and Milwaukee, the city with higher average temperature is Ndola.', 'answer': 'Ndola', 'candidate': 'Milwaukee'}
+{'statement': 'Between Durban and Erzurum, the city with higher average temperature is Durban.', 'answer': 'Durban', 'candidate': 'Erzurum'}
+{'statement': 'Between Guangzhou and Zürich, the city with higher average temperature is Guangzhou.', 'answer': 'Guangzhou', 'candidate': 'Zürich'}
+{'statement': 'Between Brussels and Florianópolis, the city with higher average temperature is Florianópolis.', 'answer': 'Florianópolis', 'candidate': 'Brussels'}
+{'statement': 'Between Ankara and San Juan, the city with higher average temperature is San Juan.', 'answer': 'San Juan', 'candidate': 'Ankara'}
+{'statement': 'Between Bishkek and Port Sudan, the city with higher average temperature is Port Sudan.', 'answer': 'Port Sudan', 'candidate': 'Bishkek'}
+{'statement': 'Between Benghazi and Nur-Sultan, the city with higher average temperature is Benghazi.', 'answer': 'Benghazi', 'candidate': 'Nur-Sultan'}
+{'statement': 'Between Viedma and Manila, the city with higher average temperature is Manila.', 'answer': 'Manila', 'candidate': 'Viedma'}
+{'statement': 'Between Vientiane and Bergen, the city with higher average temperature is Vientiane.', 'answer': 'Vientiane', 'candidate': 'Bergen'}
+{'statement': 'Between Kuwait City and Moscow, the city with higher average temperature is Kuwait City.', 'answer': 'Kuwait City', 'candidate': 'Moscow'}
+{'statement': 'Between Erzurum and Monterrey, the city with higher average temperature is Monterrey.', 'answer': 'Monterrey', 'candidate': 'Erzurum'}
+{'statement': 'Between Luanda and Christchurch, the city with higher average temperature is Luanda.', 'answer': 'Luanda', 'candidate': 'Christchurch'}
+{'statement': 'Between Rabat and Saskatoon, the city with higher average temperature is Rabat.', 'answer': 'Rabat', 'candidate': 'Saskatoon'}
+{'statement': 'Between Copenhagen and Dodoma, the city with higher average temperature is Dodoma.', 'answer': 'Dodoma', 'candidate': 'Copenhagen'}
+{'statement': 'Between Toronto and Cotonou, the city with higher average temperature is Cotonou.', 'answer': 'Cotonou', 'candidate': 'Toronto'}
+{'statement': 'Between Tucson and Dublin, the city with higher average temperature is Tucson.', 'answer': 'Tucson', 'candidate': 'Dublin'}
+{'statement': 'Between Almaty and San Antonio, the city with higher average temperature is San Antonio.', 'answer': 'San Antonio', 'candidate': 'Almaty'}
+{'statement': 'Between Ségou and Fianarantsoa, the city with higher average temperature is Ségou.', 'answer': 'Ségou', 'candidate': 'Fianarantsoa'}
+{'statement': 'Between Tampa and Toluca, the city with higher average temperature is Tampa.', 'answer': 'Tampa', 'candidate': 'Toluca'}
+{'statement': 'Between Djibouti and Kathmandu, the city with higher average temperature is Djibouti.', 'answer': 'Djibouti', 'candidate': 'Kathmandu'}
+{'statement': 'Between Calgary and Suva, the city with higher average temperature is Suva.', 'answer': 'Suva', 'candidate': 'Calgary'}
+{'statement': 'Between Bogotá and Nouakchott, the city with higher average temperature is Nouakchott.', 'answer': 'Nouakchott', 'candidate': 'Bogotá'}
+{'statement': 'Between Caracas and Punta Arenas, the city with higher average temperature is Caracas.', 'answer': 'Caracas', 'candidate': 'Punta Arenas'}
+{'statement': 'Between Nakhon Ratchasima and Chicago, the city with higher average temperature is Nakhon Ratchasima.', 'answer': 'Nakhon Ratchasima', 'candidate': 'Chicago'}
+{'statement': 'Between Fukuoka and Villahermosa, the city with higher average temperature is Villahermosa.', 'answer': 'Villahermosa', 'candidate': 'Fukuoka'}
+{'statement': 'Between Manila and Kansas City, the city with higher average temperature is Manila.', 'answer': 'Manila', 'candidate': 'Kansas City'}
+{'statement': 'Between Lyon and Maputo, the city with higher average temperature is Maputo.', 'answer': 'Maputo', 'candidate': 'Lyon'}
+{'statement': 'Between Vladivostok and Makurdi, the city with higher average temperature is Makurdi.', 'answer': 'Makurdi', 'candidate': 'Vladivostok'}
+{'statement': 'Between Reykjavík and Kampala, the city with higher average temperature is Kampala.', 'answer': 'Kampala', 'candidate': 'Reykjavík'}
+{'statement': 'Between Manila and Auckland, the city with higher average temperature is Manila.', 'answer': 'Manila', 'candidate': 'Auckland'}
+{'statement': 'Between Muscat and Minsk, the city with higher average temperature is Muscat.', 'answer': 'Muscat', 'candidate': 'Minsk'}
+{'statement': 'Between Ulaanbaatar and Curitiba, the city with higher average temperature is Curitiba.', 'answer': 'Curitiba', 'candidate': 'Ulaanbaatar'}
+{'statement': 'Between Hanoi and Saint Petersburg, the city with higher average temperature is Hanoi.', 'answer': 'Hanoi', 'candidate': 'Saint Petersburg'}
+{'statement': 'Between Rabat and Mandalay, the city with higher average temperature is Mandalay.', 'answer': 'Mandalay', 'candidate': 'Rabat'}
+{'statement': 'Between Saskatoon and Cape Town, the city with higher average temperature is Cape Town.', 'answer': 'Cape Town', 'candidate': 'Saskatoon'}
+{'statement': 'Between Durban and Punta Arenas, the city with higher average temperature is Durban.', 'answer': 'Durban', 'candidate': 'Punta Arenas'}
+{'statement': 'Between Oslo and Mombasa, the city with higher average temperature is Mombasa.', 'answer': 'Mombasa', 'candidate': 'Oslo'}
+{'statement': 'Between Manaus and London, the city with higher average temperature is Manaus.', 'answer': 'Manaus', 'candidate': 'London'}
+{'statement': 'Between Lima and Irkutsk, the city with higher average temperature is Lima.', 'answer': 'Lima', 'candidate': 'Irkutsk'}
+{'statement': 'Between Bucharest and Suva, the city with higher average temperature is Suva.', 'answer': 'Suva', 'candidate': 'Bucharest'}

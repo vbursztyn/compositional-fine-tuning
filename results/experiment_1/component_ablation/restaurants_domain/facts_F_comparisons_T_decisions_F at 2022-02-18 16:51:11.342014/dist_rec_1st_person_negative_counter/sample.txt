@@ -1,0 +1,200 @@
+{'statement': "I don't like restaurants further away. Between Madras Pantry and Falafel House, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': 'Falafel House'}
+{'statement': "I don't like restaurants further away. Between Aroma Espresso Bar and Tortería San Cosme, I should go to Tortería San Cosme.", 'answer': 'Tortería San Cosme', 'candidate': 'Aroma Espresso Bar'}
+{'statement': "I don't like restaurants further away. Between Eggspectation and Bake Island, I should go to Bake Island.", 'answer': 'Bake Island', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between El Fogón and Ciao Europa wine bar, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': 'Ciao Europa wine bar'}
+{'statement': "I don't like restaurants further away. Between Nutella Cafe by Pusateri's and Anatolia Restaurant, I should go to Anatolia Restaurant.", 'answer': 'Anatolia Restaurant', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "I don't like restaurants further away. Between El Fogón and Beryl's Pepper Pot, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': "Beryl's Pepper Pot"}
+{'statement': "I don't like restaurants further away. Between Queen Pita and Sweet Jesus, I should go to Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': 'Queen Pita'}
+{'statement': "I don't like restaurants further away. Between Tortería San Cosme and Queen Slice, I should go to Tortería San Cosme.", 'answer': 'Tortería San Cosme', 'candidate': 'Queen Slice'}
+{'statement': "I don't like restaurants further away. Between Tim Hortons and Madras Pantry, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': 'Tim Hortons'}
+{'statement': "I don't like restaurants further away. Between Just Soups Take Out & Catering and Galata Cafe, I should go to Just Soups Take Out & Catering.", 'answer': 'Just Soups Take Out & Catering', 'candidate': 'Galata Cafe'}
+{'statement': "I don't like restaurants further away. Between El Fogón and Sweet Jesus, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': 'Sweet Jesus'}
+{'statement': "I don't like restaurants further away. Between FreshCo and Queen Pita, I should go to FreshCo.", 'answer': 'FreshCo', 'candidate': 'Queen Pita'}
+{'statement': "I don't like restaurants further away. Between Branca and Carole's Cheesecake Cafe, I should go to Branca.", 'answer': 'Branca', 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': "I don't like restaurants further away. Between Hina Sushi and Sichuan Landscape Chinese Restaurant, I should go to Sichuan Landscape Chinese Restaurant.", 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between Mirage Grill & Lounge and Scaddabush Italian Kitchen & Bar, I should go to Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': "I don't like restaurants further away. Between Eggspectation and Cake Opera, I should go to Cake Opera.", 'answer': 'Cake Opera', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between Mamma's Pizza and To-ne Sushi, I should go to Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'To-ne Sushi'}
+{'statement': "I don't like restaurants further away. Between Paradise Farms Prime Beef Bistro and Mt Everest Restaurant, I should go to Paradise Farms Prime Beef Bistro.", 'answer': 'Paradise Farms Prime Beef Bistro', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "I don't like restaurants further away. Between Adega Restaurante and The Empire, I should go to The Empire.", 'answer': 'The Empire', 'candidate': 'Adega Restaurante'}
+{'statement': "I don't like restaurants further away. Between McDonald's and Galata Cafe, I should go to McDonald's.", 'answer': "McDonald's", 'candidate': 'Galata Cafe'}
+{'statement': "I don't like restaurants further away. Between Sheriff Broaster Chicken and Popeyes Louisiana Kitchen, I should go to Sheriff Broaster Chicken.", 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': "I don't like restaurants further away. Between Pizzeria Via Mercanti and Cantine Bar & Grill, I should go to Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "I don't like restaurants further away. Between Sushi Shop and Sizzlers, I should go to Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': 'Sizzlers'}
+{'statement': "I don't like restaurants further away. Between Carole's Cheesecake Cafe and Dinah's Cupboard, I should go to Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': "I don't like restaurants further away. Between Amaya Express and Oxygen Restaurant & Lounge, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': "I don't like restaurants further away. Between LCBO and Mamma's Pizza, I should go to Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'LCBO'}
+{'statement': "I don't like restaurants further away. Between Branca and Druxy's Famous Deli, I should go to Branca.", 'answer': 'Branca', 'candidate': "Druxy's Famous Deli"}
+{'statement': "I don't like restaurants further away. Between Juice & Java Cafe and Eggspectation, I should go to Juice & Java Cafe.", 'answer': 'Juice & Java Cafe', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between Bagel Nash and Tortería San Cosme, I should go to Tortería San Cosme.", 'answer': 'Tortería San Cosme', 'candidate': 'Bagel Nash'}
+{'statement': "I don't like restaurants further away. Between Bagel Nash and Watson's, I should go to Watson's.", 'answer': "Watson's", 'candidate': 'Bagel Nash'}
+{'statement': "I don't like restaurants further away. Between Hina Sushi and Joe Badali's Ristorante Italiano & Bar, I should go to Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between Watson's and Queen Slice, I should go to Watson's.", 'answer': "Watson's", 'candidate': 'Queen Slice'}
+{'statement': "I don't like restaurants further away. Between Tik Talk Cafe and z-teca Gourmet Burritos, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I don't like restaurants further away. Between Hina Sushi and Hapa Toronto, I should go to Hapa Toronto.", 'answer': 'Hapa Toronto', 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between Milo's Pita and Bonne Journee, I should go to Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Bonne Journee'}
+{'statement': "I don't like restaurants further away. Between Watson's and EJ Sushi, I should go to Watson's.", 'answer': "Watson's", 'candidate': 'EJ Sushi'}
+{'statement': "I don't like restaurants further away. Between To-ne Sushi and Juice & Java Cafe, I should go to Juice & Java Cafe.", 'answer': 'Juice & Java Cafe', 'candidate': 'To-ne Sushi'}
+{'statement': "I don't like restaurants further away. Between Le Papillon Park and Mt Everest Restaurant, I should go to Le Papillon Park.", 'answer': 'Le Papillon Park', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "I don't like restaurants further away. Between Magic Oven and Breakfast Room, I should go to Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': 'Magic Oven'}
+{'statement': "I don't like restaurants further away. Between Bonne Journee and Maurya East Indian Roti, I should go to Maurya East Indian Roti.", 'answer': 'Maurya East Indian Roti', 'candidate': 'Bonne Journee'}
+{'statement': "I don't like restaurants further away. Between Hina Sushi and Fit For Life, I should go to Fit For Life.", 'answer': 'Fit For Life', 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between Assembly Chef's Hall and Milestones Restaurants, I should go to Milestones Restaurants.", 'answer': 'Milestones Restaurants', 'candidate': "Assembly Chef's Hall"}
+{'statement': "I don't like restaurants further away. Between Mirage Grill & Lounge and Joe Badali's Ristorante Italiano & Bar, I should go to Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': 'Mirage Grill & Lounge'}
+{'statement': "I don't like restaurants further away. Between LCBO and Eggspectation, I should go to LCBO.", 'answer': 'LCBO', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between Mt Everest Restaurant and Maurya East Indian Roti, I should go to Maurya East Indian Roti.", 'answer': 'Maurya East Indian Roti', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "I don't like restaurants further away. Between Delicious Paradise Kitchen and Ciao Europa wine bar, I should go to Delicious Paradise Kitchen.", 'answer': 'Delicious Paradise Kitchen', 'candidate': 'Ciao Europa wine bar'}
+{'statement': "I don't like restaurants further away. Between The Empire and The Coffee Pocket, I should go to The Empire.", 'answer': 'The Empire', 'candidate': 'The Coffee Pocket'}
+{'statement': "I don't like restaurants further away. Between Marcello’s pizzeria and Nutella Cafe by Pusateri's, I should go to Marcello’s pizzeria.", 'answer': 'Marcello’s pizzeria', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "I don't like restaurants further away. Between Smoke's Weinerie and Pasta Pantry, I should go to Pasta Pantry.", 'answer': 'Pasta Pantry', 'candidate': "Smoke's Weinerie"}
+{'statement': "I don't like restaurants further away. Between Queen Pita and Ardor Bistro, I should go to Ardor Bistro.", 'answer': 'Ardor Bistro', 'candidate': 'Queen Pita'}
+{'statement': "I don't like restaurants further away. Between Tierra Azteca and Big Al's Diner, I should go to Tierra Azteca.", 'answer': 'Tierra Azteca', 'candidate': "Big Al's Diner"}
+{'statement': "I don't like restaurants further away. Between Thai 4 You Restaurant and Druxy's Famous Deli, I should go to Thai 4 You Restaurant.", 'answer': 'Thai 4 You Restaurant', 'candidate': "Druxy's Famous Deli"}
+{'statement': "I don't like restaurants further away. Between Green Grotto and Tierra Azteca, I should go to Green Grotto.", 'answer': 'Green Grotto', 'candidate': 'Tierra Azteca'}
+{'statement': "I don't like restaurants further away. Between Topham Corner and Verona Restaurant, I should go to Verona Restaurant.", 'answer': 'Verona Restaurant', 'candidate': 'Topham Corner'}
+{'statement': "I don't like restaurants further away. Between Mövenpick Café and Juice & Java Cafe, I should go to Juice & Java Cafe.", 'answer': 'Juice & Java Cafe', 'candidate': 'Mövenpick Café'}
+{'statement': "I don't like restaurants further away. Between St. Clair Shawarma and Falafel and Cantine Bar & Grill, I should go to Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I don't like restaurants further away. Between Tik Talk Cafe and Phil's Original BBQ, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': "Phil's Original BBQ"}
+{'statement': "I don't like restaurants further away. Between Amaya Express and Nutella Cafe by Pusateri's, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "I don't like restaurants further away. Between Basil Express Restaurant and Hina Sushi, I should go to Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between Freshii and Breakfast Room, I should go to Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': 'Freshii'}
+{'statement': "I don't like restaurants further away. Between z-teca Gourmet Burritos and Just Soups Take Out & Catering, I should go to Just Soups Take Out & Catering.", 'answer': 'Just Soups Take Out & Catering', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I don't like restaurants further away. Between FreshCo and Pisco 1641, I should go to Pisco 1641.", 'answer': 'Pisco 1641', 'candidate': 'FreshCo'}
+{'statement': "I don't like restaurants further away. Between Kairali - Taste of Kerala and Eggspectation, I should go to Kairali - Taste of Kerala.", 'answer': 'Kairali - Taste of Kerala', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between Bagel Nash and Lahore Grill & Fast Food, I should go to Lahore Grill & Fast Food.", 'answer': 'Lahore Grill & Fast Food', 'candidate': 'Bagel Nash'}
+{'statement': "I don't like restaurants further away. Between Buk Chang Dong Soon Tofu and Basil Express Restaurant, I should go to Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': 'Buk Chang Dong Soon Tofu'}
+{'statement': "I don't like restaurants further away. Between Anatolia Restaurant and Green Grotto, I should go to Green Grotto.", 'answer': 'Green Grotto', 'candidate': 'Anatolia Restaurant'}
+{'statement': "I don't like restaurants further away. Between z-teca Gourmet Burritos and Pisco 1641, I should go to Pisco 1641.", 'answer': 'Pisco 1641', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I don't like restaurants further away. Between Anatolia Restaurant and Capitol Trattoria Pizzeria, I should go to Anatolia Restaurant.", 'answer': 'Anatolia Restaurant', 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': "I don't like restaurants further away. Between Bonne Journee and Sushi Shop, I should go to Sushi Shop.", 'answer': 'Sushi Shop', 'candidate': 'Bonne Journee'}
+{'statement': "I don't like restaurants further away. Between Daily Press Juicery and LCBO, I should go to Daily Press Juicery.", 'answer': 'Daily Press Juicery', 'candidate': 'LCBO'}
+{'statement': "I don't like restaurants further away. Between Phil's Original BBQ and Joe Badali's Ristorante Italiano & Bar, I should go to Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': "Phil's Original BBQ"}
+{'statement': "I don't like restaurants further away. Between Madras Pantry and Roncy's Bean, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': "Roncy's Bean"}
+{'statement': "I don't like restaurants further away. Between Harvey's and Domino's Pizza, I should go to Harvey's.", 'answer': "Harvey's", 'candidate': "Domino's Pizza"}
+{'statement': "I don't like restaurants further away. Between Shawarma Twist and Green Grotto, I should go to Green Grotto.", 'answer': 'Green Grotto', 'candidate': 'Shawarma Twist'}
+{'statement': "I don't like restaurants further away. Between Eggspectation and Pasta Pantry, I should go to Pasta Pantry.", 'answer': 'Pasta Pantry', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between Magic Oven and Mamma's Pizza, I should go to Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'Magic Oven'}
+{'statement': "I don't like restaurants further away. Between Tik Talk Cafe and Pasta Pantry, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': 'Pasta Pantry'}
+{'statement': "I don't like restaurants further away. Between Bao Bao Plus Dim Sum and Juice & Java Cafe, I should go to Juice & Java Cafe.", 'answer': 'Juice & Java Cafe', 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': "I don't like restaurants further away. Between Magic Oven and JJ Bean, I should go to JJ Bean.", 'answer': 'JJ Bean', 'candidate': 'Magic Oven'}
+{'statement': "I don't like restaurants further away. Between Amaya Express and Falafel House, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'Falafel House'}
+{'statement': "I don't like restaurants further away. Between Thompson Rooftop and Tik Talk Cafe, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': 'Thompson Rooftop'}
+{'statement': "I don't like restaurants further away. Between Joe Badali's Ristorante Italiano & Bar and Itamae Ayce Sushi, I should go to Itamae Ayce Sushi.", 'answer': 'Itamae Ayce Sushi', 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': "I don't like restaurants further away. Between The Coffee Pocket and Harry's Char Broil & Dining Lounge, I should go to Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'The Coffee Pocket'}
+{'statement': "I don't like restaurants further away. Between Chipotle Mexican Grill and Eggspectation, I should go to Chipotle Mexican Grill.", 'answer': 'Chipotle Mexican Grill', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between Freshii and Falafel Hut Village, I should go to Falafel Hut Village.", 'answer': 'Falafel Hut Village', 'candidate': 'Freshii'}
+{'statement': "I don't like restaurants further away. Between Dinah's Cupboard and To-ne Sushi, I should go to Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'To-ne Sushi'}
+{'statement': "I don't like restaurants further away. Between Galata Cafe and Mamma's Pizza, I should go to Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'Galata Cafe'}
+{'statement': "I don't like restaurants further away. Between Falafel Hut Village and Bao Bao Plus Dim Sum, I should go to Falafel Hut Village.", 'answer': 'Falafel Hut Village', 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': "I don't like restaurants further away. Between Banjara Indian Cuisine and Basil Express Restaurant, I should go to Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': "I don't like restaurants further away. Between Sky Dragon Chinese Restaurant and Carole's Cheesecake Cafe, I should go to Sky Dragon Chinese Restaurant.", 'answer': 'Sky Dragon Chinese Restaurant', 'candidate': "Carole's Cheesecake Cafe"}
+{'statement': "I don't like restaurants further away. Between Pho 88 and Milo's Pita, I should go to Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Pho 88'}
+{'statement': "I don't like restaurants further away. Between EJ Sushi and Hapa Toronto, I should go to Hapa Toronto.", 'answer': 'Hapa Toronto', 'candidate': 'EJ Sushi'}
+{'statement': "I don't like restaurants further away. Between Supermodel Pizza and Queen Pita, I should go to Supermodel Pizza.", 'answer': 'Supermodel Pizza', 'candidate': 'Queen Pita'}
+{'statement': "I don't like restaurants further away. Between Watson's and Freshii, I should go to Watson's.", 'answer': "Watson's", 'candidate': 'Freshii'}
+{'statement': "I don't like restaurants further away. Between El Fogón and Assembly Chef's Hall, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': "Assembly Chef's Hall"}
+{'statement': "I don't like restaurants further away. Between Amaya Express and Pasta Pantry, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'Pasta Pantry'}
+{'statement': "I don't like restaurants further away. Between Warung Indonesia D'Eglinton and z-teca Gourmet Burritos, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I don't like restaurants further away. Between Smoke's Weinerie and Basil Express Restaurant, I should go to Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': "Smoke's Weinerie"}
+{'statement': "I don't like restaurants further away. Between Eggspectation and The Duke of Devon, I should go to The Duke of Devon.", 'answer': 'The Duke of Devon', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between La Pupusa Loka and Galata Cafe, I should go to La Pupusa Loka.", 'answer': 'La Pupusa Loka', 'candidate': 'Galata Cafe'}
+{'statement': "I don't like restaurants further away. Between Verona Restaurant and Warung Indonesia D'Eglinton, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Verona Restaurant'}
+{'statement': "I don't like restaurants further away. Between Verona Restaurant and To-ne Sushi, I should go to Verona Restaurant.", 'answer': 'Verona Restaurant', 'candidate': 'To-ne Sushi'}
+{'statement': "I don't like restaurants further away. Between Itamae Ayce Sushi and Pho 88, I should go to Itamae Ayce Sushi.", 'answer': 'Itamae Ayce Sushi', 'candidate': 'Pho 88'}
+{'statement': "I don't like restaurants further away. Between Joe Badali's Ristorante Italiano & Bar and Smoke's Weinerie, I should go to Joe Badali's Ristorante Italiano & Bar.", 'answer': "Joe Badali's Ristorante Italiano & Bar", 'candidate': "Smoke's Weinerie"}
+{'statement': "I don't like restaurants further away. Between New Bilan Restaurant and Kim PO Vietnamese, I should go to Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': 'New Bilan Restaurant'}
+{'statement': "I don't like restaurants further away. Between Top Sushi and Scaddabush Italian Kitchen & Bar, I should go to Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Top Sushi'}
+{'statement': "I don't like restaurants further away. Between Bao Bao Plus Dim Sum and Piper's Pub And Grill, I should go to Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': "I don't like restaurants further away. Between Hina Sushi and Green Grotto, I should go to Green Grotto.", 'answer': 'Green Grotto', 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between Ici Bistro and Pasta Pantry, I should go to Pasta Pantry.", 'answer': 'Pasta Pantry', 'candidate': 'Ici Bistro'}
+{'statement': "I don't like restaurants further away. Between Nutella Cafe by Pusateri's and FreshCo, I should go to FreshCo.", 'answer': 'FreshCo', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "I don't like restaurants further away. Between LCBO and Warung Indonesia D'Eglinton, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'LCBO'}
+{'statement': "I don't like restaurants further away. Between LCBO and Juice & Java Cafe, I should go to Juice & Java Cafe.", 'answer': 'Juice & Java Cafe', 'candidate': 'LCBO'}
+{'statement': "I don't like restaurants further away. Between El Fogón and FreshCo, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': 'FreshCo'}
+{'statement': "I don't like restaurants further away. Between Hina Sushi and Pho 88, I should go to Pho 88.", 'answer': 'Pho 88', 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between Banjara Indian Cuisine and Milestones Restaurants, I should go to Milestones Restaurants.", 'answer': 'Milestones Restaurants', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': "I don't like restaurants further away. Between Warung Indonesia D'Eglinton and Le Papillon Park, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Le Papillon Park'}
+{'statement': "I don't like restaurants further away. Between Kim PO Vietnamese and Oxygen Restaurant & Lounge, I should go to Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': "I don't like restaurants further away. Between Buk Chang Dong Soon Tofu and Madras Pantry, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': 'Buk Chang Dong Soon Tofu'}
+{'statement': "I don't like restaurants further away. Between Green Grotto and Sweet Jesus, I should go to Green Grotto.", 'answer': 'Green Grotto', 'candidate': 'Sweet Jesus'}
+{'statement': "I don't like restaurants further away. Between KFC and Domino's Pizza, I should go to KFC.", 'answer': 'KFC', 'candidate': "Domino's Pizza"}
+{'statement': "I don't like restaurants further away. Between Cantine Bar & Grill and Aroma Espresso Bar, I should go to Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': 'Aroma Espresso Bar'}
+{'statement': "I don't like restaurants further away. Between EJ Sushi and Sheriff Broaster Chicken, I should go to Sheriff Broaster Chicken.", 'answer': 'Sheriff Broaster Chicken', 'candidate': 'EJ Sushi'}
+{'statement': "I don't like restaurants further away. Between Chipotle Mexican Grill and Viccino Pizzeria, I should go to Chipotle Mexican Grill.", 'answer': 'Chipotle Mexican Grill', 'candidate': 'Viccino Pizzeria'}
+{'statement': "I don't like restaurants further away. Between Amaya Express and Queen Slice, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'Queen Slice'}
+{'statement': "I don't like restaurants further away. Between Pizzeria Via Mercanti and Branca, I should go to Branca.", 'answer': 'Branca', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "I don't like restaurants further away. Between Maurya East Indian Roti and Big Al's Diner, I should go to Maurya East Indian Roti.", 'answer': 'Maurya East Indian Roti', 'candidate': "Big Al's Diner"}
+{'statement': "I don't like restaurants further away. Between Chick Fiesta and Bonne Journee, I should go to Chick Fiesta.", 'answer': 'Chick Fiesta', 'candidate': 'Bonne Journee'}
+{'statement': "I don't like restaurants further away. Between z-teca Gourmet Burritos and Verona Restaurant, I should go to Verona Restaurant.", 'answer': 'Verona Restaurant', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I don't like restaurants further away. Between Lahore Grill & Fast Food and Topham Corner, I should go to Lahore Grill & Fast Food.", 'answer': 'Lahore Grill & Fast Food', 'candidate': 'Topham Corner'}
+{'statement': "I don't like restaurants further away. Between Smoke's Weinerie and Solero Mediterranean Bakery, I should go to Solero Mediterranean Bakery.", 'answer': 'Solero Mediterranean Bakery', 'candidate': "Smoke's Weinerie"}
+{'statement': "I don't like restaurants further away. Between z-teca Gourmet Burritos and Aris Place, I should go to Aris Place.", 'answer': 'Aris Place', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I don't like restaurants further away. Between Fit For Life and Ardor Bistro, I should go to Fit For Life.", 'answer': 'Fit For Life', 'candidate': 'Ardor Bistro'}
+{'statement': "I don't like restaurants further away. Between Mi Mi Restaurant and Amaya Express, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'Mi Mi Restaurant'}
+{'statement': "I don't like restaurants further away. Between Aris Place and Bonne Journee, I should go to Aris Place.", 'answer': 'Aris Place', 'candidate': 'Bonne Journee'}
+{'statement': "I don't like restaurants further away. Between Breakfast Room and Fitness Avenue, I should go to Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': 'Fitness Avenue'}
+{'statement': "I don't like restaurants further away. Between z-teca Gourmet Burritos and Madras Pantry, I should go to Madras Pantry.", 'answer': 'Madras Pantry', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I don't like restaurants further away. Between Mövenpick Café and Eggspectation, I should go to Mövenpick Café.", 'answer': 'Mövenpick Café', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between Sushi World and The Coffee Pocket, I should go to Sushi World.", 'answer': 'Sushi World', 'candidate': 'The Coffee Pocket'}
+{'statement': "I don't like restaurants further away. Between Scaddabush Italian Kitchen & Bar and z-teca Gourmet Burritos, I should go to Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I don't like restaurants further away. Between Villa Madina and Breakfast Room, I should go to Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': 'Villa Madina'}
+{'statement': "I don't like restaurants further away. Between Beryl's Pepper Pot and To-ne Sushi, I should go to Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'To-ne Sushi'}
+{'statement': "I don't like restaurants further away. Between Mt Everest Restaurant and Itamae Ayce Sushi, I should go to Itamae Ayce Sushi.", 'answer': 'Itamae Ayce Sushi', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "I don't like restaurants further away. Between Basha Middle Eastern Grill and Magic Oven, I should go to Basha Middle Eastern Grill.", 'answer': 'Basha Middle Eastern Grill', 'candidate': 'Magic Oven'}
+{'statement': "I don't like restaurants further away. Between Sushi World and z-teca Gourmet Burritos, I should go to Sushi World.", 'answer': 'Sushi World', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I don't like restaurants further away. Between Domino's Pizza and LCBO, I should go to LCBO.", 'answer': 'LCBO', 'candidate': "Domino's Pizza"}
+{'statement': "I don't like restaurants further away. Between Mamma's Pizza and Tierra Azteca, I should go to Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'Tierra Azteca'}
+{'statement': "I don't like restaurants further away. Between Edible Arrangements and Thai 4 You Restaurant, I should go to Thai 4 You Restaurant.", 'answer': 'Thai 4 You Restaurant', 'candidate': 'Edible Arrangements'}
+{'statement': "I don't like restaurants further away. Between Aroma Espresso Bar and Hina Sushi, I should go to Aroma Espresso Bar.", 'answer': 'Aroma Espresso Bar', 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between Sizzlers and Watson's, I should go to Watson's.", 'answer': "Watson's", 'candidate': 'Sizzlers'}
+{'statement': "I don't like restaurants further away. Between Hina Sushi and Ardor Bistro, I should go to Ardor Bistro.", 'answer': 'Ardor Bistro', 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between z-teca Gourmet Burritos and Pizza Pizza, I should go to Pizza Pizza.", 'answer': 'Pizza Pizza', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': "I don't like restaurants further away. Between Cantine Bar & Grill and Pasta Pantry, I should go to Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': 'Pasta Pantry'}
+{'statement': "I don't like restaurants further away. Between Domino's Pizza and Just Soups Take Out & Catering, I should go to Just Soups Take Out & Catering.", 'answer': 'Just Soups Take Out & Catering', 'candidate': "Domino's Pizza"}
+{'statement': "I don't like restaurants further away. Between Kibo Sushi House and EJ Sushi, I should go to Kibo Sushi House.", 'answer': 'Kibo Sushi House', 'candidate': 'EJ Sushi'}
+{'statement': "I don't like restaurants further away. Between El Fogón and Big Al's Diner, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': "Big Al's Diner"}
+{'statement': "I don't like restaurants further away. Between Eggspectation and KFC, I should go to KFC.", 'answer': 'KFC', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between Thompson Rooftop and Evoo Ristorante, I should go to Evoo Ristorante.", 'answer': 'Evoo Ristorante', 'candidate': 'Thompson Rooftop'}
+{'statement': "I don't like restaurants further away. Between Watson's and Ciao Europa wine bar, I should go to Watson's.", 'answer': "Watson's", 'candidate': 'Ciao Europa wine bar'}
+{'statement': "I don't like restaurants further away. Between Pizzeria Via Mercanti and Thompson Rooftop, I should go to Thompson Rooftop.", 'answer': 'Thompson Rooftop', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "I don't like restaurants further away. Between Ici Bistro and Pho 88, I should go to Pho 88.", 'answer': 'Pho 88', 'candidate': 'Ici Bistro'}
+{'statement': "I don't like restaurants further away. Between Sizzlers and Tik Talk Cafe, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': 'Sizzlers'}
+{'statement': "I don't like restaurants further away. Between Piper's Pub And Grill and Sizzlers, I should go to Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Sizzlers'}
+{'statement': "I don't like restaurants further away. Between Scaddabush Italian Kitchen & Bar and Tierra Azteca, I should go to Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Tierra Azteca'}
+{'statement': "I don't like restaurants further away. Between Falafel House and Fit For Life, I should go to Fit For Life.", 'answer': 'Fit For Life', 'candidate': 'Falafel House'}
+{'statement': "I don't like restaurants further away. Between The Duke of Devon and Assembly Chef's Hall, I should go to The Duke of Devon.", 'answer': 'The Duke of Devon', 'candidate': "Assembly Chef's Hall"}
+{'statement': "I don't like restaurants further away. Between Capitol Trattoria Pizzeria and Villa Madina, I should go to Villa Madina.", 'answer': 'Villa Madina', 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': "I don't like restaurants further away. Between Sushi World and Queen Pita, I should go to Sushi World.", 'answer': 'Sushi World', 'candidate': 'Queen Pita'}
+{'statement': "I don't like restaurants further away. Between Basil Express Restaurant and Mt Everest Restaurant, I should go to Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': 'Mt Everest Restaurant'}
+{'statement': "I don't like restaurants further away. Between Eggspectation and Branca, I should go to Branca.", 'answer': 'Branca', 'candidate': 'Eggspectation'}
+{'statement': "I don't like restaurants further away. Between Smoke's Weinerie and Juice & Java Cafe, I should go to Juice & Java Cafe.", 'answer': 'Juice & Java Cafe', 'candidate': "Smoke's Weinerie"}
+{'statement': "I don't like restaurants further away. Between Topham Corner and Warung Indonesia D'Eglinton, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Topham Corner'}
+{'statement': "I don't like restaurants further away. Between Falafel House and Scaddabush Italian Kitchen & Bar, I should go to Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Falafel House'}
+{'statement': "I don't like restaurants further away. Between Grappa Ristorante and El Fogón, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': 'Grappa Ristorante'}
+{'statement': "I don't like restaurants further away. Between Falafel House and Maurya East Indian Roti, I should go to Maurya East Indian Roti.", 'answer': 'Maurya East Indian Roti', 'candidate': 'Falafel House'}
+{'statement': "I don't like restaurants further away. Between Cafe Jules and The Empire, I should go to The Empire.", 'answer': 'The Empire', 'candidate': 'Cafe Jules'}
+{'statement': "I don't like restaurants further away. Between Galata Cafe and Scaddabush Italian Kitchen & Bar, I should go to Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Galata Cafe'}
+{'statement': "I don't like restaurants further away. Between LCBO and Maurya East Indian Roti, I should go to Maurya East Indian Roti.", 'answer': 'Maurya East Indian Roti', 'candidate': 'LCBO'}
+{'statement': "I don't like restaurants further away. Between Banjara Indian Cuisine and Breakfast Room, I should go to Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': "I don't like restaurants further away. Between Dinah's Cupboard and Fitness Avenue, I should go to Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Fitness Avenue'}
+{'statement': "I don't like restaurants further away. Between Queen Slice and La Pupusa Loka, I should go to La Pupusa Loka.", 'answer': 'La Pupusa Loka', 'candidate': 'Queen Slice'}
+{'statement': "I don't like restaurants further away. Between Marcello’s pizzeria and The Coffee Pocket, I should go to Marcello’s pizzeria.", 'answer': 'Marcello’s pizzeria', 'candidate': 'The Coffee Pocket'}
+{'statement': "I don't like restaurants further away. Between Falafel House and Piper's Pub And Grill, I should go to Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Falafel House'}
+{'statement': "I don't like restaurants further away. Between Hina Sushi and Falafel House, I should go to Falafel House.", 'answer': 'Falafel House', 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between Druxy's Famous Deli and Warung Indonesia D'Eglinton, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': "Druxy's Famous Deli"}
+{'statement': "I don't like restaurants further away. Between Hina Sushi and Verona Restaurant, I should go to Verona Restaurant.", 'answer': 'Verona Restaurant', 'candidate': 'Hina Sushi'}
+{'statement': "I don't like restaurants further away. Between Anatolia Restaurant and Sizzlers, I should go to Anatolia Restaurant.", 'answer': 'Anatolia Restaurant', 'candidate': 'Sizzlers'}
+{'statement': "I don't like restaurants further away. Between Supermodel Pizza and Falafel House, I should go to Supermodel Pizza.", 'answer': 'Supermodel Pizza', 'candidate': 'Falafel House'}
+{'statement': "I don't like restaurants further away. Between Itamae Ayce Sushi and Phil's Original BBQ, I should go to Itamae Ayce Sushi.", 'answer': 'Itamae Ayce Sushi', 'candidate': "Phil's Original BBQ"}
+{'statement': "I don't like restaurants further away. Between The Empire and Nutella Cafe by Pusateri's, I should go to The Empire.", 'answer': 'The Empire', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': "I don't like restaurants further away. Between Green Room and Sheriff Broaster Chicken, I should go to Sheriff Broaster Chicken.", 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Green Room'}
+{'statement': "I don't like restaurants further away. Between Big Al's Diner and Tik Talk Cafe, I should go to Tik Talk Cafe.", 'answer': 'Tik Talk Cafe', 'candidate': "Big Al's Diner"}
+{'statement': "I don't like restaurants further away. Between Harry's Char Broil & Dining Lounge and Druxy's Famous Deli, I should go to Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': "Druxy's Famous Deli"}
+{'statement': "I don't like restaurants further away. Between Basil Express Restaurant and Magic Oven, I should go to Basil Express Restaurant.", 'answer': 'Basil Express Restaurant', 'candidate': 'Magic Oven'}
+{'statement': "I don't like restaurants further away. Between Aroma Espresso Bar and Mirage Grill & Lounge, I should go to Aroma Espresso Bar.", 'answer': 'Aroma Espresso Bar', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': "I don't like restaurants further away. Between Watson's and Big Al's Diner, I should go to Watson's.", 'answer': "Watson's", 'candidate': "Big Al's Diner"}
+{'statement': "I don't like restaurants further away. Between Itamae Ayce Sushi and Popeyes Louisiana Kitchen, I should go to Itamae Ayce Sushi.", 'answer': 'Itamae Ayce Sushi', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': "I don't like restaurants further away. Between Queen Pita and Mysteriously Yours Dinner Theatre, I should go to Mysteriously Yours Dinner Theatre.", 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': 'Queen Pita'}
+{'statement': "I don't like restaurants further away. Between Popeyes Louisiana Kitchen and St. Louis Bar & Grill, I should go to St. Louis Bar & Grill.", 'answer': 'St. Louis Bar & Grill', 'candidate': 'Popeyes Louisiana Kitchen'}
+{'statement': "I don't like restaurants further away. Between Scaddabush Italian Kitchen & Bar and Freshii, I should go to Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Freshii'}
+{'statement': "I don't like restaurants further away. Between Oxygen Restaurant & Lounge and Freshii, I should go to Oxygen Restaurant & Lounge.", 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Freshii'}

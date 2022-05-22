@@ -1,0 +1,6 @@
+{
+	"exp_name" : "fold1_sports_understanding",
+	"openai_key" : "INSERT YOUR OPEN AI API KEY HERE",
+	"model" : "curie:ft-personal-2022-05-02-17-20-09",
+	"eval_file" : "sports_understanding_fold1_test.csv"
+}

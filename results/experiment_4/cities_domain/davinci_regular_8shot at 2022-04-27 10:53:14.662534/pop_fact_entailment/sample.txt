@@ -1,0 +1,100 @@
+{'statement': 'Between Nairobi and Vientiane, the smaller city is Vientiane.', 'answer': 'Vientiane', 'candidate': 'Nairobi'}
+{'statement': 'Between Saskatoon and Guangzhou, the smaller city is Saskatoon.', 'answer': 'Saskatoon', 'candidate': 'Guangzhou'}
+{'statement': 'Between Alexandria and Lviv, the smaller city is Lviv.', 'answer': 'Lviv', 'candidate': 'Alexandria'}
+{'statement': 'Between Thiès and Johannesburg, the smaller city is Thiès.', 'answer': 'Thiès', 'candidate': 'Johannesburg'}
+{'statement': 'Between Willemstad and Monterrey, the smaller city is Willemstad.', 'answer': 'Willemstad', 'candidate': 'Monterrey'}
+{'statement': 'Between Manaus and Paris, the smaller city is Manaus.', 'answer': 'Manaus', 'candidate': 'Paris'}
+{'statement': 'Between Sydney and Pittsburgh, the smaller city is Pittsburgh.', 'answer': 'Pittsburgh', 'candidate': 'Sydney'}
+{'statement': 'Between Ürümqi and Hanoi, the smaller city is Ürümqi.', 'answer': 'Ürümqi', 'candidate': 'Hanoi'}
+{'statement': 'Between Jakarta and Harare, the smaller city is Harare.', 'answer': 'Harare', 'candidate': 'Jakarta'}
+{'statement': 'Between Córdoba and Moscow, the smaller city is Córdoba.', 'answer': 'Córdoba', 'candidate': 'Moscow'}
+{'statement': 'Between Luanda and Sydney, the smaller city is Sydney.', 'answer': 'Sydney', 'candidate': 'Luanda'}
+{'statement': 'Between Shanghai and Denpasar, the smaller city is Denpasar.', 'answer': 'Denpasar', 'candidate': 'Shanghai'}
+{'statement': 'Between Nairobi and Port-Gentil, the smaller city is Port-Gentil.', 'answer': 'Port-Gentil', 'candidate': 'Nairobi'}
+{'statement': 'Between Lima and Zürich, the smaller city is Zürich.', 'answer': 'Zürich', 'candidate': 'Lima'}
+{'statement': 'Between Kabul and Nur-Sultan, the smaller city is Nur-Sultan.', 'answer': 'Nur-Sultan', 'candidate': 'Kabul'}
+{'statement': 'Between Goiânia and Paris, the smaller city is Goiânia.', 'answer': 'Goiânia', 'candidate': 'Paris'}
+{'statement': 'Between Kuwait City and Upington, the smaller city is Upington.', 'answer': 'Upington', 'candidate': 'Kuwait City'}
+{'statement': 'Between La Paz and Kabul, the smaller city is La Paz.', 'answer': 'La Paz', 'candidate': 'Kabul'}
+{'statement': 'Between Hobart and London, the smaller city is Hobart.', 'answer': 'Hobart', 'candidate': 'London'}
+{'statement': 'Between Ürümqi and Lake Havasu City, the smaller city is Lake Havasu City.', 'answer': 'Lake Havasu City', 'candidate': 'Ürümqi'}
+{'statement': 'Between Monterrey and Nakhon Ratchasima, the smaller city is Nakhon Ratchasima.', 'answer': 'Nakhon Ratchasima', 'candidate': 'Monterrey'}
+{'statement': 'Between Santiago and Nouakchott, the smaller city is Nouakchott.', 'answer': 'Nouakchott', 'candidate': 'Santiago'}
+{'statement': 'Between Luanda and Garoua, the smaller city is Garoua.', 'answer': 'Garoua', 'candidate': 'Luanda'}
+{'statement': 'Between Irkutsk and London, the smaller city is Irkutsk.', 'answer': 'Irkutsk', 'candidate': 'London'}
+{'statement': 'Between Manaus and Santiago, the smaller city is Manaus.', 'answer': 'Manaus', 'candidate': 'Santiago'}
+{'statement': 'Between Nairobi and Darwin, the smaller city is Darwin.', 'answer': 'Darwin', 'candidate': 'Nairobi'}
+{'statement': 'Between Bamako and Beijing, the smaller city is Bamako.', 'answer': 'Bamako', 'candidate': 'Beijing'}
+{'statement': 'Between San Diego and Erbil, the smaller city is Erbil.', 'answer': 'Erbil', 'candidate': 'San Diego'}
+{'statement': 'Between Baku and Fianarantsoa, the smaller city is Fianarantsoa.', 'answer': 'Fianarantsoa', 'candidate': 'Baku'}
+{'statement': 'Between Baku and Campos do Jordão, the smaller city is Campos do Jordão.', 'answer': 'Campos do Jordão', 'candidate': 'Baku'}
+{'statement': 'Between Djibouti and Bogotá, the smaller city is Djibouti.', 'answer': 'Djibouti', 'candidate': 'Bogotá'}
+{'statement': 'Between Guangzhou and Upington, the smaller city is Upington.', 'answer': 'Upington', 'candidate': 'Guangzhou'}
+{'statement': 'Between Garissa and Houston, the smaller city is Garissa.', 'answer': 'Garissa', 'candidate': 'Houston'}
+{'statement': 'Between Alexandria and Port Moresby, the smaller city is Port Moresby.', 'answer': 'Port Moresby', 'candidate': 'Alexandria'}
+{'statement': 'Between Lahore and Palembang, the smaller city is Palembang.', 'answer': 'Palembang', 'candidate': 'Lahore'}
+{'statement': 'Between Parakou and Kuwait City, the smaller city is Parakou.', 'answer': 'Parakou', 'candidate': 'Kuwait City'}
+{'statement': 'Between Durban and Denver, the smaller city is Durban.', 'answer': 'Durban', 'candidate': 'Denver'}
+{'statement': 'Between Ankara and Panama City, the smaller city is Panama City.', 'answer': 'Panama City', 'candidate': 'Ankara'}
+{'statement': 'Between Monterrey and Hobart, the smaller city is Hobart.', 'answer': 'Hobart', 'candidate': 'Monterrey'}
+{'statement': 'Between Nouadhibou and Santiago, the smaller city is Nouadhibou.', 'answer': 'Nouadhibou', 'candidate': 'Santiago'}
+{'statement': 'Between Phoenix and Pontianak, the smaller city is Pontianak.', 'answer': 'Pontianak', 'candidate': 'Phoenix'}
+{'statement': 'Between Toronto and Córdoba, the smaller city is Córdoba.', 'answer': 'Córdoba', 'candidate': 'Toronto'}
+{'statement': 'Between Pontianak and Beijing, the smaller city is Pontianak.', 'answer': 'Pontianak', 'candidate': 'Beijing'}
+{'statement': 'Between Phnom Penh and Beijing, the smaller city is Phnom Penh.', 'answer': 'Phnom Penh', 'candidate': 'Beijing'}
+{'statement': 'Between Paris and Fairbanks, the smaller city is Fairbanks.', 'answer': 'Fairbanks', 'candidate': 'Paris'}
+{'statement': 'Between Mumbai and El Paso, the smaller city is El Paso.', 'answer': 'El Paso', 'candidate': 'Mumbai'}
+{'statement': 'Between Yakutsk and Beijing, the smaller city is Yakutsk.', 'answer': 'Yakutsk', 'candidate': 'Beijing'}
+{'statement': 'Between Kano and Mumbai, the smaller city is Kano.', 'answer': 'Kano', 'candidate': 'Mumbai'}
+{'statement': 'Between Baghdad and Boise, the smaller city is Boise.', 'answer': 'Boise', 'candidate': 'Baghdad'}
+{'statement': 'Between Bata and Algiers, the smaller city is Bata.', 'answer': 'Bata', 'candidate': 'Algiers'}
+{'statement': 'Between Toronto and Antsiranana, the smaller city is Antsiranana.', 'answer': 'Antsiranana', 'candidate': 'Toronto'}
+{'statement': 'Between Kuopio and Medellín, the smaller city is Kuopio.', 'answer': 'Kuopio', 'candidate': 'Medellín'}
+{'statement': 'Between Guangzhou and Ottawa, the smaller city is Ottawa.', 'answer': 'Ottawa', 'candidate': 'Guangzhou'}
+{'statement': 'Between Bangkok and Rabat, the smaller city is Rabat.', 'answer': 'Rabat', 'candidate': 'Bangkok'}
+{'statement': 'Between Rome and Santiago, the smaller city is Rome.', 'answer': 'Rome', 'candidate': 'Santiago'}
+{'statement': 'Between Sydney and Rosario, the smaller city is Rosario.', 'answer': 'Rosario', 'candidate': 'Sydney'}
+{'statement': 'Between Dodoma and Beijing, the smaller city is Dodoma.', 'answer': 'Dodoma', 'candidate': 'Beijing'}
+{'statement': 'Between Juba and Lahore, the smaller city is Juba.', 'answer': 'Juba', 'candidate': 'Lahore'}
+{'statement': 'Between Boise and Hanoi, the smaller city is Boise.', 'answer': 'Boise', 'candidate': 'Hanoi'}
+{'statement': 'Between Nairobi and Auckland, the smaller city is Auckland.', 'answer': 'Auckland', 'candidate': 'Nairobi'}
+{'statement': 'Between Kabul and Bujumbura, the smaller city is Bujumbura.', 'answer': 'Bujumbura', 'candidate': 'Kabul'}
+{'statement': 'Between Toronto and Bahía Blanca, the smaller city is Bahía Blanca.', 'answer': 'Bahía Blanca', 'candidate': 'Toronto'}
+{'statement': 'Between La Ceiba and Karachi, the smaller city is La Ceiba.', 'answer': 'La Ceiba', 'candidate': 'Karachi'}
+{'statement': 'Between Toamasina and Douala, the smaller city is Toamasina.', 'answer': 'Toamasina', 'candidate': 'Douala'}
+{'statement': 'Between Paris and Pontianak, the smaller city is Pontianak.', 'answer': 'Pontianak', 'candidate': 'Paris'}
+{'statement': 'Between Paramaribo and Karachi, the smaller city is Paramaribo.', 'answer': 'Paramaribo', 'candidate': 'Karachi'}
+{'statement': 'Between Viedma and Guadalajara, the smaller city is Viedma.', 'answer': 'Viedma', 'candidate': 'Guadalajara'}
+{'statement': 'Between Anchorage and Shanghai, the smaller city is Anchorage.', 'answer': 'Anchorage', 'candidate': 'Shanghai'}
+{'statement': 'Between La Serena and Lima, the smaller city is La Serena.', 'answer': 'La Serena', 'candidate': 'Lima'}
+{'statement': 'Between Lisbon and Alexandria, the smaller city is Lisbon.', 'answer': 'Lisbon', 'candidate': 'Alexandria'}
+{'statement': 'Between Oslo and Monterrey, the smaller city is Oslo.', 'answer': 'Oslo', 'candidate': 'Monterrey'}
+{'statement': 'Between Lusaka and Jakarta, the smaller city is Lusaka.', 'answer': 'Lusaka', 'candidate': 'Jakarta'}
+{'statement': 'Between Houston and Nouadhibou, the smaller city is Nouadhibou.', 'answer': 'Nouadhibou', 'candidate': 'Houston'}
+{'statement': 'Between Cotonou and Ürümqi, the smaller city is Cotonou.', 'answer': 'Cotonou', 'candidate': 'Ürümqi'}
+{'statement': 'Between Los Angeles and Viedma, the smaller city is Viedma.', 'answer': 'Viedma', 'candidate': 'Los Angeles'}
+{'statement': 'Between Bamako and Houston, the smaller city is Bamako.', 'answer': 'Bamako', 'candidate': 'Houston'}
+{'statement': 'Between Lomé and Kabul, the smaller city is Lomé.', 'answer': 'Lomé', 'candidate': 'Kabul'}
+{'statement': 'Between Palmerston North and Riyadh, the smaller city is Palmerston North.', 'answer': 'Palmerston North', 'candidate': 'Riyadh'}
+{'statement': 'Between Antofagasta and Kabul, the smaller city is Antofagasta.', 'answer': 'Antofagasta', 'candidate': 'Kabul'}
+{'statement': 'Between Anchorage and Brasília, the smaller city is Anchorage.', 'answer': 'Anchorage', 'candidate': 'Brasília'}
+{'statement': 'Between Surabaya and Halifax, the smaller city is Halifax.', 'answer': 'Halifax', 'candidate': 'Surabaya'}
+{'statement': 'Between Los Angeles and Bangui, the smaller city is Bangui.', 'answer': 'Bangui', 'candidate': 'Los Angeles'}
+{'statement': 'Between Denver and Bujumbura, the smaller city is Bujumbura.', 'answer': 'Bujumbura', 'candidate': 'Denver'}
+{'statement': 'Between Lviv and Paris, the smaller city is Lviv.', 'answer': 'Lviv', 'candidate': 'Paris'}
+{'statement': 'Between Christchurch and Riyadh, the smaller city is Christchurch.', 'answer': 'Christchurch', 'candidate': 'Riyadh'}
+{'statement': 'Between Nairobi and Curitiba, the smaller city is Curitiba.', 'answer': 'Curitiba', 'candidate': 'Nairobi'}
+{'statement': 'Between Shanghai and Cotonou, the smaller city is Cotonou.', 'answer': 'Cotonou', 'candidate': 'Shanghai'}
+{'statement': 'Between Mumbai and Sacramento, the smaller city is Sacramento.', 'answer': 'Sacramento', 'candidate': 'Mumbai'}
+{'statement': 'Between Suwałki and Guadalajara, the smaller city is Suwałki.', 'answer': 'Suwałki', 'candidate': 'Guadalajara'}
+{'statement': 'Between Napier and Buenos Aires, the smaller city is Napier.', 'answer': 'Napier', 'candidate': 'Buenos Aires'}
+{'statement': 'Between Murmansk and Mexico City, the smaller city is Murmansk.', 'answer': 'Murmansk', 'candidate': 'Mexico City'}
+{'statement': 'Between Lahore and Upington, the smaller city is Upington.', 'answer': 'Upington', 'candidate': 'Lahore'}
+{'statement': 'Between Melbourne and Erbil, the smaller city is Erbil.', 'answer': 'Erbil', 'candidate': 'Melbourne'}
+{'statement': 'Between Hanoi and Bujumbura, the smaller city is Bujumbura.', 'answer': 'Bujumbura', 'candidate': 'Hanoi'}
+{'statement': 'Between Moscow and Murmansk, the smaller city is Murmansk.', 'answer': 'Murmansk', 'candidate': 'Moscow'}
+{'statement': 'Between Kabul and Port Sudan, the smaller city is Port Sudan.', 'answer': 'Port Sudan', 'candidate': 'Kabul'}
+{'statement': 'Between Suwałki and Guangzhou, the smaller city is Suwałki.', 'answer': 'Suwałki', 'candidate': 'Guangzhou'}
+{'statement': 'Between Jakarta and Sacramento, the smaller city is Sacramento.', 'answer': 'Sacramento', 'candidate': 'Jakarta'}
+{'statement': 'Between Porto Alegre and Luanda, the smaller city is Porto Alegre.', 'answer': 'Porto Alegre', 'candidate': 'Luanda'}
+{'statement': 'Between Dar es Salaam and Conakry, the smaller city is Conakry.', 'answer': 'Conakry', 'candidate': 'Dar es Salaam'}

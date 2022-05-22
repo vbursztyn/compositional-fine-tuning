@@ -1,0 +1,200 @@
+{'statement': 'Between Basil Express Restaurant and Chick Fiesta, the more affordable restaurant is Chick Fiesta.', 'answer': 'Chick Fiesta', 'candidate': 'Basil Express Restaurant'}
+{'statement': 'Between Juice & Java Cafe and Adega Restaurante, the more affordable restaurant is Juice & Java Cafe.', 'answer': 'Juice & Java Cafe', 'candidate': 'Adega Restaurante'}
+{'statement': "Between Dinah's Cupboard and Basha Middle Eastern Grill, the more affordable restaurant is Basha Middle Eastern Grill.", 'answer': 'Basha Middle Eastern Grill', 'candidate': "Dinah's Cupboard"}
+{'statement': 'Between Grappa Ristorante and z-teca Gourmet Burritos, the more affordable restaurant is z-teca Gourmet Burritos.', 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Grappa Ristorante'}
+{'statement': 'Between Anatolia Restaurant and Mi Mi Restaurant, the more affordable restaurant is Mi Mi Restaurant.', 'answer': 'Mi Mi Restaurant', 'candidate': 'Anatolia Restaurant'}
+{'statement': "Between McDonald's and EJ Sushi, the more affordable restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'EJ Sushi'}
+{'statement': 'Between Mysteriously Yours Dinner Theatre and Popeyes Louisiana Kitchen, the more affordable restaurant is Popeyes Louisiana Kitchen.', 'answer': 'Popeyes Louisiana Kitchen', 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': "Between Big Al's Diner and Watson's, the more affordable restaurant is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': "Watson's"}
+{'statement': "Between Modo Mio Italian Bistro and McDonald's, the more affordable restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'Modo Mio Italian Bistro'}
+{'statement': 'Between Goldstone Noodle Restaurant and Viccino Pizzeria, the more affordable restaurant is Goldstone Noodle Restaurant.', 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'Viccino Pizzeria'}
+{'statement': 'Between Kairali - Taste of Kerala and St. Clair Shawarma and Falafel, the more affordable restaurant is St. Clair Shawarma and Falafel.', 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': 'Between Falafel Hut Village and La Cocina De Dona Luz, the more affordable restaurant is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'La Cocina De Dona Luz'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Anatolia Restaurant, the more affordable restaurant is Anatolia Restaurant.', 'answer': 'Anatolia Restaurant', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': 'Between St. Clair Shawarma and Falafel and 9 Restaurant, the more affordable restaurant is St. Clair Shawarma and Falafel.', 'answer': 'St. Clair Shawarma and Falafel', 'candidate': '9 Restaurant'}
+{'statement': "Between Phil's Original BBQ and Smoke's Weinerie, the more affordable restaurant is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': "Phil's Original BBQ"}
+{'statement': 'Between Basha Middle Eastern Grill and Mirage Grill & Lounge, the more affordable restaurant is Basha Middle Eastern Grill.', 'answer': 'Basha Middle Eastern Grill', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': 'Between Lebanese Bakery and Bonne Journee, the more affordable restaurant is Bonne Journee.', 'answer': 'Bonne Journee', 'candidate': 'Lebanese Bakery'}
+{'statement': 'Between St. Louis Bar & Grill and Madras Pantry, the more affordable restaurant is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': 'Between Shawarma Twist and Thompson Rooftop, the more affordable restaurant is Shawarma Twist.', 'answer': 'Shawarma Twist', 'candidate': 'Thompson Rooftop'}
+{'statement': 'Between Pisco 1641 and Cafe Jules, the more affordable restaurant is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Pisco 1641'}
+{'statement': "Between Mamma's Pizza and Maurya East Indian Roti, the more affordable restaurant is Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'Maurya East Indian Roti'}
+{'statement': 'Between Nook and Sichuan Landscape Chinese Restaurant, the more affordable restaurant is Nook.', 'answer': 'Nook', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': "Between Nook and Helena's Magic Kitchen, the more affordable restaurant is Helena's Magic Kitchen.", 'answer': "Helena's Magic Kitchen", 'candidate': 'Nook'}
+{'statement': "Between Dinah's Cupboard and Sweet Jesus, the more affordable restaurant is Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': "Dinah's Cupboard"}
+{'statement': "Between Big Al's Diner and Marcello’s pizzeria, the more affordable restaurant is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'Marcello’s pizzeria'}
+{'statement': "Between Nutella Cafe by Pusateri's and LCBO, the more affordable restaurant is LCBO.", 'answer': 'LCBO', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Lahore Grill & Fast Food and Lebanese Bakery, the more affordable restaurant is Lahore Grill & Fast Food.', 'answer': 'Lahore Grill & Fast Food', 'candidate': 'Lebanese Bakery'}
+{'statement': "Between Beryl's Pepper Pot and Mysteriously Yours Dinner Theatre, the more affordable restaurant is Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': 'Between Bagel Nash and Pizzeria Via Mercanti, the more affordable restaurant is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': 'Between Goldstone Noodle Restaurant and Tian An Cuisine, the more affordable restaurant is Goldstone Noodle Restaurant.', 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'Tian An Cuisine'}
+{'statement': 'Between Basil Express Restaurant and Ici Bistro, the more affordable restaurant is Basil Express Restaurant.', 'answer': 'Basil Express Restaurant', 'candidate': 'Ici Bistro'}
+{'statement': 'Between Kibo Sushi House and Just Soups Take Out & Catering, the more affordable restaurant is Just Soups Take Out & Catering.', 'answer': 'Just Soups Take Out & Catering', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between Farmacia Health Bar and Cake Opera, the more affordable restaurant is Farmacia Health Bar.', 'answer': 'Farmacia Health Bar', 'candidate': 'Cake Opera'}
+{'statement': 'Between Thompson Rooftop and Popeyes Louisiana Kitchen, the more affordable restaurant is Popeyes Louisiana Kitchen.', 'answer': 'Popeyes Louisiana Kitchen', 'candidate': 'Thompson Rooftop'}
+{'statement': 'Between Aroma Espresso Bar and Lahore Grill & Fast Food, the more affordable restaurant is Lahore Grill & Fast Food.', 'answer': 'Lahore Grill & Fast Food', 'candidate': 'Aroma Espresso Bar'}
+{'statement': 'Between Pizzeria Via Mercanti and Chick Fiesta, the more affordable restaurant is Chick Fiesta.', 'answer': 'Chick Fiesta', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': 'Between Supermodel Pizza and Kairali - Taste of Kerala, the more affordable restaurant is Supermodel Pizza.', 'answer': 'Supermodel Pizza', 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': 'Between Cake Opera and Tim Hortons, the more affordable restaurant is Tim Hortons.', 'answer': 'Tim Hortons', 'candidate': 'Cake Opera'}
+{'statement': 'Between Grappa Ristorante and Basha Middle Eastern Grill, the more affordable restaurant is Basha Middle Eastern Grill.', 'answer': 'Basha Middle Eastern Grill', 'candidate': 'Grappa Ristorante'}
+{'statement': 'Between Sweet Jesus and Daily Press Juicery, the more affordable restaurant is Sweet Jesus.', 'answer': 'Sweet Jesus', 'candidate': 'Daily Press Juicery'}
+{'statement': 'Between Pizza Pizza and Hawthorne Food and Drink, the more affordable restaurant is Pizza Pizza.', 'answer': 'Pizza Pizza', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': "Between Warung Indonesia D'Eglinton and Bagel Nash, the more affordable restaurant is Bagel Nash.", 'answer': 'Bagel Nash', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': 'Between Sizzlers and Evoo Ristorante, the more affordable restaurant is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'Evoo Ristorante'}
+{'statement': "Between Le Papillon Park and McDonald's, the more affordable restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'Le Papillon Park'}
+{'statement': 'Between Mysteriously Yours Dinner Theatre and Pho 88, the more affordable restaurant is Pho 88.', 'answer': 'Pho 88', 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': 'Between Hawthorne Food and Drink and St. Clair Shawarma and Falafel, the more affordable restaurant is St. Clair Shawarma and Falafel.', 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': 'Between La Pupusa Loka and Aris Place, the more affordable restaurant is Aris Place.', 'answer': 'Aris Place', 'candidate': 'La Pupusa Loka'}
+{'statement': 'Between Evoo Ristorante and Thompson Rooftop, the more affordable restaurant is Thompson Rooftop.', 'answer': 'Thompson Rooftop', 'candidate': 'Evoo Ristorante'}
+{'statement': 'Between Mirage Grill & Lounge and Solero Mediterranean Bakery, the more affordable restaurant is Solero Mediterranean Bakery.', 'answer': 'Solero Mediterranean Bakery', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': 'Between Banjara Indian Cuisine and Verona Restaurant, the more affordable restaurant is Banjara Indian Cuisine.', 'answer': 'Banjara Indian Cuisine', 'candidate': 'Verona Restaurant'}
+{'statement': "Between Falafel House and Dinah's Cupboard, the more affordable restaurant is Falafel House.", 'answer': 'Falafel House', 'candidate': "Dinah's Cupboard"}
+{'statement': "Between Pizza Pizza and Piper's Pub And Grill, the more affordable restaurant is Pizza Pizza.", 'answer': 'Pizza Pizza', 'candidate': "Piper's Pub And Grill"}
+{'statement': 'Between Tik Talk Cafe and Sizzlers, the more affordable restaurant is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'Tik Talk Cafe'}
+{'statement': 'Between Basha Middle Eastern Grill and Cafe Jules, the more affordable restaurant is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Basha Middle Eastern Grill'}
+{'statement': 'Between Shawarma Twist and Taste of Greek Cuisine, the more affordable restaurant is Shawarma Twist.', 'answer': 'Shawarma Twist', 'candidate': 'Taste of Greek Cuisine'}
+{'statement': "Between Harry's Char Broil & Dining Lounge and Queen Slice, the more affordable restaurant is Queen Slice.", 'answer': 'Queen Slice', 'candidate': "Harry's Char Broil & Dining Lounge"}
+{'statement': 'Between Tik Talk Cafe and Madras Pantry, the more affordable restaurant is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'Tik Talk Cafe'}
+{'statement': "Between La Cocina De Dona Luz and Big Al's Diner, the more affordable restaurant is Big Al's Diner.", 'answer': "Big Al's Diner", 'candidate': 'La Cocina De Dona Luz'}
+{'statement': "Between Helena's Magic Kitchen and El Fogón, the more affordable restaurant is Helena's Magic Kitchen.", 'answer': "Helena's Magic Kitchen", 'candidate': 'El Fogón'}
+{'statement': 'Between Cafe Jules and Mövenpick Café, the more affordable restaurant is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Mövenpick Café'}
+{'statement': "Between Lebanese Bakery and Dinah's Cupboard, the more affordable restaurant is Lebanese Bakery.", 'answer': 'Lebanese Bakery', 'candidate': "Dinah's Cupboard"}
+{'statement': "Between Warung Indonesia D'Eglinton and Oxygen Restaurant & Lounge, the more affordable restaurant is Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': "Between Kairali - Taste of Kerala and Smoke's Weinerie, the more affordable restaurant is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Kairali - Taste of Kerala'}
+{'statement': 'Between Villa Madina and Le Papillon Park, the more affordable restaurant is Villa Madina.', 'answer': 'Villa Madina', 'candidate': 'Le Papillon Park'}
+{'statement': 'Between Bao Bao Plus Dim Sum and Sichuan Landscape Chinese Restaurant, the more affordable restaurant is Bao Bao Plus Dim Sum.', 'answer': 'Bao Bao Plus Dim Sum', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': 'Between Oxygen Restaurant & Lounge and EJ Sushi, the more affordable restaurant is EJ Sushi.', 'answer': 'EJ Sushi', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': "Between Nutella Cafe by Pusateri's and Amaya Express, the more affordable restaurant is Amaya Express.", 'answer': 'Amaya Express', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Supermodel Pizza and Tik Talk Cafe, the more affordable restaurant is Supermodel Pizza.', 'answer': 'Supermodel Pizza', 'candidate': 'Tik Talk Cafe'}
+{'statement': 'Between Cafe Jules and Sheriff Broaster Chicken, the more affordable restaurant is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': "Between Green Room and Joe Badali's Ristorante Italiano & Bar, the more affordable restaurant is Green Room.", 'answer': 'Green Room', 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': "Between Verona Restaurant and Harry's Char Broil & Dining Lounge, the more affordable restaurant is Harry's Char Broil & Dining Lounge.", 'answer': "Harry's Char Broil & Dining Lounge", 'candidate': 'Verona Restaurant'}
+{'statement': 'Between Sushi Time Japanese Restaurant and Hapa Toronto, the more affordable restaurant is Sushi Time Japanese Restaurant.', 'answer': 'Sushi Time Japanese Restaurant', 'candidate': 'Hapa Toronto'}
+{'statement': 'Between Verona Restaurant and Eggspectation, the more affordable restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Verona Restaurant'}
+{'statement': "Between McDonald's and El Fogón, the more affordable restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'El Fogón'}
+{'statement': 'Between Top Sushi and The Duke of Devon, the more affordable restaurant is Top Sushi.', 'answer': 'Top Sushi', 'candidate': 'The Duke of Devon'}
+{'statement': "Between Scaddabush Italian Kitchen & Bar and Dinah's Cupboard, the more affordable restaurant is Scaddabush Italian Kitchen & Bar.", 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': "Dinah's Cupboard"}
+{'statement': "Between Dangerous Dan's Diner and Sweet Jesus, the more affordable restaurant is Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': "Dangerous Dan's Diner"}
+{'statement': 'Between Freshii and Green Room, the more affordable restaurant is Green Room.', 'answer': 'Green Room', 'candidate': 'Freshii'}
+{'statement': "Between Warung Indonesia D'Eglinton and Sweet Jesus, the more affordable restaurant is Sweet Jesus.", 'answer': 'Sweet Jesus', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': "Between Aris Place and Beryl's Pepper Pot, the more affordable restaurant is Aris Place.", 'answer': 'Aris Place', 'candidate': "Beryl's Pepper Pot"}
+{'statement': 'Between The Coffee Pocket and Kibo Sushi House, the more affordable restaurant is The Coffee Pocket.', 'answer': 'The Coffee Pocket', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between Itamae Ayce Sushi and Bagel Nash, the more affordable restaurant is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Itamae Ayce Sushi'}
+{'statement': "Between Piper's Pub And Grill and Branca, the more affordable restaurant is Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Branca'}
+{'statement': "Between McDonald's and Dangerous Dan's Diner, the more affordable restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': "Dangerous Dan's Diner"}
+{'statement': 'Between Cantine Bar & Grill and St. Clair Shawarma and Falafel, the more affordable restaurant is St. Clair Shawarma and Falafel.', 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Cantine Bar & Grill'}
+{'statement': 'Between Mirage Grill & Lounge and FreshCo, the more affordable restaurant is FreshCo.', 'answer': 'FreshCo', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': "Between Capitol Trattoria Pizzeria and Helena's Magic Kitchen, the more affordable restaurant is Helena's Magic Kitchen.", 'answer': "Helena's Magic Kitchen", 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': "Between Harvey's and Helena's Magic Kitchen, the more affordable restaurant is Helena's Magic Kitchen.", 'answer': "Helena's Magic Kitchen", 'candidate': "Harvey's"}
+{'statement': "Between McDonald's and Beryl's Pepper Pot, the more affordable restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': "Beryl's Pepper Pot"}
+{'statement': 'Between Hina Sushi and Cafe Jules, the more affordable restaurant is Cafe Jules.', 'answer': 'Cafe Jules', 'candidate': 'Hina Sushi'}
+{'statement': 'Between Supermodel Pizza and Hawthorne Food and Drink, the more affordable restaurant is Supermodel Pizza.', 'answer': 'Supermodel Pizza', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': 'Between Adega Restaurante and Mövenpick Café, the more affordable restaurant is Mövenpick Café.', 'answer': 'Mövenpick Café', 'candidate': 'Adega Restaurante'}
+{'statement': 'Between Aroma Espresso Bar and Thompson Rooftop, the more affordable restaurant is Aroma Espresso Bar.', 'answer': 'Aroma Espresso Bar', 'candidate': 'Thompson Rooftop'}
+{'statement': 'Between Adega Restaurante and Eastern legend, the more affordable restaurant is Eastern legend.', 'answer': 'Eastern legend', 'candidate': 'Adega Restaurante'}
+{'statement': 'Between Farmacia Health Bar and Buk Chang Dong Soon Tofu, the more affordable restaurant is Buk Chang Dong Soon Tofu.', 'answer': 'Buk Chang Dong Soon Tofu', 'candidate': 'Farmacia Health Bar'}
+{'statement': 'Between Villa Madina and z-teca Gourmet Burritos, the more affordable restaurant is Villa Madina.', 'answer': 'Villa Madina', 'candidate': 'z-teca Gourmet Burritos'}
+{'statement': 'Between EJ Sushi and Verona Restaurant, the more affordable restaurant is EJ Sushi.', 'answer': 'EJ Sushi', 'candidate': 'Verona Restaurant'}
+{'statement': 'Between Buk Chang Dong Soon Tofu and Breakfast Room, the more affordable restaurant is Buk Chang Dong Soon Tofu.', 'answer': 'Buk Chang Dong Soon Tofu', 'candidate': 'Breakfast Room'}
+{'statement': "Between McDonald's and JJ Bean, the more affordable restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'JJ Bean'}
+{'statement': 'Between Marcello’s pizzeria and Falafel Hut Village, the more affordable restaurant is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'Marcello’s pizzeria'}
+{'statement': 'Between Sweet Jesus and Branca, the more affordable restaurant is Sweet Jesus.', 'answer': 'Sweet Jesus', 'candidate': 'Branca'}
+{'statement': 'Between Galata Cafe and Taste of Greek Cuisine, the more affordable restaurant is Taste of Greek Cuisine.', 'answer': 'Taste of Greek Cuisine', 'candidate': 'Galata Cafe'}
+{'statement': 'Between Amaya Express and Pho 88, the more affordable restaurant is Pho 88.', 'answer': 'Pho 88', 'candidate': 'Amaya Express'}
+{'statement': 'Between St. Louis Bar & Grill and Tim Hortons, the more affordable restaurant is Tim Hortons.', 'answer': 'Tim Hortons', 'candidate': 'St. Louis Bar & Grill'}
+{'statement': "Between KFC and Piper's Pub And Grill, the more affordable restaurant is KFC.", 'answer': 'KFC', 'candidate': "Piper's Pub And Grill"}
+{'statement': 'Between Villa Madina and LCBO, the more affordable restaurant is Villa Madina.', 'answer': 'Villa Madina', 'candidate': 'LCBO'}
+{'statement': 'Between Galata Cafe and St. Louis Bar & Grill, the more affordable restaurant is St. Louis Bar & Grill.', 'answer': 'St. Louis Bar & Grill', 'candidate': 'Galata Cafe'}
+{'statement': 'Between Verona Restaurant and The Coffee Pocket, the more affordable restaurant is The Coffee Pocket.', 'answer': 'The Coffee Pocket', 'candidate': 'Verona Restaurant'}
+{'statement': 'Between Galata Cafe and Green Room, the more affordable restaurant is Green Room.', 'answer': 'Green Room', 'candidate': 'Galata Cafe'}
+{'statement': 'Between Anatolia Restaurant and Villa Madina, the more affordable restaurant is Villa Madina.', 'answer': 'Villa Madina', 'candidate': 'Anatolia Restaurant'}
+{'statement': 'Between New Bilan Restaurant and Modo Mio Italian Bistro, the more affordable restaurant is New Bilan Restaurant.', 'answer': 'New Bilan Restaurant', 'candidate': 'Modo Mio Italian Bistro'}
+{'statement': "Between Mysteriously Yours Dinner Theatre and Watson's, the more affordable restaurant is Watson's.", 'answer': "Watson's", 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': 'Between Aris Place and Hawthorne Food and Drink, the more affordable restaurant is Aris Place.', 'answer': 'Aris Place', 'candidate': 'Hawthorne Food and Drink'}
+{'statement': 'Between Fit For Life and Kibo Sushi House, the more affordable restaurant is Fit For Life.', 'answer': 'Fit For Life', 'candidate': 'Kibo Sushi House'}
+{'statement': 'Between Sizzlers and Edible Arrangements, the more affordable restaurant is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'Edible Arrangements'}
+{'statement': 'Between Anatolia Restaurant and Sichuan Landscape Chinese Restaurant, the more affordable restaurant is Anatolia Restaurant.', 'answer': 'Anatolia Restaurant', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': "Between Mamma's Pizza and Branca, the more affordable restaurant is Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': 'Branca'}
+{'statement': 'Between Oxygen Restaurant & Lounge and New Bilan Restaurant, the more affordable restaurant is New Bilan Restaurant.', 'answer': 'New Bilan Restaurant', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': 'Between Villa Madina and Juice & Java Cafe, the more affordable restaurant is Villa Madina.', 'answer': 'Villa Madina', 'candidate': 'Juice & Java Cafe'}
+{'statement': 'Between Freshii and Mirage Grill & Lounge, the more affordable restaurant is Freshii.', 'answer': 'Freshii', 'candidate': 'Mirage Grill & Lounge'}
+{'statement': 'Between Solero Mediterranean Bakery and Freshii, the more affordable restaurant is Solero Mediterranean Bakery.', 'answer': 'Solero Mediterranean Bakery', 'candidate': 'Freshii'}
+{'statement': "Between Phil's Original BBQ and St. Clair Shawarma and Falafel, the more affordable restaurant is St. Clair Shawarma and Falafel.", 'answer': 'St. Clair Shawarma and Falafel', 'candidate': "Phil's Original BBQ"}
+{'statement': 'Between Bonne Journee and Ciao Europa wine bar, the more affordable restaurant is Bonne Journee.', 'answer': 'Bonne Journee', 'candidate': 'Ciao Europa wine bar'}
+{'statement': 'Between Green Room and LCBO, the more affordable restaurant is Green Room.', 'answer': 'Green Room', 'candidate': 'LCBO'}
+{'statement': "Between Sushi World and Nutella Cafe by Pusateri's, the more affordable restaurant is Sushi World.", 'answer': 'Sushi World', 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Freshii and Goldstone Noodle Restaurant, the more affordable restaurant is Goldstone Noodle Restaurant.', 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'Freshii'}
+{'statement': "Between Bonne Journee and Warung Indonesia D'Eglinton, the more affordable restaurant is Bonne Journee.", 'answer': 'Bonne Journee', 'candidate': "Warung Indonesia D'Eglinton"}
+{'statement': "Between Shawarma Twist and Roncy's Bean, the more affordable restaurant is Shawarma Twist.", 'answer': 'Shawarma Twist', 'candidate': "Roncy's Bean"}
+{'statement': 'Between Sichuan Landscape Chinese Restaurant and St. Clair Shawarma and Falafel, the more affordable restaurant is St. Clair Shawarma and Falafel.', 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Sichuan Landscape Chinese Restaurant'}
+{'statement': "Between Druxy's Famous Deli and Branca, the more affordable restaurant is Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': 'Branca'}
+{'statement': 'Between Kim PO Vietnamese and Queen Slice, the more affordable restaurant is Queen Slice.', 'answer': 'Queen Slice', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Pizza Pizza and Pasta Pantry, the more affordable restaurant is Pizza Pizza.', 'answer': 'Pizza Pizza', 'candidate': 'Pasta Pantry'}
+{'statement': 'Between Le Papillon Park and Edible Arrangements, the more affordable restaurant is Le Papillon Park.', 'answer': 'Le Papillon Park', 'candidate': 'Edible Arrangements'}
+{'statement': "Between It's All Grk and Verona Restaurant, the more affordable restaurant is It's All Grk.", 'answer': "It's All Grk", 'candidate': 'Verona Restaurant'}
+{'statement': 'Between Solero Mediterranean Bakery and EJ Sushi, the more affordable restaurant is Solero Mediterranean Bakery.', 'answer': 'Solero Mediterranean Bakery', 'candidate': 'EJ Sushi'}
+{'statement': 'Between Galata Cafe and La Pupusa Loka, the more affordable restaurant is La Pupusa Loka.', 'answer': 'La Pupusa Loka', 'candidate': 'Galata Cafe'}
+{'statement': 'Between Kim PO Vietnamese and Top Sushi, the more affordable restaurant is Top Sushi.', 'answer': 'Top Sushi', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Hawthorne Food and Drink and Adega Restaurante, the more affordable restaurant is Hawthorne Food and Drink.', 'answer': 'Hawthorne Food and Drink', 'candidate': 'Adega Restaurante'}
+{'statement': "Between Topham Corner and Smoke's Weinerie, the more affordable restaurant is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Topham Corner'}
+{'statement': 'Between Goldstone Noodle Restaurant and Sushi Time Japanese Restaurant, the more affordable restaurant is Goldstone Noodle Restaurant.', 'answer': 'Goldstone Noodle Restaurant', 'candidate': 'Sushi Time Japanese Restaurant'}
+{'statement': "Between Dinah's Cupboard and Nook, the more affordable restaurant is Nook.", 'answer': 'Nook', 'candidate': "Dinah's Cupboard"}
+{'statement': 'Between Branca and Breakfast Room, the more affordable restaurant is Breakfast Room.', 'answer': 'Breakfast Room', 'candidate': 'Branca'}
+{'statement': 'Between Bagel Nash and Banjara Indian Cuisine, the more affordable restaurant is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': 'Between El Fogón and Madras Pantry, the more affordable restaurant is Madras Pantry.', 'answer': 'Madras Pantry', 'candidate': 'El Fogón'}
+{'statement': 'Between Nook and Buk Chang Dong Soon Tofu, the more affordable restaurant is Buk Chang Dong Soon Tofu.', 'answer': 'Buk Chang Dong Soon Tofu', 'candidate': 'Nook'}
+{'statement': 'Between z-teca Gourmet Burritos and Cake Opera, the more affordable restaurant is z-teca Gourmet Burritos.', 'answer': 'z-teca Gourmet Burritos', 'candidate': 'Cake Opera'}
+{'statement': "Between Galata Cafe and McDonald's, the more affordable restaurant is McDonald's.", 'answer': "McDonald's", 'candidate': 'Galata Cafe'}
+{'statement': "Between Druxy's Famous Deli and Eggspectation, the more affordable restaurant is Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': 'Eggspectation'}
+{'statement': 'Between Cake Opera and Sheriff Broaster Chicken, the more affordable restaurant is Sheriff Broaster Chicken.', 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Cake Opera'}
+{'statement': 'Between Freshii and Falafel Hut Village, the more affordable restaurant is Falafel Hut Village.', 'answer': 'Falafel Hut Village', 'candidate': 'Freshii'}
+{'statement': "Between KFC and Beryl's Pepper Pot, the more affordable restaurant is KFC.", 'answer': 'KFC', 'candidate': "Beryl's Pepper Pot"}
+{'statement': "Between Helena's Magic Kitchen and Marcello’s pizzeria, the more affordable restaurant is Helena's Magic Kitchen.", 'answer': "Helena's Magic Kitchen", 'candidate': 'Marcello’s pizzeria'}
+{'statement': "Between Nutella Cafe by Pusateri's and Harvey's, the more affordable restaurant is Harvey's.", 'answer': "Harvey's", 'candidate': "Nutella Cafe by Pusateri's"}
+{'statement': 'Between Sweet Jesus and Eggspectation, the more affordable restaurant is Sweet Jesus.', 'answer': 'Sweet Jesus', 'candidate': 'Eggspectation'}
+{'statement': 'Between Queen Pita and Maurya East Indian Roti, the more affordable restaurant is Queen Pita.', 'answer': 'Queen Pita', 'candidate': 'Maurya East Indian Roti'}
+{'statement': 'Between Kim PO Vietnamese and Pho 88, the more affordable restaurant is Pho 88.', 'answer': 'Pho 88', 'candidate': 'Kim PO Vietnamese'}
+{'statement': "Between Scaddabush Italian Kitchen & Bar and Helena's Magic Kitchen, the more affordable restaurant is Helena's Magic Kitchen.", 'answer': "Helena's Magic Kitchen", 'candidate': 'Scaddabush Italian Kitchen & Bar'}
+{'statement': 'Between Bao Bao Plus Dim Sum and New Bilan Restaurant, the more affordable restaurant is New Bilan Restaurant.', 'answer': 'New Bilan Restaurant', 'candidate': 'Bao Bao Plus Dim Sum'}
+{'statement': 'Between Verona Restaurant and Cantine Bar & Grill, the more affordable restaurant is Cantine Bar & Grill.', 'answer': 'Cantine Bar & Grill', 'candidate': 'Verona Restaurant'}
+{'statement': 'Between The Empire and Mt Everest Restaurant, the more affordable restaurant is The Empire.', 'answer': 'The Empire', 'candidate': 'Mt Everest Restaurant'}
+{'statement': 'Between Fitness Avenue and Tik Talk Cafe, the more affordable restaurant is Fitness Avenue.', 'answer': 'Fitness Avenue', 'candidate': 'Tik Talk Cafe'}
+{'statement': 'Between Oxygen Restaurant & Lounge and Eggspectation, the more affordable restaurant is Eggspectation.', 'answer': 'Eggspectation', 'candidate': 'Oxygen Restaurant & Lounge'}
+{'statement': 'Between Le Papillon Park and Fitness Avenue, the more affordable restaurant is Fitness Avenue.', 'answer': 'Fitness Avenue', 'candidate': 'Le Papillon Park'}
+{'statement': 'Between Grappa Ristorante and FreshCo, the more affordable restaurant is FreshCo.', 'answer': 'FreshCo', 'candidate': 'Grappa Ristorante'}
+{'statement': 'Between Kim PO Vietnamese and Sushi World, the more affordable restaurant is Sushi World.', 'answer': 'Sushi World', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Eastern legend and Ici Bistro, the more affordable restaurant is Eastern legend.', 'answer': 'Eastern legend', 'candidate': 'Ici Bistro'}
+{'statement': "Between Mt Everest Restaurant and Smoke's Weinerie, the more affordable restaurant is Smoke's Weinerie.", 'answer': "Smoke's Weinerie", 'candidate': 'Mt Everest Restaurant'}
+{'statement': 'Between Evoo Ristorante and Banjara Indian Cuisine, the more affordable restaurant is Banjara Indian Cuisine.', 'answer': 'Banjara Indian Cuisine', 'candidate': 'Evoo Ristorante'}
+{'statement': 'Between Evoo Ristorante and Sushi World, the more affordable restaurant is Sushi World.', 'answer': 'Sushi World', 'candidate': 'Evoo Ristorante'}
+{'statement': "Between Joe Badali's Ristorante Italiano & Bar and Mi Mi Restaurant, the more affordable restaurant is Mi Mi Restaurant.", 'answer': 'Mi Mi Restaurant', 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': "Between Joe Badali's Ristorante Italiano & Bar and Falafel Hut Village, the more affordable restaurant is Falafel Hut Village.", 'answer': 'Falafel Hut Village', 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': "Between Capitol Trattoria Pizzeria and Milo's Pita, the more affordable restaurant is Milo's Pita.", 'answer': "Milo's Pita", 'candidate': 'Capitol Trattoria Pizzeria'}
+{'statement': 'Between Green Grotto and Grappa Ristorante, the more affordable restaurant is Green Grotto.', 'answer': 'Green Grotto', 'candidate': 'Grappa Ristorante'}
+{'statement': 'Between Sizzlers and Thai 4 You Restaurant, the more affordable restaurant is Sizzlers.', 'answer': 'Sizzlers', 'candidate': 'Thai 4 You Restaurant'}
+{'statement': "Between Galata Cafe and Warung Indonesia D'Eglinton, the more affordable restaurant is Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Galata Cafe'}
+{'statement': 'Between Just Soups Take Out & Catering and Branca, the more affordable restaurant is Just Soups Take Out & Catering.', 'answer': 'Just Soups Take Out & Catering', 'candidate': 'Branca'}
+{'statement': 'Between El Fogón and Adega Restaurante, the more affordable restaurant is El Fogón.', 'answer': 'El Fogón', 'candidate': 'Adega Restaurante'}
+{'statement': "Between Piper's Pub And Grill and Druxy's Famous Deli, the more affordable restaurant is Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': "Piper's Pub And Grill"}
+{'statement': "Between Harvey's and St. Clair Shawarma and Falafel, the more affordable restaurant is St. Clair Shawarma and Falafel.", 'answer': 'St. Clair Shawarma and Falafel', 'candidate': "Harvey's"}
+{'statement': 'Between EJ Sushi and Buk Chang Dong Soon Tofu, the more affordable restaurant is Buk Chang Dong Soon Tofu.', 'answer': 'Buk Chang Dong Soon Tofu', 'candidate': 'EJ Sushi'}
+{'statement': 'Between Mt Everest Restaurant and St. Clair Shawarma and Falafel, the more affordable restaurant is St. Clair Shawarma and Falafel.', 'answer': 'St. Clair Shawarma and Falafel', 'candidate': 'Mt Everest Restaurant'}
+{'statement': 'Between EJ Sushi and Branca, the more affordable restaurant is EJ Sushi.', 'answer': 'EJ Sushi', 'candidate': 'Branca'}
+{'statement': 'Between KFC and Banjara Indian Cuisine, the more affordable restaurant is KFC.', 'answer': 'KFC', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': 'Between Tik Talk Cafe and Just Soups Take Out & Catering, the more affordable restaurant is Just Soups Take Out & Catering.', 'answer': 'Just Soups Take Out & Catering', 'candidate': 'Tik Talk Cafe'}
+{'statement': 'Between La Cocina De Dona Luz and Queen Slice, the more affordable restaurant is Queen Slice.', 'answer': 'Queen Slice', 'candidate': 'La Cocina De Dona Luz'}
+{'statement': 'Between Villa Madina and Maurya East Indian Roti, the more affordable restaurant is Villa Madina.', 'answer': 'Villa Madina', 'candidate': 'Maurya East Indian Roti'}
+{'statement': 'Between Falafel House and Kim PO Vietnamese, the more affordable restaurant is Falafel House.', 'answer': 'Falafel House', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Adega Restaurante and Scaddabush Italian Kitchen & Bar, the more affordable restaurant is Scaddabush Italian Kitchen & Bar.', 'answer': 'Scaddabush Italian Kitchen & Bar', 'candidate': 'Adega Restaurante'}
+{'statement': "Between Assembly Chef's Hall and Branca, the more affordable restaurant is Assembly Chef's Hall.", 'answer': "Assembly Chef's Hall", 'candidate': 'Branca'}
+{'statement': "Between Tortería San Cosme and Druxy's Famous Deli, the more affordable restaurant is Druxy's Famous Deli.", 'answer': "Druxy's Famous Deli", 'candidate': 'Tortería San Cosme'}
+{'statement': 'Between Modo Mio Italian Bistro and Bagel Nash, the more affordable restaurant is Bagel Nash.', 'answer': 'Bagel Nash', 'candidate': 'Modo Mio Italian Bistro'}
+{'statement': 'Between Cake Opera and Sky Dragon Chinese Restaurant, the more affordable restaurant is Sky Dragon Chinese Restaurant.', 'answer': 'Sky Dragon Chinese Restaurant', 'candidate': 'Cake Opera'}
+{'statement': "Between Verona Restaurant and Piper's Pub And Grill, the more affordable restaurant is Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Verona Restaurant'}
+{'statement': 'Between Galata Cafe and Pasta Pantry, the more affordable restaurant is Pasta Pantry.', 'answer': 'Pasta Pantry', 'candidate': 'Galata Cafe'}
+{'statement': 'Between New Bilan Restaurant and Mysteriously Yours Dinner Theatre, the more affordable restaurant is New Bilan Restaurant.', 'answer': 'New Bilan Restaurant', 'candidate': 'Mysteriously Yours Dinner Theatre'}
+{'statement': "Between Joe Badali's Ristorante Italiano & Bar and Mamma's Pizza, the more affordable restaurant is Mamma's Pizza.", 'answer': "Mamma's Pizza", 'candidate': "Joe Badali's Ristorante Italiano & Bar"}
+{'statement': 'Between Magic Oven and Hapa Toronto, the more affordable restaurant is Magic Oven.', 'answer': 'Magic Oven', 'candidate': 'Hapa Toronto'}
+{'statement': 'Between Kim PO Vietnamese and Delicious Paradise Kitchen, the more affordable restaurant is Delicious Paradise Kitchen.', 'answer': 'Delicious Paradise Kitchen', 'candidate': 'Kim PO Vietnamese'}
+{'statement': 'Between Villa Madina and Green Grotto, the more affordable restaurant is Villa Madina.', 'answer': 'Villa Madina', 'candidate': 'Green Grotto'}
+{'statement': 'Between Sheriff Broaster Chicken and Oxygen Restaurant & Lounge, the more affordable restaurant is Sheriff Broaster Chicken.', 'answer': 'Sheriff Broaster Chicken', 'candidate': 'Oxygen Restaurant & Lounge'}

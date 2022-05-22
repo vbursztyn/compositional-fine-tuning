@@ -1,0 +1,100 @@
+{'statement': "Someone doesn't like big cities. Between Bujumbura and Guangzhou, this person should visit Bujumbura.", 'answer': 'Bujumbura', 'candidate': 'Guangzhou'}
+{'statement': "Someone doesn't like big cities. Between Yakutsk and Kabul, this person should visit Yakutsk.", 'answer': 'Yakutsk', 'candidate': 'Kabul'}
+{'statement': "Someone doesn't like big cities. Between Kunming and Manila, this person should visit Kunming.", 'answer': 'Kunming', 'candidate': 'Manila'}
+{'statement': "Someone doesn't like big cities. Between Algiers and Mexico City, this person should visit Algiers.", 'answer': 'Algiers', 'candidate': 'Mexico City'}
+{'statement': "Someone doesn't like big cities. Between Mahajanga and Ankara, this person should visit Mahajanga.", 'answer': 'Mahajanga', 'candidate': 'Ankara'}
+{'statement': "Someone doesn't like big cities. Between Mumbai and Entebbe, this person should visit Entebbe.", 'answer': 'Entebbe', 'candidate': 'Mumbai'}
+{'statement': "Someone doesn't like big cities. Between Kano and Bahía Blanca, this person should visit Bahía Blanca.", 'answer': 'Bahía Blanca', 'candidate': 'Kano'}
+{'statement': "Someone doesn't like big cities. Between Bucharest and Luanda, this person should visit Bucharest.", 'answer': 'Bucharest', 'candidate': 'Luanda'}
+{'statement': "Someone doesn't like big cities. Between Paris and Panama City, this person should visit Panama City.", 'answer': 'Panama City', 'candidate': 'Paris'}
+{'statement': "Someone doesn't like big cities. Between Buenos Aires and Surabaya, this person should visit Surabaya.", 'answer': 'Surabaya', 'candidate': 'Buenos Aires'}
+{'statement': "Someone doesn't like big cities. Between Bangkok and Calgary, this person should visit Calgary.", 'answer': 'Calgary', 'candidate': 'Bangkok'}
+{'statement': "Someone doesn't like big cities. Between Kansas City and Johannesburg, this person should visit Kansas City.", 'answer': 'Kansas City', 'candidate': 'Johannesburg'}
+{'statement': "Someone doesn't like big cities. Between Algiers and Suwałki, this person should visit Suwałki.", 'answer': 'Suwałki', 'candidate': 'Algiers'}
+{'statement': "Someone doesn't like big cities. Between Moscow and Toronto, this person should visit Toronto.", 'answer': 'Toronto', 'candidate': 'Moscow'}
+{'statement': "Someone doesn't like big cities. Between Houston and Durban, this person should visit Durban.", 'answer': 'Durban', 'candidate': 'Houston'}
+{'statement': "Someone doesn't like big cities. Between Santiago and Shanghai, this person should visit Santiago.", 'answer': 'Santiago', 'candidate': 'Shanghai'}
+{'statement': "Someone doesn't like big cities. Between Riyadh and Mendoza, this person should visit Mendoza.", 'answer': 'Mendoza', 'candidate': 'Riyadh'}
+{'statement': "Someone doesn't like big cities. Between Medellín and Nairobi, this person should visit Medellín.", 'answer': 'Medellín', 'candidate': 'Nairobi'}
+{'statement': "Someone doesn't like big cities. Between Lake Havasu City and Berlin, this person should visit Lake Havasu City.", 'answer': 'Lake Havasu City', 'candidate': 'Berlin'}
+{'statement': "Someone doesn't like big cities. Between Saint Petersburg and Hamilton, this person should visit Hamilton.", 'answer': 'Hamilton', 'candidate': 'Saint Petersburg'}
+{'statement': "Someone doesn't like big cities. Between Shanghai and Baltimore, this person should visit Baltimore.", 'answer': 'Baltimore', 'candidate': 'Shanghai'}
+{'statement': "Someone doesn't like big cities. Between Mexico City and Piura, this person should visit Piura.", 'answer': 'Piura', 'candidate': 'Mexico City'}
+{'statement': "Someone doesn't like big cities. Between Santiago and Guangzhou, this person should visit Santiago.", 'answer': 'Santiago', 'candidate': 'Guangzhou'}
+{'statement': "Someone doesn't like big cities. Between Jakarta and Moscow, this person should visit Moscow.", 'answer': 'Moscow', 'candidate': 'Jakarta'}
+{'statement': "Someone doesn't like big cities. Between Lagos and Cairo, this person should visit Lagos.", 'answer': 'Lagos', 'candidate': 'Cairo'}
+{'statement': "Someone doesn't like big cities. Between Honolulu and Guangzhou, this person should visit Honolulu.", 'answer': 'Honolulu', 'candidate': 'Guangzhou'}
+{'statement': "Someone doesn't like big cities. Between Sydney and Brussels, this person should visit Brussels.", 'answer': 'Brussels', 'candidate': 'Sydney'}
+{'statement': "Someone doesn't like big cities. Between Belize City and Perth, this person should visit Belize City.", 'answer': 'Belize City', 'candidate': 'Perth'}
+{'statement': "Someone doesn't like big cities. Between San Antonio and Jakarta, this person should visit San Antonio.", 'answer': 'San Antonio', 'candidate': 'Jakarta'}
+{'statement': "Someone doesn't like big cities. Between Buenos Aires and Beijing, this person should visit Buenos Aires.", 'answer': 'Buenos Aires', 'candidate': 'Beijing'}
+{'statement': "Someone doesn't like big cities. Between Mahajanga and Minneapolis, this person should visit Mahajanga.", 'answer': 'Mahajanga', 'candidate': 'Minneapolis'}
+{'statement': "Someone doesn't like big cities. Between Phnom Penh and Houston, this person should visit Phnom Penh.", 'answer': 'Phnom Penh', 'candidate': 'Houston'}
+{'statement': "Someone doesn't like big cities. Between Johannesburg and Makurdi, this person should visit Makurdi.", 'answer': 'Makurdi', 'candidate': 'Johannesburg'}
+{'statement': "Someone doesn't like big cities. Between Entebbe and Alexandria, this person should visit Entebbe.", 'answer': 'Entebbe', 'candidate': 'Alexandria'}
+{'statement': "Someone doesn't like big cities. Between Los Angeles and Palmerston North, this person should visit Palmerston North.", 'answer': 'Palmerston North', 'candidate': 'Los Angeles'}
+{'statement': "Someone doesn't like big cities. Between Shanghai and Cotonou, this person should visit Cotonou.", 'answer': 'Cotonou', 'candidate': 'Shanghai'}
+{'statement': "Someone doesn't like big cities. Between Riyadh and Curitiba, this person should visit Curitiba.", 'answer': 'Curitiba', 'candidate': 'Riyadh'}
+{'statement': "Someone doesn't like big cities. Between Port-Gentil and Chicago, this person should visit Port-Gentil.", 'answer': 'Port-Gentil', 'candidate': 'Chicago'}
+{'statement': "Someone doesn't like big cities. Between Zagreb and Kuwait City, this person should visit Zagreb.", 'answer': 'Zagreb', 'candidate': 'Kuwait City'}
+{'statement': "Someone doesn't like big cities. Between Palermo and Guangzhou, this person should visit Palermo.", 'answer': 'Palermo', 'candidate': 'Guangzhou'}
+{'statement': "Someone doesn't like big cities. Between Toronto and Halifax, this person should visit Halifax.", 'answer': 'Halifax', 'candidate': 'Toronto'}
+{'statement': "Someone doesn't like big cities. Between Jakarta and Rome, this person should visit Rome.", 'answer': 'Rome', 'candidate': 'Jakarta'}
+{'statement': "Someone doesn't like big cities. Between Kano and Djibouti, this person should visit Djibouti.", 'answer': 'Djibouti', 'candidate': 'Kano'}
+{'statement': "Someone doesn't like big cities. Between Harare and Lahore, this person should visit Harare.", 'answer': 'Harare', 'candidate': 'Lahore'}
+{'statement': "Someone doesn't like big cities. Between Kunming and Pontianak, this person should visit Pontianak.", 'answer': 'Pontianak', 'candidate': 'Kunming'}
+{'statement': "Someone doesn't like big cities. Between Cayenne and Hanoi, this person should visit Cayenne.", 'answer': 'Cayenne', 'candidate': 'Hanoi'}
+{'statement': "Someone doesn't like big cities. Between Toliara and Riyadh, this person should visit Toliara.", 'answer': 'Toliara', 'candidate': 'Riyadh'}
+{'statement': "Someone doesn't like big cities. Between Ndola and Brisbane, this person should visit Ndola.", 'answer': 'Ndola', 'candidate': 'Brisbane'}
+{'statement': "Someone doesn't like big cities. Between Saint Petersburg and San José, this person should visit San José.", 'answer': 'San José', 'candidate': 'Saint Petersburg'}
+{'statement': "Someone doesn't like big cities. Between Lima and San Diego, this person should visit San Diego.", 'answer': 'San Diego', 'candidate': 'Lima'}
+{'statement': "Someone doesn't like big cities. Between Baku and Manila, this person should visit Baku.", 'answer': 'Baku', 'candidate': 'Manila'}
+{'statement': "Someone doesn't like big cities. Between Kano and Shanghai, this person should visit Kano.", 'answer': 'Kano', 'candidate': 'Shanghai'}
+{'statement': "Someone doesn't like big cities. Between Guadalajara and Tucson, this person should visit Tucson.", 'answer': 'Tucson', 'candidate': 'Guadalajara'}
+{'statement': "Someone doesn't like big cities. Between Reykjavík and Cairo, this person should visit Reykjavík.", 'answer': 'Reykjavík', 'candidate': 'Cairo'}
+{'statement': "Someone doesn't like big cities. Between Kunming and Bishkek, this person should visit Bishkek.", 'answer': 'Bishkek', 'candidate': 'Kunming'}
+{'statement': "Someone doesn't like big cities. Between San Juan and Brasília, this person should visit San Juan.", 'answer': 'San Juan', 'candidate': 'Brasília'}
+{'statement': "Someone doesn't like big cities. Between Moscow and Santiago, this person should visit Santiago.", 'answer': 'Santiago', 'candidate': 'Moscow'}
+{'statement': "Someone doesn't like big cities. Between Riyadh and Río Gallegos, this person should visit Río Gallegos.", 'answer': 'Río Gallegos', 'candidate': 'Riyadh'}
+{'statement': "Someone doesn't like big cities. Between Halifax and Lagos, this person should visit Halifax.", 'answer': 'Halifax', 'candidate': 'Lagos'}
+{'statement': "Someone doesn't like big cities. Between Garoua and Jakarta, this person should visit Garoua.", 'answer': 'Garoua', 'candidate': 'Jakarta'}
+{'statement': "Someone doesn't like big cities. Between Kano and Sucre, this person should visit Sucre.", 'answer': 'Sucre', 'candidate': 'Kano'}
+{'statement': "Someone doesn't like big cities. Between Milwaukee and Lagos, this person should visit Milwaukee.", 'answer': 'Milwaukee', 'candidate': 'Lagos'}
+{'statement': "Someone doesn't like big cities. Between Entebbe and Los Angeles, this person should visit Entebbe.", 'answer': 'Entebbe', 'candidate': 'Los Angeles'}
+{'statement': "Someone doesn't like big cities. Between Cayenne and Addis Ababa, this person should visit Cayenne.", 'answer': 'Cayenne', 'candidate': 'Addis Ababa'}
+{'statement': "Someone doesn't like big cities. Between Fianarantsoa and Paris, this person should visit Fianarantsoa.", 'answer': 'Fianarantsoa', 'candidate': 'Paris'}
+{'statement': "Someone doesn't like big cities. Between Manila and Zagreb, this person should visit Zagreb.", 'answer': 'Zagreb', 'candidate': 'Manila'}
+{'statement': "Someone doesn't like big cities. Between Thiès and Medellín, this person should visit Thiès.", 'answer': 'Thiès', 'candidate': 'Medellín'}
+{'statement': "Someone doesn't like big cities. Between Benghazi and Tampa, this person should visit Benghazi.", 'answer': 'Benghazi', 'candidate': 'Tampa'}
+{'statement': "Someone doesn't like big cities. Between Cayenne and Surabaya, this person should visit Cayenne.", 'answer': 'Cayenne', 'candidate': 'Surabaya'}
+{'statement': "Someone doesn't like big cities. Between Ho Chi Minh City and Toliara, this person should visit Toliara.", 'answer': 'Toliara', 'candidate': 'Ho Chi Minh City'}
+{'statement': "Someone doesn't like big cities. Between Sydney and Denpasar, this person should visit Denpasar.", 'answer': 'Denpasar', 'candidate': 'Sydney'}
+{'statement': "Someone doesn't like big cities. Between Mumbai and Cairo, this person should visit Cairo.", 'answer': 'Cairo', 'candidate': 'Mumbai'}
+{'statement': "Someone doesn't like big cities. Between Lagos and Sucre, this person should visit Sucre.", 'answer': 'Sucre', 'candidate': 'Lagos'}
+{'statement': "Someone doesn't like big cities. Between Mexicali and Toronto, this person should visit Mexicali.", 'answer': 'Mexicali', 'candidate': 'Toronto'}
+{'statement': "Someone doesn't like big cities. Between Johannesburg and Mexicali, this person should visit Mexicali.", 'answer': 'Mexicali', 'candidate': 'Johannesburg'}
+{'statement': "Someone doesn't like big cities. Between Buenos Aires and Kuwait City, this person should visit Kuwait City.", 'answer': 'Kuwait City', 'candidate': 'Buenos Aires'}
+{'statement': "Someone doesn't like big cities. Between Auckland and Shanghai, this person should visit Auckland.", 'answer': 'Auckland', 'candidate': 'Shanghai'}
+{'statement': "Someone doesn't like big cities. Between Kunming and Porto Alegre, this person should visit Porto Alegre.", 'answer': 'Porto Alegre', 'candidate': 'Kunming'}
+{'statement': "Someone doesn't like big cities. Between Chicago and Rabat, this person should visit Rabat.", 'answer': 'Rabat', 'candidate': 'Chicago'}
+{'statement': "Someone doesn't like big cities. Between Surabaya and Mendoza, this person should visit Mendoza.", 'answer': 'Mendoza', 'candidate': 'Surabaya'}
+{'statement': "Someone doesn't like big cities. Between Lisbon and Melbourne, this person should visit Lisbon.", 'answer': 'Lisbon', 'candidate': 'Melbourne'}
+{'statement': "Someone doesn't like big cities. Between Zagreb and Los Angeles, this person should visit Zagreb.", 'answer': 'Zagreb', 'candidate': 'Los Angeles'}
+{'statement': "Someone doesn't like big cities. Between Ho Chi Minh City and Fukuoka, this person should visit Fukuoka.", 'answer': 'Fukuoka', 'candidate': 'Ho Chi Minh City'}
+{'statement': "Someone doesn't like big cities. Between Ho Chi Minh City and Chicago, this person should visit Chicago.", 'answer': 'Chicago', 'candidate': 'Ho Chi Minh City'}
+{'statement': "Someone doesn't like big cities. Between Ségou and Houston, this person should visit Ségou.", 'answer': 'Ségou', 'candidate': 'Houston'}
+{'statement': "Someone doesn't like big cities. Between Almaty and Riyadh, this person should visit Almaty.", 'answer': 'Almaty', 'candidate': 'Riyadh'}
+{'statement': "Someone doesn't like big cities. Between Panama City and Berlin, this person should visit Panama City.", 'answer': 'Panama City', 'candidate': 'Berlin'}
+{'statement': "Someone doesn't like big cities. Between Podgorica and Rome, this person should visit Podgorica.", 'answer': 'Podgorica', 'candidate': 'Rome'}
+{'statement': "Someone doesn't like big cities. Between Hanoi and Kuwait City, this person should visit Kuwait City.", 'answer': 'Kuwait City', 'candidate': 'Hanoi'}
+{'statement': "Someone doesn't like big cities. Between Hat Yai and Kano, this person should visit Hat Yai.", 'answer': 'Hat Yai', 'candidate': 'Kano'}
+{'statement': "Someone doesn't like big cities. Between Yakutsk and Lahore, this person should visit Yakutsk.", 'answer': 'Yakutsk', 'candidate': 'Lahore'}
+{'statement': "Someone doesn't like big cities. Between Río Gallegos and Guangzhou, this person should visit Río Gallegos.", 'answer': 'Río Gallegos', 'candidate': 'Guangzhou'}
+{'statement': "Someone doesn't like big cities. Between Porto Alegre and Kabul, this person should visit Porto Alegre.", 'answer': 'Porto Alegre', 'candidate': 'Kabul'}
+{'statement': "Someone doesn't like big cities. Between La Serena and Shanghai, this person should visit La Serena.", 'answer': 'La Serena', 'candidate': 'Shanghai'}
+{'statement': "Someone doesn't like big cities. Between Tampa and San José, this person should visit San José.", 'answer': 'San José', 'candidate': 'Tampa'}
+{'statement': "Someone doesn't like big cities. Between Anchorage and Johannesburg, this person should visit Anchorage.", 'answer': 'Anchorage', 'candidate': 'Johannesburg'}
+{'statement': "Someone doesn't like big cities. Between Cairo and London, this person should visit London.", 'answer': 'London', 'candidate': 'Cairo'}
+{'statement': "Someone doesn't like big cities. Between Brasília and Vientiane, this person should visit Vientiane.", 'answer': 'Vientiane', 'candidate': 'Brasília'}
+{'statement': "Someone doesn't like big cities. Between Kuwait City and Sydney, this person should visit Kuwait City.", 'answer': 'Kuwait City', 'candidate': 'Sydney'}
+{'statement': "Someone doesn't like big cities. Between Lahore and Antsiranana, this person should visit Antsiranana.", 'answer': 'Antsiranana', 'candidate': 'Lahore'}

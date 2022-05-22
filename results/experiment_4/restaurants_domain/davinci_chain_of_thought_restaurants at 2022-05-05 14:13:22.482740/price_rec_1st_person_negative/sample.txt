@@ -1,0 +1,100 @@
+{'statement': "I don't like cheap restaurants. Between Thompson Rooftop and Pizza Pizza, I should go to Thompson Rooftop.", 'answer': 'Thompson Rooftop', 'candidate': 'Pizza Pizza'}
+{'statement': "I don't like cheap restaurants. Between The Coffee Pocket and Breakfast Room, I should go to Breakfast Room.", 'answer': 'Breakfast Room', 'candidate': 'The Coffee Pocket'}
+{'statement': "I don't like cheap restaurants. Between Magic Oven and Supermodel Pizza, I should go to Magic Oven.", 'answer': 'Magic Oven', 'candidate': 'Supermodel Pizza'}
+{'statement': "I don't like cheap restaurants. Between Bagel Nash and 9 Restaurant, I should go to 9 Restaurant.", 'answer': '9 Restaurant', 'candidate': 'Bagel Nash'}
+{'statement': "I don't like cheap restaurants. Between Chipotle Mexican Grill and Green Room, I should go to Chipotle Mexican Grill.", 'answer': 'Chipotle Mexican Grill', 'candidate': 'Green Room'}
+{'statement': "I don't like cheap restaurants. Between Popeyes Louisiana Kitchen and St. Clair Shawarma and Falafel, I should go to Popeyes Louisiana Kitchen.", 'answer': 'Popeyes Louisiana Kitchen', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I don't like cheap restaurants. Between Pho 88 and Hawthorne Food and Drink, I should go to Hawthorne Food and Drink.", 'answer': 'Hawthorne Food and Drink', 'candidate': 'Pho 88'}
+{'statement': "I don't like cheap restaurants. Between Edible Arrangements and Banjara Indian Cuisine, I should go to Edible Arrangements.", 'answer': 'Edible Arrangements', 'candidate': 'Banjara Indian Cuisine'}
+{'statement': "I don't like cheap restaurants. Between Nutella Cafe by Pusateri's and Sushi Shop, I should go to Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Sushi Shop'}
+{'statement': "I don't like cheap restaurants. Between Green Room and Topham Corner, I should go to Topham Corner.", 'answer': 'Topham Corner', 'candidate': 'Green Room'}
+{'statement': "I don't like cheap restaurants. Between Thompson Rooftop and Pizzeria Via Mercanti, I should go to Thompson Rooftop.", 'answer': 'Thompson Rooftop', 'candidate': 'Pizzeria Via Mercanti'}
+{'statement': "I don't like cheap restaurants. Between Warung Indonesia D'Eglinton and Helena's Magic Kitchen, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': "Helena's Magic Kitchen"}
+{'statement': "I don't like cheap restaurants. Between Milo's Pita and The Duke of Devon, I should go to The Duke of Devon.", 'answer': 'The Duke of Devon', 'candidate': "Milo's Pita"}
+{'statement': "I don't like cheap restaurants. Between Fit For Life and Harvey's, I should go to Harvey's.", 'answer': "Harvey's", 'candidate': 'Fit For Life'}
+{'statement': "I don't like cheap restaurants. Between Thompson Rooftop and Queen Slice, I should go to Thompson Rooftop.", 'answer': 'Thompson Rooftop', 'candidate': 'Queen Slice'}
+{'statement': "I don't like cheap restaurants. Between Taste of Greek Cuisine and Galata Cafe, I should go to Galata Cafe.", 'answer': 'Galata Cafe', 'candidate': 'Taste of Greek Cuisine'}
+{'statement': "I don't like cheap restaurants. Between Branca and Juice & Java Cafe, I should go to Branca.", 'answer': 'Branca', 'candidate': 'Juice & Java Cafe'}
+{'statement': "I don't like cheap restaurants. Between McDonald's and Amaya Express, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': "McDonald's"}
+{'statement': "I don't like cheap restaurants. Between Smoke's Weinerie and Tian An Cuisine, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': "Smoke's Weinerie"}
+{'statement': "I don't like cheap restaurants. Between Dinah's Cupboard and Mövenpick Café, I should go to Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Mövenpick Café'}
+{'statement': "I don't like cheap restaurants. Between Bonne Journee and Amaya Express, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'Bonne Journee'}
+{'statement': "I don't like cheap restaurants. Between St. Clair Shawarma and Falafel and Hina Sushi, I should go to Hina Sushi.", 'answer': 'Hina Sushi', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I don't like cheap restaurants. Between Nutella Cafe by Pusateri's and Piper's Pub And Grill, I should go to Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': "Piper's Pub And Grill"}
+{'statement': "I don't like cheap restaurants. Between Sushi World and Banjara Indian Cuisine, I should go to Banjara Indian Cuisine.", 'answer': 'Banjara Indian Cuisine', 'candidate': 'Sushi World'}
+{'statement': "I don't like cheap restaurants. Between Supermodel Pizza and Cantine Bar & Grill, I should go to Cantine Bar & Grill.", 'answer': 'Cantine Bar & Grill', 'candidate': 'Supermodel Pizza'}
+{'statement': "I don't like cheap restaurants. Between Le Papillon Park and The Empire, I should go to Le Papillon Park.", 'answer': 'Le Papillon Park', 'candidate': 'The Empire'}
+{'statement': "I don't like cheap restaurants. Between Sheriff Broaster Chicken and Oxygen Restaurant & Lounge, I should go to Oxygen Restaurant & Lounge.", 'answer': 'Oxygen Restaurant & Lounge', 'candidate': 'Sheriff Broaster Chicken'}
+{'statement': "I don't like cheap restaurants. Between St. Clair Shawarma and Falafel and Hawthorne Food and Drink, I should go to Hawthorne Food and Drink.", 'answer': 'Hawthorne Food and Drink', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I don't like cheap restaurants. Between Milestones Restaurants and Sichuan Landscape Chinese Restaurant, I should go to Sichuan Landscape Chinese Restaurant.", 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'Milestones Restaurants'}
+{'statement': "I don't like cheap restaurants. Between Harvey's and Top Sushi, I should go to Harvey's.", 'answer': "Harvey's", 'candidate': 'Top Sushi'}
+{'statement': "I don't like cheap restaurants. Between Mi Mi Restaurant and Nutella Cafe by Pusateri's, I should go to Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Mi Mi Restaurant'}
+{'statement': "I don't like cheap restaurants. Between Sweet Jesus and 9 Restaurant, I should go to 9 Restaurant.", 'answer': '9 Restaurant', 'candidate': 'Sweet Jesus'}
+{'statement': "I don't like cheap restaurants. Between Sweet Jesus and Branca, I should go to Branca.", 'answer': 'Branca', 'candidate': 'Sweet Jesus'}
+{'statement': "I don't like cheap restaurants. Between Shawarma Twist and Chipotle Mexican Grill, I should go to Chipotle Mexican Grill.", 'answer': 'Chipotle Mexican Grill', 'candidate': 'Shawarma Twist'}
+{'statement': "I don't like cheap restaurants. Between Aris Place and It's All Grk, I should go to It's All Grk.", 'answer': "It's All Grk", 'candidate': 'Aris Place'}
+{'statement': "I don't like cheap restaurants. Between Piper's Pub And Grill and Buk Chang Dong Soon Tofu, I should go to Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Buk Chang Dong Soon Tofu'}
+{'statement': "I don't like cheap restaurants. Between Falafel House and Kim PO Vietnamese, I should go to Kim PO Vietnamese.", 'answer': 'Kim PO Vietnamese', 'candidate': 'Falafel House'}
+{'statement': "I don't like cheap restaurants. Between Mirage Grill & Lounge and La Cocina De Dona Luz, I should go to Mirage Grill & Lounge.", 'answer': 'Mirage Grill & Lounge', 'candidate': 'La Cocina De Dona Luz'}
+{'statement': "I don't like cheap restaurants. Between Warung Indonesia D'Eglinton and Milo's Pita, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': "Milo's Pita"}
+{'statement': "I don't like cheap restaurants. Between La Pupusa Loka and Sushi World, I should go to La Pupusa Loka.", 'answer': 'La Pupusa Loka', 'candidate': 'Sushi World'}
+{'statement': "I don't like cheap restaurants. Between Branca and Bagel Nash, I should go to Branca.", 'answer': 'Branca', 'candidate': 'Bagel Nash'}
+{'statement': "I don't like cheap restaurants. Between KFC and Carole's Cheesecake Cafe, I should go to Carole's Cheesecake Cafe.", 'answer': "Carole's Cheesecake Cafe", 'candidate': 'KFC'}
+{'statement': "I don't like cheap restaurants. Between Warung Indonesia D'Eglinton and Fitness Avenue, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Fitness Avenue'}
+{'statement': "I don't like cheap restaurants. Between St. Clair Shawarma and Falafel and La Cocina De Dona Luz, I should go to La Cocina De Dona Luz.", 'answer': 'La Cocina De Dona Luz', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I don't like cheap restaurants. Between Hapa Toronto and Sky Dragon Chinese Restaurant, I should go to Hapa Toronto.", 'answer': 'Hapa Toronto', 'candidate': 'Sky Dragon Chinese Restaurant'}
+{'statement': "I don't like cheap restaurants. Between La Cocina De Dona Luz and Cafe Jules, I should go to La Cocina De Dona Luz.", 'answer': 'La Cocina De Dona Luz', 'candidate': 'Cafe Jules'}
+{'statement': "I don't like cheap restaurants. Between St. Clair Shawarma and Falafel and Lebanese Bakery, I should go to Lebanese Bakery.", 'answer': 'Lebanese Bakery', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I don't like cheap restaurants. Between Milestones Restaurants and Bagel Nash, I should go to Milestones Restaurants.", 'answer': 'Milestones Restaurants', 'candidate': 'Bagel Nash'}
+{'statement': "I don't like cheap restaurants. Between Sweet Jesus and El Fogón, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': 'Sweet Jesus'}
+{'statement': "I don't like cheap restaurants. Between McDonald's and Tian An Cuisine, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': "McDonald's"}
+{'statement': "I don't like cheap restaurants. Between Mi Mi Restaurant and El Fogón, I should go to El Fogón.", 'answer': 'El Fogón', 'candidate': 'Mi Mi Restaurant'}
+{'statement': "I don't like cheap restaurants. Between McDonald's and It's All Grk, I should go to It's All Grk.", 'answer': "It's All Grk", 'candidate': "McDonald's"}
+{'statement': "I don't like cheap restaurants. Between Bake Island and Hina Sushi, I should go to Hina Sushi.", 'answer': 'Hina Sushi', 'candidate': 'Bake Island'}
+{'statement': "I don't like cheap restaurants. Between KFC and FreshCo, I should go to FreshCo.", 'answer': 'FreshCo', 'candidate': 'KFC'}
+{'statement': "I don't like cheap restaurants. Between Farmacia Health Bar and Sizzlers, I should go to Farmacia Health Bar.", 'answer': 'Farmacia Health Bar', 'candidate': 'Sizzlers'}
+{'statement': "I don't like cheap restaurants. Between Mysteriously Yours Dinner Theatre and Pisco 1641, I should go to Mysteriously Yours Dinner Theatre.", 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': 'Pisco 1641'}
+{'statement': "I don't like cheap restaurants. Between La Pupusa Loka and Bonne Journee, I should go to La Pupusa Loka.", 'answer': 'La Pupusa Loka', 'candidate': 'Bonne Journee'}
+{'statement': "I don't like cheap restaurants. Between Lebanese Bakery and KFC, I should go to Lebanese Bakery.", 'answer': 'Lebanese Bakery', 'candidate': 'KFC'}
+{'statement': "I don't like cheap restaurants. Between Nutella Cafe by Pusateri's and Kim PO Vietnamese, I should go to Nutella Cafe by Pusateri's.", 'answer': "Nutella Cafe by Pusateri's", 'candidate': 'Kim PO Vietnamese'}
+{'statement': "I don't like cheap restaurants. Between Pasta Pantry and Goldstone Noodle Restaurant, I should go to Pasta Pantry.", 'answer': 'Pasta Pantry', 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': "I don't like cheap restaurants. Between Green Room and Maurya East Indian Roti, I should go to Maurya East Indian Roti.", 'answer': 'Maurya East Indian Roti', 'candidate': 'Green Room'}
+{'statement': "I don't like cheap restaurants. Between Taste of Greek Cuisine and The Empire, I should go to Taste of Greek Cuisine.", 'answer': 'Taste of Greek Cuisine', 'candidate': 'The Empire'}
+{'statement': "I don't like cheap restaurants. Between Druxy's Famous Deli and Mövenpick Café, I should go to Mövenpick Café.", 'answer': 'Mövenpick Café', 'candidate': "Druxy's Famous Deli"}
+{'statement': "I don't like cheap restaurants. Between Magic Oven and Sushi World, I should go to Magic Oven.", 'answer': 'Magic Oven', 'candidate': 'Sushi World'}
+{'statement': "I don't like cheap restaurants. Between Domino's Pizza and Smoke's Weinerie, I should go to Domino's Pizza.", 'answer': "Domino's Pizza", 'candidate': "Smoke's Weinerie"}
+{'statement': "I don't like cheap restaurants. Between The Empire and Sky Dragon Chinese Restaurant, I should go to Sky Dragon Chinese Restaurant.", 'answer': 'Sky Dragon Chinese Restaurant', 'candidate': 'The Empire'}
+{'statement': "I don't like cheap restaurants. Between Kibo Sushi House and Smoke's Weinerie, I should go to Kibo Sushi House.", 'answer': 'Kibo Sushi House', 'candidate': "Smoke's Weinerie"}
+{'statement': "I don't like cheap restaurants. Between McDonald's and Kibo Sushi House, I should go to Kibo Sushi House.", 'answer': 'Kibo Sushi House', 'candidate': "McDonald's"}
+{'statement': "I don't like cheap restaurants. Between Lahore Grill & Fast Food and Modo Mio Italian Bistro, I should go to Modo Mio Italian Bistro.", 'answer': 'Modo Mio Italian Bistro', 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': "I don't like cheap restaurants. Between Sichuan Landscape Chinese Restaurant and Lahore Grill & Fast Food, I should go to Sichuan Landscape Chinese Restaurant.", 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'Lahore Grill & Fast Food'}
+{'statement': "I don't like cheap restaurants. Between Dinah's Cupboard and Supermodel Pizza, I should go to Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Supermodel Pizza'}
+{'statement': "I don't like cheap restaurants. Between Pizza Pizza and Pizzeria Via Mercanti, I should go to Pizzeria Via Mercanti.", 'answer': 'Pizzeria Via Mercanti', 'candidate': 'Pizza Pizza'}
+{'statement': "I don't like cheap restaurants. Between St. Clair Shawarma and Falafel and Pasta Pantry, I should go to Pasta Pantry.", 'answer': 'Pasta Pantry', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I don't like cheap restaurants. Between The Coffee Pocket and Kibo Sushi House, I should go to Kibo Sushi House.", 'answer': 'Kibo Sushi House', 'candidate': 'The Coffee Pocket'}
+{'statement': "I don't like cheap restaurants. Between Daily Press Juicery and Bake Island, I should go to Daily Press Juicery.", 'answer': 'Daily Press Juicery', 'candidate': 'Bake Island'}
+{'statement': "I don't like cheap restaurants. Between McDonald's and Mysteriously Yours Dinner Theatre, I should go to Mysteriously Yours Dinner Theatre.", 'answer': 'Mysteriously Yours Dinner Theatre', 'candidate': "McDonald's"}
+{'statement': "I don't like cheap restaurants. Between St. Clair Shawarma and Falafel and Hapa Toronto, I should go to Hapa Toronto.", 'answer': 'Hapa Toronto', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I don't like cheap restaurants. Between Sichuan Landscape Chinese Restaurant and Amaya Express, I should go to Sichuan Landscape Chinese Restaurant.", 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': 'Amaya Express'}
+{'statement': "I don't like cheap restaurants. Between Dinah's Cupboard and Farmacia Health Bar, I should go to Dinah's Cupboard.", 'answer': "Dinah's Cupboard", 'candidate': 'Farmacia Health Bar'}
+{'statement': "I don't like cheap restaurants. Between Fit For Life and Piper's Pub And Grill, I should go to Piper's Pub And Grill.", 'answer': "Piper's Pub And Grill", 'candidate': 'Fit For Life'}
+{'statement': "I don't like cheap restaurants. Between Solero Mediterranean Bakery and Ici Bistro, I should go to Ici Bistro.", 'answer': 'Ici Bistro', 'candidate': 'Solero Mediterranean Bakery'}
+{'statement': "I don't like cheap restaurants. Between KFC and To-ne Sushi, I should go to To-ne Sushi.", 'answer': 'To-ne Sushi', 'candidate': 'KFC'}
+{'statement': "I don't like cheap restaurants. Between Taste of Greek Cuisine and Cake Opera, I should go to Cake Opera.", 'answer': 'Cake Opera', 'candidate': 'Taste of Greek Cuisine'}
+{'statement': "I don't like cheap restaurants. Between The Empire and Marcello’s pizzeria, I should go to Marcello’s pizzeria.", 'answer': 'Marcello’s pizzeria', 'candidate': 'The Empire'}
+{'statement': "I don't like cheap restaurants. Between Aroma Espresso Bar and Ici Bistro, I should go to Ici Bistro.", 'answer': 'Ici Bistro', 'candidate': 'Aroma Espresso Bar'}
+{'statement': "I don't like cheap restaurants. Between Sweet Jesus and Amaya Express, I should go to Amaya Express.", 'answer': 'Amaya Express', 'candidate': 'Sweet Jesus'}
+{'statement': "I don't like cheap restaurants. Between Milestones Restaurants and Aris Place, I should go to Milestones Restaurants.", 'answer': 'Milestones Restaurants', 'candidate': 'Aris Place'}
+{'statement': "I don't like cheap restaurants. Between Le Papillon Park and Galata Cafe, I should go to Galata Cafe.", 'answer': 'Galata Cafe', 'candidate': 'Le Papillon Park'}
+{'statement': "I don't like cheap restaurants. Between Beryl's Pepper Pot and Chick Fiesta, I should go to Beryl's Pepper Pot.", 'answer': "Beryl's Pepper Pot", 'candidate': 'Chick Fiesta'}
+{'statement': "I don't like cheap restaurants. Between St. Clair Shawarma and Falafel and Green Grotto, I should go to Green Grotto.", 'answer': 'Green Grotto', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I don't like cheap restaurants. Between Warung Indonesia D'Eglinton and Goldstone Noodle Restaurant, I should go to Warung Indonesia D'Eglinton.", 'answer': "Warung Indonesia D'Eglinton", 'candidate': 'Goldstone Noodle Restaurant'}
+{'statement': "I don't like cheap restaurants. Between Eggspectation and Queen Pita, I should go to Eggspectation.", 'answer': 'Eggspectation', 'candidate': 'Queen Pita'}
+{'statement': "I don't like cheap restaurants. Between Tian An Cuisine and Mamma's Pizza, I should go to Tian An Cuisine.", 'answer': 'Tian An Cuisine', 'candidate': "Mamma's Pizza"}
+{'statement': "I don't like cheap restaurants. Between Sichuan Landscape Chinese Restaurant and Assembly Chef's Hall, I should go to Sichuan Landscape Chinese Restaurant.", 'answer': 'Sichuan Landscape Chinese Restaurant', 'candidate': "Assembly Chef's Hall"}
+{'statement': "I don't like cheap restaurants. Between Thompson Rooftop and New Bilan Restaurant, I should go to Thompson Rooftop.", 'answer': 'Thompson Rooftop', 'candidate': 'New Bilan Restaurant'}
+{'statement': "I don't like cheap restaurants. Between Druxy's Famous Deli and Grappa Ristorante, I should go to Grappa Ristorante.", 'answer': 'Grappa Ristorante', 'candidate': "Druxy's Famous Deli"}
+{'statement': "I don't like cheap restaurants. Between Fitness Avenue and Ardor Bistro, I should go to Ardor Bistro.", 'answer': 'Ardor Bistro', 'candidate': 'Fitness Avenue'}
+{'statement': "I don't like cheap restaurants. Between Basha Middle Eastern Grill and KFC, I should go to Basha Middle Eastern Grill.", 'answer': 'Basha Middle Eastern Grill', 'candidate': 'KFC'}
+{'statement': "I don't like cheap restaurants. Between St. Clair Shawarma and Falafel and Kairali - Taste of Kerala, I should go to Kairali - Taste of Kerala.", 'answer': 'Kairali - Taste of Kerala', 'candidate': 'St. Clair Shawarma and Falafel'}
+{'statement': "I don't like cheap restaurants. Between Freshii and Top Sushi, I should go to Freshii.", 'answer': 'Freshii', 'candidate': 'Top Sushi'}
