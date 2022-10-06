@@ -1,7 +1,7 @@
 
-## ``Learning to Perform Complex Tasks through Compositional Fine-Tuning of Language Models.'' (To appear, Findings of EMNLP 2022)
+## "Learning to Perform Complex Tasks through Compositional Fine-Tuning of Language Models." (To appear, Findings of EMNLP 2022)
 
-This repository contains code and data resources for the paper submission ``Learning to Perform Complex Tasks through Compositional Fine-Tuning of Language Models,'' authored by Victor S. Bursztyn (v-bursztyn@u.northwestern.edu), David Demeter, Doug Downey, and Larry Birnbaum.
+This repository contains code and data resources for the paper submission "Learning to Perform Complex Tasks through Compositional Fine-Tuning of Language Models," authored by Victor S. Bursztyn (v-bursztyn@u.northwestern.edu), David Demeter, Doug Downey, and Larry Birnbaum.
 
 These resources are organized as follows:
 
